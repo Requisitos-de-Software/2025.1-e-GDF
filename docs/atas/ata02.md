@@ -8,7 +8,7 @@ Reunião realizada online via **Microsoft Teams**.
 |          | Data       | Início| Término |
 |----------|------------|-------|---------|
 | Previsto | 09/04/2025 | 20:00 | 21:00   |
-| Realizado| 09/04/2025 | 20:00 | 21:50   |
+| Realizado| 09/04/2025 | 20:00 | 20:50   |
 
 ## Participantes presentes:
 - [x] [Ana Victória Guedes da Costa](https://github.com/navicg)
