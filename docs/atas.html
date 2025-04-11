@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Teste CDT</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="menu.css">
+    
+  </head>
+  
+  
+<body>
+    <div id="menu-container"></div>
+
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        fetch('menu.html')
+          .then(response => response.text())
+          .then(data => {
+            document.getElementById('menu-container').innerHTML = data;
+          });
+      });
+    </script>
+
+  <div class="container">
+    <aside class="sidebar">
+      <h3>Atas</h3>
+      <ul>
+        <li><a class="ativo" href="#">Reunião 1</a></li>
+        <li><a href="#">Reunião 2</a></li>
+        <li><a href="#">Reunião 3</a></li>
+        <li><a href="#">Reunião 4</a></li>
+        <li><a href="#">Reunião 5</a></li>
+        <li><a href="#">Reunião 6</a></li>
+        <li><a href="#">Reunião 7</a></li>
+        <li><a href="#">Reunião 8</a></li>
+        <li><a href="#">Reunião 9</a></li>
+        <li><a href="#">Reunião 10</a></li>
+        <li><a href="#">Reunião 11</a></li>
+        <li><a href="#">Reunião 12</a></li>
+        <li><a href="#">Reunião 13</a></li>
+        <li><a href="#">Reunião 14</a></li>
+        <li><a href="#">Reunião 15</a></li>
+        <li><a href="#">Reunião 16</a></li>
+        <li><a href="#">Modelo</a></li>
+      </ul>
+    </aside>
+
+    <main class="content">
+      <h1>Reunião 01 - 04/04/2025 </h1>
+
+      <section id="local">
+        <h2>Local</h2>
+        <p>Reunião realizada no Microsoft Teams</p>
+      </section>
+
+      <section id="participantes">
+        <h2>Participantes</h2>
+        <ul class="lista-participantes">
+          <li><span> Ana Victória Guedes</span></li>
+          <li><span></span></li>
+          <li><span></span></li>
+          <li><span></span></li>
+          <li><span></span></li>
+          <li><span></span></li>
+        </ul>
+      </section>
+
+      <section id="inicio">
+        <h2>Início e término</h2>
+        <p></p>
+      </section>
+    </main>
+
+    <aside class="indice">
+      <h3>Índice</h3>
+      <ul>
+        <li><a href="#local">Local</a></li>
+        <li><a href="#participantes">Participantes</a></li>
+        <li><a href="#inicio">Início e término</a></li>
+        <li><a href="#">Pauta</a></li>
+        <li><a href="#">Atividades</a></li>
+        <li><a href="#">Conclusão</a></li>
+        <li><a href="#">Link da Gravação</a></li>
+        <li><a href="#">Histórico de Versão</a></li>
+      </ul>
+    </aside>
+  </div>
+</body>
+</html>
+
+    </body>
+    </html>

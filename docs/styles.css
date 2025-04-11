@@ -1,0 +1,203 @@
+/* Reset e base */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #f9f9f9;
+    color: #212121;
+  }
+  
+  /* ====== HEADER TOPO ====== */
+  .topbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #1d1859;
+    color: white;
+  }
+  
+  .logo-title {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .logo-title img {
+    margin-top: 10px;
+    align-items: left;
+    height: 36px;
+  }
+  
+  .logo-title h1 {
+    font-size: 1.2rem;
+    font-weight: 600;
+  }
+  
+  /* Busca */
+  .search-box {
+    background-color: #1d1859;
+    border-radius: 5px;
+    padding: 10px 10px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  
+  .search-box input {
+    border: none;
+    outline: none;
+    background: transparent;
+    color: white;
+    font-size: 0.95rem;
+  }
+  
+  .search-box input::placeholder {
+    color: #cfcfcf;
+    
+  }
+  
+  /* Info à direita */
+  .repo-info {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.85rem;
+    color: #fff;
+  }
+  
+  /* ====== MENU PRINCIPAL ====== */
+  nav.menu {
+    background-color: #1d1859; 
+    padding: 30px 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 25px;
+  }
+  
+  nav.menu a {
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+    transition: 0.2s;
+  }
+  
+  nav.menu a:hover {
+    color: #71a28a; 
+  }
+  
+  /* MAIN */
+  main {
+    padding: 20px;
+    
+  }
+  .titulo-principal{
+    color: grey;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    text-align: center;
+    margin-top: 30px;
+  }
+  .logo-pos-titulo {
+    height:250px;
+    margin-top: 50px;
+    margin-left: 750px;
+    
+  }
+  .sobre-projeto {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 0 20px;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .sobre-projeto h2,
+  .equipe h2 {
+    font-weight: 500;
+    font-size: 28px;
+    margin-bottom: 16px;
+  }
+  
+  .sobre-projeto p {
+    font-size: 20px;
+    line-height: 1.6;
+    margin-bottom: 12px;
+  }
+  
+  .equipe {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 0 20px;
+    text-align: left;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .membros {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-top: 20px;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 6px;
+    justify-content: center;
+  }
+  
+  .membro {
+    text-align: center;
+    width: 150px;
+  }
+  
+  .membro img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  
+  .membro p {
+    font-size: 14px;
+    color: #515e9a;
+    font-weight: 600;
+    margin-top: 8px;
+  }
+  .versao {
+    justify-content: center;
+    padding: 2rem;
+    margin-top: 3rem;
+  }
+  
+  .tabela-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+  }
+  
+  .tabela-versao {
+    width: 80%;
+    max-width: 800px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+  }
+  
+  .tabela-versao th,
+  .tabela-versao td {
+    padding: 0.75rem 1rem;
+    border: 1px solid #eaeaea;
+    text-align: left;
+  }
+  
+  .tabela-versao thead {
+    background-color: #f9f9f9;
+  }
+  
+  .verde {
+    color: #515e9a;
+    font-weight: 500;
+  }
+  
+  

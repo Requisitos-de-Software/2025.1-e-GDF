@@ -1,0 +1,70 @@
+.topbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #1d1859;
+    color: white;
+  }
+  
+  .logo-title {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .logo-title img {
+    margin-top: 10px;
+    align-items: left;
+    height: 36px;
+  }
+  
+  .logo-title h1 {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-right: 550px;
+
+  }
+  
+  /* Busca */
+  .search-box {
+    background-color: #1d1859;
+    border-radius: 5px;
+    padding: 10px 10px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    margin-left: 500px;
+  }
+  
+  .search-box input {
+    border: none;
+    outline: none;
+    background: transparent;
+    color: white;
+    font-size: 0.95rem;
+  }
+  
+  .search-box input::placeholder {
+    color: #cfcfcf;
+    
+  }
+  nav.menu {
+    background-color: #1d1859; 
+    padding: 30px 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 25px;
+  }
+  
+  nav.menu a {
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+    transition: 0.2s;
+  }
+  
+  nav.menu a:hover {
+    color: #71a28a; 
+  }

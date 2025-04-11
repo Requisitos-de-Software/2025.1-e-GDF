@@ -1,0 +1,87 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    background-color: #f9f9f9;
+    
+  }
+  
+  .container {
+    display: flex;
+    margin: 100px auto;
+    max-width: 1400px;
+    padding: 20px;
+    gap: 40px;
+    
+  }
+  
+  .sidebar,
+  .indice {
+    width: 200px;
+    position: sticky;
+    top: 250px;
+   
+  }
+  
+  .sidebar ul,
+  .indice ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .sidebar h3,
+  .indice h3 {
+    color: rgb(91, 90, 90);
+    font-family: 'Poppins', sans-serif;
+    font-weight:10;
+    line-height:  3;
+  }
+  
+  .sidebar a,
+  .indice a {
+    text-decoration: none;
+    color: #333;
+    display: block;
+    margin: 5px 0;
+    transition: 0.2s;
+    line-height:  1.5;
+  }
+  
+  .sidebar a:hover,
+  .indice a:hover {
+    color: 515e9a;
+  }
+  
+  .sidebar a.ativo {
+    color: 515e9a;
+    font-weight: bold;
+  }
+  
+  .content {
+    flex: 1;
+  }
+  
+  h1 {
+    font-size: 60;
+    font-weight:300;
+    font-family: 'Poppins', sans-serif;
+    color: #fffafa;
+  }
+  
+  h2 {
+    font-size: 22px;
+    color: #444;
+    margin-top: 30px;
+    font-weight:300;
+    font-size: 35px;
+    font-family: 'Poppins', sans-serif;
+    
+  }
+  
+  .lista-participantes li span {
+    color: 515e9a;
+    line-height:  2;
+    font-size: 35;
+   
+  }
+  
