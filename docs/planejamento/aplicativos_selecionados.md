@@ -10,7 +10,7 @@ Ao longo da disciplina de Requisitos de Software, os integrantes do grupo realiz
 |:-------------:|:----------:|
 | Carteira Digital de Trânsito| Lucas, João Marcos, Gabriel e Karoline|
 | DETRAN-DF | Lucas, Ana Vitória e Luiza |
-| e-Título | Karoline e Arthur |
+| e-Título | Karoline e Artur |
 
 
 Autor(es): [Gabriel](https://github.com/BrzGab) e [Karoline](https://github.com/KarolineLuz), 2025.
@@ -63,4 +63,4 @@ UNIVERSIDADE DE BRASÍLIA. FGA0313 – Requisitos de Software – Turma T03 (202
 
 | Versão |               Descrição                |   Autor(es)   |    Data    |    Revisor     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
-|  1.0   | Versão inicial dos Aplicativos avaliados no projeto | [Gabriel](https://github.com/BrzGab) e [Karoline](https://github.com/KarolineLuz) | 11/04/2025 | [Arthur](https://github.com/ArtyMend07) | |
+|  1.0   | Versão inicial dos Aplicativos avaliados no projeto | [Gabriel](https://github.com/BrzGab) e [Karoline](https://github.com/KarolineLuz) | 11/04/2025 | [Artur](https://github.com/ArtyMend07) | 11/04/2025 |
