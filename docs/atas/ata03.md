@@ -43,4 +43,4 @@ Reunião realizada online via **Microsoft Teams**.
 ## Histórico de versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--------|------|-----------|-----------|-------------|
-| 1.0 | 11/04/2025 | Ata da 3ª Reunião | [Gabriel Lopes de Amorim](https://github.com/BrzGab) | [Artur Mendonça Arruda](https://github.com/ArtyMend07) |
+| 1.0 | 11/04/2025 | Ata da 3ª Reunião | [Gabriel Lopes de Amorim](https://github.com/BrzGab) | [Karoline Luz](https://github.com/KarolineLuz) |
