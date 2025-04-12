@@ -1,0 +1,41 @@
+repo_url: https://github.com/Requisitos-de-Software/2025.1-Carteira-Digital-de-Transito
+repo_name: 2025.1-Carteira-Digital-de-Transito
+
+site_name: Carteira Digital de Trânsito
+
+nav:
+  - Home: index.md
+  - Apresentação: apresentacoes/apresentacao.md
+  - Atas:
+    - Ata 1: atas/ata01.md
+    - Ata 2: atas/ata02.md
+  - Pré-Rastreabilidade: pre-rastreabilidade/pre-rastreabilidade.md
+  - Planejamento:
+    - Aplicativo escolhido: planejamento/aplicativo.md
+    - Ferramentas: planejamento/ferramentas.md
+    - Cronograma: planejamento/cronograma.md
+    - Metodologia: planejamento/metodologia.md
+  - Verificação:
+     - Grupo:
+        - Entrega 1:
+              - Planejamento da Verificação da Entrega 1: verificacao/grupo/entrega01/planejamento-verificacao.md
+              - Rich Picture: verificacao/grupo/entrega01/verificacao-rich-picture.md
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: claro
+      toggle:
+        icon: material/circle-half-full
+        name: Escuro
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/circle-half-full
+        name: Claro
+
+  language: pt-BR
+  favicon: assets/image.png
+  logo: assets/image.png
