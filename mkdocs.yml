@@ -10,7 +10,8 @@ nav:
     - Ata 1: atas/ata01.md
     - Ata 2: atas/ata02.md
     - Ata 3: atas/ata03.md
-  - Pré-Rastreabilidade: pre-rastreabilidade/rich_picture.md
+  - Pré-Rastreabilidade: 
+    - Rich Picture: pre-rastreabilidade/rich_picture.md
   - Planejamento:
     - Aplicativos Selecionados: planejamento/aplicativos_selecionados.md
     - Aplicativo Escolhido: planejamento/app_selecionado.md
