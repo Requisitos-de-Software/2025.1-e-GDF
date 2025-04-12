@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Com base nas [avaliações de aplicativos](https://github.com/Requisitos-de-Software/2025.1-Carteira-Digital-de-Transito/blob/main/docs/planejamento/aplicativos_selecionados.md) realizada ao longo da disciplina de Requisitos de Software, optamos por seguir com o aplicativo da [Carteira Digital de Trânsito](https://www.gov.br/pt-br/servicos/obter-carteira-digital-de-transito). Para isso, foram analisados os seguintes critérios e motivos para a escolha do aplicativo.
+Com base nas [avaliações de aplicativos](https://github.com/Requisitos-de-Software/2025.1-Carteira-Digital-de-Transito/blob/main/docs/planejamento/aplicativos_selecionados.md) realizadas ao longo da disciplina de Requisitos de Software, cada integrante da equipe sugeriu um aplicativo. Após discussões sobre as opções apresentadas, optamos por realizar uma enquete via **WhatsApp** para definir o aplicativo que seria analisado. Como resultado, foi escolhida a  [Carteira Digital de Trânsito](https://www.gov.br/pt-br/servicos/obter-carteira-digital-de-transito). A escolha foi baseada na análise de critérios e motivações específicas, que serão detalhados a seguir.
 
 ## Critérios para escolha:
 
@@ -11,13 +11,16 @@ Alguns critérios foram levantados para a escolha do aplicativo:
 * Acessibilidade para análise;
 * Complexidade gerenciável;
 * Diversidade de funcionalidades; 
-* Relevância social e impacto prático.
+* O aplicativo ainda não ter sido trabalhado na disciplina.
 
 ## Motivações para escolha:
-* Interface rica: Dá para levantar requisitos funcionais e não funcionais com base na interface, como usabilidade, desempenho, segurança, etc;
-* Aplicativo real e relevante: É usado por milhões de brasileiros, tem funcionalidades bem definidas (CNH digital, CRLV digital, infrações, pontuação, etc.), o que ajuda a entender melhor os requisitos implícitos e explícitos;
-* Boa variedade de funcionalidades;
-* O aplicativo ainda não foi trabalho na disciplina.
+
+As razões que fundamentaram a escolha do aplicativo foram:
+
+* Dispõe de uma interface rica que permite a definição de requisitos funcionais e não funcionais, abordando aspectos como usabilidade, desempenho e segurança;
+* Possui funcionalidades bem definidas, como CNH digital, CRLV digital, infrações e pontuação, facilitando a compreensão dos requisitos implícitos e explícitos;
+* Tem Relevância social e impacto prático;
+* Por não ter sido estudado na disciplina, o aplicativo não conta com documentação disponível.
 
 Autor(es): [Ana Victória Guedes da Costa](https://github.com/navicg), 2025.
 
