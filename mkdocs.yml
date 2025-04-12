@@ -9,12 +9,16 @@ nav:
   - Atas:
     - Ata 1: atas/ata01.md
     - Ata 2: atas/ata02.md
-  - Pré-Rastreabilidade: pre-rastreabilidade/pre-rastreabilidade.md
+    - Ata 3: atas/ata03.md
+  - Pré-Rastreabilidade: pre-rastreabilidade/rich_picture.md
   - Planejamento:
-    - Aplicativo escolhido: planejamento/aplicativo.md
+    - Aplicativos Selecionados: planejamento/aplicativos_selecionados.md
+    - Aplicativo Escolhido: planejamento/app_selecionado.md
     - Ferramentas: planejamento/ferramentas.md
+    - Heat Map: planejamento/heatmap.md
     - Cronograma: planejamento/cronograma.md
     - Metodologia: planejamento/metodologia.md
+    - Termo de Uso: planejamento/termos_de_uso.md
   - Verificação:
      - Grupo:
         - Entrega 1:
