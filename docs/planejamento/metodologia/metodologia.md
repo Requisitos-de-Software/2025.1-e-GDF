@@ -41,6 +41,29 @@ Para manter a qualidade e a rastreabilidade dos artefatos, adotamos as seguintes
   - **Branches:** Nomeadas conforme o padrão `<tipo>/<descricao-breve>`, por exemplo, `docs/cronograma` ou `feat/novo-requisito`.
   - **Histórico de Versões:** Atualizado de forma padronizada para documentar as mudanças realizadas, bem como os responsáveis por elas.
 
+- **Tipos de Branches – Padrões Comuns**
+
+Em projetos de desenvolvimento colaborativo com Git, é comum adotar uma convenção para nomear branches. O padrão geralmente utilizado segue a estrutura:
+
+| Tipo        | Uso                                                   | Exemplo                          |
+|-------------|--------------------------------------------------------|----------------------------------|
+| `feat`      | Adição de nova funcionalidade                          | `feat/autenticacao-google`      |
+| `fix`       | Correção de bugs                                       | `fix/erro-login`                |
+| `docs`      | Atualizações na documentação                           | `docs/metodologia`              |
+| `style`     | Mudanças de estilo (semântica, formatação, etc)        | `style/ajuste-padding`          |
+| `refactor`  | Refatorações (sem mudança de comportamento)            | `refactor/controller-usuario`   |
+| `test`      | Inclusão ou modificação de testes                      | `test/cobertura-login`          |
+| `chore`     | Tarefas de manutenção (ex: dependências, configs)      | `chore/update-dependencies`     |
+| `hotfix`    | Correção urgente diretamente em produção               | `hotfix/corrige-bloqueio-app`   |
+
+Fonte: Tabela elaborada pelo autor – Artur, 2025.
+
+- **Commits:**  
+    As mensagens de commit devem seguir um padrão similar ao das branches, mas utilizando o separador `:` em vez de `/`. Por exemplo:  
+    - `docs: atualizar seção de padrões e convenções`  
+    - `feat: adicionar endpoint de autenticação`  
+    - `bugfix: corrigir erro de validação de formulário`
+
 - **Labels Padrão:**  
   Para facilitar a organização e priorização das issues, utilizamos as seguintes *labels*:
   - **documentation:** Indicada para questões e melhorias relacionadas à documentação.
