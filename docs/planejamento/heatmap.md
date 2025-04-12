@@ -8,10 +8,12 @@ Este documento descreve a ferramenta utilizada para gerar o heatmap de disponibi
 
 |                       Imagem                        |                Ferramenta                | Finalidade                                                                                                          |
 | :-------------------------------------------------: | :--------------------------------------: | ------------------------------------------------------------------------------------------------------------------- |
+
 | <img src="../assets/excel_732220.png" alt="Excel" width="75px"> | <a id="a" href="#aa">Microsoft Excel</a> | Utilizado para coletar, compilar e visualizar os dados de disponibilidade dos membros do grupo em forma de heatmap. |
 
 <div align="center">
 <p>Figura 1: Heatmap gerado com base nas disponibilidades semanais dos integrantes do grupo.</p>
+
 
 <img src="../assets/Heatmap_Grupo8_Req.png" alt="Grade Horária Grupo08" width="750px">
 
