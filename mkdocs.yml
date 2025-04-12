@@ -5,16 +5,21 @@ site_name: Carteira Digital de Trânsito
 
 nav:
   - Home: index.md
-  - Apresentação: apresentacao.md
+  - Apresentação: apresentacoes/apresentacao.md
   - Atas:
     - Ata 1: atas/ata01.md
     - Ata 2: atas/ata02.md
-  - Pré-Rastreabilidade: pre_rastreabilidade.md
+  - Pré-Rastreabilidade: pre-rastreabilidade/pre-rastreabilidade.md
   - Planejamento:
     - Aplicativo escolhido: planejamento/aplicativo.md
     - Ferramentas: planejamento/ferramentas.md
     - Cronograma: planejamento/cronograma.md
     - Metodologia: planejamento/metodologia.md
+  - Verificação:
+     - Grupo:
+        - Entrega 1:
+              - Planejamento da Verificação da Entrega 1: verificacao/grupo/entrega01/planejamento-verificacao.md
+              - Rich Picture: verificacao/grupo/entrega01/verificacao-rich-picture.md
 
 theme:
   name: material
