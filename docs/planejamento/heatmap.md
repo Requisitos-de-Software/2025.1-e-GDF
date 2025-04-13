@@ -13,7 +13,7 @@ Este documento descreve a ferramenta utilizada para gerar o heatmap de disponibi
 <div align="center">
 <p>Figura 1: Heatmap gerado com base nas disponibilidades semanais dos integrantes do grupo.</p>
 
-<img src="../assets/planejamento/Heatmap_Grupo8_Req.png" alt="Grade Horária Grupo08" width="750px">
+<img src="https://uploaddeimagens.com.br/images/004/891/632/original/heatmap.jpeg?1744559790" alt="Grade Horária Grupo08" width="750px">
 
 <p><em>Fonte: Elaborado pelo autor (João Marcos Moraes de Andrade, 2025).</em></p>
 </div>
