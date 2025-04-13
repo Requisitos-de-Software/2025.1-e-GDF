@@ -28,6 +28,8 @@ A tabela 1 mostra as atividades programadas durante a fase de planejamento do pr
 
 **Tabela 1** - Planejamento
 
+Fonte: Elaborado pelo autor (Lucas Mendonça Arruda, 2025).
+
 ## Ponto de controle 2
 
 A tabela 2 mostra as atividades programadas durante a fase de elicitação do projeto.
@@ -51,6 +53,8 @@ A tabela 2 mostra as atividades programadas durante a fase de elicitação do pr
 
 **Tabela 2** - Elicitação
 
+Fonte: Elaborado pelo autor (Lucas Mendonça Arruda, 2025).
+
 ## Ponto de controle 3
 
 A tabela 3 mostra as atividades programadas durante a fase de modelagem de requisitos I.
@@ -70,6 +74,8 @@ A tabela 3 mostra as atividades programadas durante a fase de modelagem de requi
 | Eventuais correções | Início: 15/05/2025  <br>Fim: 17/05/2025 | Ana, Artur, Gabriel, Jõao, Karoline, Lucas, Luiza | Ana, Artur, Gabriel, Jõao, Karoline, Lucas, Luiza | Início: 17/05/2025  <br>Fim: 18/05/2025 
 
 **Tabela 3** - Modelagem de requisitos I
+
+Fonte: Elaborado pelo autor (Artur Mendonça Arruda, 2025).
 
 ## Ponto de controle 4
 
@@ -91,6 +97,8 @@ A tabela 4 mostra as atividades programadas durante a fase de modelagem de requi
 | Eventuais correções | Início: 29/05/2025  <br>Fim: 31/05/2025 | Ana, Artur, Gabriel, Jõao, Karoline, Lucas, Luiza | Ana, Artur, Gabriel, Jõao, Karoline, Lucas, Luiza | Início: 31/05/2025  <br>Fim: 01/06/2025 
 
 **Tabela 4** - Modelagem de requisitos II
+
+Fonte: Elaborado pelo autor (Artur Mendonça Arruda, 2025).
 
 ## Ponto de controle 5
 
@@ -117,7 +125,7 @@ A tabela 5 mostra as atividades programadas durante a fase de verificação e va
 
 **Tabela 5** – Verificação e Validação dos Requisitos
 
----
+Fonte: Elaborado pelo autor (Artur Mendonça Arruda, 2025).
 
 ## Ponto de controle 6
 
@@ -137,6 +145,8 @@ A tabela 6 mostra as atividades programadas durante a fase de pós-rastreabilida
 
 **Tabela 6** – Pós-rastreabilidade
 
+Fonte: Elaborado pelo autor (Lucas Mendonça Arruda, 2025).
+
 
 ## Bibliografia
 
@@ -148,6 +158,8 @@ As atividades planejadas neste cronograma foram baseadas nos seguintes documento
 
 ## Historico de versões
 
-| Versão | Data       | Descrição          | Autor                                                 |                         Revisor                         |
-| :----: | ---------- | ------------------ | ----------------------------------------------------- | :-----------------------------------------------------: |
-| 1.0  | 10/04/2025  | Criação do Cronograma | [Artur](https://github.com/ArtyMend07), [Lucas](https://github.com/lucasarruda9)| [Gabriel](https://github.com/BrzGab) |
+| Versão | Data       | Descrição          | Autor                                                 | Revisor                                              | Data de Revisão |
+| :----: | ---------- | ------------------ | ----------------------------------------------------- | :---------------------------------------------------: | :-------------: |
+| 1.0  | 10/04/2025  | Criação do Cronograma | [Artur](https://github.com/ArtyMend07), [Lucas](https://github.com/lucasarruda9) | [Gabriel](https://github.com/BrzGab)                  | 11/04/2025      |
+| 1.1  | 13/04/2025  | Adição de fontes abaixo das tabelas | [Artur](https://github.com/ArtyMend07) | [Lucas](https://github.com/lucasarruda9)                 | 13/04/2025      |
+
