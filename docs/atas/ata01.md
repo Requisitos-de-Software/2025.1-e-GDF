@@ -39,6 +39,4 @@ Reunião realizada online via **Microsoft Teams**.
 ## Histórico de versão
 Versão  | Data | Descrição | Autor(es) | Revisor(es)
 -------- | ------ | ------ | ---------- | ----------
-1.0 | 05/04/2025 | Ata da 1ª Reunião  | [Ana Victória Guedes da Costa](https://github.com/navicg) | 
-
-
+1.0 | 05/04/2025 | Ata da 1ª Reunião  | [Ana Victória Guedes da Costa](https://github.com/navicg) | [Lucas Mendonça](https://github.com/lucasarruda9) |
