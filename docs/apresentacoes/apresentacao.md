@@ -27,7 +27,7 @@ A gravação da reunião está disponível em: [https://youtu.be/0ls2YWeW324](ht
 | Previsto | 12/04/2025 | 21:30 | 22:00   |
 | Realizado| 12/04/2025 | 22:00 | 22:20   |
 
-Fonte: Elaborado pelo autor (Artur Mendonça Arruda, 2025).
+Fonte: Elaborado pelo autor ( [Artur Mendonça Arruda](https://github.com/ArtyMend07), 2025).
 
 ## Artefatos e Realização
 
@@ -45,7 +45,7 @@ Fonte: Elaborado pelo autor (Artur Mendonça Arruda, 2025).
 | Ferramentas        | Sim   |   Luiza     |
 | Atas de Reunião        | Sim   |     Ana, Artur, Gabriel   |
 
-Fonte: Elaborado pelo autor (Artur Mendonça Arruda, 2025).
+Fonte: Elaborado pelo autor ( [Artur Mendonça Arruda](https://github.com/ArtyMend07), 2025).
 
 ## Referências Bibliográficas
 
@@ -55,6 +55,6 @@ Fonte: Elaborado pelo autor (Artur Mendonça Arruda, 2025).
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                              | Autor      | Revisor   |
-|--------|------------|--------------------------------------------------------|------------|-----------|
-| 1.0    | 13/04/2025 | Documentação da primeira apresentação                | Artur      | Karoline  |
+| Versão | Data       | Descrição                                              | Autor      | Revisor   | Data de revisão |
+|--------|------------|--------------------------------------------------------|------------|-----------|-----------------|
+| 1.0    | 13/04/2025 | Documentação da primeira apresentação                | [Artur Mendonça Arruda](https://github.com/ArtyMend07)      | [Karoline Luz](https://github.com/KarolineLuz)  | 13/04/2025 |
