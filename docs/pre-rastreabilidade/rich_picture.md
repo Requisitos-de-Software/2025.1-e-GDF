@@ -15,7 +15,6 @@ Para a elaboração do Rich Picture, foi utilizada a ferramenta Lucidchart, que 
 ## Rich Picture - Carteira Digital de Trânsito
 
 <div align="center">
-  <h3>Imagem 1: Rich Picture Carteira Digital de Trânsito</h3>
   <img src="https://i.ibb.co/G4trWRPz/f06ac671-81c1-4429-8587-93e3fa99e6d8.jpg" alt="Rich Picture da Carteira Digital de Trânsito" style="max-width:100%; height:auto;"/>
   <p>Figura 1: Primeira versão do Rich Picture(Fonte: Elaborado pelos autores: Gabriel e Lucas, 2025)</p>
 </div>
