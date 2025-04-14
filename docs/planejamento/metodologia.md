@@ -87,6 +87,7 @@ Fonte: Tabela elaborada pelo autor – Artur, 2025.
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                              | Autor              | Revisor    |
-|--------|------------|--------------------------------------------------------|--------------------|------------|
-| 1.0    | 11/04/2025 | Criação da documentação da metodologia               | Artur Mendonça     | Gabriel    |
+| Versão | Descrição      | Autor(es)                                            | Data              | Revisor(es)    | Data de Revisão |
+|--------|------------|------------------------------------------------------|--------------------|------------| ------- |
+| 1.0    |  Criação da documentação da metodologia               | [Artur Mendonça](https://github.com/ArtyMend07)   | 11/04/2025 | [Gabriel Lopes](https://github.com/BrzGab)   | 11/04/2025      |
+| 1.1    |  Padronizando histórico de versões               |  [Lucas Mendonça ](https://github.com/lucasarruda9)  | 13/04/2025 | [Artur Mendonça](https://github.com/ArtyMend07)   | 13/04/2025      |

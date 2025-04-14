@@ -46,4 +46,5 @@ A fim de facilitar o gerenciamento e a execução do projeto, foram utilizadas c
 
 | Versão | Descrição                             | Autor(es)                                       | Data       | Revisor(es)                                   | Data de Revisão |
 |--------|----------------------------------------|--------------------------------------------------|------------|-----------------------------------------------|-----------------|
-| 1.0    | Criação da documentação de ferramentas | [Luiza Pugas](https://github.com/Luizaxx)        | 12/04/2025 | [João Andrade](https://github.com/JJOAOMARCOSS) | 12/04/2025      |
+| 1.0    | Criação da documentação de ferramentas | [Luiza da Silva](https://github.com/Luizaxx)        | 12/04/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 12/04/2025      |
+| 1.1    |  Padronizando histórico de versões               |  [Lucas Mendonça ](https://github.com/lucasarruda9)  | 13/04/2025 | [Artur Mendonça](https://github.com/ArtyMend07)   | 13/04/2025      |

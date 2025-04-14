@@ -35,7 +35,8 @@ UNIVERSIDADE DE BRASÍLIA. FGA0313 – Requisitos de Software – Turma T03 (202
 
 ## Histórico de versão
 
-Versão  |   Data   | Descrição | Autor(es) | Revisor(es)
---------- | ------ | ------ | ---------- | ----------
-1.0 | 11/04/2025 | Aplicativo escolhido para o projeto. | [Ana Victória Guedes da Costa](https://github.com/navicg) | [Karoline Luz da Conceição](https://github.com/KarolineLuz)
-1.1 | 11/04/2025 | Adição da bibliografia e algumas melhorias. | [Ana Victória Guedes da Costa](https://github.com/navicg)| [Karoline Luz da Conceição](https://github.com/KarolineLuz)
+Versão  |  Descrição | Autor(es) | Data      | Revisor(es) | Data de Revisão |
+------- | ---------- | --------- | --------- | ----------- | ----------------|
+1.0 |  Aplicativo escolhido para o projeto. | [Ana Victória](https://github.com/navicg) | 11/04/2025 |[Karoline Luz](https://github.com/KarolineLuz) |      12/04/2025      |
+1.1 |  Adição da bibliografia e algumas melhorias. | [Ana Victória](https://github.com/navicg)| 11/04/2025 |[Karoline Luz](https://github.com/KarolineLuz) |       12/04/2025      |
+| 1.2    |  Padronizando histórico de versões               |  [Lucas Mendonça](https://github.com/lucasarruda9)  | 13/04/2025 | [Artur Mendonça](https://github.com/ArtyMend07)   | 13/04/2025      |

@@ -43,7 +43,8 @@ Mais informações podem ser encontradas em:
 ---
 ### 4. Histórico de Versões
 
-| Versão | Descrição                                                      | Autor           | Data       | Revisor         | Data de revisão |
+| Versão | Descrição                                                      | Autor(es)           | Data       | Revisor(es)         | Data de revisão |
 |--------|----------------------------------------------------------------|------------------|------------|------------------|------------------|
 | 1.0    | Versão inicial do README                                       | [Karoline Luz](https://github.com/KarolineLuz)     | 05/04/2025 | [Lucas Mendonça](https://github.com/lucasarruda9)                | 11/04/2025                |
 | 1.1    | Atualização de conteúdo, inclusão de introdução e referências | [Karoline Luz](https://github.com/KarolineLuz)    | 11/04/2025 | [Lucas Mendonça](https://github.com/lucasarruda9)   | 11/04/2025       |
+| 1.2    |  Padronizando histórico de versões               |  [Lucas Mendonça ](https://github.com/lucasarruda9)  | 13/04/2025 | [Artur Mendonça](https://github.com/ArtyMend07)   | 13/04/2025      |

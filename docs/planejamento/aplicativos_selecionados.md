@@ -61,6 +61,7 @@ UNIVERSIDADE DE BRASÍLIA. FGA0313 – Requisitos de Software – Turma T03 (202
 
 <font size="3"><p style="text-align: left">**Tabela 2** - Histórico de versões.</p></font>
 
-| Versão |               Descrição                |   Autor(es)   |    Data    |    Revisor     | Data de revisão |
+| Versão |               Descrição                |   Autor(es)   |    Data    |    Revisor(es)     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
-|  1.0   | Versão inicial dos Aplicativos avaliados no projeto | [Gabriel](https://github.com/BrzGab) e [Karoline](https://github.com/KarolineLuz) | 11/04/2025 | [Artur](https://github.com/ArtyMend07) | 11/04/2025 |
+|  1.0   | Versão inicial dos Aplicativos avaliados no projeto | [Gabriel Lopes](https://github.com/BrzGab) e [Karoline Luz](https://github.com/KarolineLuz) | 11/04/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 11/04/2025 |
+| 1.1    |  Padronizando histórico de versões               |  [Lucas Mendonça ](https://github.com/lucasarruda9)  | 13/04/2025 | [Artur Mendonça](https://github.com/ArtyMend07)   | 13/04/2025      |
