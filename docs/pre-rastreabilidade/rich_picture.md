@@ -29,6 +29,7 @@ Para a elaboração do Rich Picture, foi utilizada a ferramenta Lucidchart, que 
 
 ## Histórico de Versões
 
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
-|--------|------|-----------|-----------|-------------|
-| 1.0 | 11/04/2025 | Rich Picture | [Gabriel](https://github.com/BrzGab) e [Lucas](https://github.com/lucasarruda9) | [Ana](https://github.com/navicg) |
+| Versão | Descrição | Autor(es) | Data | Revisor(es) |
+| ------ | --------- | --------- | ---- | ----------- |
+| 1.0 | 11/04/2025 | Rich Picture | [Gabriel Lopes](https://github.com/BrzGab) e [Lucas Mendonça](https://github.com/lucasarruda9) | [Ana Victória](https://github.com/navicg) |
+| 1.1    |  Padronizando histórico de versões               |  [Lucas Mendonça ](https://github.com/lucasarruda9)  | 13/04/2025 | [Artur Mendonça](https://github.com/ArtyMend07)   | 13/04/2025      |

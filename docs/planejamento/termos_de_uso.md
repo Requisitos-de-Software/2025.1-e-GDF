@@ -37,7 +37,8 @@ Termos de Uso. Disponível em: [https://cadastro.acesso.gov.br/termo-de-uso](htt
 
 <font size="3"><p style="text-align: left">**Tabela 2** - Histórico de versões.</p></font>
 
-| Versão |               Descrição                |   Autor(es)   |    Data    |    Revisor     | Data de revisão |
+| Versão |               Descrição                |   Autor(es)   |    Data    |    Revisor(es)     | Data de revisão |
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
-|  1.0   | Adição dos termos de uso | [Lucas](https://github.com/lucasarruda9)| 11/04/2025 | [João](https://github.com/JJOAOMARCOSS) | 12/04/2025 |
+|  1.0   | Adição dos termos de uso | [Lucas Mendonça](https://github.com/lucasarruda9)| 11/04/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 12/04/2025 |
+| 1.1    |  Padronizando histórico de versões               |  [Lucas Mendonça ](https://github.com/lucasarruda9)  | 13/04/2025 | [Artur Mendonça](https://github.com/ArtyMend07)   | 13/04/2025      |
 

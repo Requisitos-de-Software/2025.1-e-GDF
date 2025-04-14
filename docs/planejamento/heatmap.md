@@ -36,4 +36,5 @@ Este documento descreve a ferramenta utilizada para gerar o heatmap de disponibi
 
 | Versão |             Descrição             |           Autor(es)           |    Data    |    Revisor(es)     | Data de Revisão |
 | :----: | :-------------------------------: | :---------------------------: | :--------: | :----------------: | :-------------: |
-| `1.0`  | Criação do heatmap e documentação | [João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS) | 11/04/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) |   12/04/2025    |
+| 1.0  | Criação do heatmap e documentação | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 11/04/2025 | [Luiza da Silva](https://github.com/Luizaxx) |   12/04/2025    |
+| 1.1    |  Padronizando histórico de versões               |  [Lucas Mendonça ](https://github.com/lucasarruda9)  | 13/04/2025 | [Artur Mendonça](https://github.com/ArtyMend07)   | 13/04/2025      |
