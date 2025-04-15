@@ -78,4 +78,4 @@ Reunião realizada no **Microsoft Teams.**
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |--------|------|-----------|-----------|------------|
-| 1.0 | 14/04/2025 | Criação do documento | [Gabriel Lopes de Amorim](https://github.com/BrzGab) | [Lucas Mendonça Arruda](https://github.com/lucasarruda9) |
+| 1.0 | 14/04/2025 | Criação do documento | [Gabriel Lopes](https://github.com/BrzGab) | [Lucas Mendonça](https://github.com/lucasarruda9) |
