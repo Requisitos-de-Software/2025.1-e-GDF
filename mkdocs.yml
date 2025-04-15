@@ -23,8 +23,7 @@ nav:
   - Verificação:
      - Grupo:
         - Entrega 1:
-              - Planejamento da Verificação da Entrega 1: verificacao/grupo/entrega01/planejamento-verificacao.md
-              - Rich Picture: verificacao/grupo/entrega01/verificacao-rich-picture.md
+              - Verificação Grupo 9: verificacao/grupo/entrega01/planejamento-verificacao.md
 
 theme:
   name: material
