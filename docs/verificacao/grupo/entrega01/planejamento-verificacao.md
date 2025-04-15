@@ -6,12 +6,12 @@
 
 ### Integrantes:
 1. [Ana Luiza Soares de Carvalho](https://github.com/Ana-Luiza-SC)
-2. [Isaque Camargos Nascimento](https://github.com/isagzin)
+2. [Isaque Camargos Nascimento](https://github.com/isaqzin)
 3. [Kaleb de Souza Macedo](https://github.com/kalebmacedo)
 4. [Lucas Alves Oliveira dos Santos](https://github.com/LucasAlves71)
-5. [Matheus de Alcantara da Silva Campos](https://github.com/matheusdalcantara)
-6. [Othavio Araujo Bolzan](https://github.com/bolzanMELS)
-7. [Yzabella Miranda Pimenta](https://github.com/regjsun)
+5. [Matheus de Alcantara da Silva Campos](https://github.com/matheusdealcantara)
+6. [Othavio Araujo Bolzan](https://github.com/bolzanMGB)
+7. [Yzabella Miranda Pimenta](https://github.com/redjsun)
 
 ## Introdução
 
