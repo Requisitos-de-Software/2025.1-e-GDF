@@ -24,6 +24,7 @@ nav:
      - Grupo:
         - Entrega 1:
               - Verificação Grupo 9: verificacao/grupo/entrega01/planejamento-verificacao.md
+              - Verificação Próprio Grupo: verificacao/grupo/entrega01/inspecao.md
 
 theme:
   name: material
