@@ -27,7 +27,7 @@ Reunião realizada online via **Microsoft Teams**.
 * A equipe iniciou a divisão de tarefas entre os membros para agilizar a produção dos artefatos necessários.
 
 ## Link da gravação
-[Link da terceira reunião]()
+[Link da terceira reunião](https://youtu.be/We15Y_eUA1k)
 
 ## Próxima Reunião  
 Sexta-feira (25/04/2025) às 20h, via Microsoft Teams.
