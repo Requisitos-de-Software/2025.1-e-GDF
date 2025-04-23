@@ -34,9 +34,11 @@ Reunião realizada online via **Microsoft Teams**.
 
 ## Link da gravação
 [Link da primeira reunião](https://youtu.be/rED9X0GtnBk)
-## Próxima Reunião 11/04/2025 às 20h
+## Próxima Reunião 
+09/04/2025 às 20h
 
 ## Histórico de versão
 Versão  | Data | Descrição | Autor(es) | Revisor(es)
 -------- | ------ | ------ | ---------- | ----------
 1.0 | 05/04/2025 | Ata da 1ª Reunião  | [Ana Victória Guedes da Costa](https://github.com/navicg) | [Lucas Mendonça](https://github.com/lucasarruda9) |
+|1.1|  23/04/2025 |Padronização do histórico de versão e correções|[Ana Victória Guedes da Costa](https://github.com/navicg)| [Lucas Mendonça ](https://github.com/lucasarruda9) |
