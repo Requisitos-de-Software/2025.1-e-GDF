@@ -41,7 +41,7 @@ Reunião realizada online via **Microsoft Teams**.
 UNIVERSIDADE DE BRASÍLIA. FGA0313 – Requisitos de Software – Turma T03 (2025.1 – 35M12). Docente: ANDRE BARROS DE SALES. Plano de ensino disponível em: [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/60/FGA0303-T03v2.pdf). Acesso em: 25 abr. 2025.
 
 ## Link da gravação
-[Link da sexta reunião](https://youtu.be/5b8SrFMpjB8)
+[Link da sexta reunião](https://www.youtube.com/watch?v=axWCWykGDcs&feature=youtu.be)
 
 ## Próxima Reunião
 02/05/2025 às 20h
