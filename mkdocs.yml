@@ -1,7 +1,7 @@
 repo_url: https://github.com/Requisitos-de-Software/2025.1-Carteira-Digital-de-Transito
 repo_name: 2025.1-Carteira-Digital-de-Transito
 
-site_name: Carteira Digital de Trânsito
+site_name: e-GDF
 
 nav:
   - Home: index.md
@@ -42,5 +42,5 @@ theme:
         name: Claro
 
   language: pt-BR
-  favicon: assets/image.png
-  logo: assets/image.png
+  favicon: assets/egdf.png
+  logo: assets/egdf.png
