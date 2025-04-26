@@ -42,5 +42,5 @@ theme:
         name: Claro
 
   language: pt-BR
-  favicon: assets/egdf.png
-  logo: assets/egdf.png
+  favicon: assets/egdf_logo.png
+  logo: assets/egdf_logo.png
