@@ -41,7 +41,7 @@ Reunião realizada online via **Microsoft Teams**.
 12/04/2025 às 21:30h
 
 ## Histórico de versão
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
-|--------|------|-----------|-----------|-------------|
-| 1.0 | 11/04/2025 | Ata da 3ª Reunião | [Gabriel Lopes de Amorim](https://github.com/BrzGab) | [Karoline Luz](https://github.com/KarolineLuz) |
-|1.1|  23/04/2025 |Padronização do histórico de versão e correções|[Ana Victória Guedes da Costa](https://github.com/navicg)| [Lucas Mendonça ](https://github.com/lucasarruda9) |
+| Versão | Data | Descrição | Autor(es) | Revisor(es) | Data da Revisão|
+|--------|------|-----------|-----------|-------------|------
+| 1.0 | 11/04/2025 | Ata da 3ª Reunião | [Gabriel Lopes de Amorim](https://github.com/BrzGab) | [Karoline Luz](https://github.com/KarolineLuz) | 12/04/2025
+|1.1|  23/04/2025 |Padronização do histórico de versão e correções|[Ana Victória Guedes da Costa](https://github.com/navicg)| [Lucas Mendonça ](https://github.com/lucasarruda9) | 28/04/2025
