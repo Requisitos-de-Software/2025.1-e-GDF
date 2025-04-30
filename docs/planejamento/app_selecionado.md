@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Inicialmente, com base nas [avaliações de aplicativos](https://github.com/Requisitos-de-Software/2025.1-Carteira-Digital-de-Transito/blob/main/docs/planejamento/aplicativos_selecionados.md) realizadas ao longo da disciplina de Requisitos de Software, cada integrante da equipe sugeriu um aplicativo. Após discussões e uma enquete via **WhatsApp**, o aplicativo **Carteira Digital de Trânsito** foi o mais votado. No entanto, seguindo a sugestão do professor sobre os melhores aplicativos a serem utilizados na disciplina e considerando os critérios de análise abordados na matéria, optamos por substituir o aplicativo inicialmente escolhido pelo  [e-GDF](https://www.economia.df.gov.br/e-gdf-e-economiadf). A escolha foi baseada na análise de critérios e motivações específicas, que serão detalhados a seguir.
+Inicialmente, com base nas [avaliações de aplicativos](https://github.com/Requisitos-de-Software/2025.1-Carteira-Digital-de-Transito/blob/docs/ajuste-app/docs/planejamento/aplicativos_selecionados.md) realizadas ao longo da disciplina de Requisitos de Software, cada integrante da equipe sugeriu um aplicativo. Após discussões e uma enquete via **WhatsApp**, o aplicativo **Carteira Digital de Trânsito** foi o mais votado. No entanto, seguindo a sugestão do professor sobre os melhores aplicativos a serem utilizados na disciplina e considerando os critérios de análise abordados na matéria, optamos por substituir o aplicativo inicialmente escolhido pelo  [e-GDF](https://www.economia.df.gov.br/e-gdf-e-economiadf). A escolha foi baseada na análise de critérios e motivações específicas, que serão detalhados a seguir.
 
 ## Critérios para escolha:
 
