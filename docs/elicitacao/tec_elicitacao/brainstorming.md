@@ -21,6 +21,6 @@ O Brainstorming é uma técnica que fornece informações sobre os tipos de cont
 
 # Histórico de Versões
 
-| Versão | Data  | Descrição | Autor(es) | Revisor(es) | Data de Revisão |
-| :----: | :---: | :-------: | :-------: | :---------: | :-------------: |
-|  ...   |  ...  |    ..     |    ..     |     ..      |       ..        |
+| Versão | Descrição                      | Autor(es)                                             | Data       | Revisor(es)                                            | Data de revisão |
+| ------ | ------------------------------ | ------------------------------------------------- | ---------- | -------------------------------------------------- | --------------- |
+| 1.0    | Criação da documentação do brainstorming | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 30/04/2025 | [Ana Victória](https://github.com/navicg) | 30/04/2025      |
