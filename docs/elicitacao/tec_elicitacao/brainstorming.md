@@ -8,8 +8,11 @@ O Brainstorming é uma técnica que fornece informações sobre os tipos de cont
 
 
 
+<p style="text-align: center"><a href="https://youtu.be/ItswNLi2kJI" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/ItswNLi2kJI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
+<font size="3"><p style="text-align: center">Fonte: [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx).</p></font>
 
 
 
