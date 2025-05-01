@@ -1,10 +1,10 @@
 # Brainstorming
 
-## Introdução
+# Introdução
 
 O Brainstorming é uma técnica que fornece informações sobre os tipos de conteúdo e características que os usuários querem e desejam em um produto. Essa atividade pode ser utilizada para qualquer produto ou serviço, e resulta numa lista priorizada de necessidades e desejos dos usuários. Em geral, essa técnica é utilizada para elicitar requisitos e revelar novas características que os usuários apreciariam em um produto. O Brainstorming fornece mais benefícios quando utilizado durante o estágio conceitual do desenvolvimento do produto. Uma sessão de brainstorming busca elicitar de forma bastante livre um conjunto grande e abrangente de opiniões dos participantes em torno de um tema. Os resultados dessa atividade podem alimentar diretamente as especificações funcionais e a documentação de design.
 
-## Metodologia
+# Metodologia
 
 O processo de brainstorming foi estruturado durante uma reunião em sala de aula, onde foi discutido o andamento do projeto. Nesse encontro, foram definidas as funções de intermediador e secretário, que ficaram a cargo dos participantes [Luiza da Silva Pugas](https://github.com/Luizaxx) e [João Marcos Moraes](https://github.com/JJOAOMARCOSS), respectivamente.
 
@@ -12,8 +12,45 @@ Durante a reunião, realizada na terça-feira, 29 de abril, foram levantadas as 
 
 Os usuários foram submetidos a uma série de perguntas e para o compartilhamento de suas ideias, foi utilizada a plataforma Figma, por meio da funcionalidade FigJam. Nessa plataforma, os participantes tiveram a oportunidade de registrar suas ideias de forma escrita, além de compartilhá-las verbalmente durante a reunião. Todo o processo foi cuidadosamente documentado pelo secretário, João Marcos, com o intuito de realizar a elicitação de requisitos para o projeto.
 
+# Participantes 
 
-### Perguntas Utilizadas no Brainstorming
+| Nº | Nome Completo                      | Presença | Papel                    |
+|----|------------------------------------|----------|--------------------------|
+| 1  | Joao Marcos Moraes De Andrade     | Presente | Secretário               |
+| 2  | Luiza Da Silva Pugas              | Presente | Moderadora               |
+| 3  | Leonardo De Melo Lima             | Presente | Usuário                  |
+| 4  | Arthur Carvalho Leite             | Presente | Usuário                  |
+| 5  | Daniel Rodrigues Nascimento       | Presente | Usuário                  |
+| 6  | Felipe Das Neves Freire           | Presente | Usuário                  |
+| 7  | Vitor Bessa                       | Presente | Usuário                  |
+| 8  | Mateus Bastos Dos Santos          | Presente | Usuário                  |
+| 9  | Gabriel Lima                      | Presente | Usuário                  |
+
+<font size="3"><p style="text-align: center">Fonte: [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx).</p></font>
+
+# Palavras-chave
+| Palavra-chave   | Categoria/Assunto Relacionado       |
+|-----------------|--------------------------------------|
+| Login           | Acesso                              |
+| Acesso          | Usabilidade                         |
+| Agendamento     | Serviços                            |
+| Notificações    | Comunicação                         |
+| Facilidade      | Usabilidade                         |
+| Dificuldade     | Usabilidade                         |
+| Interface       | Design                              |
+| Intuitivo       | Experiência do Usuário (UX)         |
+| Informações     | Conteúdo                            |
+| Realocação      | Organização da Informação           |
+| Inclusão        | Acessibilidade e Diversidade        |
+| Acessibilidade  | Inclusão Digital                    |
+| Idosos          | Público-alvo                        |
+| Jovens          | Público-alvo                        |
+| Chatbot         | Suporte ao Usuário                  |
+
+<font size="3"><p style="text-align: center">Fonte: [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx).</p></font>
+
+
+# Perguntas Utilizadas no Brainstorming
 
 | **Categoria**                           | **Perguntas**                                                                                                                                                   |
 |----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -42,8 +79,56 @@ Os usuários foram submetidos a uma série de perguntas e para o compartilhament
 
 <font size="3"><p style="text-align: center">Fonte: [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx).</p></font>
 
+# Elicitação de Requisitos funcionais e não funcionais
+
+| Tipo                      | ID   | Descrição                                                                                                              | Código | Implementado |
+|---------------------------|------|-------------------------------------------------------------------------------------------------------------------------|--------|--------------|
+| **REQUISITOS FUNCIONAIS** |      |                                                                                                                         |        |              |
+|                           |      | O usuário deve conseguir realizar login de forma simples e rápida                                                      | RF01   |              |
+|                           |      | O usuário deve conseguir acessar funcionalidades mesmo com pouca familiaridade com tecnologia                          | RF02   |              |
+|                           |      | O usuário deve poder receber notificações personalizadas com base em sua localização                                    | RF03   |              |
+|                           |      | O usuário deve poder consultar agendamentos e serviços em um único local centralizado                                  | RF04   |              |
+|                           |      | O usuário deve ter acesso a um assistente virtual com acessibilidade por voz                                           | RF05   |              |
+|                           |      | O usuário deve poder acessar tutoriais passo a passo sobre como usar o app                                             | RF06   |              |
+|                           |      | O usuário deve poder alterar o tamanho da fonte e o contraste de cores                                                 | RF07   |              |
+|                           |      | O aplicativo deve permitir modo escuro                                                                                 | RF08   |              |
+|                           |      | O usuário deve poder realizar agendamentos sem ser redirecionado para outros sistemas externos                         | RF09   |              |
+|                           |      | O usuário deve poder acessar e visualizar notícias relevantes                                                          | RF10   |              |
+|                           |      | O usuário deve poder gerar relatórios e visualizar comprovantes de agendamentos                                        | RF11   |              |
+|                           |      | O aplicativo deve permitir a integração com serviços de saúde, educação e mobilidade                                   | RF12   |              |
+|                           |      | O usuário deve poder alterar o idioma do aplicativo                                                                     | RF13   |              |
+|                           |      | O usuário deve poder personalizar suas preferências e perfis para recomendações de serviços                            | RF14   |              |
+|                           |      | O aplicativo deve permitir o envio de mensagens curtas sobre vencimentos e lembretes importantes                       | RF15   |              |
+|                           |      | O usuário deve poder acessar um menu com as principais funções logo na tela inicial                                    | RF16   |              |
+|                           |      | O usuário deve poder acessar informações de agendamento e reagendamento de forma centralizada                          | RF17   |              |
+|                           |      | O usuário deve poder utilizar chatbot para tirar dúvidas                                                               | RF18   |              |
+|                           |      | O aplicativo deve permitir notificações por categorias como saúde, educação, transporte                                | RF19   |              |
+|                           |      | O usuário deve conseguir compartilhar ou salvar informações importantes (como protocolos ou comprovantes)              | RF20   |              |
+| **REQUISITOS NÃO FUNCIONAIS** |      |                                                                                                                         |        |              |
+|                           |      | O sistema deve possuir uma interface simples, limpa e com ícones ilustrativos                                          | RNF01  |              |
+|                           |      | O aplicativo deve permitir acessibilidade para pessoas idosas ou com deficiência visual                                | RNF02  |              |
+|                           |      | O sistema deve fornecer feedback em tempo real durante o uso                                                           | RNF03  |              |
+|                           |      | O sistema deve funcionar mesmo em dispositivos com baixa capacidade de hardware                                        | RNF04  |              |
+|                           |      | A navegação deve ser rápida e fluida entre telas, sem necessidade de redirecionamentos excessivos                      | RNF05  |              |
+|                           |      | O sistema deve carregar as informações de forma otimizada, reduzindo tempo de resposta                                 | RNF06  |              |
+|                           |      | O layout deve ser responsivo para diferentes tamanhos de tela                                                          | RNF07  |              |
+|                           |      | O sistema deve ter compatibilidade com leitores de tela                                                                | RNF08  |              |
+|                           |      | O app deve conter linguagem clara e acessível, adequada a diferentes níveis de escolaridade                            | RNF09  |              |
+|                           |      | O app deve respeitar normas de acessibilidade digital (como WCAG)                                                      | RNF10  |              |
+
+<font size="3"><p style="text-align: center">Fonte: [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx).</p></font>
 
 
+# Referência 
+
+BARBOSA, Simone D. J.; SILVA, Bruno Santana da. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+Disponível em: <https://www.academia.edu/41857244/INTERA%C3%87%C3%83O_HUMANO_COMPUTADOR>. Acesso em: 29 abr. 2025.
+
+# Bibliografia 
+
+SERRANO, Milene; SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. Acesso em: 26 abr. 2023.
+
+SMITH, John E. Brainstorming groups: size and effectiveness. [S.l.]: Southern Nazarene University. Disponível em: <https://home.snu.edu/~jsmith/library/body/v26.pdf>. Acesso em: 29 abr. 2025.
 
 # Histórico de Versões
 
