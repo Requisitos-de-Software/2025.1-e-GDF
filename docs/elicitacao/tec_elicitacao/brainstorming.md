@@ -16,7 +16,7 @@ Os usuários foram submetidos a uma série de perguntas e para o compartilhament
 
 | Nº | Nome Completo                      | Presença | Papel                    |
 |----|------------------------------------|----------|--------------------------|
-| 1  | Joao Marcos Moraes De Andrade     | Presente | Secretário               |
+| 1  | João Marcos Moraes De Andrade     | Presente | Secretário               |
 | 2  | Luiza Da Silva Pugas              | Presente | Moderadora               |
 | 3  | Leonardo De Melo Lima             | Presente | Usuário                  |
 | 4  | Arthur Carvalho Leite             | Presente | Usuário                  |
@@ -64,14 +64,13 @@ Os usuários foram submetidos a uma série de perguntas e para o compartilhament
 
 # Respostas dos usuários para as perguntas
 
- ![](https://i.ibb.co/Qvm7C25c/Ideas-here-1.png)
+![](https://i.ibb.co/Qvm7C25c/Ideas-here-1.png)
 
 <p style="text-align: center"><a href="https://www.figma.com/board/r0BuvzjETtZ4NHreKd4tX6/Brainstorming-E-GDF?node-id=0-1&t=5c5GYhgNaWTHTTsG-1" target="_blank">Link FigJam</a></p> 
 
 <font size="3"><p style="text-align: center">Fonte: [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx).</p></font>
  
-
- # Gravação da reunião de brainstorming
+# Gravação da reunião de brainstorming
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/ItswNLi2kJI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
@@ -118,13 +117,10 @@ Os usuários foram submetidos a uma série de perguntas e para o compartilhament
 
 <font size="3"><p style="text-align: center">Fonte: [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx).</p></font>
 
-
-# Referência 
+# Referência Bibliografia 
 
 BARBOSA, Simone D. J.; SILVA, Bruno Santana da. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 Disponível em: <https://www.academia.edu/41857244/INTERA%C3%87%C3%83O_HUMANO_COMPUTADOR>. Acesso em: 29 abr. 2025.
-
-# Bibliografia 
 
 SERRANO, Milene; SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. Acesso em: 26 abr. 2023.
 
