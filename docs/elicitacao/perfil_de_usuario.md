@@ -2,77 +2,93 @@
 
 ## Introdução
 
-Este documento tem como objetivo apresentar o perfil dos usuários do sistema **[e-GDF](https://play.google.com/store/apps/details?id=br.gov.df.eGDF&hl=pt_BR)**, com base em dados coletados por meio de técnicas de elicitação. O perfil de usuário é uma descrição geral das principais características dos usuários reais ou potenciais que utilizarão o sistema.
-
-## Definição do Perfil de Usuário
-
-Com base nas técnicas de análise de documentos, entrevistas, introspecção e brainstorming, foi definido o perfil genérico do usuário do sistema, conforme descrito abaixo:
-
-- **Gênero:** Masculino, feminino e outros.
-
-- **Idade:** Entre 20 e 40 anos.
-
-- **Experiência com tecnologia:** Baixa a média.
-
-- **Atitude:** Neutro/pragmático – busca soluções práticas, sem grande entusiasmo ou resistência ao uso de tecnologia.
-
-- **Contexto de uso:** Usuário acessa o sistema principalmente via smartphone ou computador, em momentos pontuais, motivado por necessidades específicas como registrar ou acompanhar solicitações relacionadas a serviços públicos (ex.: reportar problemas de infraestrutura urbana, solicitar manutenção, acompanhar demandas no transporte público).
-
-- **Usabilidade percebida:** Usuários relatam dificuldade inicial de uso, indicando baixa facilidade de navegação.
-
-- **Adaptabilidade:** O sistema apresenta baixa adaptabilidade, com poucas opções de personalização ou suporte a acessibilidade, dificultando o uso por idosos e pessoas com deficiência.
+O perfil de usuário é uma descrição geral das principais características dos usuários reais ou potenciais que utilizarão o sistema. Este documento tem como objetivo apresentar o perfil dos usuários do sistema **[e-GDF](https://play.google.com/store/apps/details?id=br.gov.df.eGDF&hl=pt_BR)**, com base em dados coletados por meio de 4 técnicas de elicitação, que vão ser desenvolvidas nas metodologias abaixo.
 
 ## Metodologia
 
 A coleta de informações foi realizada utilizando as seguintes técnicas de elicitação de requisitos:
 
 1. **Análise de Documentos:**  
-Realizamos a análise de documentos existentes, como [listar documentos analisados, se aplicável], para entender as necessidades e os comportamentos dos usuários.
-   - **Total de participantes:** X  
-   - **Meios de coleta:** [Ex: documentos físicos, arquivos digitais, relatórios da empresa...]  
-   - **Responsáveis:** [Nome(s) do(s) responsável(is) com links GitHub, se aplicável]
+Foi conduzida uma análise documental abrangente, que incluiu a revisão de informações publicadas no site oficial do **Governo do Distrito Federal (GDF)** e a avaliação detalhada do aplicativo, considerando dados como as avaliações e comentários fornecidos por seus usuários, para entender suas necessidades e os seus comportamentos.
+   - **Total de participantes:** 32 usuários avaliados, sendo 24 na Play Store e 8 na Apple Store.  
+   - **Meios de coleta:** [App da Play Store](https://play.google.com/store/apps/details?id=br.gov.df.eGDF&hl=pt_BR), [Apple Store](https://apps.apple.com/br/app/egdf/id6502908159?l=en-GB) e o site do **e-GDF**, que tinha informações mais aprofundadas a respeito da [Exclusão da Conta](https://www.df.gov.br/exclusao-conta-egdf/) e da [Política e Privacidade do e-GDF](https://www.df.gov.br/politica-privacidade-egdf/)
+   - **Responsáveis:** [Lucas Mendonça](https://github.com/lucasarruda9)
 
-   [colocar link do repositorio, data]
+
+   1.1 **Resultado da Análise de Documentos**
+
+   Os resultados levantados a partir da análise de documentos, estão dispostos abaixo:
+
+   [Resultados Levantados](https://drive.google.com/file/d/1yLeTfhj67aCDP7MjujUlCTCFEHGwCNPG/view?usp=drive_link)
 
 2. **Entrevistas:**  
-Conduzimos entrevistas com [ex: usuários atuais, stakeholders] entre os dias [data início] e [data fim], com o objetivo de obter informações mais detalhadas sobre as expectativas e necessidades dos usuários.
-   - **Total de participantes:** X  
-   - **Meios de coleta:** [Ex: presencial, videoconferência, telefone...]  
-   - **Responsáveis:** [Nome(s) do(s) responsável(is) com links GitHub, se aplicável]
+A entrevista foi realizada induvidulamente, pelos membros da equipe [Ana Victória](https://github.com/navicg) e [Artur Mendonça](https://github.com/ArtyMend07). Cada integrante foi responsável por realizar entrevistas específicas com usuários distintos, conforme detalhado na tabela abaixo. O processo seguiu um roteiro pré-definido, elaborado para garantir a consistência das perguntas e facilitar a coleta de dados comparáveis. No entanto, o script foi aplicado de maneira flexível, permitindo ajustes em tempo real para se adequar ao perfil e às respostas de cada entrevistado, tornando a conversa mais natural e aprofundada quando necessário. 
 
-   [colocar link do repositorio, data]
+   - **Total de participantes:** 2 participantes, sendo o primeiro o **Luís Felipe**, e a segunda **Júnia Luz**.
+   - **Meios de coleta:** [Presencial](https://youtu.be/t8xXrzlBbdM) e por [videoconferência](https://youtu.be/CpYU4PauOWY), no qual foi realizada via **Microsoft Teams**  .
+   - **Responsáveis:** [Ana Victória](https://github.com/navicg) e [Artur Mendonça](https://github.com/ArtyMend07)
+
+
+   3.1 **Resultados da Entrevista**:
+
+   Os resultados levantados a partir da entrevistas realizadas, estão dispostos abaixo:
+
+   [Resultado da Entrevista](https://drive.google.com/file/d/1i7nbI5v7tWxMvyhjz2zmkGi4OoH_zEuS/view?usp=drive_link)
 
 3. **Introspecção:**  
-A introspecção foi utilizada para analisar os próprios comportamentos dos desenvolvedores e possíveis cenários de uso do sistema, ajudando a definir requisitos mais específicos.
-   - **Total de participantes:** X  
-   - **Meios de coleta:** [Ex: autoavaliação, observação dos próprios fluxos de trabalho...]  
-   - **Responsáveis:** [Nome(s) do(s) responsável(is) com links GitHub, se aplicável]
+A introspecção foi realizada a partir da perspectiva de um cidadão utilizando o aplicativo em situações do dia a dia. O exercício envolveu imaginar as dificuldades enfrentadas por usuários em diferentes contextos — como idosos, pessoas com deficiência, estudantes e trabalhadores — com o objetivo de identificar tanto funcionalidades fundamentais quanto pontos de melhoria.
 
-   [colocar link do repositorio, data]
+
+   - **Total de participantes:** nulo. 
+   - **Meios de coleta:** Autoavaliação estruturada com foco em diferentes perfis de usuário simulados mentalmente.
+   - **Responsáveis:** [Gabriel Lopes](https://github.com/BrzGab)
 
 4. **Brainstorming:**  
-Realizamos sessões de brainstorming com a equipe de desenvolvimento e stakeholders para gerar ideias, levantar possíveis funcionalidades e discutir soluções criativas para os requisitos identificados.
-   - **Total de participantes:** X  
-   - **Meios de coleta:** [Ex: reuniões presenciais, videoconferências, quadros colaborativos online...]  
-   - **Responsáveis:** [Nome(s) do(s) responsável(is) com links GitHub, se aplicável]
+O processo de brainstorming foi estruturado durante uma reunião em sala de aula, onde foi discutido o andamento do projeto. Nesse encontro, foram definidas as funções de intermediador e secretário, que ficaram a cargo dos participantes [Luiza da Silva Pugas](https://github.com/Luizaxx) e [João Marcos Moraes](https://github.com/JJOAOMARCOSS), respectivamente.
+Durante a reunião, realizada na terça-feira, 29 de abril, foram levantadas as possíveis perguntas a serem abordadas no brainstorming, além de ser definida a data para a realização de uma reunião online com os usuários do aplicativo e-GDF. Participaram da reunião sete usuários e eles foram submetidos a uma série de perguntas e para o compartilhamento de suas ideias, foi utilizada a plataforma **Figma**, por meio da funcionalidade **FigJam**. Nessa plataforma, os participantes tiveram a oportunidade de registrar suas ideias de forma escrita, além de compartilhá-las verbalmente durante a reunião. Todo o processo foi cuidadosamente documentado pelo **secretário**, [João Marcos Moraes](https://github.com/JJOAOMARCOSS), com o intuito de realizar a elicitação de requisitos para o projeto.
 
-    [colocar link do repositorio, data]
+   - **Total de participantes:** 9 participantes, incluindo a [Luiza da Silva Pugas](https://github.com/Luizaxx) e o [João Marcos Moraes](https://github.com/JJOAOMARCOSS).
+   - **Meios de coleta:** Foi realizada uma reunião por meio da plataforma **Microsoft Teams**, no dia **29/04/2025**, às **21h**, com uma duração média de 50 minutos. 
+   - **Responsáveis:** [Luiza da Silva Pugas](https://github.com/Luizaxx) e o [João Marcos Moraes](https://github.com/JJOAOMARCOSS)
 
-## Resultados
+   4.1 **Resultados do Brainstorming**
+   
+   Os resultados levantados a partir da sessão realizada de brainstorming, estão dispostos abaixo:
 
-Os dados coletados foram analisados e apresentados a seguir em forma de gráficos (quando necessário) e descrições resumidas:
+   [Resultados levantados](https://drive.google.com/file/d/1NecDYczq7RGCvZbqwVwhT4_JBl6AB1Bw/view?usp=drive_link)
 
-- **Gênero predominante**: [ex: feminino, masculino, misto...]
-- **Faixa etária predominante**: [ex: 18-24 anos]
-- **Escolaridade**: [ex: Ensino Superior Incompleto, Completo, etc.]
-- **Familiaridade com tecnologia**: [ex: alta, média, baixa]
-- **Frequência de uso do sistema**: [ex: esporádica, semanal]
-- **Objetivo principal ao usar o sistema**: [ex: comprar ingressos, buscar informações...]
-[Inserir gráficos se desejar — pode usar iframes ou imagens estáticas]
+## Definição do Perfil de Usuário
+
+Com base nas técnicas de análise de documentos, entrevistas, introspecção e brainstorming, foi definido o perfil genérico do usuário do sistema, conforme descrito abaixo:
+
+- **Gênero predominante**: Misto.
+- **Faixa etária predominante**: Entre 20 a 40 anos.
+- **Escolaridade**: Ensino Superior Incompleto á Completo.
+- **Familiaridade com tecnologia**: Média/Alta.
+- **Frequência de uso do sistema**: Esporadicamente.
+- **Objetivo principal ao usar o sistema**: **Mobilidade**, principalmente a opção do DF no Ponto, **Receitas e Tributos**, que facilita a emissão do IPVA, IPTU, etc e **Educação**, para acessar o calendário escolar anual.
+- **Atitude:** Neutro/pragmático – busca soluções práticas, sem grande entusiasmo ou resistência ao uso de tecnologia.
+- **Usabilidade percebida:** Usuários relatam dificuldade inicial de uso, indicando baixa facilidade de navegação.
+- **Adaptabilidade:** O sistema apresenta baixa adaptabilidade, com poucas opções de personalização ou suporte a acessibilidade, dificultando o uso por idosos e pessoas com deficiência.
 
 ### **Referências Bibliográficas:**
 
 > <a id="FRM1" href="#anchor_1">1.</a>UNB. IHC-UX - Personas. Disponível em: [https://aprender3.unb.br/pluginfile.php/3096073/mod_resource/content/2/ihc-ux-%20Personas.pdf](https://aprender3.unb.br/pluginfile.php/3096073/mod_resource/content/2/ihc-ux-%20Personas.pdf). Acesso em: 01 maio 2025.
+
+
+### **Bibliografias:**
+> <a id="FRM1" href="#anchor_1">1.</a>SMITH, John E. Brainstorming groups: size and effectiveness. [S.l.]: Southern Nazarene University. Disponível em: <https://home.snu.edu/~jsmith/library/body/v26.pdf>. Acesso em: 02 abr. 2025.
+
+> <a id="FRM1" href="#anchor_1">1.</a>GOVERNO DO DISTRITO FEDERAL. Aplicativo eGDF PlayStore. Disponível em: [https://play.google.com/store/apps/details?id=br.gov.df.eGDF&hl=pt_BR](https://play.google.com/store/apps/details?id=br.gov.df.eGDF&hl=pt_BR). Acesso em: 02 mai.2025.
+
+> <a id="FRM1" href="#anchor_1">1.</a>GOVERNO DO DISTRITO FEDERAL. Aplicativo eGDF AppStore. Disponível em: [https://apps.apple.com/br/app/egdf/id6502908159?l=en-GB](https://apps.apple.com/br/app/egdf/id6502908159?l=en-GB). Acesso em: 02 mai.2025.
+
+> <a id="FRM1" href="#anchor_1">1.</a>GOVERNO DO DISTRITO FEDERAL. Exclusão conta eGDF. Brasília: GDF, 2024. Disponível em: [https://www.df.gov.br/exclusao-conta-egdf/](https://www.df.gov.br/exclusao-conta-egdf/). Acesso em: 02 mai.2025.
+
+> <a id="FRM1" href="#anchor_1">1.</a>GOVERNO DO DISTRITO FEDERAL. Política de privacidade do eGDF. Brasília: GDF, 2025. Disponível em: [https://www.df.gov.br/politica-privacidade-egdf/](https://www.df.gov.br/politica-privacidade-egdf/). Acesso em: 02 mai.2025.
+
+> <a id="FRM1" href="#anchor_1">1.</a>WIEGERS, Karl E.; BEATTY, Joy. Software requirements. 3. ed. Redmond: Microsoft Press, 2013. Disponível em:
+[https://olivroqueaprende.com/WDK/Software_Requirements_3rd_Edition.pdf](https://olivroqueaprende.com/WDK/Software_Requirements_3rd_Edition.pdf).  Acesso em 02 mai.2025
 
 
 ## Histórico de Versões
@@ -80,3 +96,4 @@ Os dados coletados foram analisados e apresentados a seguir em forma de gráfico
 |--------|----------------------------------------------------------------|--------------------------------------|------------|---------------------|------------------|
 | 1.0    | Esboço inicial do perfil                                     | [Karoline Luz](https://github.com/KarolineLuz) e  [Ana Victória](https://github.com/navicg) | 30/04/2025 |[Artur Mendonça](https://github.com/ArtyMend07)    | ---      |
 | 1.1    | Atualização com descrições e melhorias de usabilidade  | [Karoline Luz](https://github.com/KarolineLuz) e  [Ana Victória](https://github.com/navicg)  | 01/05/2025 | [Artur Mendonça](https://github.com/ArtyMend07)    | ----     |
+| 1.2| Adicionando perfil de usuário, metodologias e resultados das técnicas de elicitação| [Karoline Luz](https://github.com/KarolineLuz) e  [Ana Victória](https://github.com/navicg)  | 02/05/2025 | [Artur Mendonça](https://github.com/ArtyMend07)    | ----     |
