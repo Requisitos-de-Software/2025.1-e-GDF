@@ -1,8 +1,8 @@
-# Rich Picture - Carteira Digital de Trânsito
+# Rich Picture: e-GDF
 
 ## Introdução
 
-O Rich Picture é uma técnica de modelagem que permite representar visualmente um sistema complexo de forma holística, destacando seus componentes, relacionamentos e interações. A Carteira Digital de Trânsito é um aplicativo que permite aos usuários acessar documentos de trânsito em formato digital. O Rich Picture mostra os usuários interagindo com o sistema, além de mostrar fatores externos que estão ligados ao sistema, como os órgãos reguladores e a base de dados do próprio dispositivo. Ele fornece uma visão abrangente do funcionamento do aplicativo, destacando fluxos de informação, interações entre os diferentes atores e os principais processos envolvidos.
+O Rich Picture é uma técnica de modelagem que permite representar visualmente um sistema complexo de forma holística, destacando seus componentes, relacionamentos e interações. O e-GDF é um aplicativo que permite aos cidadãos do Distrito Federal acessar serviços governamentais em formato digital. O Rich Picture mostra os usuários interagindo com o sistema, além de mostrar fatores externos que estão ligados ao sistema, como os órgãos reguladores e a base de dados do próprio dispositivo. Ele fornece uma visão abrangente do funcionamento do aplicativo, destacando fluxos de informação, interações entre os diferentes atores e os principais processos envolvidos.
 
 ## Metodologia e Ferramentas
 
@@ -12,11 +12,11 @@ Para a elaboração do Rich Picture, foi utilizada a ferramenta Lucidchart, que 
 - Representação das interações entre os diferentes componentes
 - Identificação de fatores externos que influenciam o sistema
 
-## Rich Picture - Carteira Digital de Trânsito
+## Rich Picture - e-GDF
 
 <div align="center">
-  <img src="https://i.ibb.co/G4trWRPz/f06ac671-81c1-4429-8587-93e3fa99e6d8.jpg" alt="Rich Picture da Carteira Digital de Trânsito" style="max-width:100%; height:auto;"/>
-  <p>Figura 1: Primeira versão do Rich Picture(Fonte: Elaborado pelos autores: Gabriel e Lucas, 2025)</p>
+  <img src="https://i.ibb.co/xSHd3dyf/rich-picture.png" alt="Rich Picture do e-GDF" style="max-width:100%; height:auto;"/>
+  <p>Figura 1: Segunda versão do Rich Picture(Fonte: Elaborado pelos autores: Gabriel e Lucas, 2025)</p>
 </div>
 
 ## Referências
@@ -33,3 +33,4 @@ Para a elaboração do Rich Picture, foi utilizada a ferramenta Lucidchart, que 
 | ------ | --------- | --------- | ---- | ----------- | --------------- |
 | 1.0 | Rich Picture | [Gabriel Lopes](https://github.com/BrzGab) e [Lucas Mendonça](https://github.com/lucasarruda9) | 11/04/2025 | [Ana Victória](https://github.com/navicg) | 11/04/2025 |
 | 1.1 | Padronizando histórico de versões | [Lucas Mendonça](https://github.com/lucasarruda9) | 13/04/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 13/04/2025 |
+| 1.2 | Mudança de Carteira Digital de Trânsito para e-GDF | [Gabriel Lopes](https://github.com/BrzGab) | 02/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 02/05/2025 |
