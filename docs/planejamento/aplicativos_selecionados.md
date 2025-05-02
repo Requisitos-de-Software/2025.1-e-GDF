@@ -61,7 +61,7 @@ O [e-Título](https://www.justicaeleitoral.jus.br/titulo-eleitoral/) é o aplica
 Oferece serviços eleitorais digitais, simplificando o acesso do cidadão às informações e documentos necessários para o exercício do voto.
 
 ## Cadastro Único
-​O aplicativo Cadastro Único é uma ferramenta oficial do Governo Federal que facilita o acesso de cidadãos às informações do Cadastro Único para Programas Sociais. O aplicativo disponibiliza:
+​O aplicativo [Cadastro Único](https://www.gov.br/pt-br/servicos/consultar-dados-do-cadastro-unico-cadunico) é uma ferramenta oficial do Governo Federal que facilita o acesso de cidadãos às informações do Cadastro Único para Programas Sociais. O aplicativo disponibiliza:
 
 - Consulta de dados cadastrais
 - Emissão de comprovante de cadastramento
@@ -72,7 +72,7 @@ Oferece serviços eleitorais digitais, simplificando o acesso do cidadão às in
 O aplicativo foi desenvolvido pela Dataprev para o Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, visando facilitar o acesso dos cidadãos às informações do Cadastro Único
 
 ## Receita Federal
-​O aplicativo Receita Federal é uma ferramenta oficial desenvolvida para facilitar o acesso dos cidadãos brasileiros a diversos serviços e informações fiscais diretamente pelo celular ou tablet. O aplicativo disponibiliza:
+​O aplicativo [Receita Federal](https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/download/app/rfb) é uma ferramenta oficial desenvolvida para facilitar o acesso dos cidadãos brasileiros a diversos serviços e informações fiscais diretamente pelo celular ou tablet. O aplicativo disponibiliza:
 
 - Consulta de CPF e CNPJ
 - Imposto de Renda
@@ -86,7 +86,7 @@ O aplicativo foi desenvolvido pela Dataprev para o Ministério do Desenvolviment
 Além disso, o aplicativo incorporou todas as funcionalidades do antigo app "Meu Imposto de Renda", que será desativado em breve, consolidando os serviços em uma única plataforma para maior comodidade dos usuários.
 
 ## Conclusão da Avaliação Inicial
-A partir da análise dos aplicativos avaliados, o **e-GDF** foi escolhido como objeto principal de estudo devido à sua relevância para os cidadãos do Distrito Federal, sua complexidade em integrar diversos serviços públicos digitais e a importância de sua implementação na transformação digital do governo. O aplicativo oferece uma interface que centraliza serviços essenciais, como saúde, transporte e educação, permitindo uma avaliação abrangente das técnicas de engenharia de requisitos aprendidas na disciplina.
+A partir da análise dos aplicativos avaliados, o [e-GDF](https://www.economia.df.gov.br/e-gdf-e-economiadf) foi escolhido como objeto principal de estudo devido à sua relevância para os cidadãos do **Distrito Federal**, sua complexidade em integrar diversos serviços públicos digitais e a importância de sua implementação na transformação digital do governo. O aplicativo oferece uma interface que centraliza serviços essenciais, como saúde, transporte e educação, permitindo uma avaliação abrangente das técnicas de engenharia de requisitos aprendidas na disciplina.
 
 ## Referências Bibliográficas 
 
@@ -102,7 +102,7 @@ Receita Federal. Disponível em:[https://www.gov.br/receitafederal/pt-br/centrai
 
 ## Bibliografia
 
-UNIVERSIDADE DE BRASÍLIA. FGA0313 – Requisitos de Software – Turma T03 (2025.1 – 35M12). Docente: ANDRE BARROS DE SALES. Plano de ensino disponível em: [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf). Acesso em: 30 abr. 2025.
+UNIVERSIDADE DE BRASÍLIA. FGA0313 – Requisitos de Software – Turma T03 (2025.1 – 35M12). Docente: ANDRE BARROS DE SALES. Plano de ensino disponível em: [Plano de Ensino](https://drive.google.com/file/d/19hLDyKCjiX6g2TyyLoFgae9jtgHpf_Hy/view?usp=drive_link). Acesso em: 02 mai. 2025.
 
 ## Histórico de Versões
 
@@ -113,3 +113,4 @@ UNIVERSIDADE DE BRASÍLIA. FGA0313 – Requisitos de Software – Turma T03 (202
 |  1.0   | Versão inicial dos Aplicativos avaliados no projeto | [Gabriel Lopes](https://github.com/BrzGab) e [Karoline Luz](https://github.com/KarolineLuz) | 11/04/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 11/04/2025 |
 | 1.1    |  Padronizando histórico de versões               |  [Lucas Mendonça ](https://github.com/lucasarruda9)  | 13/04/2025 | [Artur Mendonça](https://github.com/ArtyMend07)   | 13/04/2025      |
 | 1.2   | Correção da lista de apps, adicionando novos aplicativos analisados| [Ana Victória](https://github.com/navicg) | 30/04/2025 | [Karoline Luz](https://github.com/KarolineLuz)   | 01/05/2025      |
+| 1.3  | Corrigindo os links de direcionamento. | [Ana Victória](https://github.com/navicg) | 02/05/2025 | [Karoline Luz](https://github.com/KarolineLuz)   | 02/05/2025      |

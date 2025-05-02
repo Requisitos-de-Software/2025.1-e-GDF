@@ -41,7 +41,7 @@ e-GDF. Disponível em:
 [https://www.economia.df.gov.br/e-gdf-e-economiadf](https://www.economia.df.gov.br/e-gdf-e-economiadf). Acesso em: 30 abr 2025.
 ## Bibliografia:
 
-UNIVERSIDADE DE BRASÍLIA. FGA0313 – Requisitos de Software – Turma T03 (2025.1 – 35M12). Docente: ANDRE BARROS DE SALES. Plano de ensino disponível em: [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf). Acesso em: 30 abr. 2025.
+UNIVERSIDADE DE BRASÍLIA. FGA0313 – Requisitos de Software – Turma T03 (2025.1 – 35M12). Docente: ANDRE BARROS DE SALES. Plano de ensino disponível em: [Plano de Ensino](https://drive.google.com/file/d/19hLDyKCjiX6g2TyyLoFgae9jtgHpf_Hy/view?usp=drive_link). Acesso em: 02 mai. 2025.
 
 ## Histórico de versão
 
@@ -50,4 +50,5 @@ Versão  |  Descrição | Autor(es) | Data      | Revisor(es) | Data de Revisão
 1.0 |  Aplicativo escolhido para o projeto. | [Ana Victória](https://github.com/navicg) | 11/04/2025 |[Karoline Luz](https://github.com/KarolineLuz) |      12/04/2025      |
 1.1 |  Adição da bibliografia e algumas melhorias. | [Ana Victória](https://github.com/navicg)| 11/04/2025 |[Karoline Luz](https://github.com/KarolineLuz) |       12/04/2025      |
 | 1.2    |  Padronizando histórico de versões. |  [Lucas Mendonça](https://github.com/lucasarruda9)  | 13/04/2025 | [Artur Mendonça](https://github.com/ArtyMend07)   | 13/04/2025      |
-| 1.3    | Mudança de aplicativo. | [Ana Victória](https://github.com/navicg) | 30/04/2025 | [Karoline Luz](https://github.com/KarolineLuz)   | 01/05/2025      |
+| 1.3    | Mudança de aplicativo. | [Ana Victória](https://github.com/navicg) | 30/04/2025 | [Karoline Luz](https://github.com/KarolineLuz)   | 02/05/2025      |
+| 1.4   | Corrigindo os links de direcionamento. | [Ana Victória](https://github.com/navicg) | 02/05/2025 | [Karoline Luz](https://github.com/KarolineLuz)   | 02/05/2025      |
