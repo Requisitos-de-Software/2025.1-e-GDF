@@ -23,6 +23,8 @@ nav:
   - Elicitação:
     - Técnicas:
       - Brainstorming: elicitacao/tec_elicitacao/brainstorming.md
+    - Priorização:
+      - First Things First: elicitacao/tec_priorizacao/first_things_first.md
   - Verificação:
      - Grupo:
         - Entrega 1:
