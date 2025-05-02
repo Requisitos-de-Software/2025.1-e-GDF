@@ -80,40 +80,41 @@ Os usuários foram submetidos a uma série de perguntas e para o compartilhament
 
 # Elicitação de Requisitos funcionais e não funcionais
 
-| Tipo                      | ID   | Descrição                                                                                                              | Código | Implementado |
-|---------------------------|------|-------------------------------------------------------------------------------------------------------------------------|--------|--------------|
-| **REQUISITOS FUNCIONAIS** |      |                                                                                                                         |        |              |
-|                           |      | O usuário deve conseguir realizar login de forma simples e rápida                                                      | RF01   |              |
-|                           |      | O usuário deve conseguir acessar funcionalidades mesmo com pouca familiaridade com tecnologia                          | RF02   |              |
-|                           |      | O usuário deve poder receber notificações personalizadas com base em sua localização                                    | RF03   |              |
-|                           |      | O usuário deve poder consultar agendamentos e serviços em um único local centralizado                                  | RF04   |              |
-|                           |      | O usuário deve ter acesso a um assistente virtual com acessibilidade por voz                                           | RF05   |              |
-|                           |      | O usuário deve poder acessar tutoriais passo a passo sobre como usar o app                                             | RF06   |              |
-|                           |      | O usuário deve poder alterar o tamanho da fonte e o contraste de cores                                                 | RF07   |              |
-|                           |      | O aplicativo deve permitir modo escuro                                                                                 | RF08   |              |
-|                           |      | O usuário deve poder realizar agendamentos sem ser redirecionado para outros sistemas externos                         | RF09   |              |
-|                           |      | O usuário deve poder acessar e visualizar notícias relevantes                                                          | RF10   |              |
-|                           |      | O usuário deve poder gerar relatórios e visualizar comprovantes de agendamentos                                        | RF11   |              |
-|                           |      | O aplicativo deve permitir a integração com serviços de saúde, educação e mobilidade                                   | RF12   |              |
-|                           |      | O usuário deve poder alterar o idioma do aplicativo                                                                     | RF13   |              |
-|                           |      | O usuário deve poder personalizar suas preferências e perfis para recomendações de serviços                            | RF14   |              |
-|                           |      | O aplicativo deve permitir o envio de mensagens curtas sobre vencimentos e lembretes importantes                       | RF15   |              |
-|                           |      | O usuário deve poder acessar um menu com as principais funções logo na tela inicial                                    | RF16   |              |
-|                           |      | O usuário deve poder acessar informações de agendamento e reagendamento de forma centralizada                          | RF17   |              |
-|                           |      | O usuário deve poder utilizar chatbot para tirar dúvidas                                                               | RF18   |              |
-|                           |      | O aplicativo deve permitir notificações por categorias como saúde, educação, transporte                                | RF19   |              |
-|                           |      | O usuário deve conseguir compartilhar ou salvar informações importantes (como protocolos ou comprovantes)              | RF20   |              |
-| **REQUISITOS NÃO FUNCIONAIS** |      |                                                                                                                         |        |              |
-|                           |      | O sistema deve possuir uma interface simples, limpa e com ícones ilustrativos                                          | RNF01  |              |
-|                           |      | O aplicativo deve permitir acessibilidade para pessoas idosas ou com deficiência visual                                | RNF02  |              |
-|                           |      | O sistema deve fornecer feedback em tempo real durante o uso                                                           | RNF03  |              |
-|                           |      | O sistema deve funcionar mesmo em dispositivos com baixa capacidade de hardware                                        | RNF04  |              |
-|                           |      | A navegação deve ser rápida e fluida entre telas, sem necessidade de redirecionamentos excessivos                      | RNF05  |              |
-|                           |      | O sistema deve carregar as informações de forma otimizada, reduzindo tempo de resposta                                 | RNF06  |              |
-|                           |      | O layout deve ser responsivo para diferentes tamanhos de tela                                                          | RNF07  |              |
-|                           |      | O sistema deve ter compatibilidade com leitores de tela                                                                | RNF08  |              |
-|                           |      | O app deve conter linguagem clara e acessível, adequada a diferentes níveis de escolaridade                            | RNF09  |              |
-|                           |      | O app deve respeitar normas de acessibilidade digital (como WCAG)                                                      | RNF10  |              |
+| Tipo                          | ID     | Descrição                                                                                                              | Código | Implementado |
+|-------------------------------|--------|-------------------------------------------------------------------------------------------------------------------------|--------|--------------|
+| **REQUISITOS FUNCIONAIS**     |        |                                                                                                                         |        |              |
+|                               | BR01   | O usuário deve conseguir realizar login de forma simples e rápida                                                      | RF01   |              |
+|                               | BR02   | O usuário deve conseguir acessar funcionalidades mesmo com pouca familiaridade com tecnologia                          | RF02   |              |
+|                               | BR03   | O usuário deve poder receber notificações personalizadas com base em sua localização                                    | RF03   |              |
+|                               | BR04   | O usuário deve poder consultar agendamentos e serviços em um único local centralizado                                  | RF04   |              |
+|                               | BR05   | O usuário deve ter acesso a um assistente virtual com acessibilidade por voz                                           | RF05   |              |
+|                               | BR06   | O usuário deve poder acessar tutoriais passo a passo sobre como usar o app                                             | RF06   |              |
+|                               | BR07   | O usuário deve poder alterar o tamanho da fonte e o contraste de cores                                                 | RF07   |              |
+|                               | BR08   | O aplicativo deve permitir modo escuro                                                                                 | RF08   |              |
+|                               | BR09   | O usuário deve poder realizar agendamentos sem ser redirecionado para outros sistemas externos                         | RF09   |              |
+|                               | BR10   | O usuário deve poder acessar e visualizar notícias relevantes                                                          | RF10   |              |
+|                               | BR11   | O usuário deve poder gerar relatórios e visualizar comprovantes de agendamentos                                        | RF11   |              |
+|                               | BR12   | O aplicativo deve permitir a integração com serviços de saúde, educação e mobilidade                                   | RF12   |              |
+|                               | BR13   | O usuário deve poder alterar o idioma do aplicativo                                                                     | RF13   |              |
+|                               | BR14   | O usuário deve poder personalizar suas preferências e perfis para recomendações de serviços                            | RF14   |              |
+|                               | BR15   | O aplicativo deve permitir o envio de mensagens curtas sobre vencimentos e lembretes importantes                       | RF15   |              |
+|                               | BR16   | O usuário deve poder acessar um menu com as principais funções logo na tela inicial                                    | RF16   |              |
+|                               | BR17   | O usuário deve poder acessar informações de agendamento e reagendamento de forma centralizada                          | RF17   |              |
+|                               | BR18   | O usuário deve poder utilizar chatbot para tirar dúvidas                                                               | RF18   |              |
+|                               | BR19   | O aplicativo deve permitir notificações por categorias como saúde, educação, transporte                                | RF19   |              |
+|                               | BR20   | O usuário deve conseguir compartilhar ou salvar informações importantes (como protocolos ou comprovantes)              | RF20   |              |
+| **REQUISITOS NÃO FUNCIONAIS** |        |                                                                                                                         |        |              |
+|                               | BRN01  | O sistema deve possuir uma interface simples, limpa e com ícones ilustrativos                                          | RNF01  |              |
+|                               | BRN02  | O aplicativo deve permitir acessibilidade para pessoas idosas ou com deficiência visual                                | RNF02  |              |
+|                               | BRN03  | O sistema deve fornecer feedback em tempo real durante o uso                                                           | RNF03  |              |
+|                               | BRN04  | O sistema deve funcionar mesmo em dispositivos com baixa capacidade de hardware                                        | RNF04  |              |
+|                               | BRN05  | A navegação deve ser rápida e fluida entre telas, sem necessidade de redirecionamentos excessivos                      | RNF05  |              |
+|                               | BRN06  | O sistema deve carregar as informações de forma otimizada, reduzindo tempo de resposta                                 | RNF06  |              |
+|                               | BRN07  | O layout deve ser responsivo para diferentes tamanhos de tela                                                          | RNF07  |              |
+|                               | BRN08  | O sistema deve ter compatibilidade com leitores de tela                                                                | RNF08  |              |
+|                               | BRN09  | O app deve conter linguagem clara e acessível, adequada a diferentes níveis de escolaridade                            | RNF09  |              |
+|                               | BRN10  | O app deve respeitar normas de acessibilidade digital (como WCAG)                                                      | RNF10  |              |
+
 
 <font size="3"><p style="text-align: center">Fonte: [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx).</p></font>
 
