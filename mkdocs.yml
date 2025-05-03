@@ -20,9 +20,6 @@ nav:
     - Cronograma: planejamento/cronograma.md
     - Metodologia: planejamento/metodologia.md
     - Termo de Uso: planejamento/termos_de_uso.md
-  - Elicitação:
-    - Técnicas:
-      - Entrevista: elicitacao/tec_elicitacao/entrevista.md
   - Verificação:
      - Grupo:
         - Entrega 1:
