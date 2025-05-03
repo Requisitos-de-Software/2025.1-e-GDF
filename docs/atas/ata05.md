@@ -36,3 +36,4 @@ Sexta-feira (25/04/2025) às 20h, via Microsoft Teams.
 | Versão | Data       | Descrição         | Autor(es)                                                        | Revisor(es)                                    |
 | ------ | ---------- | ----------------- | ---------------------------------------------------------------- | ---------------------------------------------- |
 | 1.0    | 18/04/2025 | Ata da 5ª Reunião | [João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS) [Lucas Mendonça Arruda](https://github.com/lucasarruda9) | [Karoline Luz](https://github.com/KarolineLuz) |
+| 1.1    | 18/04/2025 | Arrumando nº da Ata | [João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS) | [Karoline Luz](https://github.com/KarolineLuz) |
