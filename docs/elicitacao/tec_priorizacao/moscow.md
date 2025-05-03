@@ -17,10 +17,8 @@ O requisito é **importante** e **deveria ser incluído** na solução, se poss�
 ### **[Could Have](#could-have)** 
 É um recurso **desejável**, mas que pode ser **adiado ou até eliminado**, sendo implementado apenas se houver tempo e recursos suficientes.
 
-### **[Won’t Have](#wont-have)** 
-Indica um requisito que **não será implementado no momento**, mas **poderá ser considerado futuramente**. É importante ressaltar que essa categoria pode gerar ambiguidade, pois pode ser interpretada tanto como "não será implementado neste momento" quanto "não será implementado no futuro", exigindo clareza na comunicação para evitar mal-entendidos.
-
-Apesar da clareza nas classificações, a técnica não oferece um critério objetivo para decidir qual requisito se encaixa em qual categoria. Isso gera **ambiguidade**, especialmente na categoria "Won’t". Na prática, muitos usuários tentam garantir que seus requisitos recebam a classificação “Must”, pois compreendem que qualquer outra categoria é vista como "não será implementado em breve". Assim, a técnica acaba não funcionando bem como método real de priorização quando mal interpretada ou mal aplicada.
+### **[Won’t Have](#wont-have)**  
+Indica um requisito **não implementado no momento**, mas **possível no futuro**. Essa categoria pode gerar **ambiguidade**, pois pode ser interpretada como "não agora" ou "nunca". A técnica MoSCoW, apesar de clara, **não define critérios objetivos** para classificar os requisitos, o que pode levar a disputas por classificações mais prioritárias, como “Must”. Quando mal aplicada, pode **comprometer a efetividade da priorização**.
 
 ## Metodologia
 
@@ -46,14 +44,14 @@ A técnica MoSCoW foi aplicada por meio de reuniões com os participantes do pro
 ## Tabela 1: Requisitos Funcionais
 |
 
-<font size="3"><p style="text-align: center">Fonte: [Ana Vitória](https://github.com/navicg), [Gabriel Lopes](https://github.com/BrzGab).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Ana Vitória](https://github.com/navicg), [Gabriel Lopes](https://github.com/BrzGab) e [Karoline Luz](https://github.com/KarolineLuz).</p></font>
 
 ### Requisitos Não Funcionais
 
 **Tabela 2: Requisitos Não Funcionais**
 
 
-<font size="3"><p style="text-align: center">Fonte: [Ana Vitória](https://github.com/navicg), [Gabriel Lopes](https://github.com/BrzGab) e .</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Ana Vitória](https://github.com/navicg), [Gabriel Lopes](https://github.com/BrzGab) e [Karoline Luz](https://github.com/KarolineLuz).</p></font>
 
 ## Referências Bibliográficas
 
@@ -69,5 +67,5 @@ A técnica MoSCoW foi aplicada por meio de reuniões com os participantes do pro
 
 | Versão | Data       | Descrição                                | Autor(es)             | Revisor(es) | Data de Revisão |
 |--------|------------|------------------------------------------|----------------------|-------------|----------------|
-| 1.0    | 24/04/2025 | Criação do documento com requisitos MoSCoW | Ana Vitória, Gabriel Lopes e Karoline Luz | João Marcos Moraes de Andrade | — |
-| 1.1    | 24/04/2025 | Correção e adição de melhorias no artefato | Ana Vitória, Gabriel Lopes e Karoline Luz | João Marcos Moraes de Andrade | — |
+| 1.0    | 24/04/2025 | Criação do documento com requisitos MoSCoW | [Ana Vitória](https://github.com/navicg), [Gabriel Lopes](https://github.com/BrzGab) e [Karoline Luz](https://github.com/KarolineLuz) | — |
+| 1.1    | 24/04/2025 | Correção e adição de melhorias no artefato | [Ana Vitória](https://github.com/navicg), [Gabriel Lopes](https://github.com/BrzGab) e [Karoline Luz](https://github.com/KarolineLuz) | — |
