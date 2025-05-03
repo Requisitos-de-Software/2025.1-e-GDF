@@ -17,7 +17,7 @@ A entrevista foi realizada induvidulamente, pelos membros da equipe [Ana Victór
 | ---------------------------------------|------------ |------------------------ | ------ |-------|----------|-------|-------|
 |[Ana Victória](https://github.com/navicg)| Luís Felipe |30/04/2025| 30/04/2025| 12:20  | 12:20|  UnB-FCTE |  07:40 min |
 | [Ana Victória](https://github.com/navicg) | Júnia Luz |01/05/2025| 01/05/2025 |17:10|17:11 |  Microsoft Teams |10:20 min |
-| [Artur Mendonça](https://github.com/ArtyMend07)|...| ...| ...|... |...| ... | ....|
+| [Artur Mendonça](https://github.com/ArtyMend07)|Vitor Guilherme | 02/05/2025| 15:00 | 15:10 |Microsoft Teams|  6:48 min |
 
 
 Fonte: [Ana Victória](https://github.com/navicg) e [Artur Mendonça](https://github.com/ArtyMend07), 2025.
@@ -33,6 +33,12 @@ Fonte: [Ana Victória](https://github.com/navicg) e [Artur Mendonça](https://gi
 [Gravação - Júnia Luz ](https://youtu.be/CpYU4PauOWY)
 
 [Transcrição da resposta da entrevistada](https://drive.google.com/file/d/1Ro67mpEt93GU_JJdR3Zzks01CxF6WmSL/view?usp=drive_link)
+
+## Segunda entrevista - Vitor Guilherme
+
+[Gravação - Vitor Guilherme](https://www.youtube.com/watch?v=ZszZ9DdVtE4)
+
+[Transcrição da resposta do entrevistado](https://drive.google.com/file/d/1ltlG6X_JF9mhjDuhlwXIC5MV5X9memhm/view?usp=sharing)
 
 ## Perguntas Realizadas
 
@@ -66,6 +72,9 @@ Fonte: [Ana Victória](https://github.com/navicg) e [Artur Mendonça](https://gi
 | RF06 | O aplicativo implementa funcionalidades adicionais na área educacional, como acompanhamento de pendências para professores e alunos. | RF06 | Não |
 | RF07 | O aplicativo inclui recursos de acessibilidade como leitura em áudio para deficientes visuais e suporte em Libras para deficientes auditivos. | RF07 | Não |
 | RF08 | O aplicativo permite ajuste de tamanho de fonte para facilitar a leitura, especialmente por usuários idosos. | RF08 | Não |
+| RF09 | O aplicativo deve permitir que usuários reportem problemas da cidade através de um mapa interativo. | RF09 | Não |
+| RF10 | O aplicativo deve fornecer acesso a números de serviços de emergência da polícia. | RF10 | Sim |
+| RF11 | O aplicativo deve oferecer uma seção de suporte ao usuário com instruções de uso. | RF11 | Não |
 
 Fonte: [Ana Victória](https://github.com/navicg) e [Artur Mendonça](https://github.com/ArtyMend07), 2025.
 
@@ -80,6 +89,8 @@ Fonte: [Ana Victória](https://github.com/navicg) e [Artur Mendonça](https://gi
 | RNF04 | O aplicativo deve garantir proteção de dados pessoais, reforçando a confiança do usuário quanto à privacidade e segurança. | RNF04 | Sim |
 | RNF05 | O aplicativo deve melhorar a performance do processo de login, permitindo uma experiência mais fluida. | RNF05 | Não |
 | RNF06 | O aplicativo deve considerar a usabilidade para usuários idosos, garantindo que o design e as funcionalidades sejam facilmente compreensíveis e acessíveis. | RNF06 | Não |
+| RNF07 | O aplicativo deve fornecer suporte para acessibilidade, incluindo recursos para daltônicos e deficientes visuais. | RNF08 | Não |
+| RNF08 | O aplicativo deve ter uma aparência profissional e confiável para transmitir segurança aos usuários. | RNF09 | Não |
 
 
 Fonte: [Ana Victória](https://github.com/navicg) e [Artur Mendonça](https://github.com/ArtyMend07), 2025.
@@ -96,3 +107,4 @@ WIEGERS, Karl E.; BEATTY, Joy. Software requirements. 3. ed. Redmond: Microsoft 
 | :----: | :----------------: | :--------------------------------------------------: | :-------------------: | :-------------:  |  :-----------: |
 | 1.0 | 01/05/2025 | Organizando e adicionando algumas informações das entrevistas feitas. | [Ana Victória](https://github.com/navicg) e [Artur Mendonça](https://github.com/ArtyMend07)| [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | .. |
 | 1.1 | 02/05/2025 | Correção e adição de algumas informações sobre a entrevista. | [Ana Victória](https://github.com/navicg) e [Artur Mendonça](https://github.com/ArtyMend07)| [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | .. |
+| 1.2 | 03/05/2025 | Adição da entrevista do Vitor Guilherme. | [Ana Victória](https://github.com/navicg) e [Artur Mendonça](https://github.com/ArtyMend07)| [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | .. |
