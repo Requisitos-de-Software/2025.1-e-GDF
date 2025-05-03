@@ -22,7 +22,11 @@ nav:
     - Termo de Uso: planejamento/termos_de_uso.md
   - Elicitação:
     - Técnicas:
+      - Analise de Documentos: elicitacao/tec_elicitacao/analise_documentos.md
       - Brainstorming: elicitacao/tec_elicitacao/brainstorming.md
+      - Entrevista: elicitacao/tec_elicitacao/entrevista.md
+      - Introspecção: elicitacao/tec_elicitacao/introspeccao.md
+    - Requisitos Elicitados: elicitacao/req_elicitados.md
   - Verificação:
      - Grupo:
         - Entrega 1:

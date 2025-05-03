@@ -88,4 +88,4 @@ A legenda para cada sigla é a seguinte:
 
 | Versão | Descrição                                     | Autor(es)                                                                                                  | Data       | Revisor(es)                            | Data de revisão |
 | ------ | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ---------- | -------------------------------------- | --------------- |
-| 1.0    | Criação da documentação do Requisitos Elicitados | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 03/05/2025 | [Karoline](https://github.com/karol) | 03/05/2025      |
+| 1.0    | Criação da documentação do Requisitos Elicitados | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 03/05/2025 | [Karoline Luz](https://github.com/karol) | 03/05/2025      |
