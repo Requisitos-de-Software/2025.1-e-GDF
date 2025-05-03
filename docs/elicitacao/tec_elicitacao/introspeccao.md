@@ -25,7 +25,7 @@ Após essa etapa, os requisitos foram documentados, classificados e revisados. A
 Estes requisitos descrevem as funcionalidades que o sistema deve obrigatoriamente oferecer para cumprir seus objetivos principais.
 
 
-| Tipo | ID    | Descrição                                                                                                 | Implementado |
+| Tipo | <a id="anchor_IN" style="color:white;">ID</a>   | Descrição                                                                                                 | Implementado |
 |------|-------|-----------------------------------------------------------------------------------------------------------|--------------|
 | RF   | INT01 | Permitir o registro de ocorrências relacionadas a problemas de infraestrutura urbana, como buracos ou falta de iluminação. | Sim          |
 | RF   | INT02 | Disponibilizar categorias pré-definidas para o tipo de ocorrência, facilitando a triagem pelos órgãos competentes. | Sim          |
