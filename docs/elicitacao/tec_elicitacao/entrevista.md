@@ -24,7 +24,7 @@ Fonte: [Ana Victória](https://github.com/navicg) e [Artur Mendonça](https://gi
 
 ## Primeira Entrevista - Luís Felipe
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/t8xXrzlBbdM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/t8xXrzlBbdM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 <p style="text-align: center"><a href="https://youtu.be/t8xXrzlBbdM" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
@@ -33,7 +33,7 @@ Fonte: [Ana Victória](https://github.com/navicg) e [Artur Mendonça](https://gi
 Fonte: [Ana Victória](https://github.com/navicg), 2025.
 ## Segunda entrevista - Júnia Luz
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/CpYU4PauOWY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/CpYU4PauOWY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 <p style="text-align: center"><a href="https://youtu.be/CpYU4PauOWY" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
@@ -43,7 +43,7 @@ Fonte: [Ana Victória](https://github.com/navicg), 2025.
 
 ## Terceira entrevista - Vitor Guilherme
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=ZszZ9DdVtE4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/v=ZszZ9DdVtE4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 <p style="text-align: center"><a href="https://www.youtube.com/watch?v=ZszZ9DdVtE4" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
