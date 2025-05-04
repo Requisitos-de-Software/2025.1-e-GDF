@@ -20,7 +20,20 @@ Indica um requisito **não implementado no momento**, mas **possível no futuro*
 
 ## Metodologia
 
-A técnica MoSCoW foi aplicada durante uma reunião realizada via **Microsoft Teams** com 3  membros da equipe do **eGDF** e um usuário do aplicativo. A reunião envolveu uma discussão aprofundada sobre os **requisitos elicitados**, que foram então classificados com base em critérios como **impacto para o usuário**, **viabilidade técnica**, **alinhamento com os objetivos do governo** e **disponibilidade de recursos**. Embora a técnica seja simples, foi necessário um cuidado especial para garantir que as classificações fossem coerentes e refletissem fielmente o valor e a urgência de cada requisito.
+A técnica MoSCoW foi aplicada durante uma reunião realizada via **Microsoft Teams** com 3  membros da equipe do **eGDF**, que desempenharam o papel de **mediadores** e um usuário do aplicativo, que desempenhou o papel de **cliente**. A reunião envolveu uma discussão aprofundada sobre os **requisitos elicitados**, que foram então classificados com base em critérios como **impacto para o usuário**, **viabilidade técnica**, **alinhamento com os objetivos do governo** e **disponibilidade de recursos**. Embora a técnica seja simples, foi necessário um cuidado especial para garantir que as classificações fossem coerentes e refletissem fielmente o valor e a urgência de cada requisito.
+
+
+## Participantes
+
+| Nome                 | Função        |
+| -------------------- | ------------- |
+| [Ana Victória](https://github.com/navicg)| Mediador|
+| [Gabriel Lopes](https://github.com/BrzGab) | Mediador |
+| [Karoline Luz](https://github.com/KarolineLuz)   | Mediador |
+| **João Vitor** | Cliente       |
+
+<font size="3"><p style="text-align: center">Fonte: [Ana Victória](https://github.com/navicg), [Gabriel Lopes](https://github.com/BrzGab) e [Karoline Luz](https://github.com/KarolineLuz).</p></font>
+
 
 ## Reunião da aplicação da técnica
 
@@ -28,21 +41,13 @@ A técnica MoSCoW foi aplicada durante uma reunião realizada via **Microsoft Te
 
 <p style="text-align: center"><a href="https://www.youtube.com/watch?v=rZacw2V8qPA" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
-## Participantes
-
-- [Ana Victória](https://github.com/navicg) – Membro da equipe do **eGDF** e participante da priorização.
-- [Gabriel Lopes](https://github.com/BrzGab) – Membro da equipe do **eGDF** e participante da priorização.
-- [Karoline Luz](https://github.com/KarolineLuz) – Membro da equipe do **eGDF** e participante da priorização.
-- [João Vitor]()  – Usuário do aplicativo e participante da priorização.
-
 ## Requisitos Priorizados
 
-A **Tabela 1** apresenta os requisitos funcionais e não funcionais, sendo que cada linha contém um **ID**, sua respectiva descrição, um **hyperlink de rastreabilidade** que direciona à página da(s) **técnica(s)** que elicitou o requisito em questão e se ele foi **implementado** ou não.
+A **Tabela 1** e **2** apresenta os requisitos funcionais e não funcionais, respectivamente, sendo que cada linha contém um **ID**, sua respectiva descrição, um **hyperlink de rastreabilidade** que direciona à página da(s) **técnica(s)** que elicitou o requisito em questão e se ele foi **implementado** ou não, e também o nível de **prioridade**.
 
 A **legenda** para cada sigla é a seguinte:
 
 - **RFx**: Requisito Funcional nºx
-- **RNFx**: Requisito Não-Funcional nºx
 - **INTx***: Requisito nºx elicitado pela Introspecção
 - **BRx**: Requisito nºx elicitado pelo Brainstorming
 - **ADx**: Requisito nºx elicitado pelo Analise de Documentos
@@ -52,8 +57,7 @@ A **legenda** para cada sigla é a seguinte:
 - **CH**: Prioridade: **Could Have**
 - **WH**: Prioridade: **Won't Have**
 
-### Tabela 1: Requisitos Funcionais e Não Funcionais
-
+### Tabela 1: Requisitos Funcionais
 | ID   | Descrição                                                                                                                                                               | Rastreabilidade                                                  | Implementação | Prioridade (MoSCoW) |
  | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ------------- | ------------------ |
  |      |                                                                                                                                                                         |                                                                  |               |                    |
@@ -102,6 +106,26 @@ A **legenda** para cada sigla é a seguinte:
  | RF43   | Apresentar um feed de notícias atualizadas com informações úteis do Governo do Distrito Federal.                                                                         | <a href="../tec_elicitacao/introspeccao/#anchor_INT">INT12</a>                                                                                                                  | Sim           |SH
  | RF44   | Integrar um assistente virtual ou chatbot com respostas automáticas para dúvidas frequentes.                                                                             | <a href="../tec_elicitacao/introspeccao/#anchor_INT">INT13</a>                                                                                                                  | Sim           |CH
  | RF45   | Fornecer um mapa com localização de unidades de serviço público e ocorrências próximas.                                                                                  | <a href="../tec_elicitacao/introspeccao/#anchor_INT">INT14</a>                                                                                                                  | Sim           |MH
+
+<font size="3"><p style="text-align: center">Fonte: [Ana Victória](https://github.com/navicg), [Gabriel Lopes](https://github.com/BrzGab) e [Karoline Luz](https://github.com/KarolineLuz).</p></font>
+
+### Tabela 2: Requisitos Não funcionais
+
+**Legenda**:
+
+- **RNFx**: Requisito Não-Funcional nºx
+- **INTx***: Requisito nºx elicitado pela Introspecção
+- **BRx**: Requisito nºx elicitado pelo Brainstorming
+- **ADx**: Requisito nºx elicitado pelo Analise de Documentos
+- **ENx**: Requisito nºx elicitado pela Entevista
+- **MH**: Prioridade: **Must Have**
+- **SH**: Prioridade: **Should Have**
+- **CH**: Prioridade: **Could Have**
+- **WH**: Prioridade: **Won't Have**
+
+ | ID   | Descrição                                                                                                                                                               | Rastreabilidade                                                  | Implementação | Prioridade (MoSCoW) |
+ | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ------------- | ------------------ |
+ |      |                                                                                                                                                                         |                                                                  |               |                    |
  | RNF01  | O sistema deve ser compatível com vários dispositivos como Android e iOS.                                                                                              | <a href="../tec_elicitacao/analise_decisao/#anchor_AD">AD09</a>                                                                                                                 | Não           |MH
  | RNF02  | O sistema deve estar em conformidade com a Lei Geral de Proteção de Dados (LGPD).                                                                                        | <a href="../tec_elicitacao/analise_decisao/#anchor_AD">AD10</a>                                                                                                                 | Não           |MH
  | RNF03  | O sistema deve ter uma interface intuitiva.                                                                                                                             | <a href="../tec_elicitacao/analise_decisao/#anchor_AD">AD11</a>                                                                                                                 | Não           |MH
