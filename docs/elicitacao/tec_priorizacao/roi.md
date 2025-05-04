@@ -31,7 +31,7 @@ Para aplicar a técnica ROI, seguimos os seguintes passos:
    - Média: 1 < ROI < 2
    - Baixa: ROI ≤ 1
 
-## Resultados
+## Priorização dos Requisitos
 
 ### Requisitos Funcionais
 
@@ -122,30 +122,55 @@ Para aplicar a técnica ROI, seguimos os seguintes passos:
 
 <p style="text-align: center"><b>Fonte:</b> Artur, 2025</p>
 
-## Análise dos Resultados
+## Resultados
 
 Com base na priorização realizada, podemos observar que:
 
-1. **Requisitos de Alta Prioridade:**
-   - Focam principalmente em usabilidade e funcionalidades essenciais
-   - Representam aproximadamente 35% dos requisitos analisados
+1. **Requisitos Funcionais:**
+   - Alta Prioridade: 16 requisitos (35.6%)
+   - Média Prioridade: 24 requisitos (53.3%)
+   - Baixa Prioridade: 5 requisitos (11.1%)
 
-2. **Requisitos de Média Prioridade:**
-   - Incluem melhorias importantes mas não críticas
-   - Correspondem a cerca de 45% dos requisitos
+2. **Requisitos Não Funcionais:**
+   - Alta Prioridade: 6 requisitos (24%)
+   - Média Prioridade: 18 requisitos (72%)
+   - Baixa Prioridade: 1 requisito (4%)
 
-3. **Requisitos de Baixa Prioridade:**
-   - São funcionalidades desejáveis mas com alto custo de implementação
-   - Representam aproximadamente 20% dos requisitos
+### Analise das Informações:
 
-<p style="text-align: center"><b>Figura 1:</b> Distribuição de Prioridades dos Requisitos</p>
+1. A maioria dos requisitos funcionais e não funcionais tem prioridade média, indicando um bom equilíbrio entre benefício e custo.
 
-```mermaid
-pie title Distribuição de Prioridades
-    "Alta" : 35
-    "Média" : 45
-    "Baixa" : 20
-```
+2. Os requisitos de alta prioridade estão principalmente relacionados a:
+   - Usabilidade básica (login, menu principal)
+   - Funcionalidades essenciais (agendamentos, serviços de emergência)
+   - Acessibilidade (fonte, contraste)
+   - Interface do usuário (simplicidade, intuitividade)
+
+3. Os requisitos de baixa prioridade geralmente envolvem:
+   - Funcionalidades avançadas (assistente virtual, modo offline)
+   - Recursos que requerem alto custo de implementação
+
+<p style="text-align: center"><b>Figura 1:</b> Distribuição de Prioridades - Requisitos Funcionais</p>
+
+<table align="center">
+<tr><th colspan="3">Distribuição de Prioridades - RFs</th></tr>
+<tr>
+    <td bgcolor="#90EE90" width="35.6%">Alta (35.6%)</td>
+    <td bgcolor="#FFFFE0" width="53.3%">Média (53.3%)</td>
+    <td bgcolor="#FFB6C1" width="11.1%">Baixa (11.1%)</td>
+</tr>
+</table>
+
+<p style="text-align: center"><b>Figura 2:</b> Distribuição de Prioridades - Requisitos Não Funcionais</p>
+
+<table align="center">
+<tr><th colspan="3">Distribuição de Prioridades - RNFs</th></tr>
+<tr>
+    <td bgcolor="#90EE90" width="24%">Alta (24%)</td>
+    <td bgcolor="#FFFFE0" width="72%">Média (72%)</td>
+    <td bgcolor="#FFB6C1" width="4%">Baixa (4%)</td>
+</tr>
+</table>
 
 <p style="text-align: center"><b>Fonte:</b> Artur, 2025</p>
 
