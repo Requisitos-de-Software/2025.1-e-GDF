@@ -25,7 +25,7 @@ Após essa etapa, os requisitos foram documentados, classificados e revisados. A
 Estes requisitos descrevem as funcionalidades que o sistema deve obrigatoriamente oferecer para cumprir seus objetivos principais.
 
 
-| Tipo | ID    | Descrição                                                                                                 | Implementado |
+| Tipo | <a id="anchor_INT" style="color:white;">ID</a>   | Descrição                                                                                                 | Implementado |
 |------|-------|-----------------------------------------------------------------------------------------------------------|--------------|
 | RF   | INT01 | Permitir o registro de ocorrências relacionadas a problemas de infraestrutura urbana, como buracos ou falta de iluminação. | Sim          |
 | RF   | INT02 | Disponibilizar categorias pré-definidas para o tipo de ocorrência, facilitando a triagem pelos órgãos competentes. | Sim          |
@@ -91,7 +91,6 @@ Estes requisitos não são obrigatórios, mas sua implementação traria ganhos 
 | RNF  | INT38  | Disponibilizar o aplicativo em outros idiomas além do português, como espanhol e inglês.              | Não          |
 | RNF  | INT39  | Implementar integração com assistentes de voz para acessibilidade e agilidade em comandos.            | Não          |
 | RNF  | INT40  | Desenvolver mecanismo de compressão de dados que reduza o consumo de internet móvel em áreas com sinal limitado. | Não |
-| RNF  | INT41  | Garantir que toda a interface atenda às diretrizes de acessibilidade WCAG 2.1 nível AA. | Não |
 
 Fonte: Elaborado pelo autor ( [Gabriel Lopes](https://github.com/BrzGab), 2025).
 

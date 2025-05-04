@@ -10,6 +10,8 @@ nav:
     - Ata 1: atas/ata01.md
     - Ata 2: atas/ata02.md
     - Ata 3: atas/ata03.md
+    - Ata 5: atas/ata05.md
+    - Ata 6: atas/ata06.md
   - Pré-Rastreabilidade: 
     - Rich Picture: pre-rastreabilidade/rich_picture.md
   - Planejamento:
@@ -20,11 +22,15 @@ nav:
     - Cronograma: planejamento/cronograma.md
     - Metodologia: planejamento/metodologia.md
     - Termo de Uso: planejamento/termos_de_uso.md
-  - Elicitação:
+    - Elicitação:
     - Técnicas:
+      - Analise de Documentos: elicitacao/tec_elicitacao/analise_documentos.md
       - Brainstorming: elicitacao/tec_elicitacao/brainstorming.md
+      - Entrevista: elicitacao/tec_elicitacao/entrevista.md
+      - Introspecção: elicitacao/tec_elicitacao/introspeccao.md
     - Priorização:
       - First Things First: elicitacao/tec_priorizacao/first_things_first.md
+    - Requisitos Elicitados: elicitacao/req_elicitados.md
   - Verificação:
      - Grupo:
         - Entrega 1:
@@ -49,3 +55,19 @@ theme:
   language: pt-BR
   favicon: assets/egdf_logo.png
   logo: assets/egdf_logo.png
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+
+plugins:
+  - glightbox:
+      touchNavigation: true
+      effect: zoom
+      slide_effect: slide
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: true
+      caption_position: bottom
