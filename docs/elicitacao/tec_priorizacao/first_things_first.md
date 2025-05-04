@@ -43,7 +43,7 @@ O processo de priorização FTF foi conduzido a partir de sessões de brainstorm
 
 ### Reuniões realizadas
 
-### Gravação da Técnica First-Things-First com os Usuários
+### Gravação da Técnica First-Things-First com os Clientes
 
 <p style="text-align: center">
   <iframe width="560" height="315" src="https://youtube.com/embed/g1nRaqaymdE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -64,12 +64,12 @@ O processo de priorização FTF foi conduzido a partir de sessões de brainstorm
 
 # Tabela de Priorização de Requisitos
 
-### Tabela dos dados no Excel: 
+### Tabela com os dados no Excel: 
 
 <figure markdown="span">
-<img src="">
-  <figcaption>Tabela com os dados no Excel</figcaption>
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Carteira-Digital-de-Transito/refs/heads/docs/first-things-first/docs/assets/Tabela-First-things-First.png">
 </figure>
+<font size="3"><p style="text-align: center">Elaborado por: [Luiza da Silva Pugas](https://github.com/Luizaxx).</p></font>
 
 ### Tabela 1 em ordem decrescente de prioridade: 
 
@@ -149,10 +149,15 @@ Legenda da Tabela:
 
 ---
 
-# Histórico de Versões
+## Referências Bibliográficas
+
+- FIRST things first: Setting requirement priorities. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665. Disponível em: https://www.processimpact.com/articles/prioritizing.pdf Acesso em 4 de março de 2025.
+
+## Histórico de Versões
 
 | Versão | Descrição                                     | Autor(es)                                                                                                  | Data       | Revisor(es)                            | Data de revisão |
 | ------ | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ---------- | -------------------------------------- | --------------- |
 | 1.0    | Criação da documentação do First Things First | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 02/05/2025 | [Artur](https://github.com/ArtyMend07) | 02/05/2025      |
 | 1.1    | Modificação nas tabelas de funcionais e não funcionais | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 04/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 04/05/2025      |
 | 1.2    | Adicionando os links para os videos | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 04/05/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 04/05/2025      |
+| 1.3    | Adicionando a tabela | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 04/05/2025 | [Artur](https://github.com/ArtyMend07) | 04/05/2025      |
