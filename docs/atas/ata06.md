@@ -40,4 +40,4 @@ Reunião realizada online via **Microsoft Teams**.
 ## Histórico de versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) | Data de revisão |
 |--------|------|-----------|-----------|-------------|-----------------|
-| 1.1 | 04/05/2025 | Ata da 6ª Reunião  | [Lucas Mendonça](https://github.com/lucasarruda9) | [Luiza da Silva](https://github.com/Luizaxx) | 04/05/2025 |
+| 1.0 | 04/05/2025 | Ata da 6ª Reunião  | [Lucas Mendonça](https://github.com/lucasarruda9) | [Luiza da Silva](https://github.com/Luizaxx) | 04/05/2025 |
