@@ -32,14 +32,33 @@ O processo de priorização FTF foi conduzido a partir de sessões de brainstorm
 | Nome                 | Função        |
 | -------------------- | ------------- |
 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)   | Mediador      |
-| Wanjo Christopher    | Cliente       |
-| [Luiza da Silva Pugas](https://github.com/Luizaxx) | Desenvolvedor |
+| [Luiza da Silva Pugas](https://github.com/Luizaxx) | Mediador |
+| [Artur Mendonça](https://github.com/ArtyMend07)    | Desenvolvedor       |
+| [Lucas Mendonça ](https://github.com/lucasarruda9) | Desenvolvedor |
+| Camily Andressa    | Cliente       |
+| Nivea Cecilia    | Cliente       |
+| Gabriel Souza    | Cliente       |
 
 <font size="3"><p style="text-align: center">Elaborado por: [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx).</p></font>
 
 ### Reuniões realizadas
 
-- *(Adicione aqui a data e descrição das reuniões, caso deseje)*
+### Gravação da Técnica First-Things-First com os Usuários
+
+<p style="text-align: center">
+  <iframe width="560" height="315" src="https://youtube.com/embed/g1nRaqaymdE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p style="text-align: center"><a href="https://youtu.be/g1nRaqaymdE" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+
+### Gravação da Técnica First-Things-First com os Densevolvedores
+
+<p style="text-align: center">
+  <iframe width="560" height="315" src="https://youtube.com/embed/9PtmtIjqJJs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p style="text-align: center"><a href="https://youtu.be/9PtmtIjqJJs" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
 ---
 
@@ -98,3 +117,4 @@ Legenda da Tabela:
 | ------ | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ---------- | -------------------------------------- | --------------- |
 | 1.0    | Criação da documentação do First Things First | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 02/05/2025 | [Artur](https://github.com/ArtyMend07) | 02/05/2025      |
 | 1.1    | Modificação nas tabelas de funcionais e não funcionais | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 04/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 04/05/2025      |
+| 1.2    | Adicionando os links para os videos | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 04/05/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 04/05/2025      |
