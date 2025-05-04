@@ -22,12 +22,14 @@ nav:
     - Cronograma: planejamento/cronograma.md
     - Metodologia: planejamento/metodologia.md
     - Termo de Uso: planejamento/termos_de_uso.md
-  - Elicitação:
+    - Elicitação:
     - Técnicas:
       - Analise de Documentos: elicitacao/tec_elicitacao/analise_documentos.md
       - Brainstorming: elicitacao/tec_elicitacao/brainstorming.md
       - Entrevista: elicitacao/tec_elicitacao/entrevista.md
       - Introspecção: elicitacao/tec_elicitacao/introspeccao.md
+    - Priorização:
+      - First Things First: elicitacao/tec_priorizacao/first_things_first.md
     - Requisitos Elicitados: elicitacao/req_elicitados.md
   - Verificação:
      - Grupo:
