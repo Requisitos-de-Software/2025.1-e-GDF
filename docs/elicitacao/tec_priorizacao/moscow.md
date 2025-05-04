@@ -37,7 +37,7 @@ A técnica MoSCoW foi aplicada durante uma reunião realizada via **Microsoft Te
 
 ## Reunião da aplicação da técnica
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=rZacw2V8qPA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube/embed/t8xXrzlBbdM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 <p style="text-align: center"><a href="https://www.youtube.com/watch?v=rZacw2V8qPA" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
