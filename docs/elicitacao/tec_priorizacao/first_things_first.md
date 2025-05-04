@@ -62,13 +62,51 @@ O processo de priorização FTF foi conduzido a partir de sessões de brainstorm
 
 ---
 
+# Tabela de Priorização de Requisitos
+
+### Tabela dos dados no Excel: 
+
+<figure markdown="span">
+<img src="">
+  <figcaption>Tabela com os dados no Excel</figcaption>
+</figure>
+
+### Tabela 1 em ordem decrescente de prioridade: 
+
+| Requisito | ID                                                                 | Benefício relativo | Penalidade relativa | Valor total | Valor (%) | Custo relativo | Risco relativo | Esforço total | Custo (%) | Risco (%) | Prioridade |
+| --------- | ------------------------------------------------------------------ | ------------------ | ------------------- | ----------- | --------- | -------------- | -------------- | ------------- | --------- | --------- | ---------- |
+| RF06      | <a href="../../tec_elicitacao/introspeccao/#anchor_INT">INT03</a>  | 9                  | 9                   | 27          | 3,69%     | 2              | 1              | 2.5           | 1,01%     | 0,52%     | 242,59%    |
+| RF05      | <a href="../../tec_elicitacao/introspeccao/#anchor_INT">INT02</a>  | 8                  | 7                   | 23          | 3,05%     | 4              | 2              | 5             | 1,97%     | 1,03%     | 122,55%    |
+| RF12      | <a href="../../tec_elicitacao/introspeccao/#anchor_INT">INT14</a>  | 9                  | 9                   | 27          | 4,44%     | 5              | 5              | 7.5           | 2,96%     | 3,07%     | 114,98%    |
+| RF09      | <a href="../../tec_elicitacao/introspeccao/#anchor_INT">INT10</a>  | 8                  | 8                   | 24          | 3,66%     | 6              | 4              | 8             | 3,28%     | 2,27%     | 82,99%     |
+| RNF04     | <a href="../../tec_elicitacao/brainstorming/#anchor_BRN">BRN08</a> | 8                  | 7                   | 23          | 4,47%     | 4              | 5              | 6.5           | 2,78%     | 3,55%     | 81,76%     |
+| RF11      | <a href="../../tec_elicitacao/introspeccao/#anchor_INT">INT12</a>  | 5                  | 5                   | 15          | 2,41%     | 4              | 3              | 5.5           | 2,31%     | 1,81%     | 74,87%     |
+| RF08      | <a href="../../tec_elicitacao/introspeccao/#anchor_INT">INT06</a>  | 9                  | 9                   | 27          | 3,96%     | 7              | 8              | 11            | 3,68%     | 4,35%     | 71,76%     |
+| RF01      | <a href="../../tec_elicitacao/analise_decisao/#anchor_AD">AD02</a> | 9                  | 9                   | 27          | 6,37%     | 8              | 6              | 11            | 6,84%     | 5,45%     | 66,58%     |
+| RF07      | <a href="../../tec_elicitacao/introspeccao/#anchor_INT">INT04</a>  | 8                  | 7                   | 23          | 3,26%     | 7              | 7              | 10.5          | 3,55%     | 3,66%     | 60,57%     |
+| RNF01     | <a href="../../tec_elicitacao/brainstorming/#anchor_BRN">BRN02</a> | 8                  | 8                   | 24          | 4,13%     | 8              | 8              | 12            | 4,88%     | 5,06%     | 55,75%     |
+| RNF05     | <a href="../../tec_elicitacao/entrevista/#anchor_EN">EN02</a>      | 9                  | 8                   | 26          | 5,28%     | 9              | 9              | 13.5          | 6,43%     | 6,62%     | 54,27%     |
+| RNF07     | <a href="../../tec_elicitacao/integracao/#anchor_INTT">INT16</a>   | 9                  | 5                   | 23          | 5,15%     | 8              | 8              | 12            | 6,40%     | 6,78%     | 52,56%     |
+| RF02      | <a href="../../tec_elicitacao/analise_decisao/#anchor_AD">AD03</a> | 8                  | 7                   | 23          | 2,80%     | 6              | 6              | 9             | 2,65%     | 2,80%     | 52,05%     |
+| RNF06     | <a href="../../tec_elicitacao/entrevista/#anchor_EN">EN04</a>      | 7                  | 5                   | 19          | 4,08%     | 6              | 9              | 10.5          | 4,58%     | 7,09%     | 51,68%     |
+| RNF02     | <a href="../../tec_elicitacao/brainstorming/#anchor_BRN">BRN04</a> | 9                  | 9                   | 27          | 4,85%     | 4              | 1              | 4.5           | 2,56%     | 0,67%     | 95,13%     |
+| RF03      | <a href="../../tec_elicitacao/analise_decisao/#anchor_AD">AD04</a> | 9                  | 9                   | 27          | 3,38%     | 9              | 8              | 13            | 4,09%     | 3,85%     | 56,26%     |
+| RF04      | <a href="../../tec_elicitacao/introspeccao/#anchor_INT">INT01</a>  | 6                  | 4                   | 16          | 2,08%     | 8              | 6              | 11            | 3,79%     | 3,00%     | 36,31%     |
+| RF10      | <a href="../../tec_elicitacao/introspeccao/#anchor_INT">INT11</a>  | 3                  | 2                   | 8           | 1,27%     | 4              | 6              | 7             | 2,26%     | 3,49%     | 37,33%     |
+| RNF03     | <a href="../../tec_elicitacao/brainstorming/#anchor_BRN">BRN06</a> | 5                  | 5                   | 15          | 2,83%     | 8              | 8              | 12            | 5,26%     | 5,37%     | 35,61%     |
+
+<font size="3"><p style="text-align: center">Elaborado por: [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx).</p></font>
+
+
+----
+
 # Elicitação de Requisitos Funcionais
 
 Legenda da Tabela:  
 - RFx: Requisito Funcional nºx  
 - **ID**: Link para a técnica de elicitação
 
-### Tabela 1: Requisitos Funcionais
+### Tabela 2: Requisitos Funcionais
 
 | Requisitos | ID                                                 | Descrição                                                                                                                  |
 | ---------- | --------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
@@ -95,7 +133,7 @@ Legenda da Tabela:
 - **ID**: Link para a técnica de elicitação
 
 
-### Tabela 2: Requisitos não Funcionais
+### Tabela 3: Requisitos não Funcionais
 
 | Requisitos | ID                                                 | Descrição                                                                                                                                               |
 | ---------- | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
