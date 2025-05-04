@@ -51,3 +51,19 @@ theme:
   language: pt-BR
   favicon: assets/egdf_logo.png
   logo: assets/egdf_logo.png
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+
+plugins:
+  - glightbox:
+      touchNavigation: true
+      effect: zoom
+      slide_effect: slide
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: true
+      caption_position: bottom
