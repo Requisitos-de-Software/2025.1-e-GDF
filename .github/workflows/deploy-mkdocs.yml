@@ -1,0 +1,32 @@
+name: Deploy MkDocs
+
+on:
+  push:
+    branches:
+      - master
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: 3.x
+
+      - uses: actions/cache@v4
+        with:
+          path: .cache
+          key: mkdocs-material-${{ github.ref }}
+          restore-keys: |
+            mkdocs-material-
+
+      - run: pip install mkdocs-material mkdocs-glightbox
+
+      - run: mkdocs gh-deploy --force

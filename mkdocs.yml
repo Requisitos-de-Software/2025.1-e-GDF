@@ -1,7 +1,7 @@
 repo_url: https://github.com/Requisitos-de-Software/2025.1-Carteira-Digital-de-Transito
 repo_name: 2025.1-Carteira-Digital-de-Transito
 
-site_name: Carteira Digital de Trânsito
+site_name: e-GDF
 
 nav:
   - Home: index.md
@@ -10,6 +10,8 @@ nav:
     - Ata 1: atas/ata01.md
     - Ata 2: atas/ata02.md
     - Ata 3: atas/ata03.md
+    - Ata 5: atas/ata05.md
+    - Ata 6: atas/ata06.md
   - Pré-Rastreabilidade: 
     - Rich Picture: pre-rastreabilidade/rich_picture.md
   - Planejamento:
@@ -21,8 +23,14 @@ nav:
     - Metodologia: planejamento/metodologia.md
     - Termo de Uso: planejamento/termos_de_uso.md
   - Elicitação:
+    - Técnicas:
+      - Analise de Documentos: elicitacao/tec_elicitacao/analise_documentos.md
+      - Brainstorming: elicitacao/tec_elicitacao/brainstorming.md
+      - Entrevista: elicitacao/tec_elicitacao/entrevista.md
+      - Introspecção: elicitacao/tec_elicitacao/introspeccao.md
     - Priorização:
       - Moscow: elicitacao/tec_priorizacao/moscow.md
+    - Requisitos Elicitados: elicitacao/req_elicitados.md
   - Verificação:
      - Grupo:
         - Entrega 1:
@@ -45,5 +53,21 @@ theme:
         name: Claro
 
   language: pt-BR
-  favicon: assets/image.png
-  logo: assets/image.png
+  favicon: assets/egdf_logo.png
+  logo: assets/egdf_logo.png
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+
+plugins:
+  - glightbox:
+      touchNavigation: true
+      effect: zoom
+      slide_effect: slide
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: true
+      caption_position: bottom

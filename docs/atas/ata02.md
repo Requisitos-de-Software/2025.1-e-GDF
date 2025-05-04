@@ -35,12 +35,14 @@ Reunião realizada online via **Microsoft Teams**.
 * Ficou decidido que, até a próxima reunião, o termo de uso do aplicativo será uma das prioridades máximas do projeto, e que deverá ser documentado até essa data.
 
 ## Link da gravação
-[Link da primeira reunião](https://youtu.be/CwQa5EshHGc)
-## Próxima Reunião 11/04/2025 às 20h
+[Link da segunda reunião](https://youtu.be/CwQa5EshHGc)
+## Próxima Reunião 
+11/04/2025 às 21h
 
 ## Histórico de versão
-Versão  | Data | Descrição | Autor(es) | Revisor(es)
--------- | ------ | ------ | ---------- | ----------
-1.0 | 09/04/2025 | Ata da 2ª Reunião  | [Artur Mendonça Arruda](https://github.com/ArtyMend07) | [Lucas Mendonça Arruda](https://github.com/lucasarruda9)
+Versão  | Data | Descrição | Autor(es) | Revisor(es) | Data da Revisão
+-------- | ------ | ------ | ---------- | ---------- | --------
+1.0 | 09/04/2025 | Ata da 2ª Reunião  | [Artur Mendonça Arruda](https://github.com/ArtyMend07) | [Lucas Mendonça Arruda](https://github.com/lucasarruda9)| 10/04/2025
+|1.1|  23/04/2025 |Padronização do histórico de versão e correções|[Ana Victória Guedes da Costa](https://github.com/navicg)| [Lucas Mendonça ](https://github.com/lucasarruda9) | 28/04/2025
 
 
