@@ -37,17 +37,17 @@ Na versão 3.1.2 da App Store, foram feitas correções visuais, ajustando para 
 <p align="center"><i>Figura 3: Tela de login</i></p>
 
 <p align="center">
-  <img src="../../assets/elicitacao/Analise_de_documentos/AD24.PNG" width="150">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Carteira-Digital-de-Transito/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD24.PNG" width="150">
 </p>
 <p align="center"><i>Figura 4: Tela de serviços</i></p>
 
 <p align="center">
-  <img src="../../assets/elicitacao/Analise_de_documentos/AD25.PNG" width="150">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Carteira-Digital-de-Transito/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD25.PNG" width="150">
 </p>
 <p align="center"><i>Figura 5: Tela do mapa</i></p>
 
 <p align="center">
-  <img src="../../assets/elicitacao/Analise_de_documentos/AD26.PNG" width="150">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Carteira-Digital-de-Transito/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD26.PNG" width="150">
 </p>
 <p align="center"><i>Figura 6: Tela do ChatBot</i></p>
 
@@ -63,7 +63,7 @@ Foram identificadas as seguintes funcionalidades:
 - **Exclusão de conta:** Possibilidade de exclusão total do perfil e dados pelo app.
 
 <p align="center">
-  <img src="../../assets/elicitacao/Analise_de_documentos/AD3.PNG" width="600">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Carteira-Digital-de-Transito/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD3.PNG" width="600">
 </p>
 <p align="center"><i>Figura 7: Funcionalidades do aplicativo</i></p>
 
@@ -75,28 +75,28 @@ As avaliações dos usuários estão acima da média com uma nota de 3.6 estrela
 - **Acessibilidade precária:** Dificuldade para usuários com baixa visão devido a ícones e textos pequenos.
 
 <p align="center">
-  <img src="../../assets/elicitacao/Analise_de_documentos/AD9.PNG" width="600">
+  <img src="https://github.com/Requisitos-de-Software/2025.1-Carteira-Digital-de-Transito/blob/main/docs/assets/elicitacao/Analise_de_documentos/AD9.PNG?raw=true" width="600">
 </p>
 <p align="center"><i>Figura 8: Média das avaliações na PlayStore</i></p>
 
 <p align="center">
-  <img src="../../assets/elicitacao/Analise_de_documentos/AD22.PNG" width="600">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Carteira-Digital-de-Transito/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD22.PNG" width="600">
 </p>
 <p align="center"><i>Figura 9: Média das avaliações na Appstore</i></p>
 
 <p align="center">
-  <img src="../../assets/elicitacao/Analise_de_documentos/AD5.PNG" width="600">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Carteira-Digital-de-Transito/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD5.PNG" width="600">
 </p>
 <p align="center"><i>Figura 10: Avaliações dos usuários 1</i></p>
 
 
 <p align="center">
-  <img src="../../assets/elicitacao/Analise_de_documentos/AD7.PNG" width="600">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Carteira-Digital-de-Transito/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD7.PNG" width="600">
 </p>
 <p align="center"><i>Figura 11: Avaliações dos usuários 2</i></p>
 
 <p align="center">
-  <img src="../../assets/elicitacao/Analise_de_documentos/AD8.PNG" width="600">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Carteira-Digital-de-Transito/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD8.PNG" width="600">
 </p>
 <p align="center"><i>Figura 12: Avaliações dos usuários 3</i></p>
 
@@ -105,27 +105,27 @@ As avaliações dos usuários estão acima da média com uma nota de 3.6 estrela
 Os dados pessoais do usuário são protegidos em conformidade com a Lei Geral de Proteção de Dados (LGPD), sendo coletado afim de identificação do usuário. A plataforma também coleta dados necessários para a execução dos serviços solicitados, como a solicitação de serviços públicos e acompanhamento de solicitações. Esses dados podem ser anonimados para a criação de relatórios estatísticos. Os usuários têm o direito de acessar, alterar ou excluir suas informações pessoais diretamente no perfil, e seus dados não são compartilhados com terceiros, exceto por exigência legal ou judicial. 
 
 <p align="center">
-  <img src="../../assets/elicitacao/Analise_de_documentos/AD17.PNG" width="600">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Carteira-Digital-de-Transito/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD17.PNG" width="600">
 </p>
 <p align="center"><i>Figura 13: Política de privacidade</i></p>
 
 <p align="center">
-  <img src="../../assets/elicitacao/Analise_de_documentos/AD18.PNG" width="600">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Carteira-Digital-de-Transito/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD18.PNG" width="600">
 </p>
 <p align="center"><i>Figura 14: Finalidade e uso dos dados</i></p>
 
 <p align="center">
-  <img src="../../assets/elicitacao/Analise_de_documentos/AD19.PNG" width="600">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Carteira-Digital-de-Transito/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD19.PNG" width="600">
 </p>
 <p align="center"><i>Figura 15: Proteção dos dados</i></p>
 
 <p align="center">
-  <img src="../../assets/elicitacao/Analise_de_documentos/AD20.PNG" width="600">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Carteira-Digital-de-Transito/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD20.PNG" width="600">
 </p>
 <p align="center"><i>Figura 16: Destino dos dados</i></p>
 
 <p align="center">
-  <img src="../../assets/elicitacao/Analise_de_documentos/AD21.PNG" width="600">
+  <img src="[../../assets/elicitacao/Analise_de_documentos/AD21.PNG](https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Carteira-Digital-de-Transito/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD21.PNG)" width="600">
 </p>
 <p align="center"><i>Figura 17: Compartilhamento dos dados</i></p>
 
@@ -143,37 +143,37 @@ Através do site do eGDF foi identificado e aprofundado sobre a funcionalidade d
 Essa opção permite com que o usuário controle sobre seus dados no aplicativo, respeitando a Lei Geral de Proteção de Dados explicitada na política de privacidade.
 
 <p align="center">
-  <img src="../../assets/elicitacao/Analise_de_documentos/AD10.PNG" width="600">
+  <img src="[../../assets/elicitacao/Analise_de_documentos/AD10.PNG](https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Carteira-Digital-de-Transito/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD10.PNG)" width="600">
 </p>
 <p align="center"><i>Figura 18: Exclusão de conta - 1</i></p>
 
 <p align="center">
-  <img src="../../assets/elicitacao/Analise_de_documentos/AD11.PNG" width="600">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Carteira-Digital-de-Transito/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD11.PNG" width="600">
 </p>
 <p align="center"><i>Figura 19: Exclusão de conta - 2</i></p>
 
 <p align="center">
-  <img src="../../assets/elicitacao/Analise_de_documentos/AD12.PNG" width="600">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Carteira-Digital-de-Transito/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD12.PNG" width="600">
 </p>
 <p align="center"><i>Figura 20: Exclusão de conta - 3</i></p>
 
 <p align="center">
-  <img src="../../assets/elicitacao/Analise_de_documentos/AD13.PNG" width="600">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Carteira-Digital-de-Transito/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD13.PNG" width="600">
 </p>
 <p align="center"><i>Figura 21: Exclusão de conta - 4</i></p>
 
 <p align="center">
-  <img src="../../assets/elicitacao/Analise_de_documentos/AD14.PNG" width="600">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Carteira-Digital-de-Transito/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD14.PNG" width="600">
 </p>
 <p align="center"><i>Figura 22: Exclusão de conta - 5</i></p>
 
 <p align="center">
-  <img src="../../assets/elicitacao/Analise_de_documentos/AD15.PNG" width="600">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Carteira-Digital-de-Transito/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD15.PNG" width="600">
 </p>
 <p align="center"><i>Figura 23: Exclusão de conta - 6</i></p>
 
 <p align="center">
-  <img src="../../assets/elicitacao/Analise_de_documentos/AD16.PNG" width="600">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Carteira-Digital-de-Transito/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD16.PNG" width="600">
 </p>
 <p align="center"><i>Figura 24: Exclusão de conta - 7</i></p>
 
