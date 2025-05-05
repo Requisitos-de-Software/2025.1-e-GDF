@@ -5,7 +5,9 @@ site_name: e-GDF
 
 nav:
   - Home: index.md
-  - Apresentação: apresentacoes/apresentacao.md
+  - Apresentação: 
+    - Apresentação 1: apresentacoes/apresentacao.md
+    - Apresentação 2: apresentacoes/apresentacao2.md
   - Atas:
     - Ata 1: atas/ata01.md
     - Ata 2: atas/ata02.md

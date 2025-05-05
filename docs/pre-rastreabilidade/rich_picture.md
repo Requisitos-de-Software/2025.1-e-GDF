@@ -15,7 +15,7 @@ Para a elaboração do Rich Picture, foi utilizada a ferramenta Lucidchart, que 
 ## Rich Picture - e-GDF
 
 <div align="center">
-  <img src="/docs/assets/pre-rastreabilidade/rich_picture.png" alt="Rich Picture do e-GDF" style="max-width:100%; height:auto;"/>
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/main/docs/assets/pre-rastreabilidade/rich_picture.png" alt="Rich Picture do e-GDF" style="max-width:100%; height:auto;"/>
   <p>Figura 1: Segunda versão do Rich Picture(Fonte: Elaborado pelos autores: Gabriel e Lucas, 2025)</p>
 </div>
 
