@@ -31,6 +31,8 @@ nav:
     - Priorização:
       - First Things First: elicitacao/tec_priorizacao/first_things_first.md
       - Moscow: elicitacao/tec_priorizacao/moscow.md
+      - ROI: elicitacao/tec_priorizacao/roi.md
+      - 100: elicitacao/tec_priorizacao/100.md
     - Requisitos Elicitados: elicitacao/req_elicitados.md
     - Perfil de Usuário: elicitacao/perfil_de_usuario.md
   - Verificação:
