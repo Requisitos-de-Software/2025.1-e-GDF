@@ -32,7 +32,7 @@ As versões atuais do aplicativo **eGDF** nas lojas **Play Store** e **App Store
 Na versão 3.1.2 da App Store, foram feitas correções visuais, ajustando para uma interface mais intuitiva, adição de notícias, sendo possível acompanhar comunicados oficiais pelo aplicativo, além de permitir a inscrições em creche, permitindo que responsáveis façam a inscrição de crianças em creches de maneira simples e rápida. Já a versão 3.1.3 da Play store não mostra as alterações dessa nova versão, exibindo apenas a descrição geral do aplicativo. A faixa etária indicada para o uso do aplicativo é de 12 anos para cima, o que limita mais os possíveis usuários do aplicativo. Além disso, a PlayStore informa que os dados não são criptografados, levantando preocupações sobre a segurança das informações inseridas no aplicativo. Analisando as telas de captura do aplicativo na PlayStore, o aplicativo eGDF oferece duas opções de uso, o usuário tem a opção de fazer login com a conta Gov.br ou utilizar o aplicativo sem login. Além disso, o usuário pode buscar o tipo de serviço público que ele deseja, como receitas e tributos, saúde, educação, mobilidade, habilitação, assistência social, dentre outros. O aplicativo também possui um mapa.
 
 <p align="center">
-  <img src="../../assets/elicitacao/Analise_de_documentos/AD23.PNG" width="150">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Carteira-Digital-de-Transito/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD1.PNG" width="150">
 </p>
 <p align="center"><i>Figura 3: Tela de login</i></p>
 
