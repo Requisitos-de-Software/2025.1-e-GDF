@@ -34,7 +34,7 @@ O processo de priorização FTF foi conduzido a partir de sessões de brainstorm
 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)   | Mediador      |
 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | Mediador |
 | [Artur Mendonça](https://github.com/ArtyMend07)    | Desenvolvedor       |
-| [Lucas Mendonça ](https://github.com/lucasarruda9) | Desenvolvedor |
+| [Lucas Mendonça](https://github.com/lucasarruda9) | Desenvolvedor |
 | Camily Andressa    | Cliente       |
 | Nivea Cecilia    | Cliente       |
 | Gabriel Souza    | Cliente       |
@@ -69,7 +69,8 @@ O processo de priorização FTF foi conduzido a partir de sessões de brainstorm
 <figure markdown="span">
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-Carteira-Digital-de-Transito/refs/heads/docs/first-things-first/docs/assets/Tabela-First-things-First.png">
 </figure>
-<font size="3"><p style="text-align: center">Elaborado por: [Luiza da Silva Pugas](https://github.com/Luizaxx).</p></font>
+
+<font size="3"><p style="text-align: center">Elaborado por:  [Luiza da Silva Pugas](https://github.com/Luizaxx).</p></font>
 
 ### Tabela 1 em ordem decrescente de prioridade: 
 
