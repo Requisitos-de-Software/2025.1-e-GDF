@@ -31,6 +31,9 @@ Para aplicar a técnica ROI, seguimos os seguintes passos:
    - Média: 1 < ROI < 2
    - Baixa: ROI ≤ 1
 
+## Link da gravação
+[Link para a gravação da reunião](https://youtu.be/eH5Uf2jb0g8)
+
 ## Priorização dos Requisitos
 
 ### Requisitos Funcionais
