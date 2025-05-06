@@ -28,7 +28,26 @@ Este documento apresenta uma lista de verificação para avaliar os artefatos pr
 
 
 
-<font size="3"><p style="text-align: center">Fonte: [Lucas Alves](https://github.com/LucasAlves71).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Karoline Luz](https://github.com/KarolineLuz).</p></font>
+---
+
+## Lista de Verificação - Itens Técnicos e Documentais 
+
+
+<p align="center">Tabela 2 – Lista de Verificação de itens Técnicos e Documentais</p>
+
+| ID  | Item de Verificação                                                                                                                                                       | Autor                                                                                       | Referência                                                                                                                                                                                                                                    |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | O histórico de versão está padronizado no repositório? - Uso de convenções consistentes para registrar alterações no repositório do projeto.                              | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <div><img src="..\..\assets\lventrega2\lista_parte2_planoDeEnsino.png" alt="Referência do item" width="100px"><br><a href="https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf">Plano de Ensino</a></div> |
+| 2   | Referências e bibliografia estão incluídas nos artefatos? - Citação correta de fontes utilizadas para fundamentar o projeto e seus artefatos.                             | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <div><img src="..\..\assets\lventrega2\lista_parte2_planoDeEnsino.png" alt="Referência do item" width="100px"><br><a href="https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf">Plano de Ensino</a></div> |
+| 3   | Tabelas e imagens possuem legenda e fonte, e são citadas no texto? - Elementos visuais devidamente legendados, com fontes citadas e contextualizadas no texto.            | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <div><img src="..\..\assets\lventrega2\lista_parte2_planoDeEnsino.png" alt="Referência do item" width="100px"><br><a href="https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf">Plano de Ensino</a></div> |
+| 4   | Existe introdução explicando os artefatos desenvolvidos? - Texto introdutório explicando a função e o conteúdo dos artefatos apresentados.                                | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <div><img src="..\..\assets\lventrega2\lista_parte2_planoDeEnsino.png" alt="Referência do item" width="100px"><br><a href="https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf">Plano de Ensino</a></div> |
+| 5   | O cronograma executado possui responsáveis e datas? - Planejamento real com datas e responsáveis, refletindo o que foi efetivamente feito.                                | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <div><img src="..\..\assets\lventrega2\lista_parte2_planoDeEnsino.png" alt="Referência do item" width="100px"><br><a href="https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf">Plano de Ensino</a></div> |
+| 6   | As atas de reunião contêm data, horário, participantes e objetivos? - Documentos com registro formal das reuniões, contendo data, hora, participantes e objetivos.        | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <div><img src="..\..\assets\lventrega2\lista_parte2_planoDeEnsino.png" alt="Referência do item" width="100px"><br><a href="https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf">Plano de Ensino</a></div> |
+| 7   | As gravações de reuniões foram salvas? - Arquivos de vídeo das reuniões, armazenados para consulta futura.                                                                | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <div><img src="..\..\assets\lventrega2\lista_parte2_planoDeEnsino.png" alt="Referência do item" width="100px"><br><a href="https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf">Plano de Ensino</a></div> |
+| 8   | As apresentações no YouTube estão configuradas como "não listado"? - Garantia de que os vídeos estão acessíveis apenas para quem tiver o link, respeitando a privacidade. | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <div><img src="..\..\assets\lventrega2\lista_parte2_planoDeEnsino.png" alt="Referência do item" width="100px"><br><a href="https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf">Plano de Ensino</a></div> |
+
+<font size="3"><p style="text-align: center">Fonte: Fonte: [Karoline Luz](https://github.com/KarolineLuz).</p></font>
 
 
 ---
@@ -45,6 +64,11 @@ Este documento apresenta uma lista de verificação para avaliar os artefatos pr
 | 6  | O documento demonstra compreensão de que a introspecção é uma técnica relativamente simples de aplicar? | [Gabriel Lopes](https://github.com/BrzGab) | [Slide Requisitos](https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf) |
 | 7  | Os analistas que aplicaram a técnica demonstraram conhecimento suficiente sobre o problema em questão? | [Gabriel Lopes](https://github.com/BrzGab) | [Slide Requisitos](https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf) |
 
+
+<font size="3"><p style="text-align: center">Fonte: [Gabriel Lopes](https://github.com/BrzGab).</p></font>
+
+---
+## Técnicas de Elicitação
 ### Checklist de Verificação – Glossário 
 
 | ID | Descrição da Verificação                                                                                             | Participante             | Evidência                                                                                                                     |
@@ -64,16 +88,25 @@ Este documento apresenta uma lista de verificação para avaliar os artefatos pr
 | 13 | Verificar se o glossário está vinculado com os casos de uso, histórias de usuário ou requisitos.                     | [Luiza Pugas](https://github.com/luizaxx) | VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Brasport, 2016. |
 | 14 | Verificar se os termos do glossário são utilizados de forma consistente em toda a documentação.                     | [Luiza Pugas](https://github.com/luizaxx) | VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Brasport, 2016. |
 
+<font size="3"><p style="text-align: center">Fonte: [Luiza Pugas](https://github.com/luizaxx).</p></font>
+
+---------
+## Técnicas de Elicitação
 ### Checklist de Verificação - Entrevista 
-| ID  | Item de Verificação                                                                                                              | Autor           | Referência |
-|-----|-----------------------------------------------------------------------------------------------------------------------------------|------------------|-------------|
-| 1   | O artefato utilizou perguntas abertas?                                                                                           | [Lucas Mendonça](https://github.com/lucasarruda9)   | —           |
-| 2   | As perguntas fechadas no artefato são utilizadas apenas quando necessário (como para filtrar perguntas subsequentes)?            | [Artur Mendonça](https://github.com/ArtyMend07)   | —           |
-| 3   | O artefato possui um roteiro?                                                                                                    | [Lucas Mendonça](https://github.com/lucasarruda9)   | —           |
-| 4   | As perguntas do artefato são formuladas de maneira neutra, evitando influenciar as respostas?                                    | [Artur Mendonça](https://github.com/ArtyMend07)   | —           |
-| 5   | O roteiro do artefato evita perguntas longas ou complexas que possam sobrecarregar a memória do entrevistado?                    | [Artur Mendonça](https://github.com/ArtyMend07)   | —           |
-| 6   | A estrutura do artefato segue as etapas recomendadas?   | [Artur Mendonça](https://github.com/ArtyMend07)   | —           |
-| 7   | O roteiro do artefato está preparado para explorar respostas sucintas com perguntas adicionais?                                  | [Artur Mendonça](https://github.com/ArtyMend07)   | —           |
+| ID  | Item de Verificação                                                                                                   | Autor                                             | Referência                                                                                                                                                                  |
+| --- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | O artefato utilizou perguntas abertas?                                                                                | [Lucas Mendonça](https://github.com/lucasarruda9) | BARBOSA, S. D. J.; SILVA, B. S. da; SILVEIRA, M. S.; GASPARINI, I.; DARIN, T.; BARBOSA, G. D. J. Interação Humano-Computador e Experiência do usuário. Autopublicação. 2021 |
+| 2   | As perguntas fechadas no artefato são utilizadas apenas quando necessário (como para filtrar perguntas subsequentes)? | [Artur Mendonça](https://github.com/ArtyMend07)   | BARBOSA, S. D. J.; SILVA, B. S. da; SILVEIRA, M. S.; GASPARINI, I.; DARIN, T.; BARBOSA, G. D. J. Interação Humano-Computador e Experiência do usuário. Autopublicação. 2021 |
+| 3   | O artefato possui um roteiro?                                                                                         | [Lucas Mendonça](https://github.com/lucasarruda9) | BARBOSA, S. D. J.; SILVA, B. S. da; SILVEIRA, M. S.; GASPARINI, I.; DARIN, T.; BARBOSA, G. D. J. Interação Humano-Computador e Experiência do usuário. Autopublicação. 2021 |
+| 4   | As perguntas do artefato são formuladas de maneira neutra, evitando influenciar as respostas?                         | [Artur Mendonça](https://github.com/ArtyMend07)   | BARBOSA, S. D. J.; SILVA, B. S. da; SILVEIRA, M. S.; GASPARINI, I.; DARIN, T.; BARBOSA, G. D. J. Interação Humano-Computador e Experiência do usuário. Autopublicação. 2021 |
+| 5   | O roteiro do artefato evita perguntas longas ou complexas que possam sobrecarregar a memória do entrevistado?         | [Artur Mendonça](https://github.com/ArtyMend07)   | BARBOSA, S. D. J.; SILVA, B. S. da; SILVEIRA, M. S.; GASPARINI, I.; DARIN, T.; BARBOSA, G. D. J. Interação Humano-Computador e Experiência do usuário. Autopublicação. 2021 |
+| 6   | A estrutura do artefato segue as etapas recomendadas?                                                                 | [Artur Mendonça](https://github.com/ArtyMend07)   | BARBOSA, S. D. J.; SILVA, B. S. da; SILVEIRA, M. S.; GASPARINI, I.; DARIN, T.; BARBOSA, G. D. J. Interação Humano-Computador e Experiência do usuário. Autopublicação. 2021 |
+| 7   | O roteiro do artefato está preparado para explorar respostas sucintas com perguntas adicionais?                       | [Artur Mendonça](https://github.com/ArtyMend07)   | BARBOSA, S. D. J.; SILVA, B. S. da; SILVEIRA, M. S.; GASPARINI, I.; DARIN, T.; BARBOSA, G. D. J. Interação Humano-Computador e Experiência do usuário. Autopublicação. 2021 |
+
+<font size="3"><p style="text-align: center">Fonte: [Artur Mendonça](https://github.com/ArtyMend07) e [Lucas Mendonça](https://github.com/lucasarruda9).</p></font>
+
+---------
+## Técnicas de Elicitação
 ### Checklist de Verificação – Grupo Focal
 | ID | Item da Verificação                                                                 | Autor       | Referência |
 |----|--------------------------------------------------------------------------------------|-------------|------------|
@@ -81,13 +114,24 @@ Este documento apresenta uma lista de verificação para avaliar os artefatos pr
 | 2  | A sessão foi registrada (por gravação ou anotações) para análise posterior?         |[Ana Victória](https://github.com/navicg) |       WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. ISBN 978-0-7356-7966-5. Disponível em: https://olivroqueaprende.com/WDK/Software_Requirements_3rd_Edition.pdf. Acesso em: 04 maio 2025.     |
 | 3  | Houve diversidade de perfis ou classes de usuários na composição do grupo?          | [Ana Victória](https://github.com/navicg) |      WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. ISBN 978-0-7356-7966-5. Disponível em: https://olivroqueaprende.com/WDK/Software_Requirements_3rd_Edition.pdf. Acesso em: 04 maio 2025.      |
 | 4  | A sessão contribuiu para a identificação de necessidades, impressões e preferências dos usuários? |[Ana Victória](https://github.com/navicg) |      WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. ISBN 978-0-7356-7966-5. Disponível em: https://olivroqueaprende.com/WDK/Software_Requirements_3rd_Edition.pdf. Acesso em: 04 maio 2025.      |
+
+<font size="3"><p style="text-align: center">Fonte: [Ana Victória](https://github.com/navicg).</p></font>
+
+-------------------
 ## Técnica de Priorização
-
-
 ### Checklist de Verificação – Moscow
+| ID  | Item de Verificação                                                                                             | Autor                                          | Referência                                                                            |
+| --- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------- |
+| 1   | Os critérios das categorias *MoSCoW* foram definidos, documentados e comunicados claramente?                    | [Karoline Luz](https://github.com/KarolineLuz) | WIEGERS, K.; BEATTY, J. Software Requirements. 3rd ed. Microsoft Press, 2013, p. 320. |
+| 2   | Os stakeholders têm entendimento claro sobre o significado e impacto de cada categoria, principalmente *Won’t*? | [Karoline Luz](https://github.com/KarolineLuz) | WIEGERS, K.; BEATTY, J. Software Requirements. 3rd ed. Microsoft Press, 2013, p. 320. |
+| 3   | Há registro formal sobre quando os requisitos *Won’t* poderão ser reavaliados ou incluídos no futuro?           | [Karoline Luz](https://github.com/KarolineLuz) | WIEGERS, K.; BEATTY, J. Software Requirements. 3rd ed. Microsoft Press, 2013, p. 320. |
+| 4   | Os requisitos *Must* são realmente críticos e foram validados com os stakeholders?                              | [Karoline Luz](https://github.com/KarolineLuz) | WIEGERS, K.; BEATTY, J. Software Requirements. 3rd ed. Microsoft Press, 2013, p. 320. |
+| 5   | A priorização dos *Could* considerou restrições de tempo, recursos e capacidade da equipe?                      | [Karoline Luz](https://github.com/KarolineLuz) | WIEGERS, K.; BEATTY, J. Software Requirements. 3rd ed. Microsoft Press, 2013, p. 320. |
 
+<font size="3"><p style="text-align: center">Fonte: [Karoline Luz](https://github.com/KarolineLuz).</p></font>
 
-
+------------------
+## Técnica de Priorização
 ### Checklist de Verificação –  $100
 
 | ID | Item da Verificação                                                                                         | Autor       | Referência |
@@ -96,7 +140,11 @@ Este documento apresenta uma lista de verificação para avaliar os artefatos pr
 | 2  | Os participantes foram instruídos a distribuir os valores com base na importância percebida de cada requisito? | [Ana Victória](https://github.com/navicg)|      WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. ISBN 978-0-7356-7966-5. Disponível em: https://olivroqueaprende.com/WDK/Software_Requirements_3rd_Edition.pdf. Acesso em: 04 maio 2025.      |
 | 3  | A técnica foi aplicada de forma individual (cada participante fez sua própria alocação)?                   | [Ana Victória](https://github.com/navicg) |       WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. ISBN 978-0-7356-7966-5. Disponível em: https://olivroqueaprende.com/WDK/Software_Requirements_3rd_Edition.pdf. Acesso em: 04 maio 2025.     |
 | 4  | Foi realizada a soma total dos valores atribuídos por todos os participantes para cada requisito?          | [Ana Victória](https://github.com/navicg)|     WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. ISBN 978-0-7356-7966-5. Disponível em: https://olivroqueaprende.com/WDK/Software_Requirements_3rd_Edition.pdf. Acesso em: 04 maio 2025.       |
-| 5  | Foram tomadas precauções contra manipulação ou distorções na priorização (como alocar os $100 em um único requisito)? | [Ana Victória](https://github.com/navicg) |            | WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. ISBN 978-0-7356-7966-5. Disponível em: https://olivroqueaprende.com/WDK/Software_Requirements_3rd_Edition.pdf. Acesso em: 04 maio 2025.|
+| 5  | Foram tomadas precauções contra manipulação ou distorções na priorização (como alocar os $100 em um único requisito)? | [Ana Victória](https://github.com/navicg) | WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. ISBN 978-0-7356-7966-5. Disponível em: https://olivroqueaprende.com/WDK/Software_Requirements_3rd_Edition.pdf. Acesso em: 04 maio 2025.|
+
+<font size="3"><p style="text-align: center">Fonte: [Ana Victória](https://github.com/navicg).</p></font>
+
+----------
 ## Como utilizar esta lista de verificação
 
 - Para cada item da lista, o revisor deve:
@@ -106,15 +154,14 @@ Este documento apresenta uma lista de verificação para avaliar os artefatos pr
     -  Para itens não conformes, adicionar comentários específicos sobre o que precisa ser corrigido
     -  Sempre incluir referências a exemplos ou páginas específicas onde os problemas foram encontrados
 
-## Referências
-
-
-### Glossário:
+## Referências Bibliograficas
 A referencia bibliográfica é essa: VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. 1. ed. Rio de Janeiro: Brasport, 2016.
 
 https://www.kufunda.net/publicdocs/Engenharia%20de%20Requisitos%20software%20orientado%20ao%20neg%C3%B3cio%20(Carlos%20Eduardo%20Vazquez%20etc.).pdf
 
-### Grupo Focal:
-
+WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. ISBN 978-0-7356-7966-5. Disponível em: https://olivroqueaprende.com/WDK/Software_Requirements_3rd_Edition.pdf. Acesso em: 04 maio 2025.
 
 ## Histórico de Versões
+| Versão | Descrição                                     | Autor(es)                                                                                                  | Data       | Revisor(es)                            | Data de revisão |
+| ------ | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ---------- | -------------------------------------- | --------------- |
+| 1.0    | Criação da documentação do Inspeção| [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Karoline Luz](https://github.com/KarolineLuz) | 05/05/2025 | [Artur](https://github.com/ArtyMend07) | 05/05/2025      |
