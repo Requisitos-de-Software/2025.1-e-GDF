@@ -1,0 +1,1 @@
+Coloca a tabela com o sim ou nao que vamos gravar o video
