@@ -33,48 +33,70 @@ Este documento apresenta uma lista de verificação para avaliar os artefatos pr
 
 ---
 ## Técnicas de Elicitação
+### Lista de Verificação - Introspecção
+
+| ID | Item de Verificação | Autor | Referência |
+|----|----------------------|-------|------------|
+| 1  | A introdução explica claramente o que é a técnica de introspecção na engenharia de requisitos? | [Gabriel Lopes](https://github.com/BrzGab) | [Slide Requisitos](https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf) |
+| 2  | O documento define o propósito da utilização da introspecção no levantamento de requisitos? | [Gabriel Lopes](https://github.com/BrzGab) | [Slide Requisitos](https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf) |
+| 3  | Existe registro detalhado de como a introspecção foi conduzida? | [Gabriel Lopes](https://github.com/BrzGab) | [Slide Requisitos](https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf) |
+| 4  | Os requisitos identificados pela introspecção estão claramente documentados? | [Gabriel Lopes](https://github.com/BrzGab) | [Slide Requisitos](https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf) |
+| 5  | Houve validação dos requisitos obtidos por introspecção com usuários reais ou stakeholders? | [Gabriel Lopes](https://github.com/BrzGab) | [Slide Requisitos](https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf) |
+| 6  | O documento demonstra compreensão de que a introspecção é uma técnica relativamente simples de aplicar? | [Gabriel Lopes](https://github.com/BrzGab) | [Slide Requisitos](https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf) |
+| 7  | Os analistas que aplicaram a técnica demonstraram conhecimento suficiente sobre o problema em questão? | [Gabriel Lopes](https://github.com/BrzGab) | [Slide Requisitos](https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf) |
 
 ### Checklist de Verificação – Glossário 
 
-Este checklist auxilia na identificação, validação e manutenção de um glossário eficaz no contexto de elicitação de requisitos.
+| ID | Descrição da Verificação                                                                                             | Participante             | Evidência                                                                                                                     |
+|----|-----------------------------------------------------------------------------------------------------------------------|---------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| 1  | Verificar se o termo é único ou específico do domínio do negócio.                                                    | [Luiza Pugas](https://github.com/luizaxx) | VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Brasport, 2016. |
+| 2  | Verificar se o termo possui mais de uma definição possível no contexto do projeto.                                   | [Luiza Pugas](https://github.com/luizaxx) | VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Brasport, 2016. |
+| 3  | Verificar se o significado do termo é diferente do senso comum.                                                      | [Luiza Pugas](https://github.com/luizaxx) | VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Brasport, 2016. |
+| 4  | Verificar se a definição do termo não é intuitiva para alguém de fora do domínio.                                    | [Luiza Pugas](https://github.com/luizaxx) | VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Brasport, 2016. |
+| 5  | Verificar se o termo é técnico e amplamente utilizado pelos profissionais do negócio.                               | [Luiza Pugas](https://github.com/luizaxx) | VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Brasport, 2016. |
+| 6  | Verificar se o termo é uma sigla ou abreviação.                                                                      | [Luiza Pugas](https://github.com/luizaxx) | VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Brasport, 2016. |
+| 7  | Verificar se há sinônimos usados para o mesmo termo no projeto.                                                      | [Luiza Pugas](https://github.com/luizaxx) | VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Brasport, 2016. |
+| 8  | Verificar se há termos que parecem sinônimos, mas possuem significados distintos.                                    | [Luiza Pugas](https://github.com/luizaxx) | VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Brasport, 2016. |
+| 9  | Verificar se o glossário foi revisado e validado por stakeholders e especialistas.                                   | [Luiza Pugas](https://github.com/luizaxx) | VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Brasport, 2016. |
+| 10 | Verificar se há uma versão aprovada/documentada do glossário.                                                        | [Luiza Pugas](https://github.com/luizaxx) | VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Brasport, 2016. |
+| 11 | Verificar se há um processo definido para atualização contínua do glossário.                                         | [Luiza Pugas](https://github.com/luizaxx) | VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Brasport, 2016. |
+| 12 | Verificar se o glossário está acessível a todos os envolvidos no projeto.                                            | [Luiza Pugas](https://github.com/luizaxx) | VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Brasport, 2016. |
+| 13 | Verificar se o glossário está vinculado com os casos de uso, histórias de usuário ou requisitos.                     | [Luiza Pugas](https://github.com/luizaxx) | VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Brasport, 2016. |
+| 14 | Verificar se os termos do glossário são utilizados de forma consistente em toda a documentação.                     | [Luiza Pugas](https://github.com/luizaxx) | VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Brasport, 2016. |
 
-| ID | Descrição da Verificação                                                                                             | Participante         | Evidência                                                                                                                     |
-|----|-----------------------------------------------------------------------------------------------------------------------|----------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| 1  | Verificar se o termo é único ou específico do domínio do negócio.                                                    | Ana Luiza Soares     | VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Brasport, 2016. |
-| 2  | Verificar se o termo possui mais de uma definição possível no contexto do projeto.                                   | Yzabella Miranda     | VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Brasport, 2016. |
-| 3  | Verificar se o significado do termo é diferente do senso comum.                                                      | Ana Luiza Soares     | VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Brasport, 2016. |
-| 4  | Verificar se a definição do termo não é intuitiva para alguém de fora do domínio.                                    | Yzabella Miranda     | VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Brasport, 2016. |
-| 5  | Verificar se o termo é técnico e amplamente utilizado pelos profissionais do negócio.                               | Ana Luiza Soares     | VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Brasport, 2016. |
-| 6  | Verificar se o termo é uma sigla ou abreviação.                                                                      | Yzabella Miranda     | VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Brasport, 2016. |
-| 7  | Verificar se há sinônimos usados para o mesmo termo no projeto.                                                      | Ana Luiza Soares     | VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Brasport, 2016. |
-| 8  | Verificar se há termos que parecem sinônimos, mas possuem significados distintos.                                    | Yzabella Miranda     | VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Brasport, 2016. |
-| 9  | Verificar se o glossário foi revisado e validado por stakeholders e especialistas.                                   | Ana Luiza Soares     | VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Brasport, 2016. |
-| 10 | Verificar se há uma versão aprovada/documentada do glossário.                                                        | Yzabella Miranda     | VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Brasport, 2016. |
-| 11 | Verificar se há um processo definido para atualização contínua do glossário.                                         | Ana Luiza Soares     | VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Brasport, 2016. |
-| 12 | Verificar se o glossário está acessível a todos os envolvidos no projeto.                                            | Yzabella Miranda     | VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Brasport, 2016. |
-| 13 | Verificar se o glossário está vinculado com os casos de uso, histórias de usuário ou requisitos.                     | Ana Luiza Soares     | VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Brasport, 2016. |
-| 14 | Verificar se os termos do glossário são utilizados de forma consistente em toda a documentação.                     | Yzabella Miranda     | VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Brasport, 2016. |
-
+### Checklist de Verificação - Entrevista 
+| ID  | Item de Verificação                                                                                                              | Autor           | Referência |
+|-----|-----------------------------------------------------------------------------------------------------------------------------------|------------------|-------------|
+| 1   | O artefato utilizou perguntas abertas?                                                                                           | [Lucas Mendonça](https://github.com/lucasarruda9)   | —           |
+| 2   | As perguntas fechadas no artefato são utilizadas apenas quando necessário (como para filtrar perguntas subsequentes)?            | [Artur Mendonça](https://github.com/ArtyMend07)   | —           |
+| 3   | O artefato possui um roteiro?                                                                                                    | [Lucas Mendonça](https://github.com/lucasarruda9)   | —           |
+| 4   | As perguntas do artefato são formuladas de maneira neutra, evitando influenciar as respostas?                                    | [Artur Mendonça](https://github.com/ArtyMend07)   | —           |
+| 5   | O roteiro do artefato evita perguntas longas ou complexas que possam sobrecarregar a memória do entrevistado?                    | [Artur Mendonça](https://github.com/ArtyMend07)   | —           |
+| 6   | A estrutura do artefato segue as etapas recomendadas?   | [Artur Mendonça](https://github.com/ArtyMend07)   | —           |
+| 7   | O roteiro do artefato está preparado para explorar respostas sucintas com perguntas adicionais?                                  | [Artur Mendonça](https://github.com/ArtyMend07)   | —           |
 ### Checklist de Verificação – Grupo Focal
 | ID | Item da Verificação                                                                 | Autor       | Referência |
 |----|--------------------------------------------------------------------------------------|-------------|------------|
-| 1  | O grupo foi composto por usuários representativos do público-alvo?                  | [Ana Victória](https://github.com/navicg) |            |
-| 2  | A sessão foi registrada (por gravação ou anotações) para análise posterior?         |[Ana Victória](https://github.com/navicg) |            |
-| 3  | Houve diversidade de perfis ou classes de usuários na composição do grupo?          | [Ana Victória](https://github.com/navicg) |            |
-| 4  | A sessão contribuiu para a identificação de necessidades, impressões e preferências dos usuários? |[Ana Victória](https://github.com/navicg) |
----
+| 1  | O grupo foi composto por usuários representativos do público-alvo?                  | [Ana Victória](https://github.com/navicg) |    WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. ISBN 978-0-7356-7966-5. Disponível em: https://olivroqueaprende.com/WDK/Software_Requirements_3rd_Edition.pdf. Acesso em: 04 maio 2025.        |
+| 2  | A sessão foi registrada (por gravação ou anotações) para análise posterior?         |[Ana Victória](https://github.com/navicg) |       WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. ISBN 978-0-7356-7966-5. Disponível em: https://olivroqueaprende.com/WDK/Software_Requirements_3rd_Edition.pdf. Acesso em: 04 maio 2025.     |
+| 3  | Houve diversidade de perfis ou classes de usuários na composição do grupo?          | [Ana Victória](https://github.com/navicg) |      WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. ISBN 978-0-7356-7966-5. Disponível em: https://olivroqueaprende.com/WDK/Software_Requirements_3rd_Edition.pdf. Acesso em: 04 maio 2025.      |
+| 4  | A sessão contribuiu para a identificação de necessidades, impressões e preferências dos usuários? |[Ana Victória](https://github.com/navicg) |      WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. ISBN 978-0-7356-7966-5. Disponível em: https://olivroqueaprende.com/WDK/Software_Requirements_3rd_Edition.pdf. Acesso em: 04 maio 2025.      |
 ## Técnica de Priorização
 
 
-### Checklist de Verificação – 100 dolares
+### Checklist de Verificação – Moscow
+
+
+
+### Checklist de Verificação –  $100
+
 | ID | Item da Verificação                                                                                         | Autor       | Referência |
 |----|-------------------------------------------------------------------------------------------------------------|-------------|------------|
-| 1  | Foi atribuída uma quantia limitada de $100 fictícios para distribuir entre os requisitos?                  | [Ana Victória](https://github.com/navicg) |            |
-| 2  | Os participantes foram instruídos a distribuir os valores com base na importância percebida de cada requisito? | [Ana Victória](https://github.com/navicg)|            |
-| 3  | A técnica foi aplicada de forma individual (cada participante fez sua própria alocação)?                   | [Ana Victória](https://github.com/navicg) |            |
-| 4  | Foi realizada a soma total dos valores atribuídos por todos os participantes para cada requisito?          | [Ana Victória](https://github.com/navicg)|            |
-| 5  | Foram tomadas precauções contra manipulação ou distorções na priorização (como alocar os $100 em um único requisito)? | [Ana Victória](https://github.com/navicg) |            |
----
+| 1  | Foi atribuída uma quantia limitada de $100 fictícios para distribuir entre os requisitos?                  | [Ana Victória](https://github.com/navicg) |       WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. ISBN 978-0-7356-7966-5. Disponível em: https://olivroqueaprende.com/WDK/Software_Requirements_3rd_Edition.pdf. Acesso em: 04 maio 2025.     |
+| 2  | Os participantes foram instruídos a distribuir os valores com base na importância percebida de cada requisito? | [Ana Victória](https://github.com/navicg)|      WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. ISBN 978-0-7356-7966-5. Disponível em: https://olivroqueaprende.com/WDK/Software_Requirements_3rd_Edition.pdf. Acesso em: 04 maio 2025.      |
+| 3  | A técnica foi aplicada de forma individual (cada participante fez sua própria alocação)?                   | [Ana Victória](https://github.com/navicg) |       WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. ISBN 978-0-7356-7966-5. Disponível em: https://olivroqueaprende.com/WDK/Software_Requirements_3rd_Edition.pdf. Acesso em: 04 maio 2025.     |
+| 4  | Foi realizada a soma total dos valores atribuídos por todos os participantes para cada requisito?          | [Ana Victória](https://github.com/navicg)|     WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. ISBN 978-0-7356-7966-5. Disponível em: https://olivroqueaprende.com/WDK/Software_Requirements_3rd_Edition.pdf. Acesso em: 04 maio 2025.       |
+| 5  | Foram tomadas precauções contra manipulação ou distorções na priorização (como alocar os $100 em um único requisito)? | [Ana Victória](https://github.com/navicg) |            | WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. ISBN 978-0-7356-7966-5. Disponível em: https://olivroqueaprende.com/WDK/Software_Requirements_3rd_Edition.pdf. Acesso em: 04 maio 2025.|
 ## Como utilizar esta lista de verificação
 
 - Para cada item da lista, o revisor deve:
