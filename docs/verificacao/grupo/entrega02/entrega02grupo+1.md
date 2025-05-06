@@ -1,1 +1,98 @@
-Coloca a tabela apenas sem nada 
+# Lista de Verificação da Entrega 2
+
+Este documento apresenta uma lista de verificação para avaliar os artefatos produzidos na Entrega 2, tantos para o grupo e o grupo +1. As tabelas 1, 2 e 3 foram elaboradas com base no plano de ensino e na lista de verificação sugerida pelo professor, [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342), sendo uma lista de verificação que será usada na inspeção da entrega 2.
+
+## Objetivo
+- Fornecer critérios claros para verificação dos artefatos da Entrega 2;
+- Garantir a padronização e qualidade dos documentos produzidos;
+- Facilitar o processo de revisão pelos integrantes do grupo;
+- Assegurar que todos os itens exigidos estejam completos e corretos.
+
+## Lista de Verificação - Baseada no plano de ensino 
+
+
+<p align="center">Tabela 1 – Lista de Verificação 1</p>
+
+| ID | Item de Verificação | Autor | Referência |
+|----|----------------------|-------|------------|
+| 1  | A Especificação do Perfil do usuário possui informação de: idade, experiência, atitudes e tarefas primárias. | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <div><img src="..\..\assets\lventrega2\lista_Entrega2_planoDeEnsino.png" alt="Referência do item" width="100px"><br><a href="https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf">Plano de Ensino</a></div> |
+| 2  | Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o cliente e/ou persona do projeto? | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <div><img src="..\..\assets\lventrega2\lista_Entrega2_planoDeEnsino.png" alt="Referência do item" width="100px"><br><a href="https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf">Plano de Ensino</a></div> |
+| 3  | No mínimo três técnicas de elicitação foram utilizadas? | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <div><img src="..\..\assets\lventrega2\lista_Entrega2_planoDeEnsino.png" alt="Referência do item" width="100px"><br><a href="https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf">Plano de Ensino</a></div> |
+| 4  | A participação do cliente e/ou persona na elicitação de requisitos? | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <div><img src="..\..\assets\lventrega2\lista_Entrega2_planoDeEnsino.png" alt="Referência do item" width="100px"><br><a href="https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf">Plano de Ensino</a></div> |
+| 5  | A gravação e o(s) registro(s) da elicitação dos requisitos (pré-rastreabilidade)? | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <div><img src="..\..\assets\lventrega2\lista_Entrega2_planoDeEnsino.png" alt="Referência do item" width="100px"><br><a href="https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf">Plano de Ensino</a></div> |
+| 6  | Um cronograma (data e horário) e local para realização da priorização dos requisitos com o cliente e/ou persona do projeto? | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <div><img src="..\..\assets\lventrega2\lista_Entrega2_planoDeEnsino.png" alt="Referência do item" width="100px"><br><a href="https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf">Plano de Ensino</a></div> |
+| 7  | No mínimo duas técnicas de priorização foram utilizadas? | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <div><img src="..\..\assets\lventrega2\lista_Entrega2_planoDeEnsino.png" alt="Referência do item" width="100px"><br><a href="https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf">Plano de Ensino</a></div> |
+| 8  | A participação do cliente e/ou persona no processo de priorização? | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <div><img src="..\..\assets\lventrega2\lista_Entrega2_planoDeEnsino.png" alt="Referência do item" width="100px"><br><a href="https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf">Plano de Ensino</a></div> |
+| 9  | A gravação e o(s) registro(s) da atividade de priorização dos requisitos? | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <div><img src="..\..\assets\lventrega2\lista_Entrega2_planoDeEnsino.png" alt="Referência do item" width="100px"><br><a href="https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf">Plano de Ensino</a></div> |
+| 10  | Cada integrante da equipe elaborou pelo menos um item do conteúdo da disciplina com referência bibliográfica da fonte e foto do texto referência? | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <div><img src="..\..\assets\lventrega2\lista_Entrega2_planoDeEnsino.png" alt="Referência do item" width="100px"><br><a href="https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf">Plano de Ensino</a></div> |
+
+
+
+<font size="3"><p style="text-align: center">Fonte: [Lucas Alves](https://github.com/LucasAlves71).</p></font>
+
+
+---
+## Técnicas de Elicitação
+
+### Checklist de Verificação – Glossário 
+
+Este checklist auxilia na identificação, validação e manutenção de um glossário eficaz no contexto de elicitação de requisitos.
+
+| ID | Descrição da Verificação                                                                                             | Participante         | Evidência                                                                                                                     |
+|----|-----------------------------------------------------------------------------------------------------------------------|----------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| 1  | Verificar se o termo é único ou específico do domínio do negócio.                                                    | Ana Luiza Soares     | VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Brasport, 2016. |
+| 2  | Verificar se o termo possui mais de uma definição possível no contexto do projeto.                                   | Yzabella Miranda     | VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Brasport, 2016. |
+| 3  | Verificar se o significado do termo é diferente do senso comum.                                                      | Ana Luiza Soares     | VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Brasport, 2016. |
+| 4  | Verificar se a definição do termo não é intuitiva para alguém de fora do domínio.                                    | Yzabella Miranda     | VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Brasport, 2016. |
+| 5  | Verificar se o termo é técnico e amplamente utilizado pelos profissionais do negócio.                               | Ana Luiza Soares     | VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Brasport, 2016. |
+| 6  | Verificar se o termo é uma sigla ou abreviação.                                                                      | Yzabella Miranda     | VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Brasport, 2016. |
+| 7  | Verificar se há sinônimos usados para o mesmo termo no projeto.                                                      | Ana Luiza Soares     | VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Brasport, 2016. |
+| 8  | Verificar se há termos que parecem sinônimos, mas possuem significados distintos.                                    | Yzabella Miranda     | VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Brasport, 2016. |
+| 9  | Verificar se o glossário foi revisado e validado por stakeholders e especialistas.                                   | Ana Luiza Soares     | VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Brasport, 2016. |
+| 10 | Verificar se há uma versão aprovada/documentada do glossário.                                                        | Yzabella Miranda     | VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Brasport, 2016. |
+| 11 | Verificar se há um processo definido para atualização contínua do glossário.                                         | Ana Luiza Soares     | VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Brasport, 2016. |
+| 12 | Verificar se o glossário está acessível a todos os envolvidos no projeto.                                            | Yzabella Miranda     | VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Brasport, 2016. |
+| 13 | Verificar se o glossário está vinculado com os casos de uso, histórias de usuário ou requisitos.                     | Ana Luiza Soares     | VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Brasport, 2016. |
+| 14 | Verificar se os termos do glossário são utilizados de forma consistente em toda a documentação.                     | Yzabella Miranda     | VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Brasport, 2016. |
+
+### Checklist de Verificação – Grupo Focal
+| ID | Item da Verificação                                                                 | Autor       | Referência |
+|----|--------------------------------------------------------------------------------------|-------------|------------|
+| 1  | O grupo foi composto por usuários representativos do público-alvo?                  | [Ana Victória](https://github.com/navicg) |            |
+| 2  | A sessão foi registrada (por gravação ou anotações) para análise posterior?         |[Ana Victória](https://github.com/navicg) |            |
+| 3  | Houve diversidade de perfis ou classes de usuários na composição do grupo?          | [Ana Victória](https://github.com/navicg) |            |
+| 4  | A sessão contribuiu para a identificação de necessidades, impressões e preferências dos usuários? |[Ana Victória](https://github.com/navicg) |
+---
+## Técnica de Priorização
+
+
+### Checklist de Verificação – 100 dolares
+| ID | Item da Verificação                                                                                         | Autor       | Referência |
+|----|-------------------------------------------------------------------------------------------------------------|-------------|------------|
+| 1  | Foi atribuída uma quantia limitada de $100 fictícios para distribuir entre os requisitos?                  | [Ana Victória](https://github.com/navicg) |            |
+| 2  | Os participantes foram instruídos a distribuir os valores com base na importância percebida de cada requisito? | [Ana Victória](https://github.com/navicg)|            |
+| 3  | A técnica foi aplicada de forma individual (cada participante fez sua própria alocação)?                   | [Ana Victória](https://github.com/navicg) |            |
+| 4  | Foi realizada a soma total dos valores atribuídos por todos os participantes para cada requisito?          | [Ana Victória](https://github.com/navicg)|            |
+| 5  | Foram tomadas precauções contra manipulação ou distorções na priorização (como alocar os $100 em um único requisito)? | [Ana Victória](https://github.com/navicg) |            |
+---
+## Como utilizar esta lista de verificação
+
+- Para cada item da lista, o revisor deve:
+
+    -  Verificar se o artefato atende ao critério especificado
+    -  Marcar como "Conforme" ou "Não conforme"
+    -  Para itens não conformes, adicionar comentários específicos sobre o que precisa ser corrigido
+    -  Sempre incluir referências a exemplos ou páginas específicas onde os problemas foram encontrados
+
+## Referências
+
+
+### Glossário:
+A referencia bibliográfica é essa: VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. 1. ed. Rio de Janeiro: Brasport, 2016.
+
+https://www.kufunda.net/publicdocs/Engenharia%20de%20Requisitos%20software%20orientado%20ao%20neg%C3%B3cio%20(Carlos%20Eduardo%20Vazquez%20etc.).pdf
+
+### Grupo Focal:
+
+
+## Histórico de Versões
