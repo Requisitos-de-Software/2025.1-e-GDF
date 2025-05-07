@@ -183,46 +183,42 @@ Essa opção permite com que o usuário controle sobre seus dados no aplicativo,
 ## 3 Requisitos elicitados
 Com base nos documentos analisados, os seguintes requisitos elicitados estão representados na tabela abaixo:
 
-| Código   | Descrição                                                                                                         | Implementação        |
-|----------|-------------------------------------------------------------------------------------------------------------------|----------------------|
-| RF01     | O sistema deve permitir que o usuário realize login.                                                             | Implementado         |
-| RF02     | O sistema deve permitir que o usuário solicite serviços públicos como coleta de lixo, reparo de vias e diversos. | Implementado         |
-| RF03     | O sistema deve permitir o usuário utilizar um mapa para localizar onde foi solicitado o serviço.                 | Implementado         |
-| RF04     | O sistema deve permitir que o usuário visualize e acompanhe o status das suas solicitações.                     | Implementado         |
-| RF05     | O sistema deve oferecer um assistente virtual para ajudar o usuário em dúvidas.                                  | Implementado         |
-| RF06     | O sistema deve permitir que o usuário confirme a resolução de problemas relatados.                               | Implementado         |
-| RF07     | O sistema deve permitir que o usuário exclua seus dados e conta do aplicativo.                                   | Implementado         |
-| RF08     | O sistema deve permitir aumentar ícones e o tamanho da fonte conforme a necessidade do usuário por meio de um botão. | Não implementado     |
-| RNF01    | O sistema deve ser compatível com vários dispositivos como Android e iOS.                                        | Implementado         |
-| RNF02    | O sistema deve estar em conformidade com a Lei Geral de Proteção de Dados (LGPD).                               | Implementado        |
-| RNF03    | O sistema deve garantir a criptografia em dados sensíveis.                                                      | Não implementado     |
-| RNF04    | O sistema deve ter uma interface intuitiva.                                                                      | Não implementado     |
+### Tabela 1: Requisitos Funcionais
+
+Legenda da Tabela:  
+- RFx: Requisito Funcional nºx  
+- **ID**: Link para a técnica de elicitação 
+
+| <a id="anchor_AD" style="color:black;">ID</a> | Tipo  | Descrição                                                                                                         | Implementação    |
+|------------------|-------|-------------------------------------------------------------------------------------------------------------------|------------------|
+| AD01              | RF01  | O sistema deve permitir que o usuário realize login.                                                             | Implementado     |
+| AD02             | RF02  | O sistema deve permitir que o usuário solicite serviços públicos como coleta de lixo, reparo de vias e diversos. | Implementado     |
+| AD03             | RF03  | O sistema deve permitir o usuário utilizar um mapa para localizar onde foi solicitado o serviço.                 | Implementado     |
+| AD04             | RF04  | O sistema deve permitir que o usuário visualize e acompanhe o status das suas solicitações.                     | Implementado     |
+| AD05             | RF05  | O sistema deve oferecer um assistente virtual para ajudar o usuário em dúvidas.                                  | Implementado     |
+| AD06             | RF06  | O sistema deve permitir que o usuário confirme a resolução de problemas relatados.                               | Implementado     |
+| AD07             | RF07  | O sistema deve permitir que o usuário exclua seus dados e conta do aplicativo.                                   | Implementado     |
+| AD08             | RF08  | O sistema deve permitir aumentar ícones e o tamanho da fonte conforme a necessidade do usuário por meio de um botão. | Não implementado |
+
+### Tabela 2: Requisitos Não-funcionais
+
+Legenda da Tabela:  
+- RNFx: Requisito Não-Funcional nºx  
+- **ID**: Link para a técnica de elicitação
+
+| <a id="anchor_AD" style="color:black;">ID</a> | Tipo   | Descrição                                                                                          | Implementação    |
+|---------------------|--------|------------------------------------------------------------------------------------------------------|------------------|
+| AD09                 | RNF01  | O sistema deve ser compatível com vários dispositivos como Android e iOS.                           | Implementado     |
+| AD10               | RNF02  | O sistema deve estar em conformidade com a Lei Geral de Proteção de Dados (LGPD).                  | Implementado     |
+| ADN11               | RNF03  | O sistema deve garantir a criptografia em dados sensíveis.                                          | Não implementado |
+| ADN12               | RNF04  | O sistema deve ter uma interface intuitiva.                                                         | Não implementado |
 
 
 Fonte: Elaborado pelo autor (Lucas Mendonça Arruda, 2025).
 
-
-
-
-**Legenda:**
-- **RF** – Requisito Funcional  
-- **RNF** – Requisito Não Funcional
-
-
 ## Limitações da análise
 
 o app é novo e lançou no dia 10 de maio de 2024 na playstore enquanto na appstore a primeira versão do app foi lançada em 28 de maio de 2024. Por esse motivo, há pouca documentação disponível publicamente e um número reduzido de avaliações dos usuários sobre o aplivativo. 
-
-## Referências Bibliográficas 
-
-GOVERNO DO DISTRITO FEDERAL. Aplicativo eGDF PlayStore. Disponível em: [https://play.google.com/store/apps/details?id=br.gov.df.eGDF&hl=pt_BR](https://play.google.com/store/apps/details?id=br.gov.df.eGDF&hl=pt_BR). Acesso em:30 abr 2025.
-
-GOVERNO DO DISTRITO FEDERAL. Aplicativo eGDF AppStore. Disponível em: [https://apps.apple.com/br/app/egdf/id6502908159?l=en-GB](https://apps.apple.com/br/app/egdf/id6502908159?l=en-GB). Acesso em:30 abr 2025.
-
-GOVERNO DO DISTRITO FEDERAL. Exclusão conta eGDF. Brasília: GDF, 2024. Disponível em: [https://www.df.gov.br/exclusao-conta-egdf/](https://www.df.gov.br/exclusao-conta-egdf/). Acesso em: 30 abr 2025.
-
-GOVERNO DO DISTRITO FEDERAL. Política de privacidade do eGDF. Brasília: GDF, 2025. Disponível em: [https://www.df.gov.br/politica-privacidade-egdf/](https://www.df.gov.br/politica-privacidade-egdf/). Acesso em: 30 abr 2025.
-
 
 ## Bibliografia
 
@@ -230,6 +226,13 @@ VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: 
 
 UNIVERSIDADE DE BRASÍLIA. FGA0313 – Requisitos de Software – Turma T03 (2025.1 – 35M12). Docente: ANDRE BARROS DE SALES. Plano de ensino disponível em: [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf). Acesso em: 30 abr. 2025.
 
+OVERNO DO DISTRITO FEDERAL. Aplicativo eGDF PlayStore. Disponível em: [https://play.google.com/store/apps/details?id=br.gov.df.eGDF&hl=pt_BR](https://play.google.com/store/apps/details?id=br.gov.df.eGDF&hl=pt_BR). Acesso em:30 abr 2025.
+
+GOVERNO DO DISTRITO FEDERAL. Aplicativo eGDF AppStore. Disponível em: [https://apps.apple.com/br/app/egdf/id6502908159?l=en-GB](https://apps.apple.com/br/app/egdf/id6502908159?l=en-GB). Acesso em:30 abr 2025.
+
+GOVERNO DO DISTRITO FEDERAL. Exclusão conta eGDF. Brasília: GDF, 2024. Disponível em: [https://www.df.gov.br/exclusao-conta-egdf/](https://www.df.gov.br/exclusao-conta-egdf/). Acesso em: 30 abr 2025.
+
+GOVERNO DO DISTRITO FEDERAL. Política de privacidade do eGDF. Brasília: GDF, 2025. Disponível em: [https://www.df.gov.br/politica-privacidade-egdf/](https://www.df.gov.br/politica-privacidade-egdf/). Acesso em: 30 abr 2025.
 
 ## Histórico de Versões
 
@@ -238,5 +241,6 @@ UNIVERSIDADE DE BRASÍLIA. FGA0313 – Requisitos de Software – Turma T03 (202
 | 1.0    | Adição da documentação da Análise de documentos                                       | [Lucas Mendonça](https://github.com/lucasarruda9) | 30/04/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 30/04/2025       |
 | 1.1    | Adição das imagens, requisitos e novos documentos                                      | [Lucas Mendonça](https://github.com/lucasarruda9) | 01/05/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 01/05/2025       |
 | 1.2    | correção ortográfica, centralizando imagens e informação sobre criptografia de dados                                      | [Lucas Mendonça](https://github.com/lucasarruda9) | 04/05/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 04/05/2025       |
+| 1.3    | Arrumando rastreabilidade dos requisitos                                     | [Lucas Mendonça](https://github.com/lucasarruda9) | 07/05/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 07/05/2025       |
 
 ---
