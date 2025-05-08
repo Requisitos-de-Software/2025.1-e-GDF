@@ -64,7 +64,12 @@ Com base nas técnicas de análise de documentos, entrevistas, introspecção e 
 - **Tarefas primárias**: Uso da **mobilidade**, principalmente para utilizar a opção do DF no Ponto, **receitas e tributos**, que facilita a emissão do IPVA e IPTU, e **educação**, para acessar o calendário escolar anual.
 - **Frequência de uso do sistema**: Raramente.
 - **Usabilidade percebida:** Usuários relatam dificuldade inicial de uso, indicando baixa facilidade de navegação.
+
+<font size="3"><p style="text-align: center">Elaborado por: [Karoline Luz](https://github.com/KarolineLuz).</p></font>
+
+---
 ### **Referências Bibliográficas:**
+
 
 > <a id="FRM1" href="#anchor_1">1.</a>UNB. IHC-UX - Personas. Disponível em: [https://aprender3.unb.br/pluginfile.php/3096073/mod_resource/content/2/ihc-ux-%20Personas.pdf](https://aprender3.unb.br/pluginfile.php/3096073/mod_resource/content/2/ihc-ux-%20Personas.pdf). Acesso em: 01 maio 2025.
 
