@@ -43,7 +43,7 @@ Fonte: Elaborado pelo autor ([Ana Victória](https://github.com/navicg), 2025).
 
 ## Terceira entrevista - Vitor Guilherme
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/v=ZszZ9DdVtE4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/ZszZ9DdVtE4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 <p style="text-align: center"><a href="https://www.youtube.com/watch?v=ZszZ9DdVtE4" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
@@ -122,6 +122,20 @@ Fonte: Elaborado pelo autor ([Ana Victória](https://github.com/navicg) e [Artur
 WIEGERS, Karl E.; BEATTY, Joy. Software requirements. 3. ed. Redmond: Microsoft Press, 2013. Disponível em:
 [https://olivroqueaprende.com/WDK/Software_Requirements_3rd_Edition.pdf](https://olivroqueaprende.com/WDK/Software_Requirements_3rd_Edition.pdf). Acesso em 01 mai.2025
 
+<div style="text-align: center">
+<img src="/assets/elicitacao/Entrevista/Entrevista-fonte1.png" alt="Entrevista-fonte1">
+<p>Fonte: WIEGERS, Karl E.; BEATTY, Joy. Software requirements. 3. ed. Redmond: Microsoft Press, 2013, p. 49.</p>
+</div>
+
+<div style="text-align: center">
+<img src="/assets/elicitacao/Entrevista/Entrevista-fonte2.png" alt="Entrevista-fonte2">
+<p>Fonte: WIEGERS, Karl E.; BEATTY, Joy. Software requirements. 3. ed. Redmond: Microsoft Press, 2013, p. 131.</p>
+</div>
+
+<div style="text-align: center">
+<img src="/assets/elicitacao/Entrevista/Entrevista-fonte3.png" alt="Entrevista-fonte3">
+<p>Fonte: WIEGERS, Karl E.; BEATTY, Joy. Software requirements. 3. ed. Redmond: Microsoft Press, 2013, p. 131.</p>
+</div>
 
 ## Histórico de Versões
 
@@ -131,5 +145,5 @@ Versão  |  Descrição | Autor(es) | Data      | Revisor(es) | Data de Revisão
 1.1 | Correção e adição de algumas informações sobre a entrevista. | [Ana Victória](https://github.com/navicg) e [Artur Mendonça](https://github.com/ArtyMend07) | 02/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 03/05/2025 |
 1.2 | Adição da entrevista do Vitor Guilherme. | [Ana Victória](https://github.com/navicg) e [Artur Mendonça](https://github.com/ArtyMend07) | 03/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 03/05/2025 |
 1.3 | Ajuste nas tabelas | [Ana Victória](https://github.com/navicg) e [Artur Mendonça](https://github.com/ArtyMend07) | 03/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 03/05/2025 |
-1.4 | Padronização do histórico de versões | [Ana Victória](https://github.com/navicg) e [Artur Mendonça](https://github.com/ArtyMend07) | 09/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 09/05/2025 |
+1.4 | Padronização do histórico de versões e adição de imagens das fontes | [Ana Victória](https://github.com/navicg) e [Artur Mendonça](https://github.com/ArtyMend07) | 09/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 09/05/2025 |
 
