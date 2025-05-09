@@ -54,20 +54,22 @@ Durante a reunião, realizada na terça-feira, 29 de abril, foram levantadas as 
 ## Definição do Perfil de Usuário
 
 Com base nas técnicas de análise de documentos, entrevistas, introspecção e brainstorming, foi definido o perfil genérico do usuário do sistema, conforme descrito abaixo:
-
-- **Gênero predominante**: Em sua maior parte masculino.
-- **Idade**: Jovens a adultos, com faixa etária entre 20 a 40 anos.
-- **Experiência**: Usuários novatos a intermediários.
-- **Ocupação**: Estudantes e servidores da área da Educação.
-- **Região**: Moradores do **Distrito Federal**.
-- **Atitude:** Neutros á tecnófilos – usuários que soluções práticas, sem grande resistência ao uso de tecnologia.
-- **Tarefas primárias**: Uso da **mobilidade**, principalmente para utilizar a opção do DF no Ponto, **receitas e tributos**, que facilita a emissão do IPVA e IPTU, e **educação**, para acessar o calendário escolar anual.
-- **Frequência de uso do sistema**: Raramente.
-- **Usabilidade percebida:** Usuários relatam dificuldade inicial de uso, indicando baixa facilidade de navegação.
-
-<font size="3"><p style="text-align: center">Elaborado por: [Karoline Luz](https://github.com/KarolineLuz).</p></font>
-
+| **Atributo**                    | **Descrição**                                                                 |
+|----------------------------------|-------------------------------------------------------------------------------|
+| **Gênero predominante**          | Em sua maior parte masculino.                                                |
+| **Idade**                        | Jovens a adultos, com faixa etária entre 20 a 40 anos.                       |
+| **Experiência**                  | Usuários novatos a intermediários.                                           |
+| **Ocupação**                     | Estudantes e servidores da área da Educação.                                 |
+| **Região**                       | Moradores do **Distrito Federal**.                                           |
+| **Atitude**                      | Neutros a tecnófilos – usuários que buscam soluções práticas, sem grande resistência ao uso de tecnologia. |
+| **Tarefas primárias**            | Uso da **mobilidade**, principalmente para utilizar a opção do DF no Ponto, **receitas e tributos**, que facilita a emissão do IPVA e IPTU, e **educação**, para acessar o calendário escolar anual. |
+| **Frequência de uso do sistema** | Raramente.                                                                   |
+| **Usabilidade percebida**        | Usuários relatam dificuldade inicial de uso, indicando baixa facilidade de navegação. |
 ---
+
+<font size="3"><p style="text-align: center">Elaborado por: [Karoline Luz](https://github.com/KarolineLuz) e [Ana Victória](https://github.com/navicg).</p></font>
+
+
 ### **Referências Bibliográficas:**
 
 
@@ -92,9 +94,11 @@ Com base nas técnicas de análise de documentos, entrevistas, introspecção e 
 
 
 ## Histórico de Versões
+
 | Versão | Descrição                                                      | Autor(es)                            | Data       | Revisor(es)         | Data de revisão |
-|--------|----------------------------------------------------------------|--------------------------------------|------------|---------------------|------------------|
-| 1.0    | Esboço inicial do perfil                                     | [Karoline Luz](https://github.com/KarolineLuz) e  [Ana Victória](https://github.com/navicg) | 30/04/2025 |[Artur Mendonça](https://github.com/ArtyMend07)    | 03/04/2025|
-| 1.1    | Atualização com descrições e melhorias de usabilidade  | [Karoline Luz](https://github.com/KarolineLuz) e  [Ana Victória](https://github.com/navicg)  | 01/05/2025 | [Artur Mendonça](https://github.com/ArtyMend07)    | 03/04/2025 |
-| 1.2| Adicionando perfil de usuário, metodologias e resultados das técnicas de elicitação| [Karoline Luz](https://github.com/KarolineLuz) e  [Ana Victória](https://github.com/navicg)  | 02/05/2025 | [Artur Mendonça](https://github.com/ArtyMend07)    | 03/04/2025 |
-| 1.3| Adicionando mais informações no perfil de usuário.| [Karoline Luz](https://github.com/KarolineLuz) e  [Ana Victória](https://github.com/navicg)  | 03/05/2025 | [Artur Mendonça](https://github.com/ArtyMend07)    | 03/04/2025 |
+|--------|----------------------------------------------------------------|--------------------------------------|------------|---------------------|-----------------|
+| 1.0    | Esboço inicial do perfil                                       | [Karoline Luz](https://github.com/KarolineLuz) e [Ana Victória](https://github.com/navicg) | 30/04/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 03/04/2025 |
+| 1.1    | Atualização com descrições e melhorias de usabilidade          | [Karoline Luz](https://github.com/KarolineLuz) e [Ana Victória](https://github.com/navicg) | 01/05/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 03/04/2025 |
+| 1.2    | Adicionando perfil de usuário, metodologias e resultados das técnicas de elicitação | [Karoline Luz](https://github.com/KarolineLuz) e [Ana Victória](https://github.com/navicg) | 02/05/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 03/04/2025 |
+| 1.3    | Adicionando mais informações no perfil de usuário              | [Karoline Luz](https://github.com/KarolineLuz) e [Ana Victória](https://github.com/navicg) | 03/05/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 03/05/2025 |
+| 1.4    | Correção e padronização das tabelas, fontes e ajustes gerais   | [Karoline Luz](https://github.com/KarolineLuz) | 08/05/2025 | [Ana Victória](https://github.com/navicg) | 08/05/2025
