@@ -1,8 +1,8 @@
-# Metodologia do Projeto – Carteira Digital de Trânsito
+# Metodologia do Projeto – eGDF
 
 ## Introdução
 
-Este documento descreve a metodologia adotada pelo grupo para o desenvolvimento do trabalho de requisitos focado no aplicativo **Carteira Digital de Trânsito**. Após a análise das necessidades do projeto e das práticas de desenvolvimento ágil, optamos por utilizar o **Scrum** pela sua capacidade de organizar e evoluir projetos de forma incremental, garantindo transparência e colaboração entre os membros da equipe.
+Este documento descreve a metodologia adotada pelo grupo para o desenvolvimento do trabalho de requisitos focado no aplicativo **eGDF**. Após a análise das necessidades do projeto e das práticas de desenvolvimento ágil, optamos por utilizar o **Scrum** pela sua capacidade de organizar e evoluir projetos de forma incremental, garantindo transparência e colaboração entre os membros da equipe.
 
 O Scrum permite entregas frequentes e feedback contínuo, possibilitando ajustes durante a definição, modelagem e validação dos requisitos do aplicativo.
 
@@ -163,4 +163,5 @@ Todos os pull requests devem seguir o template disponível em `.github/PULL_REQU
 | 1.0    |  Criação da documentação da metodologia               | [Artur Mendonça](https://github.com/ArtyMend07)   | 11/04/2025 | [Gabriel Lopes](https://github.com/BrzGab)   | 11/04/2025      |
 | 1.1    |  Padronizando histórico de versões               |  [Lucas Mendonça ](https://github.com/lucasarruda9)  | 13/04/2025 | [Artur Mendonça](https://github.com/ArtyMend07)   | 13/04/2025      |
 | 1.2    |  Padronizando histórico de versões               |  [Lucas Mendonça ](https://github.com/lucasarruda9)  | 13/04/2025 | [Artur Mendonça](https://github.com/ArtyMend07)   | 13/04/2025      |
-| 1.3    |  Inclusão de processos para gestão de issues e pull requests               |  [Artur Mendonça](https://github.com/ArtyMend07)  | 19/04/2025 | [Luiza da Silva ](https://github.com/Luizaxx)   | 20/04/2025      |
+| 1.3    |  Inclusão de processos para gestão de issues e pull requests               |  [Artur Mendonça](https://github.com/ArtyMend07)  | 19/04/2025 | [Luiza da Silva ](https://github.com/Luizaxx)   | 20/04/2025      | 
+| 1.4    |  Atualização do app citado               |  [Artur Mendonça](https://github.com/ArtyMend07)  | 09/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva ](https://github.com/Luizaxx)   | 09/05/2025      |
