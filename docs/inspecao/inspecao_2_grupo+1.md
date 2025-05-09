@@ -44,6 +44,8 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 | 10  | Cada integrante da equipe elaborou pelo menos um item do conteúdo da disciplina com referência bibliográfica da fonte e foto do texto referência? | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | Incompleto |
 
 <font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ( [Karoline Luz](https://github.com/KarolineLuz), 2025).</p></font>
+
+
 ---
 
 ## Lista de Verificação - Itens Técnicos e Documentais 
