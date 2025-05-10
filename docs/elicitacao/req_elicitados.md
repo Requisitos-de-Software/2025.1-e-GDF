@@ -94,7 +94,7 @@ A legenda para cada sigla é a seguinte:
 | RNF24  | Deve funcionar em modo offline para consulta de registros ou informações previamente acessadas.                                                                         | <a href="../tec_elicitacao/integracao/#anchor_INTT">INT20</a>                                                                                                                   | Não           |
 | RNF25  | As imagens capturadas pelo usuário devem ser otimizadas para upload rápido mesmo em conexões móveis.                                                                    | <a href="../tec_elicitacao/integracao/#anchor_INTT">INT21</a>                                                                                                                   | Sim           |
 
-<font size="3"><p style="text-align: center">Elaborado por: [João Marcos Moraes](https://github.com/JJOAOMARCOSS).</p></font>
+<font size="3"><p style="text-align: center">Elaborado pelo autor: ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), 2025).</p></font>
 
 
 # Histórico de Versões
@@ -103,3 +103,4 @@ A legenda para cada sigla é a seguinte:
 | ------ | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ---------- | -------------------------------------- | --------------- |
 | 1.0    | Criação da documentação do Requisitos Elicitados | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 03/05/2025 | [Karoline Luz](https://github.com/karol) | 03/05/2025      |
 | 1.1    | Melhorando rastreabilidade da Análise de documentos | [Lucas Mendonça](https://github.com/lucasarruda9) | 08/05/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 08/05/2025      |
+| 1.2    | Arruamando o padrão para o texto de elaboração de tabelas | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 10/05/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 10/05/2025      |
