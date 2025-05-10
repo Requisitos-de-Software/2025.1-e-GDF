@@ -36,5 +36,6 @@ Sexta-feira (25/04/2025) às 20h, via Microsoft Teams.
 | Versão | Data | Descrição | Autor(es) | Revisor(es) | Data da Revisão|
 |--------|------|-----------|-----------|-------------|------
 | 1.0 | 18/04/2025 | Ata da 4ª Reunião | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | [Lucas Mendonça ](https://github.com/lucasarruda9) | 04/05/2025
-|1.1|  18/04/2025 | Arrumando nº da ata [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | [Lucas Mendonça ](https://github.com/lucasarruda9) | 04/05/2025
+|1.1|  18/04/2025 | Arrumando nº da ata | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | [Lucas Mendonça ](https://github.com/lucasarruda9) | 04/05/2025
 |1.2|  04/05/2025 | Arrumando histórico de versão número da ata |[Lucas Mendonça ](https://github.com/lucasarruda9) | [Luiza da Silva](https://github.com/Luizaxx) | 04/05/2025
+|1.3|  10/05/2025 | Arrumando ata para aparecer no gitpages |[João Marcos Moraes](https://github.com/JJOAOMARCOSS) | [Luiza da Silva](https://github.com/Luizaxx) | 10/05/2025
