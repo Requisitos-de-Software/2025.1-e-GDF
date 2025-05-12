@@ -26,7 +26,7 @@ Este documento apresenta uma lista de verificação para avaliar os artefatos pr
 | 9   | A gravação e o(s) registro(s) da atividade de priorização dos requisitos?                                                                         | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/corre%C3%A7%C3%B5es-da-apresenta%C3%A7%C3%A3o-2/docs/assets/lista-2/Lista_Entrega2_Plano.png" alt="Referência do item" width="100px"><br><a href="https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf">Plano de Ensino</a></div> |
 | 10  | Cada integrante da equipe elaborou pelo menos um item do conteúdo da disciplina com referência bibliográfica da fonte e foto do texto referência? | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/corre%C3%A7%C3%B5es-da-apresenta%C3%A7%C3%A3o-2/docs/assets/lista-2/Lista_Entrega2_Plano.png" alt="Referência do item" width="100px"><br><a href="https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf">Plano de Ensino</a></div> |
 
-## <font size="3"><p style="text-align: center">Elaborado por: [Karoline Luz](https://github.com/KarolineLuz).</p></font>
+<font size="3"><p style="text-align: center">Elaborado pelos autores: ([Karoline Luz](https://github.com/KarolineLuz) e [João Marcos](https://github.com/JJOAOMARCOSS), 2025).</p></font>
 
 ### Lista de Verificação - Itens Técnicos e Documentais
 
@@ -43,7 +43,7 @@ Este documento apresenta uma lista de verificação para avaliar os artefatos pr
 | 7   | As gravações de reuniões foram salvas? - Arquivos de vídeo das reuniões, armazenados para consulta futura.                                                                | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/corre%C3%A7%C3%B5es-da-apresenta%C3%A7%C3%A3o-2/docs/assets/lista-2/Lista_Parte2_PlanoDeEnsino.png" alt="Referência do item" width="100px"><br><a href="https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf">Plano de Ensino</a></div> |
 | 8   | As apresentações no YouTube estão configuradas como "não listado"? - Garantia de que os vídeos estão acessíveis apenas para quem tiver o link, respeitando a privacidade. | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/corre%C3%A7%C3%B5es-da-apresenta%C3%A7%C3%A3o-2/docs/assets/lista-2/Lista_Parte2_PlanoDeEnsino.png" alt="Referência do item" width="100px"><br><a href="https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf">Plano de Ensino</a></div> |
 
-<font size="3"><p style="text-align: center">Elaborado por: [Karoline Luz](https://github.com/KarolineLuz).</p></font>
+<font size="3"><p style="text-align: center">Elaborado pelos autores: ([Karoline Luz](https://github.com/KarolineLuz) e [João Marcos](https://github.com/JJOAOMARCOSS), 2025).</p></font>
 
 ---
 
@@ -191,3 +191,4 @@ WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft 
 | ------ | ----------------------------------- | ------------------------------------------------------------------------------------------------------ | ---------- | -------------------------------------- | --------------- |
 | 1.0    | Criação da documentação do Inspeção | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Karoline Luz](https://github.com/KarolineLuz) | 05/05/2025 | [Artur](https://github.com/ArtyMend07) | 05/05/2025      |
 | 1.1    | Ajustes e padronização das tabelas  | [Karoline Luz](https://github.com/KarolineLuz) | 08/05/2025 | [Ana Victória](https://github.com/navicg) | 08/05/2025      |
+| 1.2    | Ajustes nas imagens  | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 12/05/2025 | [Ana Victória](https://github.com/navicg) | 12/05/2025      |
