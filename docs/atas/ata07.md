@@ -27,7 +27,7 @@ Reunião realizada online via **Microsoft Teams**.
 
 ## Decisões
 
-- Divisão de artefatos entre membros do grupo,
+- Divisão de artefatos entre membros do grupo.
 
 
 ## Link da gravação
