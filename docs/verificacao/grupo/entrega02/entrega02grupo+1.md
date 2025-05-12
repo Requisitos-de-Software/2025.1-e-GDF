@@ -176,14 +176,11 @@ Este documento apresenta uma lista de verificação para avaliar os artefatos pr
 
 ## Referências Bibliograficas
 
-A referencia bibliográfica é essa: VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. 1. ed. Rio de Janeiro: Brasport, 2016.
+- A referencia bibliográfica é essa: VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. 1. ed. Rio de Janeiro: Brasport, 2016.
 
-https://www.kufunda.net/publicdocs/Engenharia%20de%20Requisitos%20software%20orientado%20ao%20neg%C3%B3cio%20(Carlos%20Eduardo%20Vazquez%20etc.).pdf
+- https://www.kufunda.net/publicdocs/Engenharia%20de%20Requisitos%20software%20orientado%20ao%20neg%C3%B3cio%20(Carlos%20Eduardo%20Vazquez%20etc.).pdf
 
-WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. ISBN 978-0-7356-7966-5. Disponível em: https://olivroqueaprende.com/WDK/Software_Requirements_3rd_Edition.pdf.
-
-## Histórico de Versões
-# Histórico de Versões
+- WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. ISBN 978-0-7356-7966-5. Disponível em: https://olivroqueaprende.com/WDK/Software_Requirements_3rd_Edition.pdf.
 
 # Histórico de Versões
 
