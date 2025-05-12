@@ -2,7 +2,16 @@
 
 # Introdução
 
-O Brainstorming é uma técnica que fornece informações sobre os tipos de conteúdo e características que os usuários querem e desejam em um produto. Essa atividade pode ser utilizada para qualquer produto ou serviço, e resulta numa lista priorizada de necessidades e desejos dos usuários. Em geral, essa técnica é utilizada para elicitar requisitos e revelar novas características que os usuários apreciariam em um produto. O Brainstorming fornece mais benefícios quando utilizado durante o estágio conceitual do desenvolvimento do produto. Uma sessão de brainstorming busca elicitar de forma bastante livre um conjunto grande e abrangente de opiniões dos participantes em torno de um tema. Os resultados dessa atividade podem alimentar diretamente as especificações funcionais e a documentação de design.
+## Brainstorming
+
+O [Brainstorming](https://github.com/Requisitos-de-Software/2025.1-Carteira-Digital-de-Transito/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md)  é uma técnica que fornece informações valiosas sobre os tipos de conteúdo e características que os usuários querem e desejam em um produto. Essa atividade pode ser aplicada a qualquer tipo de produto ou serviço, resultando em uma lista priorizada de necessidades, expectativas e desejos dos usuários. Em geral, essa técnica é amplamente utilizada para elicitar requisitos e revelar novas funcionalidades que poderiam agregar valor à experiência do usuário.
+
+O Brainstorming é especialmente benéfico quando aplicado durante o estágio conceitual do desenvolvimento de um produto, pois contribui para ampliar a visão da equipe sobre possíveis soluções e direções criativas. Uma sessão de brainstorming busca elicitar, de forma bastante livre e colaborativa, um conjunto grande e abrangente de opiniões, ideias e percepções dos participantes em torno de um tema central.
+
+Os resultados dessa atividade podem ser utilizados como insumos diretos para a definição de especificações funcionais, elaboração da documentação de design, e para embasar decisões estratégicas no projeto. A técnica favorece a participação coletiva e a construção conjunta de conhecimento, sendo uma ferramenta valiosa no processo de desenvolvimento centrado no usuário.
+
+Este conteúdo foi baseado no livro *Interação Humano-Computador* (**BARBOSA, Simone D. J.; SILVA, Bruno Santana da. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.**), de Ralph R. Young, que destaca o papel fundamental do brainstorming como uma das principais abordagens para a identificação e definição de requisitos em projetos de software.
+
 
 # Metodologia
 
@@ -26,7 +35,7 @@ Os usuários foram submetidos a uma série de perguntas e para o compartilhament
 | 8  | Mateus Bastos Dos Santos          | Presente | Usuário                  |
 | 9  | Gabriel Lima                      | Presente | Usuário                  |
 
-<font size="3"><p style="text-align: center">Fonte: [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx).</p></font>
+<font size="3"><p style="text-align: center"> Elaborado por: [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx).</p></font>
 
 # Palavras-chave
 | Palavra-chave   | Categoria/Assunto Relacionado       |
@@ -47,7 +56,7 @@ Os usuários foram submetidos a uma série de perguntas e para o compartilhament
 | Jovens          | Público-alvo                        |
 | Chatbot         | Suporte ao Usuário                  |
 
-<font size="3"><p style="text-align: center">Fonte: [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx).</p></font>
+<font size="3"><p style="text-align: center">Elaborado por: [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx).</p></font>
 
 
 # Perguntas Utilizadas no Brainstorming
@@ -68,7 +77,7 @@ Os usuários foram submetidos a uma série de perguntas e para o compartilhament
 
 <p style="text-align: center"><a href="https://www.figma.com/board/r0BuvzjETtZ4NHreKd4tX6/Brainstorming-E-GDF?node-id=0-1&t=5c5GYhgNaWTHTTsG-1" target="_blank">Link FigJam</a></p> 
 
-<font size="3"><p style="text-align: center">Fonte: [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx).</p></font>
+<font size="3"><p style="text-align: center">Elaborado por: [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx).</p></font>
  
 # Gravação da reunião de brainstorming
 
@@ -76,7 +85,7 @@ Os usuários foram submetidos a uma série de perguntas e para o compartilhament
 
 <p style="text-align: center"><a href="https://youtu.be/ItswNLi2kJI" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
-<font size="3"><p style="text-align: center">Fonte: [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx).</p></font>
+<font size="3"><p style="text-align: center">Elaborado por: [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx).</p></font>
 
 # Elicitação de Requisitos Funcionais
 
@@ -108,7 +117,7 @@ Legenda da Tabela:
 | BR19                                          | O aplicativo deve permitir notificações por categorias como saúde, educação, transporte                   | RF19   | Não          |
 | BR20                                          | O usuário deve conseguir compartilhar ou salvar informações importantes (como protocolos ou comprovantes) | RF20   | Não          |
 
-<font size="3"><p style="text-align: center">Fonte: [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx).</p></font>
+<font size="3"><p style="text-align: center">Elaborado por: [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx).</p></font>
 
 ---
 
@@ -131,19 +140,24 @@ Legenda da Tabela:
 | BRN08                                           | O sistema deve ter compatibilidade com leitores de tela                                           | RNF08  | Sim          |
 | BRN09                                           | O app deve conter linguagem clara e acessível, adequada a diferentes níveis de escolaridade       | RNF09  | Não          |
 
-<font size="3"><p style="text-align: center">Fonte: [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx).</p></font>
+<font size="3"><p style="text-align: center">Elaborado por: [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx).</p></font>
 
 # Referência Bibliografia 
 
 BARBOSA, Simone D. J.; SILVA, Bruno Santana da. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 Disponível em: <https://www.academia.edu/41857244/INTERA%C3%87%C3%83O_HUMANO_COMPUTADOR>. Acesso em: 29 abr. 2025.
+![](https://uploaddeimagens.com.br/images/004/897/880/original/Captura_de_tela_2025-05-11_213226.png?1747009967) 
 
 SERRANO, Milene; SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. Acesso em: 26 abr. 2023.
 
+![](https://uploaddeimagens.com.br/images/004/897/879/original/brainstorming.png?1747009159) 
+
 SMITH, John E. Brainstorming groups: size and effectiveness. [S.l.]: Southern Nazarene University. Disponível em: <https://home.snu.edu/~jsmith/library/body/v26.pdf>. Acesso em: 29 abr. 2025.
 
+![](https://uploaddeimagens.com.br/images/004/897/881/original/Captura_de_tela_2025-05-11_213505.png?1747010121) 
 # Histórico de Versões
 
-| Versão | Descrição                      | Autor(es)                                             | Data       | Revisor(es)                                            | Data de revisão |
-| ------ | ------------------------------ | ------------------------------------------------- | ---------- | -------------------------------------------------- | --------------- |
-| 1.0    | Criação da documentação do brainstorming | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 30/04/2025 | [Ana Victória](https://github.com/navicg) | 30/04/2025      |
+| Versão | Descrição                                           | Autor(es)                                                                 | Data       | Revisor(es)                                         | Data de revisão |
+|--------|----------------------------------------------------|---------------------------------------------------------------------------|------------|----------------------------------------------------|-----------------|
+| 1.0    | Criação da documentação do brainstorming           | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 30/04/2025 | [Ana Victória](https://github.com/navicg)          | 30/04/2025      |
+| 2.0    | Correção e padronização das tabelas, fontes e ajustes gerais | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 11/05/2025 | [Ana Victória](https://github.com/navicg)          | 12/05/2025      |

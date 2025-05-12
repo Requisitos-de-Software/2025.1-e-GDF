@@ -153,6 +153,8 @@ Legenda da Tabela:
 
 - FIRST things first: Setting requirement priorities. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665. Disponível em: https://www.processimpact.com/articles/prioritizing.pdf Acesso em 4 de março de 2025.
 
+![](https://uploaddeimagens.com.br/images/004/897/882/original/Captura_de_tela_2025-05-11_213759.png?1747010303) 
+
 ## Histórico de Versões
 
 | Versão | Descrição                                     | Autor(es)                                                                                                  | Data       | Revisor(es)                            | Data de revisão |
@@ -161,3 +163,4 @@ Legenda da Tabela:
 | 1.1    | Modificação nas tabelas de funcionais e não funcionais | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 04/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 04/05/2025      |
 | 1.2    | Adicionando os links para os videos | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 04/05/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 04/05/2025      |
 | 1.3    | Adicionando a tabela | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 04/05/2025 | [Artur](https://github.com/ArtyMend07) | 04/05/2025      |
+| 2.0    | Correção e padronização das tabelas, fontes e ajustes gerais | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 11/05/2025 | [Ana Victória](https://github.com/navicg)          | 12/05/2025      |
