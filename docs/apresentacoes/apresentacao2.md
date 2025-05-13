@@ -1,6 +1,6 @@
-# Entrega do Primeiro Ponto de Controle
+# Entrega do Segundo Ponto de Controle
 
-Este documento relata a entrega do primeiro ponto de controle, detalhando os participantes, o local da reunião, os horários previstos e realizados, e apresenta uma tabela de artefatos e seus status de realização.
+Este documento relata a entrega do segundo ponto de controle, detalhando os participantes, o local da reunião, os horários previstos e realizados, e apresenta uma tabela de artefatos e seus status de realização.
 
 ## Participantes
 
@@ -34,24 +34,24 @@ A gravação da reunião está disponível em: [https://youtu.be/OpUQ1KN-e1A](ht
 | Previsto  | 04/05/2025 | 22:00  | 22:30   |
 | Realizado | 04/05/2025 | 22:24  | 22:58   |
 
-Fonte: Elaborado pelo autor ( [João Marcos](https://github.com/JJOAOMARCOSS), 2025).
+Fonte: Elaborado pelo autor ([João Marcos](https://github.com/JJOAOMARCOSS), 2025).
 
 ## Artefatos e Realização
 
-| Artefato        | Realizado | responsáveis        |
+| Artefato        | Realizado | Responsáveis        |
 | --------------- | --------- | ------------------- |
-| Analise de Documentos      | Sim       | Lucas       |
-| Brainstorming      | Sim       | João, Luiza         |
-| Introspecção    | Sim       | Gabriel      |
-| Entrevistas        | Sim       | Ana, Artur                |
-| Perfil do Usuário | Sim       | Karol                 |
-| Requisitos Elicitados Tabela   | Sim       | João   |
-| 100          | Sim       | Lucas            |
-| First Things First   | Sim       | João, Luiza               |
-| Moscow     | Sim       | ANa, Karol               |
-| ROI    | Sim       |  Artur               |
+| Analise de Documentos      | Sim       | [Lucas Mendonça](https://github.com/lucasarruda9)      |
+| Brainstorming      | Sim       | [João Marcos](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx)         |
+| Introspecção    | Sim       | [Gabriel Lopes](https://github.com/BrzGab)      |
+| Entrevistas        | Sim       | [Ana Victória](https://github.com/navicg) e [Artur](https://github.com/ArtyMend07)                |
+| Perfil do Usuário | Sim       | [Karoline Luz](https://github.com/KarolineLuz)                 |
+| Requisitos Elicitados Tabela   | Sim       | [João Marcos](https://github.com/JJOAOMARCOSS)  |
+| 100          | Sim       | [Lucas Mendonça](https://github.com/lucasarruda9)            |
+| First Things First   | Sim       | [João Marcos](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx)              |
+| Moscow     | Sim       | [Ana Victória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz)               |
+| ROI    | Sim       |  [Artur](https://github.com/ArtyMend07)               |
 
-Fonte: Elaborado pelo autor ( [João Marcos](https://github.com/JJOAOMARCOSS), 2025).
+Fonte: Elaborado pelo autor ([João Marcos](https://github.com/JJOAOMARCOSS), 2025).
 
 ## Referências Bibliográficas
 
@@ -61,6 +61,7 @@ Fonte: Elaborado pelo autor ( [João Marcos](https://github.com/JJOAOMARCOSS), 2
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                             | Autor                                                  | Revisor                                        | Data de revisão |
-| ------ | ---------- | ------------------------------------- | ------------------------------------------------------ | ---------------------------------------------- | --------------- |
-| 1.0    | 04/05/2025 | Documentação da segunda apresentação | [João Marcos](https://github.com/JJOAOMARCOSS) | [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 04/05/2025      |
+| Versão | Descrição | Autor(es) | Data | Revisor(es) | Data de revisão |
+| ------ | --------- | --------- | ---- | ----------- | --------------- |
+| 1.0    | Documentação da segunda apresentação | [João Marcos](https://github.com/JJOAOMARCOSS) |  04/05/2025 | [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 04/05/2025      |
+| 1.1    | Alterações após feedback da segunda entrega | [João Marcos](https://github.com/JJOAOMARCOSS) |  10/05/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 10/05/2025      |
