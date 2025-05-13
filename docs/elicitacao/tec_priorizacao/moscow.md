@@ -41,6 +41,8 @@ A técnica MoSCoW foi aplicada durante uma reunião realizada via **Microsoft Te
 
 <p style="text-align: center"><a href="https://www.youtube.com/watch?v=rZacw2V8qPA" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
+<font size="3"><p style="text-align: center">Fonte: [Ana Victória](https://github.com/navicg), [Gabriel Lopes](https://github.com/BrzGab) e [Karoline Luz](https://github.com/KarolineLuz).</p></font>
+
 ## Requisitos Priorizados
 
 A **Tabela 1** e **2** apresenta os requisitos funcionais e não funcionais, respectivamente, sendo que cada linha contém um **ID**, sua respectiva descrição, um **hyperlink de rastreabilidade** que direciona à página da(s) **técnica(s)** que elicitou o requisito em questão e se ele foi **implementado** ou não, e também o nível de **prioridade**.
@@ -174,9 +176,10 @@ A **legenda** para cada sigla é a seguinte:
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                | Autor(es)             | Revisor(es) | Data de Revisão |
+| Versão | Descrição    | Autor(es)                            | Data   | Revisor(es) | Data de Revisão |
 |--------|------------|------------------------------------------|----------------------|-------------|----------------|
-| 1.0    | 24/04/2025 | Criação do documento com requisitos MoSCoW | [Ana Vitória](https://github.com/navicg), [Gabriel Lopes](https://github.com/BrzGab) e [Karoline Luz](https://github.com/KarolineLuz) |[João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS) | 04/05/2025 |
-| 1.1    | 24/04/2025 | Correção e adição de melhorias no artefato | [Ana Vitória](https://github.com/navicg), [Gabriel Lopes](https://github.com/BrzGab) e [Karoline Luz](https://github.com/KarolineLuz) | [João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS) | 04/05/2025 |
-| 1.2    | 04/05/2025 | Adicionando requisitos priorizados na reunião realizada| [Ana Vitória](https://github.com/navicg), [Gabriel Lopes](https://github.com/BrzGab) e [Karoline Luz](https://github.com/KarolineLuz) |[João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS)| 04/05/2025 
+| 1.0    |  Criação do documento com requisitos MoSCoW  |  [Ana Vitória](https://github.com/navicg), [Gabriel Lopes](https://github.com/BrzGab) e [Karoline Luz](https://github.com/KarolineLuz) |24/04/2025|[João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS) | 04/05/2025 |
+| 1.1    | Correção e adição de melhorias no artefato | [Ana Vitória](https://github.com/navicg), [Gabriel Lopes](https://github.com/BrzGab) e [Karoline Luz](https://github.com/KarolineLuz) | 24/04/2025| [João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS) | 04/05/2025 |
+| 1.2    | Adicionando requisitos priorizados na reunião realizada| [Ana Vitória](https://github.com/navicg), [Gabriel Lopes](https://github.com/BrzGab) e [Karoline Luz](https://github.com/KarolineLuz)| 04/05/2025|[João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS)| 04/05/2025 |
+| 1.3   | Padronizando histórico de versão | [Ana Vitória](https://github.com/navicg)| 12/05/2025|[Karoline Luz](https://github.com/KarolineLuz)| 13/05/2025 |
 

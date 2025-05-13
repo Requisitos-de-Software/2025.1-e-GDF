@@ -15,7 +15,7 @@ O [e-GDF](https://www.economia.df.gov.br/e-gdf-e-economiadf)  é um aplicativo o
 | e-Título | Karoline e Artur |
 
 
-Autor(es): [Gabriel](https://github.com/BrzGab) e [Karoline](https://github.com/KarolineLuz), 2025.
+<font size="3"><p style="text-align: center">Fonte: [Gabriel Lopes](https://github.com/BrzGab) e [Karoline Luz](https://github.com/KarolineLuz).</p></font>
 
 <font size="3"><p style="text-align: left">**Tabela 2** - Tabela de aplicativos avaliados por cada integrante depois da sugestão do professor.</p></font>
 
@@ -25,7 +25,8 @@ Autor(es): [Gabriel](https://github.com/BrzGab) e [Karoline](https://github.com/
 | Receita Federal | João Marcos, Luiza da Silva e Karoline Luz|
 | e-GDF | Ana Victória e Gabriel Lopes|
 
-Autor(es): [Ana Victória](https://github.com/navicg), 2025.
+
+<font size="3"><p style="text-align: center">Fonte: [Ana Victória](https://github.com/navicg).</p></font>
 
 ## e-GDF
 O [e-GDF](https://www.economia.df.gov.br/e-gdf-e-economiadf) é um aplicativo oficial do Governo do Distrito Federal, criado para centralizar e facilitar o acesso da população a diversos serviços públicos digitais, promovendo mais agilidade, transparência e comodidade no relacionamento entre o cidadão e o governo. O aplicativo permite aos usuários:
@@ -102,7 +103,7 @@ Receita Federal. Disponível em:[https://www.gov.br/receitafederal/pt-br/centrai
 
 ## Bibliografia
 
-UNIVERSIDADE DE BRASÍLIA. FGA0313 – Requisitos de Software – Turma T03 (2025.1 – 35M12). Docente: ANDRE BARROS DE SALES. Plano de ensino disponível em: [Plano de Ensino](https://drive.google.com/file/d/19hLDyKCjiX6g2TyyLoFgae9jtgHpf_Hy/view?usp=drive_link). Acesso em: 02 mai. 2025.
+UNIVERSIDADE DE BRASÍLIA. FGA0313 – Requisitos de Software – Turma T03 (2025.1 – 35M12). Docente: ANDRE BARROS DE SALES. Plano de ensino disponível em: [Plano de Ensino](https://drive.google.com/file/d/1WImZqnhoTWPFehaWmSOhe57n31qYmDnX/view?usp=drive_link). Acesso em: 12 mai. 2025.
 
 ## Histórico de Versões
 
@@ -114,3 +115,4 @@ UNIVERSIDADE DE BRASÍLIA. FGA0313 – Requisitos de Software – Turma T03 (202
 | 1.1    |  Padronizando histórico de versões               |  [Lucas Mendonça ](https://github.com/lucasarruda9)  | 13/04/2025 | [Artur Mendonça](https://github.com/ArtyMend07)   | 13/04/2025      |
 | 1.2   | Correção da lista de apps, adicionando novos aplicativos analisados| [Ana Victória](https://github.com/navicg) | 30/04/2025 | [Karoline Luz](https://github.com/KarolineLuz)   | 01/05/2025      |
 | 1.3  | Corrigindo os links de direcionamento. | [Ana Victória](https://github.com/navicg) | 02/05/2025 | [Karoline Luz](https://github.com/KarolineLuz)   | 02/05/2025      |
+1.4 | Correção das fontes e do link da bibliografia. | [Ana Victória](https://github.com/navicg)| 12/05/2025 |[Karoline Luz](https://github.com/KarolineLuz)| 13/05/2025 |
