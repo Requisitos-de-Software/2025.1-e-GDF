@@ -39,6 +39,11 @@ nav:
       - 100: elicitacao/tec_priorizacao/100.md
     - Requisitos Elicitados: elicitacao/req_elicitados.md
     - Perfil de Usuário: elicitacao/perfil_de_usuario.md
+  - Modelagem:
+      - Cenários: modelagem/cenario.md
+      - Léxicos:  modelagem/lexico.md
+      - Casos de Uso: modelagem/casos_de_uso.md
+      - Especificação Suplementar: modelagem/especificacao_suplementar.md        
 
   - Verificação:
       - Grupo:
