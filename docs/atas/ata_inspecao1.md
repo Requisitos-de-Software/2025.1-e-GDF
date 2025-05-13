@@ -14,6 +14,7 @@ Reunião realizada online via **Microsoft Teams**.
 - [x] [Artur Mendonça Arruda](https://github.com/ArtyMend07)
 - [x] [Gabriel Lopes](https://github.com/BrzGab)
 - [x] [João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS)
+- [] [Karoline Luz da Conceição](https://github.com/KarolineLuz)
 - [x] [Lucas Mendonça Arruda](https://github.com/lucasarruda9)
 - [x] [Luiza da Silva Pugas](https://github.com/Luizaxx)
 
