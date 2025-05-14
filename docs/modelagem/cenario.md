@@ -8,7 +8,7 @@ Essa técnica contribui significativamente para a elicitação de requisitos, es
 
 ## Metodologia
 
-Neste projeto, a construção de cenários de uso foi orientada pela definição prévia de perfis de usuário, com o objetivo de representar interações plausíveis e contextualizadas com o aplicativo eGDF. Para a elaboração desses perfis, foram aplicadas técnicas de elicitação de requisitos, como entrevistas com usuários reais, análise de documentos relacionados ao sistema e sessões de brainstorming com partes interessadas e membros da equipe.
+Neste projeto, a construção de cenários de uso foi orientada pela definição prévia de [perfis de usuário](../elicitacao/perfil_de_usuario.md), com o objetivo de representar interações plausíveis e contextualizadas com o aplicativo [eGDF](../index.md). Para a elaboração desses perfis, foram aplicadas técnicas de elicitação de requisitos, como [entrevistas](../elicitacao/tec_elicitacao/entrevista.md) com usuários reais, [análise de documentos](../elicitacao/tec_elicitacao/analise_documentos.md) relacionados ao sistema e sessões de [brainstorming](../elicitacao/tec_elicitacao/brainstorming.md) com partes interessadas e membros da equipe.
 
 <q>Existem cinco formas para se descrever cenários, são elas texto narrativo, texto estruturado, diagramas, imagens e animações ou simulações. A forma selecionada para apresentação dos cenários presentes neste artefato será a de texto estruturado, a qual valida-se da utilização de linguagem natural semi-estruturada para melhor entendimento de cada cenário e validação dos requisitos por parte do cliente <a id="anchor_2" href="#FRM2">[2]</a> </q>. Dessa maneira, para a padronização e guia na construção dos cenários criamos um modelo a ser seguido, que está representado na Tabela 1.
 
@@ -146,13 +146,13 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 > <a id="FRM1" href="#anchor_1">1.</a>ROSSON, M. B.; CARROLL, J. M. Usability Engineering: Scenario-Based Development. San Francisco: Morgan Kaufmann, 2002.
 
 <div style="text-align: center">
-<img src="" >
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/cenarios/docs/assets/modelagem/Cenarios.png" >
 </div>
 
 > <a id="FRM2" href="#anchor_2">2.</a>CENÁRIOS: Rastreamento de Cenários. [S. l.]. Disponível em: http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf. Acesso em: 10 de maio de 2023.
 
 <div style="text-align: center">
-<img src="" >
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/cenarios/docs/assets/modelagem/Cenarios2.png" >
 </div>
 
 
@@ -160,4 +160,5 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 
 | Versão | Descrição    | Autor(es)                            | Data   | Revisor(es) | Data de Revisão |
 |--------|------------|------------------------------------------|----------------------|-------------|----------------|
-| 1.0    |  Adicionando introdução e metodologia | [Ana Victória](https://github.com/navicg) e [João Marcos Moraes](https://github.com/JJOAOMARCOSS)|14/04/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) |...|
+| 1.0    |  Adicionando introdução e metodologia | [Ana Victória](https://github.com/navicg) e [João Marcos Moraes](https://github.com/JJOAOMARCOSS)|14/04/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 15/05/2025 |
+| 1.1    |  Adicionando tabelas de cenários e Bibliografia | [Ana Victória](https://github.com/navicg) e [João Marcos Moraes](https://github.com/JJOAOMARCOSS)|14/04/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 15/05/2025 |
