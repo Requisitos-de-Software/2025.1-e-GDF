@@ -2,11 +2,9 @@
 
 ## Introdução
 
-No contexto de Interação Humano-Computador (IHC), cenários são narrativas detalhadas que descrevem situações reais ou plausíveis de uso de um sistema, tendo como foco principal os usuários, seus objetivos, ações e o ambiente em que estão inseridos. Conforme apresentado por Rosson e Carroll (2002) e aprofundado na obra de Simone Diniz Junqueira Barbosa e colaboradores, cenários são ferramentas poderosas para a concepção, análise e avaliação de sistemas interativos. Eles permitem representar, com riqueza contextual, a experiência do usuário ao interagir com o sistema, evidenciando necessidades, dificuldades e oportunidades de melhoria.
+Cenários são narrativas detalhadas que descrevem situações reais ou plausíveis de uso de um sistema, tendo como foco principal os usuários, seus objetivos, ações e o ambiente em que estão inseridos. <a id="anchor_1" href="#FRM1">^1^</a> <q>Os cenários podem ser utilizados em diversas etapas do processo, com diferentes objetivos: para descrever uma história num domínio de atividade, visando capturar requisitos e auxiliar no entendimento da atividade, levantar questões sobre a introdução de tecnologia, explorar diferentes soluções de design e avaliar se um produto satisfaz a necessidade dos seus usuários (Rosson e Carroll, 2002)</q>.
 
-Ao contrário de modelos abstratos ou casos de uso tradicionais, os cenários enfatizam a experiência concreta de indivíduos em atividades específicas, permitindo visualizar sequências de ações, eventos, obstáculos e avaliações mentais dos usuários. Eles podem ser utilizados em diferentes fases do processo de desenvolvimento, como na elicitação de requisitos, no design de interfaces e na validação de soluções, e são particularmente úteis para promover o entendimento compartilhado entre projetistas, desenvolvedores e stakeholders. Além disso, por serem relativamente econômicos e fáceis de elaborar, os cenários favorecem a participação ativa dos usuários e apoiam decisões de design centradas em suas necessidades reais.
-
-Utilizando os princípios descritos por Rosson e Carroll (2002) e aprofundados na literatura de IHC, os cenários do eGDF foram elaborados com foco em capturar os objetivos dos usuários, os processos envolvidos e os desafios enfrentados em seu contexto de uso. Através de descrições narrativas ricas em detalhes, os cenários permitiram compreender melhor as necessidades funcionais e não funcionais da aplicação, além de orientar o desenvolvimento de soluções que fossem condizentes com as expectativas e limitações dos usuários finais.
+Essa técnica contribui significativamente para a elicitação de requisitos, especialmente aqueles relacionados ao comportamento dos usuários frente ao sistema. Além de fornecer uma representação concreta das interações esperadas, os cenários demandam menor investimento de tempo e recursos quando comparados a protótipos, o que os torna uma ferramenta eficiente e acessível no processo de design de software.
 
 ## Metodologia
 
@@ -19,6 +17,11 @@ Essa abordagem permite compreender melhor as necessidades e limitações dos usu
 ## Cenários
 
 
+
+## Referências Bibliográficas
+
+> <a id="FRM1" href="#anchor_1">1.</a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+> <a id="FRM1" href="#anchor_1">1.</a>ROSSON, M. B.; CARROLL, J. M. Usability Engineering: Scenario-Based Development. San Francisco: Morgan Kaufmann, 2002.
 
 ## Histórico de Versões
 
