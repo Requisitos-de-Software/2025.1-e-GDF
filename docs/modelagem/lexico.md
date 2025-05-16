@@ -75,6 +75,19 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 
 <font size="3"><p style="text-align: center">Fonte: Elaborado pelos autores [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol). </p></font>
 
+### Tabela 5: Termos do Léxico - Introspeção
+
+| Símbolo | Noção | Impacto | Sinônimos | Tipo |
+|---------|-------|---------|-----------|------|
+| [Notificação Automática](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/introspeccao.md#anchor_INT) | Sistema de alertas sobre alterações no status das ocorrências registradas pelo usuário | Mantém o usuário informado sobre atualizações importantes em suas solicitações | Alertas de Status | Objeto |
+| [Favoritos](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/introspeccao.md#anchor_INT) | Funcionalidade que permite criar atalhos para serviços mais utilizados | Facilita o acesso rápido aos serviços mais frequentes do usuário | Atalhos, Serviços Frequentes | Objeto |
+| [Avaliação de Serviços](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/introspeccao.md#anchor_INT) | Sistema que permite ao usuário avaliar e comentar sobre os serviços públicos utilizados | Fornece feedback para melhorias nos serviços e transparência na gestão pública | Feedback, Avaliação | Verbo |
+| [Pagamento Digital](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/introspeccao.md#anchor_INT) | Integração com sistemas de carteiras digitais para pagamento de tributos e taxas | Facilita o pagamento de serviços públicos de forma digital e segura | Pagamento Online | Verbo |
+| [Modo Acessível](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/introspeccao.md#anchor_INT) | Configuração especial com ícones maiores, narração de comandos e navegação simplificada | Melhora a usabilidade para pessoas com necessidades especiais | Modo de Acessibilidade | Estado |
+| [Chatbot IA](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/introspeccao.md#anchor_INT) | Assistente virtual baseado em inteligência artificial com capacidade de aprendizado | Fornece respostas mais precisas e contextualizadas para dúvidas complexas | Assistente Inteligente | Objeto |
+
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelos autores [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol). </p></font>
+
 ---
 
 ## Bibliografia
