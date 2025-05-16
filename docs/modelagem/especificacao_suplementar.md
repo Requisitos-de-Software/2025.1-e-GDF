@@ -21,10 +21,21 @@ Consoante ao tópico anterior, o modelo utilizado para este artefato é o FURPS+
 - S - Supportability: requisitos que agrupam caracteristicas como: manutenibilidade, adaptabilidade, internacionalização, portabilidade e outros aspectos relevantes.
 - +: símbolo que emgloba outros requisitos não funcionais, os quais não se encaixam nos pilares listados, como: design, implementação, interface, físico.
 
+### Funcionalidade
+
+Os requisitos funcionais foram elicitados na seção de elicitação e a [tabela 1](../elicitacaox/req_elicitados.md) da página de [requisitos elicitados](../elicitacaox/req_elicitados.md) demonstra todos os requisitos priorizados.
+
+### Usabilidade
+
+Esse tópico diz respeito aos requisitos relacionados a facilidade do usuário de utilizar a aplicação.
+
+Para essa categoria os requisitos identificados estão representados na tabela 1 a seguir.
+
+<font><p style="text-align: center">**Tabela 1** - Requisitos de Usabilidade.</p></font>
 
 
 
-
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([João Marcos](https://github.com/JJOAOMARCOSS) e [Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
 
 
 
@@ -45,4 +56,4 @@ Consoante ao tópico anterior, o modelo utilizado para este artefato é o FURPS+
 
 | Versão | Descrição                                      | Autor(es)                                                                                         | Data       | Revisor(es)                                                                                                 | Data de Revisão |
 | ------ | ---------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------------------------------------------------------------------- | --------------- |
-| 1.0    | Criação da documentação especificação suplementar  |  e [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 15/05/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 17/05/2025      |
+| 1.0    | Criação da documentação especificação suplementar  | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Lucas Mendonça](https://github.com/lucasarruda9) | 15/05/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 17/05/2025      |
