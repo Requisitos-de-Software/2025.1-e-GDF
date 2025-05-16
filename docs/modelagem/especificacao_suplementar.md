@@ -23,7 +23,7 @@ Consoante ao tópico anterior, o modelo utilizado para este artefato é o FURPS+
 
 ### Funcionalidade
 
-Os requisitos funcionais foram elicitados na seção de elicitação e a [tabela 1](../elicitacaox/req_elicitados.md) da página de [requisitos elicitados](../elicitacaox/req_elicitados.md) demonstra todos os requisitos priorizados.
+Os requisitos funcionais foram elicitados na seção de elicitação e a [tabela 1](../elicitacao/req_elicitados.md) da página de [requisitos elicitados](../elicitacao/req_elicitados.md) demonstra todos os requisitos priorizados.
 
 ### Usabilidade
 
@@ -66,7 +66,7 @@ Envolve os requisitos relacionados ao suporte e manutenção do sistema. Isso in
 
 Para essa categoria os requisitos identificados estão representados na tabela 4 a seguir.
 
-<font><p style="text-align: center">**Tabela 4 - Requisitos de Suportabilidade.</p></font>
+<font><p style="text-align: center">**Tabela 4** - Requisitos de Suportabilidade.</p></font>
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([João Marcos](https://github.com/JJOAOMARCOSS) e [Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
 
@@ -87,7 +87,9 @@ O sistema deve seguir os padrões definidos pelas normas: WCAG, ISO 9241-11, ISO
 
 ### Requisitos Físicos
 
-
+O aplicativo é construido nas seguintes linguagens:
+Android: Kotlin, Java.
+iOS: Objective-C, Swift.
 
 ## Referências Bibliográficas
 
