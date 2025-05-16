@@ -94,7 +94,7 @@ O sistema deve seguir os padrões definidos pelas normas: WCAG, ISO 9241-11, ISO
 > <a id="FRM1" href="#anchor_1">1.</a>SALLES, André. Plano de ensino da disciplina. Disponível em: [slides](https://aprender3.unb.br/pluginfile.php/3096118/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf). Acesso em 15 de maio de 2025.
 
 <div style="text-align: center">
-<img src="" >
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/especifica%C3%A7%C3%A3o-suplementar/docs/assets/modelagem/especifica%C3%A7%C3%B5es.png">
 </div>
 
 ## Bibliografia
