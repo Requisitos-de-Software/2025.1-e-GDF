@@ -38,8 +38,54 @@ Para essa categoria os requisitos identificados estão representados na tabela 1
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([João Marcos](https://github.com/JJOAOMARCOSS) e [Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
 
 
+### Confiabilidade
+
+Diz respeito ao quão confiável é o sistema, ou seja, qual é a frequência de falhas, possibilidade de recuperação e prevenção e tempo entre as falhas.
+
+Para essa categoria os requisitos identificados estão representados na tabela 2 a seguir.
 
 
+<font><p style="text-align: center">**Tabela 2** - Requisitos de Confiabilidade.</p></font>
+
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([João Marcos](https://github.com/JJOAOMARCOSS) e [Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
+
+
+### Desempenho
+Diz respeito às condições que os requisitos devem operar. A velocidade, limites superiores e inferiores, tempo de resposta, restrições de interface e de funções, etc.
+
+Para essa categoria os requisitos identificados estão representados na tabela 3 a seguir.
+
+<font><p style="text-align: center">**Tabela 3** - Requisitos de Desempenho.</p></font>
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([João Marcos](https://github.com/JJOAOMARCOSS) e [Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
+
+### Suportabilidade
+
+Envolve os requisitos relacionados ao suporte e manutenção do sistema. Isso inclui requisitos relacionados à facilidade de manutenção, capacidade de ser modificado e atualizado, documentação adequada, facilidade de teste e diagnóstico de problemas.
+
+Para essa categoria os requisitos identificados estão representados na tabela 4 a seguir.
+
+<font><p style="text-align: center">**Tabela 4 - Requisitos de Suportabilidade.</p></font>
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([João Marcos](https://github.com/JJOAOMARCOSS) e [Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
+
+
+
+
+
+
+
+### Requisitos de Licenciamento
+O sistema deve restringir o uso através de termos de uso.
+
+### Observações Legais, de Copyright e Outras
+O sistema está sujeito à lei dos direitos autorais, portanto, para a utilização de outras marcas será necessário uma autorização prévia dos envolvidos. Deve-se atentar também para a legislação de proteção de dados (a LGPD) e as de serviços financeiros.
+
+### Padrões Aplicáveis
+O sistema deve seguir os padrões definidos pelas normas: WCAG, ISO 9241-11, ISO/TC-211, ISO 9000, ISO 9001-3, ISO 12207, ISO 12202 e pelos guias de estilo dos sistemas Android e iOS.
+
+### Requisitos Físicos
 
 
 
@@ -50,6 +96,12 @@ Para essa categoria os requisitos identificados estão representados na tabela 1
 <div style="text-align: center">
 <img src="" >
 </div>
+
+## Bibliografia
+
+> HENRIQUE, Mathes. Especificação Suplementar. Repositório do Grupo Bilheteria Digital da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: <<https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/>>. Acesso em: 15 maio 2025.
+
+
 
 
 ## Histórico de Versões
