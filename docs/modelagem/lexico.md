@@ -5,8 +5,7 @@
 O léxico é uma técnica de modelagem que visa estabelecer um vocabulário comum entre os stakeholders do projeto, garantindo que todos compartilhem o mesmo entendimento sobre os termos utilizados no sistema. Esta técnica é particularmente útil para evitar ambiguidades e garantir a consistência na comunicação entre desenvolvedores, analistas e usuários.
 
 ## Metodologia
-
-Para a elaboração deste léxico do sistema eGDF, adotamos a notação do Léxico Ampliado da Linguagem (LAL), que orienta a definição dos termos mais relevantes e suas relações com o sistema. A seguir, apresentamos duas tabelas que guiam a estruturação do documento:
+Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léxico Ampliado da Linguagem (LAL), aplicando à análise dos requisitos não implementados do sistema para identificar os termos mais relevantes e suas relações com o sistema. A seguir, apresentamos duas tabelas que guiam a estruturação do documento:
 
 - A Tabela 1 detalha os conceitos fundamentais para descrever cada termo do léxico.
 - A Tabela 2 apresenta o template utilizado para organizar as informações de cada termo.
@@ -61,6 +60,21 @@ Para a elaboração deste léxico do sistema eGDF, adotamos a notação do Léxi
 | [Compartilhamento](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) | Ação de distribuir informações do sistema com outros usuários, como protocolos ou comprovantes | Facilita a comunicação e troca de informações entre usuários, promovendo colaboração | Distribuição, Envio | Verbo |
 
 <font size="3"><p style="text-align: center">Fonte: Elaborado pelos autores [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol). </p></font>
+
+
+### Tabela 4: Termos do Léxico - Entrevista 
+
+| Símbolo                          | Noção                                                                                         | Impacto                                                                                   | Sinônimos               | Tipo    |
+|----------------------------------|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------|---------|
+| Navegação Intuitiva [EN01](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/entrevista.md#anchor_EN01) | Estrutura de interface que permite ao usuário encontrar e utilizar funcionalidades com facilidade. | Melhora a experiência de uso e reduz dependência de ajuda externa.                       | Facilidade de uso        | Estado  |
+| Estabilidade [EN03](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/entrevista.md#anchor_EN03)         | Capacidade do sistema de funcionar sem travamentos ou falhas.                             | Garante confiança no uso contínuo e sem interrupções.                                   | Robustez, Confiabilidade | Estado  |
+| Usabilidade para Idosos [EN06](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/entrevista.md#anchor_EN06) | Adaptação do design e funcionalidades para fácil entendimento por usuários idosos.         | Promove inclusão digital e autonomia.                                                   | Acessibilidade para idosos | Estado |
+| Aparência Profissional [EN08](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/entrevista.md#anchor_EN08) | Design visual que transmite seriedade, confiança e segurança ao usuário.                  | Influencia na credibilidade e confiabilidade do app.                                   | Estética institucional    | Estado  |
+
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelos autores [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol). </p></font>
+
+---
+
 ## Bibliografia
 
 > SERRANO, Milene; SERRANO, Maurício. Aula 10. Universidade de Brasília, Faculdade Gama, [s.d.]. Disponível em: https://aprender3.unb.br/pluginfile.php/3096108/mod_resource/content/1/Aula%2010.pdf. Acesso em: 15 mai. 2025.
@@ -96,6 +110,8 @@ Para a elaboração deste léxico do sistema eGDF, adotamos a notação do Léxi
 </figure>
 </center>
 
+
+
 ## Histórico de Versões
 
 | Versão | Descrição | Autor(es) | Data | Revisor(es) | Data de Revisão |
@@ -103,3 +119,4 @@ Para a elaboração deste léxico do sistema eGDF, adotamos a notação do Léxi
 | 1.0 | Criação do documento de léxico | [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol) | 15/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0) | 20/05/2025|
 | 1.1 | Adição das imagens de referência |  [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol) | 15/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0) | 20/05/2025|
 | 1.2 | Ajustes nas tabelas do léxico conforme novo modelo base |  [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol)| 15/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 20/05/2025 |
+| 1.3    | Inclusão dos termos extraídos da técnica de entrevista (sem repetições) | [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol) | 15/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0) | 20/05/2025      |
