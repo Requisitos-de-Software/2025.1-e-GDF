@@ -43,7 +43,7 @@ Para a elaboração deste léxico do sistema eGDF, adotamos a notação do Léxi
 ---
 ## Léxico
 
-### Tabela 3: Termos do Léxico
+### Tabela 3: Termos do Léxico - Brainstorming
 
 | Símbolo | Noção | Impacto | Sinônimos | Tipo |
 |---------|-------|---------|-----------|------|
@@ -60,8 +60,7 @@ Para a elaboração deste léxico do sistema eGDF, adotamos a notação do Léxi
 | [Agendamento](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) | Marcação de horário para serviços específicos, como atendimentos em órgãos públicos | Permite ao usuário organizar seus compromissos com serviços públicos de forma centralizada e eficiente | Marcação, Agenda | Verbo |
 | [Compartilhamento](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) | Ação de distribuir informações do sistema com outros usuários, como protocolos ou comprovantes | Facilita a comunicação e troca de informações entre usuários, promovendo colaboração | Distribuição, Envio | Verbo |
 
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelos autores ([Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol)), 2025)</p></font>
-
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelos autores [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol). </p></font>
 ## Bibliografia
 
 > SERRANO, Milene; SERRANO, Maurício. Aula 10. Universidade de Brasília, Faculdade Gama, [s.d.]. Disponível em: https://aprender3.unb.br/pluginfile.php/3096108/mod_resource/content/1/Aula%2010.pdf. Acesso em: 15 mai. 2025.
