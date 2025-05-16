@@ -50,7 +50,7 @@ A ferramenta utilizada para a criação do diagrama foi o **[Drawio](https://www
 ## Diagrama de Casos de Uso 
 
 
-<img src="https://uploaddeimagens.com.br/images/004/898/881/original/Casos_de_Uso_-_e-GDF.drawio_%281%29.png?1747254726" />
+<a href="https://ibb.co/LXgStbGs"><img src="https://i.ibb.co/8LxM5ThQ/Casos-de-Uso-e-GDF-drawio.png" alt="Casos-de-Uso-e-GDF-drawio" border="0" /></a>
 
 <font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Gabriel Lopes](https://github.com/BrzGab) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
 
@@ -477,6 +477,115 @@ A ferramenta utilizada para a criação do diagrama foi o **[Drawio](https://www
 | Pós-condições | Certidão negativa emitida em formato digital |
 | Data de Criação | 14/05/2025 |
 | Rastreabilidade | [RF41](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
+
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Gabriel Lopes](https://github.com/BrzGab) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+
+
+| UC29 | Personalizar Acessibilidade |
+| ----- | ---------- |
+| Descrição | O usuário personaliza configurações de acessibilidade para melhor experiência de uso |
+| Ator | Cidadão |
+| Pré-condições | Acesso ao aplicativo |
+| Ação | O usuário customiza opções de acessibilidade |
+| Fluxo principal | <ul><li> O usuário acessa as configurações do aplicativo </br> <li> O usuário seleciona "Acessibilidade" </br> <li> O usuário ajusta tamanho da fonte </br> <li> O usuário ajusta contraste de cores </br> <li> O usuário ativa modo escuro </br> <li> O sistema salva as preferências </br> </ul> |
+| Fluxo alternativo | <ul><li> O usuário acessa o menu principal </br> <li> O usuário busca por "acessibilidade" </br> <li> O usuário seleciona "Configurações de Acessibilidade" </br> <li> O usuário segue o fluxo de personalização </br> </ul> |
+| Fluxo de exceção | <ul><li> O usuário acessa as configurações </br> <li> O usuário seleciona "Acessibilidade" </br> <li> O usuário tenta ajustar configurações </br> <li> O sistema não consegue salvar as preferências </br> <li> O sistema exibe mensagem de erro </br> <li> O sistema sugere tentar novamente ou restaurar configurações padrão </br> </ul> |
+| Pós-condições | Interface adaptada conforme preferências de acessibilidade do usuário |
+| Data de Criação | 15/05/2025 |
+| Rastreabilidade | [RF07](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/), [RF08](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/), [RF12](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/), [RNF05](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/), [RNF17](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/), [RNF18](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
+
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Gabriel Lopes](https://github.com/BrzGab) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+
+
+
+| UC30 | Gerenciar Notificações |
+| ----- | ---------- |
+| Descrição | O usuário configura e gerencia suas preferências de notificações |
+| Ator | Cidadão |
+| Pré-condições | Login realizado |
+| Ação | O usuário personaliza suas configurações de notificações |
+| Fluxo principal | <ul><li> O usuário acessa configurações do perfil </br> <li> O usuário seleciona "Gerenciamento de Notificações" </br> <li> O usuário configura notificações por localização </br> <li> O usuário configura notificações por categoria </br> <li> O usuário configura notificações de vencimentos </br> <li> O sistema salva as preferências </br> </ul> |
+| Fluxo alternativo | <ul><li> O usuário acessa o menu principal </br> <li> O usuário busca por "notificações" </br> <li> O usuário seleciona "Configurar Notificações" </br> <li> O usuário segue o fluxo de configuração </br> </ul> |
+| Fluxo de exceção | <ul><li> O usuário acessa configurações do perfil </br> <li> O usuário seleciona "Gerenciamento de Notificações" </br> <li> O sistema detecta restrições de permissão </br> <li> O sistema solicita autorização para enviar notificações </br> <li> O usuário nega permissão </br> <li> O sistema informa limitações de funcionalidade </br> </ul> |
+| Pós-condições | Preferências de notificação configuradas e ativas |
+| Data de Criação | 15/05/2025 |
+| Rastreabilidade | [RF03](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/), [RF14](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/), [RF18](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
+
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Gabriel Lopes](https://github.com/BrzGab) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+
+
+| UC31 | Utilizar Assistente Virtual |
+| ----- | ---------- |
+| Descrição | O usuário interage com assistente virtual por comandos de voz |
+| Ator | Cidadão |
+| Pré-condições | Aplicativo instalado |
+| Ação | O usuário utiliza comandos de voz para navegação e operações |
+| Fluxo principal | <ul><li> O usuário acessa o aplicativo </br> <li> O usuário ativa o assistente virtual (ícone de microfone) </br> <li> O usuário emite comando de voz </br> <li> O sistema processa o comando </br> <li> O sistema executa a ação solicitada </br> <li> O sistema confirma a ação por áudio </br> </ul> |
+| Fluxo alternativo | <ul><li> O usuário pressiona e segura o botão de menu </br> <li> O assistente virtual é ativado automaticamente </br> <li> O usuário emite comando de voz </br> <li> O sistema executa a solicitação </br> </ul> |
+| Fluxo de exceção | <ul><li> O usuário ativa o assistente virtual </br> <li> O usuário emite comando de voz </br> <li> O sistema não reconhece o comando </br> <li> O sistema solicita que o usuário repita o comando </br> <li> Após três tentativas sem sucesso, o sistema sugere usar a interface visual </br> </ul> |
+| Pós-condições | Ação solicitada por voz é executada pelo sistema |
+| Data de Criação | 15/05/2025 |
+| Rastreabilidade | [RF05](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
+
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Gabriel Lopes](https://github.com/BrzGab) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+
+| UC32 | Gerenciar Documentos |
+| ----- | ---------- |
+| Descrição | O usuário gerencia documentos digitais e comprovantes |
+| Ator | Cidadão, Sistema de Governo do DF |
+| Pré-condições | Login realizado |
+| Ação | O usuário acessa, gera e compartilha documentos digitais |
+| Fluxo principal | <ul><li> O usuário acessa o menu principal </br> <li> O usuário seleciona "Meus Documentos" </br> <li> O usuário visualiza lista de documentos disponíveis </br> <li> O usuário seleciona um documento </br> <li> O usuário escolhe gerar/visualizar/compartilhar o documento </br> <li> O sistema executa a ação solicitada </br> </ul> |
+| Fluxo alternativo | <ul><li> Após realizar um agendamento ou serviço </br> <li> O sistema oferece opção de salvar comprovante </br> <li> O usuário confirma a ação </br> <li> O documento é adicionado à biblioteca de documentos </br> </ul> |
+| Fluxo de exceção | <ul><li> O usuário acessa "Meus Documentos" </br> <li> O usuário tenta gerar um relatório/comprovante </br> <li> O sistema identifica falha na geração </br> <li> O sistema informa o erro </br> <li> O sistema oferece alternativas para obtenção do documento </br> </ul> |
+| Pós-condições | Documento visualizado, gerado ou compartilhado com sucesso |
+| Data de Criação | 15/05/2025 |
+| Rastreabilidade | [RF10](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/), [RF19](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
+
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Gabriel Lopes](https://github.com/BrzGab) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+
+| UC33 | Gerenciar Solicitações de Serviços |
+| ----- | ---------- |
+| Descrição | O usuário solicita e acompanha serviços públicos |
+| Ator | Cidadão, Sistema de Governo do DF |
+| Pré-condições | Login realizado |
+| Ação | O usuário solicita serviços públicos e acompanha sua execução |
+| Fluxo principal | <ul><li> O usuário acessa o menu principal </br> <li> O usuário seleciona "Solicitar Serviços" </br> <li> O usuário escolhe categoria de serviço </br> <li> O usuário preenche informações necessárias </br> <li> O usuário seleciona localização no mapa </br> <li> O usuário confirma solicitação </br> <li> O sistema registra e envia a solicitação </br> </ul> |
+| Fluxo alternativo | <ul><li> O usuário acessa "Minhas Solicitações" </br> <li> O usuário visualiza lista de solicitações anteriores </br> <li> O usuário seleciona uma solicitação </br> <li> O usuário verifica status ou confirma resolução </br> </ul> |
+| Fluxo de exceção | <ul><li> O usuário tenta solicitar um serviço </br> <li> O sistema identifica falta de informações ou erros </br> <li> O sistema sinaliza campos obrigatórios </br> <li> O sistema orienta o preenchimento correto </br> </ul> |
+| Pós-condições | Solicitação registrada ou status atualizado |
+| Data de Criação | 15/05/2025 |
+| Rastreabilidade | [RF29](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/), [RF30](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/), [RF31](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/), [RF32](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
+
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Gabriel Lopes](https://github.com/BrzGab) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+
+| UC34 | Usar Recursos Educacionais Avançados |
+| ----- | ---------- |
+| Descrição | O usuário acessa funcionalidades avançadas da área educacional |
+| Ator | Cidadão, Sistema Educacional |
+| Pré-condições | Login realizado, perfil vinculado ao sistema educacional |
+| Ação | O usuário acessa informações e gerencia pendências educacionais |
+| Fluxo principal | <ul><li> O usuário acessa o menu principal </br> <li> O usuário seleciona "Educação" </br> <li> O usuário escolhe "Área do Professor" ou "Área do Aluno" </br> <li> O usuário visualiza calendário e pendências acadêmicas </br> <li> O usuário seleciona pendência para mais detalhes </br> <li> O sistema exibe informações detalhadas </br> </ul> |
+| Fluxo alternativo | <ul><li> O usuário acessa "Calendário Escolar" </br> <li> O usuário visualiza eventos programados </br> <li> O usuário seleciona data específica </br> <li> O usuário visualiza pendências associadas à data </br> </ul> |
+| Fluxo de exceção | <ul><li> O usuário tenta acessar área educacional </br> <li> O sistema identifica perfil não vinculado a sistema educacional </br> <li> O sistema informa necessidade de vínculo </br> <li> O sistema orienta processo de vinculação </br> </ul> |
+| Pós-condições | Informações educacionais acessadas e pendências visualizadas |
+| Data de Criação | 15/05/2025 |
+| Rastreabilidade | [RF25](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
+
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Gabriel Lopes](https://github.com/BrzGab) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+
+| UC35 | Interagir com Mapas Avançados |
+| ----- | ---------- |
+| Descrição | O usuário utiliza funcionalidades avançadas de mapas |
+| Ator | Cidadão |
+| Pré-condições | Acesso ao aplicativo, permissão de localização |
+| Ação | O usuário interage com mapas para reportar problemas e localizar serviços |
+| Fluxo principal | <ul><li> O usuário acessa o menu principal </br> <li> O usuário seleciona "Mapa Interativo" </br> <li> O usuário visualiza mapa da cidade </br> <li> O usuário seleciona ponto específico no mapa </br> <li> O usuário escolhe "Reportar Problema" </br> <li> O usuário preenche informações sobre o problema </br> <li> O sistema registra a ocorrência </br> </ul> |
+| Fluxo alternativo | <ul><li> Durante processo de solicitação de serviço </br> <li> O usuário é direcionado para seleção de local no mapa </br> <li> O usuário seleciona ponto exato da ocorrência </br> <li> O sistema registra coordenadas geográficas </br> </ul> |
+| Fluxo de exceção | <ul><li> O usuário tenta acessar mapa interativo </br> <li> O sistema detecta permissão de localização negada </br> <li> O sistema solicita autorização para acesso à localização </br> <li> O sistema informa limitações de funcionalidade sem a permissão </br> </ul> |
+| Pós-condições | Problema reportado ou local selecionado no mapa |
+| Data de Criação | 15/05/2025 |
+| Rastreabilidade | [RF26](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/), [RF30](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
 
 <font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Gabriel Lopes](https://github.com/BrzGab) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
 
