@@ -110,4 +110,5 @@ iOS: Objective-C, Swift.
 
 | Versão | Descrição                                      | Autor(es)                                                                                         | Data       | Revisor(es)                                                                                                 | Data de Revisão |
 | ------ | ---------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------------------------------------------------------------------- | --------------- |
-| 1.0    | Criação da documentação especificação suplementar  | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Lucas Mendonça](https://github.com/lucasarruda9) | 15/05/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 17/05/2025      |
+| 1.0    | Adicionando a introdução e metodologia  | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Lucas Mendonça](https://github.com/lucasarruda9) | 15/05/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 17/05/2025      |
+| 1.1    | Adicionando o texto base do FURPS+  | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Lucas Mendonça](https://github.com/lucasarruda9) | 15/05/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 17/05/2025      |
