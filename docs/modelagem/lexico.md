@@ -6,15 +6,45 @@ O léxico é uma técnica de modelagem que visa estabelecer um vocabulário comu
 
 ## Metodologia
 
-Para a elaboração deste léxico, foram analisados os requisitos não implementados do sistema eGDF, identificando os termos mais relevantes e suas relações com o comportamento do sistema. Cada termo foi classificado em uma das seguintes categorias:
+Para a elaboração deste léxico do sistema eGDF, adotamos a notação do Léxico Ampliado da Linguagem (LAL), que orienta a definição dos termos mais relevantes e suas relações com o sistema. A seguir, apresentamos duas tabelas que guiam a estruturação do documento:
 
-- **Verbo**: Ações ou operações que podem ser realizadas no sistema
-- **Objeto**: Entidades ou elementos do sistema
-- **Estado**: Condições ou situações possíveis no sistema
+- A Tabela 1 detalha os conceitos fundamentais para descrever cada termo do léxico.
+- A Tabela 2 apresenta o template utilizado para organizar as informações de cada termo.
 
+---
+
+<font size="3"><p style="text-align: center"><b>Tabela 1</b> -  Léxico Ampliado da Linguagem (LAL)</p></font>
+
+
+| Tipo do símbolo | Noção | Impacto |
+|-----------------|-------|-------|
+| Sujeito | Quem é o sujeito | Ações que executa |
+| Verbo | Quem realiza, quando acontece e quais os procedimentos | Quais os reflexos das ações no ambiente e novos estados decorrentes |
+| Objeto | Definir o objeto e identificar outros objetos com os quais ele se relaciona | Ações que podem ser aplicadas ao objeto  |
+| Estado | O que indica e ações que levaram a esse estado | Identificar outros estados que podem ocorrer a partir do estado que se descreve  |
+
+<font size="3"><p style="text-align: center">Fonte: [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol). </p></font>
+
+---
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Template Léxicos </p></font>
+
+
+
+
+| **Campo**    | **Descrição**                                                                 |
+|--------------|--------------------------------------------------------------------------------|
+| **Símbolo**  | Nome do termo identificado na entrevista (entidade, ação ou estado relevante).|
+| **Noção**    | Definição do termo: quem é, o que faz ou o que representa.                    |
+| **Impacto**  | Efeitos da ação, uso do objeto ou implicações do estado descrito.             |
+| **Sinônimos**| Termos equivalentes ou próximos encontrados durante a entrevista.             |
+| **Tipo**     | Classificação como VERBO, OBJETO ou ESTADO, com base nas regras da Tabela 1.  |
+
+<font size="3"><p style="text-align: center">Fonte: [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol). </p></font>
+
+---
 ## Léxico
 
-### Tabela 1: Termos do Léxico
+### Tabela 3: Termos do Léxico
 
 | Símbolo | Noção | Impacto | Sinônimos | Tipo |
 |---------|-------|---------|-----------|------|
@@ -31,7 +61,7 @@ Para a elaboração deste léxico, foram analisados os requisitos não implement
 | [Agendamento](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) | Marcação de horário para serviços específicos, como atendimentos em órgãos públicos | Permite ao usuário organizar seus compromissos com serviços públicos de forma centralizada e eficiente | Marcação, Agenda | Verbo |
 | [Compartilhamento](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) | Ação de distribuir informações do sistema com outros usuários, como protocolos ou comprovantes | Facilita a comunicação e troca de informações entre usuários, promovendo colaboração | Distribuição, Envio | Verbo |
 
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelos autores ([Ana Victória](https://github.com/navicg) e [Artur Mendonça](https://github.com/ArtyMend07), 2025)</p></font>
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelos autores ([Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol)), 2025)</p></font>
 
 ## Bibliografia
 
@@ -72,5 +102,6 @@ Para a elaboração deste léxico, foram analisados os requisitos não implement
 
 | Versão | Descrição | Autor(es) | Data | Revisor(es) | Data de Revisão |
 |--------|-----------|-----------|------|-------------|-----------------|
-| 1.0 | Criação do documento de léxico | [Ana Victória](https://github.com/navicg) e [Artur Mendonça](https://github.com/ArtyMend07) | 15/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0) | 15/05/2025 |
-| 1.1 | Adição das imagens de referência | [Ana Victória](https://github.com/navicg) e [Artur Mendonça](https://github.com/ArtyMend07) | 15/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0) | 15/05/2025 |
+| 1.0 | Criação do documento de léxico | [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol) | 15/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0) | 15/05/2025 |
+| 1.1 | Adição das imagens de referência |  [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol) | 15/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0) | 15/05/2025 |
+| 1.2 | Ajustes nas tabelas do léxico conforme novo modelo base |  [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol)| 15/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 15/05/2025 |
