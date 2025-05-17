@@ -71,7 +71,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 | Contexto   | Um cidadão passa próximo a um posto de vacinação.                                           |
 | Recursos   | GPS do celular, app eGDF, servidor de notificações.                                         |
 | Ator(res)  | Cidadão (usuário), sistema eGDF.                                                             |
-| Episódios  | - Sistema detecta proximidade.<br>- Envia alerta “Vacinação disponível aqui perto”.         |
+| Episódios  | - Sistema detecta proximidade.<br>- Sistema personaliza a notificação com base no perfil do usuário (ex: idade, grupo prioritário).<br>- Envia alerta “Vacinação disponível aqui perto”.<br> - Usuário toca na notificação e é direcionado para a tela com mais informações (endereço, horário).<br>- O usuário confirma interesse.    |
 | Restrições | - Necessário consentimento para uso de localização.<br>- O usuário deve ter permitido o recebimento de notificações        .                                  |
 | Exceção    | - GPS desativado.<br>- Erro de conexão à internet e a notificação não ser entregue.            |
 
@@ -330,6 +330,63 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 ---
 
 
+### Cenários 19: Autenticação via gov.br de forma segura e por reconhecimento facial
+
+
+| Elemento   | Descrição |
+|------------|-----------|
+| **Objetivo** | Garantir que o usuário acesse o aplicativo de forma segura por meio da autenticação na plataforma gov.br, utilizando recursos como reconhecimento facial. |
+| **Contexto** | O usuário está utilizando um dispositivo móvel com câmera frontal funcional e conexão com a internet, no momento de realizar login no aplicativo. |
+| **Recursos** | Plataforma gov.br, câmera do dispositivo, sistema de login do aplicativo. |
+| **Ator(res)** | Usuário final, plataforma gov.br |
+| **Episódios** | - O usuário escolhe a opção de login via gov.br<br> - É redirecionado para a autenticação segura<br>- Realiza reconhecimento facial com sucesso e retorna autenticado ao aplicativo. |
+| **Restrições** | - A autenticação exige conta ativa e verificada no gov.br<br> - O dispositivo deve possuir câmera compatível. |
+| **Exceção** | - Reconhecimento facial pode falhar pelo gov.br estar indisponível<br>- A câmera pode apresentar problemas que impessam o uso para o reconhecimento facial<br> - Pode ocorrer erro de conexão à internet|
+
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
+
+
+---
+
+
+### Cenário 20: Compartilhar ou Salvar Informações Importantes
+
+
+| Elemento   | Descrição |
+|------------|-----------|
+| **Objetivo** | Permitir que o usuário compartilhe ou salve comprovantes e protocolos gerados pelo aplicativo após a realização de ações importantes (como matrículas, atualizações de dados ou solicitações). |
+| **Contexto** | O usuário está autenticado no aplicativo, utilizando seu smartphone com acesso à internet, imediatamente após concluir uma ação que gera um protocolo ou comprovante. |
+| **Recursos** | Interface do aplicativo, visualização de protocolo/comprovante em PDF, sistema de compartilhamento nativo do dispositivo, armazenamento local do celular. |
+| **Ator(res)** | Usuário final. |
+| **Episódios** |- Após concluir uma matrícula ou solicitação, o aplicativo exibe o comprovante na tela<br>-  O usuário escolhe entre "Salvar no dispositivo" ou "Compartilhar", podendo enviar via e-mail, WhatsApp ou outro app instalado<br>- O sistema realiza a ação e exibe uma confirmação. |
+| **Restrições** | - O compartilhamento depende dos aplicativos instalados no dispositivo<br>- O salvamento requer permissão de acesso ao armazenamento. |
+| **Exceção** | - O usuário pode negar a permissão de armazenamento<br> - O sistema de compartilhamento pode falhar devido a problemas técnicos<br> - Erro de conexão à internet |
+
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
+
+
+---
+
+
+### Cenário 21: Visualizar localização de serviços e problemas no mapa
+
+
+| Elemento   | Descrição                                                                                   |
+|------------|---------------------------------------------------------------------------------------------|
+| Objetivo   | Permitir que o usuário veja no mapa os serviços solicitados e problemas reportados         |
+| Contexto   | Usuário está verificando o status de sua solicitação durante o horário da tarde em seu local de trabalho |
+| Recursos   | Aplicativo móvel, mapa interativo, ícones de status dos serviços e problemas                |
+| Ator(res)  | Cidadão                                                                                     |
+| Episódios  | - O cidadão acessa o aplicativo<br>- Navega até a aba "Mapa"<br> - Visualiza os pontos coloridos indicando solicitações e problemas<br> -Clica em um ponto para ver os detalhes |
+| Restrições | O sistema deve garantir que apenas os itens do bairro ou cidade do usuário sejam carregados inicialmente |
+| Exceção    |- Pode não haver dados disponíveis para a área visualizada<br>- A localização pode não estar habilitada, e o sistema não mostra os serviços solicitados<br> - Erro de conexão à internet|
+
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
+
+
 ## Referências Bibliográficas
 
 > <a id="FRM1" href="#anchor_1">1.</a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
@@ -360,3 +417,4 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 | 1.6    | Adição do cenário 13, 14 no artefato. | [Lucas Mendonça](https://github.com/lucasarruda9)|17/04/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 17/05/2025 |
 | 1.7    | Adição do cenário 15(solicitação de serviço público) no documento. | [Lucas Mendonça](https://github.com/lucasarruda9)|17/04/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 17/05/2025 |
 | 1.8    | Implementando os cenários 16, 17 e 18 no artefato. | [Karoline Luz da Conceição](https://github.com/KarolineLuz)|17/04/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 17/05/2025 |
+| 2.0    | Adicionando os cenários 19, 20 e 21.| [Luiza da Silva Pugas](https://github.com/Luizaxx)|17/04/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 17/05/2025 |
