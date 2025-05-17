@@ -74,7 +74,7 @@ A ferramenta utilizada para a criação do diagrama foi o **[Drawio](https://www
 | Data de Criação | 14/05/2025 |
 | Rastreabilidade | [BR01, AD01](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
 
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Gabriel Lopes](https://github.com/BrzGab) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Ana Victória](https://github.com/navicg) , 2025).</p></font>
 
 | UC02 | Acessar Interface Simplificada |
 | ----- | ---------- |
@@ -89,7 +89,8 @@ A ferramenta utilizada para a criação do diagrama foi o **[Drawio](https://www
 | Data de Criação | 14/05/2025 |
 | Rastreabilidade | [BR02](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
 
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Gabriel Lopes](https://github.com/BrzGab) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Ana Victória](https://github.com/navicg) , 2025).</p></font>
 
 | UC03 | Receber Notificações por Localização |
 | ----- | ---------- |
@@ -104,7 +105,8 @@ A ferramenta utilizada para a criação do diagrama foi o **[Drawio](https://www
 | Data de Criação | 14/05/2025 |
 | Rastreabilidade | [BR03](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
 
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Gabriel Lopes](https://github.com/BrzGab) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Ana Victória](https://github.com/navicg) , 2025).</p></font>
 
 | UC04 | Consultar Agendamentos Centralizados |
 | ----- | ---------- |
@@ -119,7 +121,7 @@ A ferramenta utilizada para a criação do diagrama foi o **[Drawio](https://www
 | Data de Criação | 14/05/2025 |
 | Rastreabilidade | [BR04](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
 
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Gabriel Lopes](https://github.com/BrzGab) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Artur Mendonça](https://github.com/ArtyMend07), 2025).</p></font>
 
 | UC05 | Utilizar Assistente Virtual por Voz |
 | ----- | ---------- |
@@ -134,7 +136,7 @@ A ferramenta utilizada para a criação do diagrama foi o **[Drawio](https://www
 | Data de Criação | 14/05/2025 |
 | Rastreabilidade | [BR05, AD05, INT13](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
 
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Gabriel Lopes](https://github.com/BrzGab) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Artur Mendonça](https://github.com/ArtyMend07), 2025).</p></font>
 
 | UC06 | Acessar Tutoriais Passo a Passo |
 | ----- | ---------- |
@@ -149,7 +151,7 @@ A ferramenta utilizada para a criação do diagrama foi o **[Drawio](https://www
 | Data de Criação | 14/05/2025 |
 | Rastreabilidade | [BR06](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
 
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Gabriel Lopes](https://github.com/BrzGab) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Artur Mendonça](https://github.com/ArtyMend07), 2025).</p></font>
 
 | UC07 | Ajustar Tamanho de Fonte e Contraste |
 | ----- | ---------- |
@@ -164,7 +166,7 @@ A ferramenta utilizada para a criação do diagrama foi o **[Drawio](https://www
 | Data de Criação | 14/05/2025 |
 | Rastreabilidade | [BR07, EN08, AD08](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
 
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Gabriel Lopes](https://github.com/BrzGab) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
 
 | UC08 | Ativar Modo Escuro |
 | ----- | ---------- |
@@ -179,7 +181,7 @@ A ferramenta utilizada para a criação do diagrama foi o **[Drawio](https://www
 | Data de Criação | 14/05/2025 |
 | Rastreabilidade | [BR08](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
 
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Gabriel Lopes](https://github.com/BrzGab) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
 
 | UC09 | Gerar Relatórios e Comprovantes |
 | ----- | ---------- |
@@ -194,7 +196,7 @@ A ferramenta utilizada para a criação do diagrama foi o **[Drawio](https://www
 | Data de Criação | 14/05/2025 |
 | Rastreabilidade | [BR11](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
 
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Gabriel Lopes](https://github.com/BrzGab) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>>
 
 | UC10 | Alterar Idioma do Aplicativo |
 | ----- | ---------- |
@@ -209,7 +211,7 @@ A ferramenta utilizada para a criação do diagrama foi o **[Drawio](https://www
 | Data de Criação | 14/05/2025 |
 | Rastreabilidade | [BR13](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
 
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Gabriel Lopes](https://github.com/BrzGab) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([João Marcos](https://github.com/JJOAOMARCOSS) , 2025).</p></font>
 
 | UC11 | Personalizar Preferências de Perfil |
 | ----- | ---------- |
@@ -224,7 +226,7 @@ A ferramenta utilizada para a criação do diagrama foi o **[Drawio](https://www
 | Data de Criação | 14/05/2025 |
 | Rastreabilidade | [BR14](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
 
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Gabriel Lopes](https://github.com/BrzGab) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([João Marcos](https://github.com/JJOAOMARCOSS) , 2025).</p></font>
 
 | UC12 | Receber Mensagens sobre Vencimentos |
 | ----- | ---------- |
@@ -239,7 +241,7 @@ A ferramenta utilizada para a criação do diagrama foi o **[Drawio](https://www
 | Data de Criação | 14/05/2025 |
 | Rastreabilidade | [BR15](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
 
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Gabriel Lopes](https://github.com/BrzGab) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([João Marcos](https://github.com/JJOAOMARCOSS) , 2025).</p></font>
 
 | UC13 | Acessar Informações de Agendamento/Reagendamento |
 | ----- | ---------- |
@@ -254,7 +256,7 @@ A ferramenta utilizada para a criação do diagrama foi o **[Drawio](https://www
 | Data de Criação | 14/05/2025 |
 | Rastreabilidade | [BR17](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
 
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Gabriel Lopes](https://github.com/BrzGab) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Lucas Mendonça](https://github.com/lucasarruda9), 2025).</p></font>
 
 | UC14 | Configurar Notificações por Categorias |
 | ----- | ---------- |
@@ -269,7 +271,7 @@ A ferramenta utilizada para a criação do diagrama foi o **[Drawio](https://www
 | Data de Criação | 14/05/2025 |
 | Rastreabilidade | [BR19](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
 
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Gabriel Lopes](https://github.com/BrzGab) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Lucas Mendonça](https://github.com/lucasarruda9), 2025).</p></font>
 
 | UC15 | Compartilhar/Salvar Informações Importantes |
 | ----- | ---------- |
@@ -284,7 +286,7 @@ A ferramenta utilizada para a criação do diagrama foi o **[Drawio](https://www
 | Data de Criação | 14/05/2025 |
 | Rastreabilidade | [BR20](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
 
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Gabriel Lopes](https://github.com/BrzGab) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Lucas Mendonça](https://github.com/lucasarruda9), 2025).</p></font>
 
 | UC16 | Consultar Calendário Letivo e Vagas |
 | ----- | ---------- |
@@ -299,7 +301,7 @@ A ferramenta utilizada para a criação do diagrama foi o **[Drawio](https://www
 | Data de Criação | 14/05/2025 |
 | Rastreabilidade | [EN03](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/), [INT07](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
 
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Gabriel Lopes](https://github.com/BrzGab) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Karoline Luz](https://github.com/KarolineLuz), 2025).</p></font>
 
 | UC17 | Autenticar via Gov.br com Reconhecimento Facial |
 | ----- | ---------- |
@@ -314,7 +316,7 @@ A ferramenta utilizada para a criação do diagrama foi o **[Drawio](https://www
 | Data de Criação | 14/05/2025 |
 | Rastreabilidade | [EN04](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
 
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Gabriel Lopes](https://github.com/BrzGab) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Karoline Luz](https://github.com/KarolineLuz), 2025).</p></font>
 
 | UC18 | Acompanhar Pendências Educacionais |
 | ----- | ---------- |
@@ -329,7 +331,7 @@ A ferramenta utilizada para a criação do diagrama foi o **[Drawio](https://www
 | Data de Criação | 14/05/2025 |
 | Rastreabilidade | [EN06](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
 
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Gabriel Lopes](https://github.com/BrzGab) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Karoline Luz](https://github.com/KarolineLuz), 2025).</p></font>
 
 | UC19 | Reportar Problemas via Mapa Interativo |
 | ----- | ---------- |
@@ -344,7 +346,7 @@ A ferramenta utilizada para a criação do diagrama foi o **[Drawio](https://www
 | Data de Criação | 14/05/2025 |
 | Rastreabilidade | [EN09](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
 
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Gabriel Lopes](https://github.com/BrzGab) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ( [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
 
 | UC20 | Acessar Suporte ao Usuário |
 | ----- | ---------- |
@@ -359,7 +361,7 @@ A ferramenta utilizada para a criação do diagrama foi o **[Drawio](https://www
 | Data de Criação | 14/05/2025 |
 | Rastreabilidade | [EN11](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
 
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Gabriel Lopes](https://github.com/BrzGab) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ( [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
 
 | UC21 | Solicitar Serviços Públicos |
 | ----- | ---------- |
@@ -374,7 +376,7 @@ A ferramenta utilizada para a criação do diagrama foi o **[Drawio](https://www
 | Data de Criação | 14/05/2025 |
 | Rastreabilidade | [AD02](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
 
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Gabriel Lopes](https://github.com/BrzGab) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ( [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
 
 | UC22 | Localizar Serviço Solicitado no Mapa |
 | ----- | ---------- |
@@ -389,7 +391,7 @@ A ferramenta utilizada para a criação do diagrama foi o **[Drawio](https://www
 | Data de Criação | 14/05/2025 |
 | Rastreabilidade | [AD03](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
 
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Gabriel Lopes](https://github.com/BrzGab) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ( [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
 
 | UC23 | Acompanhar Status das Solicitações |
 | ----- | ---------- |
@@ -404,7 +406,7 @@ A ferramenta utilizada para a criação do diagrama foi o **[Drawio](https://www
 | Data de Criação | 14/05/2025 |
 | Rastreabilidade | [AD04](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
 
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Gabriel Lopes](https://github.com/BrzGab) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ( [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
 
 | UC24 | Confirmar Resolução de Problemas |
 | ----- | ---------- |
@@ -419,7 +421,7 @@ A ferramenta utilizada para a criação do diagrama foi o **[Drawio](https://www
 | Data de Criação | 14/05/2025 |
 | Rastreabilidade | [AD06](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
 
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Gabriel Lopes](https://github.com/BrzGab) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
 
 | UC25 | Excluir Dados e Conta |
 | ----- | ---------- |
@@ -434,7 +436,7 @@ A ferramenta utilizada para a criação do diagrama foi o **[Drawio](https://www
 | Data de Criação | 14/05/2025 |
 | Rastreabilidade | [AD07](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
 
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Gabriel Lopes](https://github.com/BrzGab) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
 
 ## Referências Bibliograficas
 
