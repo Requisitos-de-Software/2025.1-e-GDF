@@ -109,7 +109,7 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 
 ### Lista de Inspeção – Diagrama de casos de uso 
 
-<p align="center"> Tabela 4 - Lista de Inspeção – Diagrama de casos de uso  </p>
+<p align="center"> Tabela 5 - Lista de Inspeção – Diagrama de casos de uso  </p>
 
 | ID  | Descrição da Inspeção                                                                | Autores                                                                                   | Revisores                                                                                                                                                   | Evidência                                                       | Conforme/Não Conforme |
 |-----|-------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|-----------------------|
@@ -143,7 +143,7 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 
 ### Lista de Inspeção – Especificação suplementar 
 
-<p align="center"> Tabela 5 - Lista de Inspeção – Especificação suplementar </p>
+<p align="center"> Tabela 6 - Lista de Inspeção – Especificação suplementar </p>
 
 | ID  | Descrição da Inspeção                                                                                                   | Autores                                                                                     | Revisores                                                                                                                                                   | Evidência                                                           | Conforme/Não Conforme |
 |-----|-----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|-----------------------|
@@ -161,6 +161,7 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 
 <font size="3"><p style="text-align: center">Fonte: Elaborado por ([Lucas Mendonça](https://github.com/lucasarruda9) , 2025).</p></font>
 
+---
 
 ### Referências
 
