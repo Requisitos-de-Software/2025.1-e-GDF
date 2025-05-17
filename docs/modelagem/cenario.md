@@ -43,6 +43,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 | Exceção    | - O serviço gov.br estiver indisponível.<br>- Erro de conexão à internet durante o login. |
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Ana Victória](https://github.com/navicg), 2025)</p></font>
+
 ---
 
 ### Cenário 2: Acesso com pouca familiaridade tecnológica
@@ -58,6 +59,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 | Exceção    | - Usuário se perder no aplicativo e não ter opção de ajuda.<br>- Erro de conexão à  internet, e não aparecer mensagem informando o erro.                        |
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Ana Victória](https://github.com/navicg), 2025)</p></font>
+
 ---
 
 ### Cenário 3: Notificações baseadas em localização
@@ -87,6 +89,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 | Exceção      |- Sistema parceiro estiver fora do ar.<br>- Erro de conexão à internet. |
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Artur Mendonça Arruda](https://github.com/ArtyMend07), 2025)</p></font>
+
 ---
 
 ### Cenário 5: Assistente virtual com voz
@@ -102,6 +105,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 | Exceção      |- Ambiente com muito ruído.<br>- Perda de conexão com a internet durante o uso da assistente virtual com voz.             |
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Artur Mendonça Arruda](https://github.com/ArtyMend07), 2025)</p></font>
+
 ---
 
 ### Cenário 6: Tutoriais passo a passo
@@ -113,12 +117,57 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 | Recursos     | App eGDF, tutoriais animados.                                    |
 | Ator(res)    | Usuária iniciante, sistema eGDF.                                 |
 | Episódios    | - App detecta primeiro uso.<br>- Exibe passo a passo para agendamento.<br>- Usuária realiza com sucesso. |
-| Restrições   | - Ser muito extenso<br> - Ser pouco intuitivo.                   |
+| Restrições   | - O tutorial ser muito extenso<br> - Ser pouco intuitivo.                   |
 | Exceção      |- Usuário ignorar o tutorial.<br>- Perda de conexão da internet durante o tutorial.” |
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Artur Mendonça Arruda](https://github.com/ArtyMend07), 2025)</p></font>
 
 ---
+### Cenário 7: Alterar tamanho da fonte e contraste
+
+| Elemento     | Descrição                                                                 |
+|--------------|---------------------------------------------------------------------------|
+| Objetivo     | Tornar o app acessível a pessoas com deficiência visual ou sensibilidade ocular. |
+| Contexto     | Um aposentado deseja aumentar o tamanho da fonte e ativar alto contraste. |
+| Recursos     | Smartphone, app eGDF, configurações de acessibilidade.                    |
+| Ator(res)    | Aposentado (usuário), sistema eGDF.                                       |
+| Episódios    | - Acessa configurações. <br> - Altera fonte para “Grande”. <br> - Ativa “Modo Alto Contraste”. |
+| Restrições   | Interface não se ajustar dinamicamente as alterações.                |
+| Exceção      | - Dispositivo não ser compatível com essa funcionalidade.<br>- Erro de conexão ao fazer as alterações.   |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Gabriel Lopes](https://github.com/BrzGab), 2025)</p></font>
+
+---
+
+### Cenário 8: Modo escuro
+
+| Elemento     | Descrição                                                                 |
+|--------------|---------------------------------------------------------------------------|
+| Objetivo     | Reduzir o cansaço visual e economizar bateria em telas OLED.              |
+| Contexto     | Um usuário utiliza o app à noite e ativa o modo escuro.                   |
+| Recursos     | App eGDF, configurações do sistema, suporte a temas.                      |
+| Ator(res)    | Usuário noturno, sistema eGDF.                                            |
+| Episódios    | - Acessa configurações. <br> - Ativa “Modo Escuro”. <br> - Interface muda imediatamente. |
+| Restrições   | Não funcionar pra todos os dispositivos e telas.                            |
+| Exceção      | - Haver incompatibilidade com a versão do Android/iOS.<br>- Erro de conexão ao mudar para o modo escuro.   |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Gabriel Lopes](https://github.com/BrzGab), 2025)</p></font>
+
+
+### Cenário 9: O usuário deve poder gerar relatórios e visualizar comprovantes de agendamentos
+
+| Elemento   | Descrição                                                                                                                                         |
+|------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Objetivo**   | Permitir que o usuário acesse relatórios e comprovantes dos agendamentos realizados, para fins de controle, conferência ou documentação.          |
+| **Contexto**   | O usuário está autenticado no sistema via portal web corporativo durante o horário comercial, em um ambiente de trabalho com acesso à internet.    |
+| **Recursos**   | Sistema de agendamentos, banco de dados de agendamentos, módulo de relatórios, interface gráfica, botão "Gerar Relatório", botão "Visualizar Comprovante". |
+| **Ator(res)**  | Usuário final (ex: servidor público ou atendente administrativo)                                                                               |
+| **Episódios**  |- O usuário acessa o módulo de agendamentos no sistema <br> - Seleciona o período desejado <br> - Clica em "Gerar Relatório" <br> - O sistema gera e exibe o relatório <br> - O usuário seleciona um agendamento específico <br> - Clica em "Visualizar Comprovante" <br> - O sistema exibe ou permite o download do comprovante em PDF. |
+| **Restrições** | - O acesso aos relatórios e comprovantes só é permitido a usuários autenticados com permissão adequada. <br> - Relatórios só podem ser gerados para datas válidas. |
+| **Exceção**    | - Não haver agendados dísponiveis na data selacionado e o sistema não informar isso.<br>- Erro de conexão à internet.<br> - O sistema não gerar o relátorio corretamente.      |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Gabriel Lopes](https://github.com/BrzGab), 2025)</p></font>
+
 
 ## Referências Bibliográficas
 
@@ -145,3 +194,4 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 | 1.1    |  Adicionando tabelas de cenários e Bibliografia | [Ana Victória](https://github.com/navicg) e [João Marcos Moraes](https://github.com/JJOAOMARCOSS)|14/04/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 15/05/2025 |
 | 1.2    |  Adição dos 3 primeiros cenários baseados nos requisitos funcionais não implementados| [Ana Victória](https://github.com/navicg)|16/04/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 17/05/2025 |
 | 1.3    | Cenários 4, 5 e 6 incorporados ao documento. | [Artur Mendonça Arruda](https://github.com/ArtyMend07) |16/04/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 17/05/2025 |
+| 1.4    | Elaboração do sétimo, oitavo e nono cenário | [Gabriel Lopes](https://github.com/BrzGab)|16/04/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 17/05/2025 |
