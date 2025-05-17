@@ -163,8 +163,20 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 <font size="3"><p style="text-align: center">Fonte: Elaborado por ([Lucas Mendonça](https://github.com/lucasarruda9) , 2025).</p></font>
 
 
+### Referências
+
+- SERRANO, Milene; SERRANO, Maurício. *Requisitos - Aula 10*. Brasília: UnB-Gama, 2017. 35 slides, color. Disponível em: <https://aprender3.unb.br/pluginfile.php/2124471/mod_resource/content/1/Aula%2010.pdf>. Acesso em: 16 maio 2025.
+
+- SERRANO, Milene. *Requisitos - Aula 13*. Gama, DF: UnB-FGA. Apresentação de PowerPoint. 35 slides, color. Disponível em: Aprender3. Acesso em: 16 maio 2025.
+
+- SERRANO, Milene. *Requisitos - Aula 13*. [s.l.], Apresentação de slides. Disponível em: *clique aqui*. Acesso em: 16 maio 2025.
+
+- DEVMEDIA. *O que é UML e diagramas de caso de uso: introdução prática à UML*. 2025. Disponível em: <https://www.devmedia.com.br/o-que-e-uml-e-diagramas-de-caso-de-uso-introducao-pratica-a-uml/23408>. Acesso em: 16 maio 2025.
+
+
+
 ## Histórico de Versões
 
 | Versão | Descrição | Autor(es) | Data | Revisor(es) | Data de revisão |
 |--------|-----------|-----------|------|-------------|-----------------|
-| 1.0 | Criação da documentação do Verificação | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 16/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 18/05/2025 |
+| 1.0 | Adicionando tabelas das verificaçõs de artefatos| [Luiza da Silva Pugas](https://github.com/Luizaxx) | 16/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 18/05/2025 |
