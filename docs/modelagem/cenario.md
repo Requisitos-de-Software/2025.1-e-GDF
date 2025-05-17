@@ -210,6 +210,34 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS), 2025)</p></font>
 
+### Cenário 13: Acompanhamento de pendências na área educacional 
+
+| Elemento   | Descrição                                                                                      |
+|------------|------------------------------------------------------------------------------------------------|
+| Objetivo   | Permitir o acompanhamento de pendências escolares relacionadas ao usuário |
+| Contexto   | O usuário acessa o aplicativo para ver a sua frequência escolar . |
+| Recursos   | Smartphone com aplicativo instalado, autenticação gov, base de dados escolares                    |
+| Ator(res)  | Alunos (Usuário).                                                                 |
+| Episódios  | - O usuário faz login no aplicativo. <br> - O sistema consulta a base de dados escolares. <br> - O usuário acessa a seção sobre educação <br> - O usuário visualiza a sua frequência escolar. |
+| Restrições | - O usuário precisa estar vinculado a uma unidade escolar cadastrada. <br> - Base de dados deve estar atualizada e disponível. |
+| Exceção    | - Falha na conexão com a internet. <br> - Base de dados indisponível para consulta. |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
+
+### Cenário 14: Notificações por categorias
+
+| Elemento   | Descrição                                                                                      |
+|------------|------------------------------------------------------------------------------------------------|
+| Objetivo   | Permitir que o usuário receba notificações classificadas por categorias |
+| Contexto   | O usuário deseja identificar qual categoria pertence a notificação . |
+| Recursos   | Smartphone com aplicativo instalado, autenticação gov, conexão com a internet                    |
+| Ator(res)  | Usuário.                                                                 |
+| Episódios  | - O usuário faz login no aplicativo. <br> - O sistema envia notificações classificadas por categoria. <br> - O usuário identifica a categoria e a informação relacionada. |
+| Restrições | - O usuário precisa autorizar o recebimento de notificações. <br> - O usuário precisa estar conectado com a internet. |
+| Exceção    | - Falha na conexão com a internet. <br> - Erro de sincronização entre o backend e o app. |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
+
 ## Referências Bibliográficas
 
 > <a id="FRM1" href="#anchor_1">1.</a>BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
@@ -237,3 +265,4 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 | 1.3    | Cenários 4, 5 e 6 incorporados ao documento. | [Artur Mendonça Arruda](https://github.com/ArtyMend07) |16/04/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 17/05/2025 |
 | 1.4    | Elaboração do sétimo, oitavo e nono cenário | [Gabriel Lopes](https://github.com/BrzGab)|16/04/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 17/05/2025 |
 | 1.5    | Adição do cenário 10, 11 e 12 no artefato. | [João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS)|16/04/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 17/05/2025 |
+| 1.6    | Adição do cenário 13, 14 no artefato. | [Lucas Mendonça](https://github.com/lucasarruda9)|17/04/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 17/05/2025 |
