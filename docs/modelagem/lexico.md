@@ -20,6 +20,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 | Verbo | Quem realiza, quando acontece e quais os procedimentos | Quais os reflexos das ações no ambiente e novos estados decorrentes |
 | Objeto | Definir o objeto e identificar outros objetos com os quais ele se relaciona | Ações que podem ser aplicadas ao objeto  |
 | Estado | O que indica e ações que levaram a esse estado | Identificar outros estados que podem ocorrer a partir do estado que se descreve  |
+---
 
 <font size="3"><p style="text-align: center">Fonte: Elaborado pelos autores [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol). </p></font>
 
@@ -36,61 +37,269 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 | **Impacto**  | Efeitos da ação, uso do objeto ou implicações do estado descrito.             |
 | **Sinônimos**| Termos equivalentes ou próximos encontrados durante a entrevista.             |
 | **Tipo**     | Classificação como VERBO, OBJETO ou ESTADO, com base nas regras da Tabela 1.  |
-
+---
 <font size="3"><p style="text-align: center">Fonte: Elaborado pelos autores [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol). </p></font>
 
 ---
 ## Léxico
+> **VERBOS**
 
-### Tabela 3: Termos do Léxico - Brainstorming
+- **Login**
 
-| Símbolo | Noção | Impacto | Sinônimos | Tipo |
-|---------|-------|---------|-----------|------|
-| [Login](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md#anchor_BS), [AD01](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/analise_documentos.md#anchor_AD) | Processo de autenticação do usuário no sistema através da plataforma gov.br, com opções como reconhecimento facial | Permite o acesso seguro às funcionalidades do aplicativo, garantindo a privacidade dos dados do usuário e uma experiência fluida | Autenticação, Acesso | Verbo |
-| [Notificação](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) | Alerta ou mensagem enviada ao usuário sobre eventos relevantes, personalizada com base em sua localização | Mantém o usuário informado sobre atualizações, lembretes e eventos importantes relacionados aos serviços, melhorando a experiência do usuário | Alerta, Aviso | Objeto |
-| [Assistente Virtual](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md#anchor_BS), [AD05](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/analise_documentos.md#anchor_AD), [INT13](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/introspeccao.md#anchor_INT) | Sistema automatizado que auxilia o usuário através de interações por voz ou texto, com respostas automáticas para dúvidas frequentes | Fornece suporte e orientação aos usuários, facilitando a navegação e resolução de dúvidas, especialmente para usuários com pouca familiaridade com tecnologia | Chatbot, Ajudante Virtual | Objeto |
-| [Tutorial](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) | Guia passo a passo sobre como utilizar as funcionalidades do aplicativo, com instruções claras e acessíveis | Ajuda novos usuários a compreenderem as funcionalidades do sistema, reduzindo a necessidade de suporte externo | Guia, Manual | Objeto |
-| [Acessibilidade](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md#anchor_BS), [EN08](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/entrevista.md#anchor_EN), [AD08](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/analise_documentos.md#anchor_AD) | Conjunto de recursos que tornam o aplicativo utilizável por pessoas com diferentes necessidades, incluindo ajuste de fonte, contraste e suporte a leitores de tela | Garante que o sistema possa ser utilizado por todos os usuários, independente de suas limitações, promovendo inclusão digital | Inclusão Digital | Estado |
-| [Modo Escuro](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) | Tema visual com cores escuras para reduzir o brilho da tela e melhorar a experiência em ambientes com pouca luz | Melhora a experiência do usuário em ambientes com pouca luz, reduz o consumo de bateria e oferece opção de personalização | Tema Escuro | Estado |
-| [Relatório](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) | Documento gerado pelo sistema contendo informações sobre atividades do usuário, como agendamentos e solicitações | Permite ao usuário acompanhar suas interações e serviços utilizados, facilitando o controle e organização | Comprovante, Registro | Objeto |
-| [Idioma](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) | Configuração de linguagem do aplicativo, permitindo sua utilização em diferentes idiomas | Permite que usuários de diferentes nacionalidades utilizem o sistema em seu idioma preferido, promovendo inclusão | Linguagem | Estado |
-| [Preferência](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) | Configurações personalizadas do usuário para adaptar o sistema às suas necessidades específicas | Adapta o sistema às necessidades específicas de cada usuário, melhorando a experiência de uso | Configuração, Personalização | Objeto |
-| [Lembretes](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) | Alertas sobre eventos futuros ou pendências importantes para o usuário | Mantém o usuário informado sobre compromissos e prazos importantes, evitando esquecimentos | Alertas, Notificações | Objeto |
-| [Agendamento](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) | Marcação de horário para serviços específicos, como atendimentos em órgãos públicos | Permite ao usuário organizar seus compromissos com serviços públicos de forma centralizada e eficiente | Marcação, Agenda | Verbo |
-| [Compartilhamento](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) | Ação de distribuir informações do sistema com outros usuários, como protocolos ou comprovantes | Facilita a comunicação e troca de informações entre usuários, promovendo colaboração | Distribuição, Envio | Verbo |
-
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelos autores [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol). </p></font>
----
-
-
-### Tabela 4: Termos do Léxico - Entrevista 
-| Símbolo | Noção | Impacto | Sinônimos | Tipo |
-|---------|-------|---------|-----------|------|
-| [Funcionalidades Educacionais](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/entrevista.md#anchor_EN06) | Recursos específicos para acompanhamento de pendências de professores e alunos | Melhora a gestão e acompanhamento das atividades educacionais | Recursos Educacionais | Objeto |
-| [Mapa Interativo](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/entrevista.md#anchor_EN09) | Interface para reportar problemas urbanos através de um mapa | Facilita a identificação e registro de problemas na cidade | Mapa de Ocorrências | Objeto |
-
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelos autores [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol). </p></font>
----
-
-### Tabela 5: Termos do Léxico - Introspecção
-| Símbolo | Noção | Impacto | Sinônimos | Tipo |
-|---------|-------|---------|-----------|------|
-| [Avaliação de Serviços](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/introspeccao.md#anchor_INT) | Sistema que permite ao usuário avaliar e comentar sobre os serviços públicos utilizados | Fornece feedback para melhorias nos serviços e transparência na gestão pública | Feedback, Avaliação | Verbo |
-| [Pagamento Digital](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/introspeccao.md#anchor_INT) | Integração com sistemas de carteiras digitais para pagamento de tributos e taxas | Facilita o pagamento de serviços públicos de forma digital e segura | Pagamento Online | Verbo |
-
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelos autores [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol). </p></font>
+| Campo     | Descrição |
+|-----------|-----------|
+| **Símbolo**   | [Login](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md#anchor_BS), [AD01](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/analise_documentos.md#anchor_AD) |
+| **Noção**     | Processo de autenticação do usuário no sistema através da plataforma gov.br, com opções como reconhecimento facial. |
+| **Impacto**   | Permite o acesso seguro às funcionalidades do aplicativo, garantindo a privacidade dos dados do usuário e uma experiência fluida. |
+| **Sinônimos** | Autenticação, Acesso |
+| **Tipo**      | **Verbo** |
 
 ---
-### Tabela 6: Termos do Léxico - Análise de Documentos
+<font size="3"><p style="text-align: center"><b>Tabela 3: </b> - Léxico de Login( Elaborado pelos autores [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol), 2025).</p></font>
 
-| Símbolo | Noção | Impacto | Sinônimos | Tipo |
-|---------|-------|---------|-----------|------|
-| [Ajuste de Acessibilidade](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/analise_documentos.md#ajuste-de-acessibilidade---ad08) | Funcionalidade que permite aumentar ícones e o tamanho da fonte no aplicativo por meio de um botão. | Melhora a usabilidade e a experiência para usuários com deficiência visual ou idosos. | Ampliar Fonte, Aumentar Ícones | Estado |
 
- 
 
 ---
 
+- **Agendamento**
+
+| Campo     | Descrição |
+|-----------|-----------|
+| **Símbolo**   | [Agendamento](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) |
+| **Noção**     | Marcação de horário para serviços específicos, como atendimentos em órgãos públicos. |
+| **Impacto**   | Permite ao usuário organizar seus compromissos com serviços públicos de forma centralizada e eficiente. |
+| **Sinônimos** | Marcação, Agenda |
+| **Tipo**      | **Verbo** |
+---
+
+<font size="3"><p style="text-align: center"><b>Tabela 4: </b> - Léxico de Agendamento( Elaborado pelos autores [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol), 2025).</p></font>
+
+---
+- **Avaliação de Serviços**
+
+| Campo     | Descrição |
+|-----------|-----------|
+| **Símbolo**   | [Avaliação de Serviços](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/introspeccao.md#anchor_INT) |
+| **Noção**     | Sistema que permite ao usuário avaliar e comentar sobre os serviços públicos utilizados. |
+| **Impacto**   | Fornece feedback para melhorias nos serviços e transparência na gestão pública. |
+| **Sinônimos** | Feedback, Avaliação |
+| **Tipo**      | **Verbo** |
+
+---
+
+<font size="3"><p style="text-align: center"><b>Tabela 5: </b> - Léxico de Avaliação de serviços( Elaborado pelos autores [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol), 2025).</p></font>
+
+---
+
+- **Pagamento Digital**
+
+| Campo     | Descrição |
+|-----------|-----------|
+| **Símbolo**   | [Pagamento Digital](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/introspeccao.md#anchor_INT) |
+| **Noção**     | Integração com sistemas de carteiras digitais para pagamento de tributos e taxas. |
+| **Impacto**   | Facilita o pagamento de serviços públicos de forma digital e segura. |
+| **Sinônimos** | Pagamento Online |
+| **Tipo**      | **Verbo** |
+---
+
+<font size="3"><p style="text-align: center"><b>Tabela 6: </b> - Léxico de Pagamento digital( Elaborado pelos autores [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol), 2025).</p></font>
+---
+- **Compartilhamento**
+
+| Campo     | Descrição |
+|-----------|-----------|
+| **Símbolo**   | [Compartilhamento](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) |
+| **Noção**     | Ação de distribuir informações do sistema com outros usuários, como protocolos ou comprovantes. |
+| **Impacto**   | Facilita a comunicação e troca de informações entre usuários, promovendo colaboração. |
+| **Sinônimos** | Distribuição, Envio |
+| **Tipo**      | **Verbo** |
+
+---
+
+
+<font size="3"><p style="text-align: center"><b>Tabela 7: </b> - Léxico de Compartilhamento( Elaborado pelos autores [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol), 2025).</p></font>
+---
+
+> **OBJETOS**
+
+- **Notificação**
+
+| Campo     | Descrição |
+|-----------|-----------|
+| **Símbolo**   | [Notificação](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) |
+| **Noção**     | Alerta ou mensagem enviada ao usuário sobre eventos relevantes, personalizada com base em sua localização. |
+| **Impacto**   | Mantém o usuário informado sobre atualizações, lembretes e eventos importantes relacionados aos serviços. |
+| **Sinônimos** | Alerta, Aviso |
+| **Tipo**      | **Objeto** |
+
+---
+
+<font size="3"><p style="text-align: center"><b>Tabela 8: </b> - Léxico de Notificação( Elaborado pelos autores [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol), 2025).</p></font>
+
+---
+
+- **Funcionalidades Educacionais**
+
+| Campo     | Descrição |
+|-----------|-----------|
+| **Símbolo**   | [Funcionalidades Educacionais](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/entrevista.md#anchor_EN06) |
+| **Noção**     | Recursos específicos para acompanhamento de pendências de professores e alunos. |
+| **Impacto**   | Melhora a gestão e acompanhamento das atividades educacionais. |
+| **Sinônimos** | Recursos Educacionais |
+| **Tipo**      | **Objeto** |
+---
+
+
+<font size="3"><p style="text-align: center"><b>Tabela 9: </b> - Léxico de Funcionalidades edeucacionais( Elaborado pelos autores [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol), 2025).</p></font>
+
+---
+
+- **Mapa Interativo**
+
+| Campo     | Descrição |
+|-----------|-----------|
+| **Símbolo**   | [Mapa Interativo](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/entrevista.md#anchor_EN09) |
+| **Noção**     | Interface para reportar problemas urbanos através de um mapa. |
+| **Impacto**   | Facilita a identificação e registro de problemas na cidade. |
+| **Sinônimos** | Mapa de Ocorrências |
+| **Tipo**      | **Objeto** |
+---
+
+<font size="3"><p style="text-align: center"><b>Tabela 9: </b> - Léxico de Mapa interativo( Elaborado pelos autores [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol), 2025).</p></font>
+---
+
+- **Assistente Virtual**
+
+| Campo     | Descrição |
+|-----------|-----------|
+| **Símbolo**   | [Assistente Virtual](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md#anchor_BS), [AD05](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/analise_documentos.md#anchor_AD), [INT13](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/introspeccao.md#anchor_INT) |
+| **Noção**     | Sistema automatizado que auxilia o usuário através de interações por voz ou texto, com respostas automáticas para dúvidas frequentes. |
+| **Impacto**   | Fornece suporte e orientação aos usuários, facilitando a navegação e resolução de dúvidas. |
+| **Sinônimos** | Chatbot, Ajudante Virtual |
+| **Tipo**      | **Objeto** |
+---
+
+
+<font size="3"><p style="text-align: center"><b>Tabela 10: </b> - Léxico de Assistente virtual( Elaborado pelos autores [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol), 2025).</p></font>
+---
+
+- **Tutorial**
+
+| Campo     | Descrição |
+|-----------|-----------|
+| **Símbolo**   | [Tutorial](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) |
+| **Noção**     | Guia passo a passo sobre como utilizar as funcionalidades do aplicativo. |
+| **Impacto**   | Ajuda novos usuários a compreenderem as funcionalidades do sistema, reduzindo a necessidade de suporte externo. |
+| **Sinônimos** | Guia, Manual |
+| **Tipo**      | **Objeto** |
+---
+
+
+<font size="3"><p style="text-align: center"><b>Tabela 11: </b> - Léxico de Tutorial( Elaborado pelos autores [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol), 2025).</p></font>
+---
+
+- **Relatório**
+
+| Campo     | Descrição |
+|-----------|-----------|
+| **Símbolo**   | [Relatório](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) |
+| **Noção**     | Documento gerado contendo informações sobre atividades do usuário, como agendamentos e solicitações. |
+| **Impacto**   | Permite ao usuário acompanhar suas interações e serviços utilizados. |
+| **Sinônimos** | Comprovante, Registro |
+| **Tipo**      | **Objeto** |
+
+---
+
+<font size="3"><p style="text-align: center"><b>Tabela 12: </b> - Léxico de Relatório( Elaborado pelos autores [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol), 2025).</p></font>
+---
+
+- **Preferência**
+
+| Campo     | Descrição |
+|-----------|-----------|
+| **Símbolo**   | [Preferência](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) |
+| **Noção**     | Configurações personalizadas do usuário para adaptar o sistema às suas necessidades. |
+| **Impacto**   | Adapta o sistema às necessidades específicas de cada usuário, melhorando a experiência. |
+| **Sinônimos** | Configuração, Personalização |
+| **Tipo**      | **Objeto** |
+
+---
+
+<font size="3"><p style="text-align: center"><b>Tabela 13: </b> - Léxico de Preferência( Elaborado pelos autores [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol), 2025).</p></font>
+---
+
+- **Lembretes**
+
+| Campo     | Descrição |
+|-----------|-----------|
+| **Símbolo**   | [Lembretes](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) |
+| **Noção**     | Alertas sobre eventos futuros ou pendências importantes para o usuário. |
+| **Impacto**   | Mantém o usuário informado sobre compromissos e prazos importantes. |
+| **Sinônimos** | Alertas, Notificações |
+| **Tipo**      | **Objeto** |
+---
+
+<font size="3"><p style="text-align: center"><b>Tabela 14: </b> - Léxico de Lembretes( Elaborado pelos autores [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol), 2025).</p></font>
+---
+
+>**ESTADOS**
+
+
+- **Acessibilidade**
+
+| Campo     | Descrição |
+|-----------|-----------|
+| **Símbolo**   | [Acessibilidade](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md#anchor_BS), [EN08](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/entrevista.md#anchor_EN), [AD08](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/analise_documentos.md#anchor_AD) |
+| **Noção**     | Recursos que tornam o aplicativo utilizável por pessoas com diferentes necessidades. |
+| **Impacto**   | Garante que o sistema possa ser utilizado por todos os usuários, promovendo inclusão digital. |
+| **Sinônimos** | Inclusão Digital |
+| **Tipo**      | **Estado** |
+
+---
+
+<font size="3"><p style="text-align: center"><b>Tabela 15: </b> - Léxico de Acessibilidade( Elaborado pelos autores [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol), 2025).</p></font>
+---
+
+- **Modo Escuro**
+
+| Campo     | Descrição |
+|-----------|-----------|
+| **Símbolo**   | [Modo Escuro](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) |
+| **Noção**     | Tema visual com cores escuras para reduzir o brilho da tela. |
+| **Impacto**   | Melhora a experiência do usuário em ambientes com pouca luz, reduz consumo de bateria e oferece personalização. |
+| **Sinônimos** | Tema Escuro |
+| **Tipo**      | **Estado** |
+
+---
+
+<font size="3"><p style="text-align: center"><b>Tabela 16: </b> - Léxico de Modo escuro( Elaborado pelos autores [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol), 2025).</p></font>
+---
+
+- **Ajuste de Acessibilidade**
+
+| Campo     | Descrição |
+|-----------|-----------|
+| **Símbolo**   | [Ajuste de Acessibilidade](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/analise_documentos.md#ajuste-de-acessibilidade---ad08) |
+| **Noção**     | Funcionalidade que permite aumentar ícones e o tamanho da fonte no aplicativo por meio de um botão. |
+| **Impacto**   | Melhora a usabilidade e a experiência para usuários com deficiência visual ou idosos. |
+| **Sinônimos** | Ampliar Fonte, Aumentar Ícones |
+| **Tipo**      | **Estado** |
+---
+<font size="3"><p style="text-align: center"><b>Tabela 17: </b> - Léxico de Ajustes de Ajuste de Acessibilidade( Elaborado pelos autores [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol), 2025).</p></font>
+
+- **Idioma**
+
+| Campo     | Descrição |
+|-----------|-----------|
+| **Símbolo**   | [Idioma](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) |
+| **Noção**     | Configuração de linguagem do aplicativo, permitindo sua utilização em diferentes idiomas. |
+| **Impacto**   | Permite que usuários de diferentes nacionalidades utilizem o sistema em seu idioma preferido. |
+| **Sinônimos** | Linguagem |
+| **Tipo**      | **Estado** |
+
+--
+<font size="3"><p style="text-align: center"><b>Tabela 18: </b> - Léxico de Ajustes de Idioma( Elaborado pelos autores [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol), 2025).</p></font>
+--
 ## Referência Bibliográfica
 
 > SERRANO, Milene; SERRANO, Maurício. Aula 10. Universidade de Brasília, Faculdade Gama, [s.d.]. Disponível em: https://aprender3.unb.br/pluginfile.php/3096108/mod_resource/content/1/Aula%2010.pdf. Acesso em: 15 mai. 2025.
@@ -139,3 +348,4 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 | 1.4 | Adição dos termos de introspecção e correção da tabela de entrevista  |  [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol)| 16/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
 | 1.5 | Adição dos termos de analise de documentos e alteração para a dinâmica correta da metodologia  |  [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol)| 16/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
 | 1.6 | Removendo repetições e ambiguidade das Tabelas 3, 4, 5 e 6  |  [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol)| 17/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
+| 2.0 | Adicionando Tabelas Léxas |  [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol)| 17/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
