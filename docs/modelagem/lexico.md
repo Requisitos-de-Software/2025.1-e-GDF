@@ -136,7 +136,8 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 | **Tipo**      | **Objeto** |
 
 
-<p style="text-align: center"><b>Tabela 8:</b> Léxico de Notificação (Elaborado pelos autores <a href="https://github.com/navicg">Ana Vitória</a>, 2025).</p>
+<p style="text-align: center"><b>Tabela 8:</b> Léxico de Notificação (Elaborado pelos autores <a href="https://github.com/navicg">Ana Vitória</a> e <a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes</a>, 2025).</p>
+
 
 
 ---
@@ -210,7 +211,8 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 | **Sinônimos** | Comprovante, Registro |
 | **Tipo**      | **Objeto** |
 
-<p align="center"><b>Tabela 13:</b> Léxico de Assistente virtual (Elaborado pelos autores , 2025).</p>
+<p style="text-align: center"><b>Tabela 13:</b> Léxico de Ajuste de Relatório (Elaborado pelos autores <a href="https://github.com/BrzGab">Gabriel Lopes</a>, 2025).</p>
+
 
 ---
 
@@ -224,7 +226,8 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 | **Sinônimos** | Configuração, Personalização |
 | **Tipo**      | **Objeto** |
 
-<p style="text-align: center"><b>Tabela 14:</b> Léxico de Preferência(Elaborado pelos autores , 2025).</p>
+<p style="text-align: center"><b>Tabela 14:</b> Léxico de Preferência (Elaborado pelos autores <a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes</a>, 2025).</p>
+
 
 ---
 
@@ -269,7 +272,8 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 | **Sinônimos** | Tema Escuro |
 | **Tipo**      | **Estado** |
 
-<p style="text-align: center"><b>Tabela 17:</b> Léxico de Modo escuro(Elaborado pelos autores , 2025).</p>
+<p style="text-align: center"><b>Tabela 17:</b> Léxico de Ajuste de Modo escuro (Elaborado pelos autores <a href="https://github.com/BrzGab">Gabriel Lopes</a>, 2025).</p>
+
 
 ---
 
@@ -283,7 +287,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 | **Sinônimos** | Ampliar Fonte, Aumentar Ícones |
 | **Tipo**      | **Estado** |
 
-<p style="text-align: center"><b>Tabela 18:</b> Léxico de Ajuste de Acessibilidade(Elaborado pelos autores , 2025).</p>
+<p style="text-align: center"><b>Tabela 18:</b> Léxico de Ajuste de Acessibilidade (Elaborado pelos autores <a href="https://github.com/BrzGab">Gabriel Lopes</a>, 2025).</p>
 
 ---
 
@@ -297,8 +301,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 | **Sinônimos** | Linguagem |
 | **Tipo**      | **Estado** |
 
-
-<p style="text-align: center"><b>Tabela 19:</b> Léxico de Ajuste de Idioma(Elaborado pelos autores , 2025).</p>
+<p style="text-align: center"><b>Tabela 19:</b> Léxico de Ajuste de Idioma (Elaborado pelos autores <a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes</a>, 2025).</p>
 
 ---
 
@@ -352,4 +355,6 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 | 1.6 | Removendo repetições e ambiguidade das Tabelas 3, 4, 5 e 6  |  [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/KarolineLuz)| 17/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
 | 1.7 | Adicionando as Tabelas 3, 8 e 16 |  [Ana Vitória](https://github.com/navicg)| 17/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
 | 1.8 | Adicionando as Tabelas 4, 11 e 12 |  [Artur Mendonça](https://github.com/ArtyMend07)| 17/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
+| 1.9| Adicionando as Tabelas 13, 17 e 18 |   [Gabriel Lopes](https://github.com/BrzGab)| 17/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
+| 1.10| Adicionando as Tabelas 14, 15 e 19 |   [João Marcos Moraes](https://github.com/JJOAOMARCOSS)| 17/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
 | 2.0 | Adicionando Tabelas Léxas |  [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/KarolineLuz)| 17/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
