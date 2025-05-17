@@ -5,7 +5,7 @@
 O léxico é uma técnica de modelagem que visa estabelecer um vocabulário comum entre os stakeholders do projeto, garantindo que todos compartilhem o mesmo entendimento sobre os termos utilizados no sistema. Esta técnica é particularmente útil para evitar ambiguidades e garantir a consistência na comunicação entre desenvolvedores, analistas e usuários.
 
 ## Metodologia
-Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léxico Ampliado da Linguagem (LAL), aplicando à análise dos requisitos não implementados do sistema para identificar os termos mais relevantes e suas relações com o sistema. A seguir, apresentamos duas tabelas que guiam a estruturação do documento:
+Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léxico Ampliado da Linguagem (LAL), aplicando à análise dos requisitos funcionais e não implementados do sistema para identificar os termos mais relevantes e suas relações com o sistema. A seguir, apresentamos duas tabelas que guiam a estruturação do documento:
 
 - A Tabela 1 detalha os conceitos fundamentais para descrever cada termo do léxico.
 - A Tabela 2 apresenta o template utilizado para organizar as informações de cada termo.
@@ -60,6 +60,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 | [Compartilhamento](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) | Ação de distribuir informações do sistema com outros usuários, como protocolos ou comprovantes | Facilita a comunicação e troca de informações entre usuários, promovendo colaboração | Distribuição, Envio | Verbo |
 
 <font size="3"><p style="text-align: center">Fonte: Elaborado pelos autores [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol). </p></font>
+---
 
 
 ### Tabela 4: Termos do Léxico - Entrevista 
@@ -74,6 +75,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 | [Suporte ao Usuário](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/entrevista.md#anchor_EN11) | Seção dedicada com instruções de uso do aplicativo | Ajuda usuários a entenderem e utilizarem melhor o sistema | Ajuda, Instruções | Objeto |
 
 <font size="3"><p style="text-align: center">Fonte: Elaborado pelos autores [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol). </p></font>
+---
 
 ### Tabela 5: Termos do Léxico - Introspeção
 
@@ -85,6 +87,15 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 | [Pagamento Digital](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/introspeccao.md#anchor_INT) | Integração com sistemas de carteiras digitais para pagamento de tributos e taxas | Facilita o pagamento de serviços públicos de forma digital e segura | Pagamento Online | Verbo |
 | [Modo Acessível](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/introspeccao.md#anchor_INT) | Configuração especial com ícones maiores, narração de comandos e navegação simplificada | Melhora a usabilidade para pessoas com necessidades especiais | Modo de Acessibilidade | Estado |
 | [Chatbot IA](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/introspeccao.md#anchor_INT) | Assistente virtual baseado em inteligência artificial com capacidade de aprendizado | Fornece respostas mais precisas e contextualizadas para dúvidas complexas | Assistente Inteligente | Objeto |
+
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelos autores [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol). </p></font>
+
+---
+### Tabela 6: Termos do Léxico - Análise de Documentos
+
+| Símbolo | Noção | Impacto | Sinônimos | Tipo |
+|---------|-------|---------|-----------|------|
+| [Ajuste de Acessibilidade](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/analise_documentos.md#ajuste-de-acessibilidade---ad08) | Funcionalidade que permite aumentar ícones e o tamanho da fonte no aplicativo por meio de um botão. | Melhora a usabilidade e a experiência para usuários com deficiência visual ou idosos. | Ampliar Fonte, Aumentar Ícones | Estado |
 
 <font size="3"><p style="text-align: center">Fonte: Elaborado pelos autores [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol). </p></font>
 
@@ -136,3 +147,4 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 | 1.2 | Ajustes nas tabelas do léxico conforme novo modelo base |  [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol)| 15/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |
 | 1.3    | Inclusão dos termos extraídos da técnica de entrevista (sem repetições) | [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol) | 15/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0) | 17/05/2025      |
 | 1.4 | Adição dos termos de introspecção e correção da tabela de entrevista  |  [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol)| 16/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
+| 1.5 | Adição dos termos de analise de documentos e alteração para a dinâmica correta da metodologia  |  [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol)| 16/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
