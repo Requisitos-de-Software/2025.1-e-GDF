@@ -22,7 +22,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 | Estado | O que indica e ações que levaram a esse estado | Identificar outros estados que podem ocorrer a partir do estado que se descreve  |
 ---
 
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelos autores [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol). </p></font>
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelos autores [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/KarolineLuz). </p></font>
 
 ---
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Template Léxicos </p></font>
@@ -38,7 +38,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 | **Sinônimos**| Termos equivalentes ou próximos encontrados durante a entrevista.             |
 | **Tipo**     | Classificação como VERBO, OBJETO ou ESTADO, com base nas regras da Tabela 1.  |
 
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelos autores [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol). </p></font>
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelos autores [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/KarolineLuz). </p></font>
 
 ---
 ## Léxico
@@ -54,7 +54,8 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 | **Sinônimos** | Autenticação, Acesso |
 | **Tipo**      | **Verbo** |
 
-<font size="3"><p style="text-align: center"><b>Tabela 3: </b> - Léxico de Login( Elaborado pelos autores , 2025).</p></font>
+<p style="text-align: center"><b>Tabela 3:</b> Léxico de Login (Elaborado pelos autores <a href="https://github.com/navicg">Ana Vitória</a>, 2025).</p>
+
 
 
 
@@ -135,8 +136,8 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 | **Tipo**      | **Objeto** |
 
 
+<p style="text-align: center"><b>Tabela 8:</b> Léxico de Notificação (Elaborado pelos autores <a href="https://github.com/navicg">Ana Vitória</a>, 2025).</p>
 
-<p style="text-align: center"><b>Tabela 8:</b> Léxico de Notificação (Elaborado pelos autores , 2025).</p>
 
 ---
 
@@ -209,8 +210,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 | **Sinônimos** | Comprovante, Registro |
 | **Tipo**      | **Objeto** |
 
-
-<p style="text-align: center"><b>Tabela 13:</b> Léxico de Relatório(Elaborado pelos autores , 2025).</p>
+<p align="center"><b>Tabela 13:</b> Léxico de Assistente virtual (Elaborado pelos autores , 2025).</p>
 
 ---
 
@@ -254,7 +254,8 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 | **Sinônimos** | Inclusão Digital |
 | **Tipo**      | **Estado** |
 
-<p style="text-align: center"><b>Tabela 16:</b> Léxico de Acessibilidade(Elaborado pelos autores , 2025).</p>
+<p style="text-align: center"><b>Tabela 16:</b> Léxico de Acessibilidade (Elaborado pelos autores <a href="https://github.com/navicg">Ana Vitória</a>, 2025).</p>
+
 
 ---
 
@@ -342,12 +343,13 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 
 | Versão | Descrição | Autor(es) | Data | Revisor(es) | Data de Revisão |
 |--------|-----------|-----------|------|-------------|-----------------|
-| 1.0 | Introdução do documento | [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol) | 15/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0) | 17/05/2025|
-| 1.1 | Adição das imagens de referência |  [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol) | 15/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0) | 17/05/2025|
-| 1.2 | Ajustes nas tabelas do léxico conforme novo modelo base |  [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol)| 15/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |
-| 1.3    | Inclusão dos termos extraídos da técnica de entrevista (sem repetições) | [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol) | 15/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0) | 17/05/2025      |
-| 1.4 | Adição dos termos de introspecção e correção da tabela de entrevista  |  [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol)| 16/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
-| 1.5 | Adição dos termos de analise de documentos e alteração para a dinâmica correta da metodologia  |  [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol)| 16/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
-| 1.6 | Removendo repetições e ambiguidade das Tabelas 3, 4, 5 e 6  |  [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol)| 17/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
-| 1.7 | Adicionando as Tabelas 4, 11 e 12 |  [Artur Mendonça](https://github.com/ArtyMend07)| 17/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
-| 2.0 | Adicionando Tabelas Léxas |  [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol)| 17/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
+| 1.0 | Introdução do documento | [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/KarolineLuz) | 15/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0) | 17/05/2025|
+| 1.1 | Adição das imagens de referência |  [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/KarolineLuz) | 15/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0) | 17/05/2025|
+| 1.2 | Ajustes nas tabelas do léxico conforme novo modelo base |  [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/KarolineLuz)| 15/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |
+| 1.3    | Inclusão dos termos extraídos da técnica de entrevista (sem repetições) | [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/KarolineLuz) | 15/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0) | 17/05/2025      |
+| 1.4 | Adição dos termos de introspecção e correção da tabela de entrevista  |  [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/KarolineLuz)| 16/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
+| 1.5 | Adição dos termos de analise de documentos e alteração para a dinâmica correta da metodologia  |  [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/KarolineLuz)| 16/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
+| 1.6 | Removendo repetições e ambiguidade das Tabelas 3, 4, 5 e 6  |  [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/KarolineLuz)| 17/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
+| 1.7 | Adicionando as Tabelas 3, 8 e 16 |  [Ana Vitória](https://github.com/navicg)| 17/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
+| 1.8 | Adicionando as Tabelas 4, 11 e 12 |  [Artur Mendonça](https://github.com/ArtyMend07)| 17/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
+| 2.0 | Adicionando Tabelas Léxas |  [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/KarolineLuz)| 17/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
