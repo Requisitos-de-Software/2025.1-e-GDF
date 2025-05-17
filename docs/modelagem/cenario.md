@@ -8,7 +8,7 @@ Essa técnica contribui significativamente para a elicitação de requisitos, es
 
 ## Metodologia
 
-Neste projeto, a construção de cenários de uso foi orientada pela definição prévia de [perfis de usuário](../elicitacao/perfil_de_usuario.md), com o objetivo de representar interações plausíveis e contextualizadas com o aplicativo [eGDF](../index.md). Para a elaboração desses perfis, foram aplicadas técnicas de elicitação de requisitos, como [entrevistas](../elicitacao/tec_elicitacao/entrevista.md) com usuários reais, [análise de documentos](../elicitacao/tec_elicitacao/analise_documentos.md) relacionados ao sistema e sessões de [brainstorming](../elicitacao/tec_elicitacao/brainstorming.md) com partes interessadas e membros da equipe.
+Neste projeto, a construção de cenários de uso foi orientada pela definição prévia dos [requisitos elicitados](../elicitacao/req_elicitados.md), com o objetivo de representar interações plausíveis e contextualizadas com o aplicativo [eGDF](../index.md). Foram utilizados os **requisitos funcionais** não implementados para a elaboração desses cenários, que foram elicitados a partir das seguintes técnicas de elicitação de requisitos, como [entrevistas](../elicitacao/tec_elicitacao/entrevista.md) com usuários reais, [análise de documentos](../elicitacao/tec_elicitacao/analise_documentos.md) relacionados ao sistema, sessões de [brainstorming](../elicitacao/tec_elicitacao/brainstorming.md) com partes interessadas e membros da equipe e [introspecção](../elicitacao/tec_elicitacao/introspeccao.md) e cada participante da equipe ficou responsável pela elaboração de 3 cenários.
 
 <q>Existem cinco formas para se descrever cenários, são elas texto narrativo, texto estruturado, diagramas, imagens e animações ou simulações. A forma selecionada para apresentação dos cenários presentes neste artefato será a de texto estruturado, a qual valida-se da utilização de linguagem natural semi-estruturada para melhor entendimento de cada cenário e validação dos requisitos por parte do cliente <a id="anchor_2" href="#FRM2">[2]</a> </q>. Dessa maneira, para a padronização e guia na construção dos cenários criamos um modelo a ser seguido, que está representado na Tabela 1.
 
@@ -29,115 +29,363 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ( [Ana Victória](https://github.com/navicg) e [João Marcos](https://github.com/JJOAOMARCOSS), 2025)</p></font>
 
-### Cenário 1: Consultando o calendário escolar do filho
+---
 
-| Elemento     | Descrição                                                                                                                                                                                                                                                                               |
-| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Objetivo**   | Verificar as datas de início das aulas e feriados escolares para organizar a rotina familiar.                                                                                                                                                                                           |
-| **Contexto**   | Um servidor público da educação, pai de um estudante da rede pública, tenta acessar o calendário escolar no início do ano letivo.                                                                                                                                                       |
-| **Recursos**   | Smartphone com acesso à internet, aplicativo eGDF instalado.                                                                                                                                                                                                                            |
-| **Ator(res)**       | Servidor público (usuário), sistema eGDF.                                                                                                                                                                                                                                               |
-| **Episódios**  | - O usuário abre o eGDF pela primeira vez no ano.<br>- Busca pela opção de "Educação" no menu inicial.<br>- Clica em diferentes ícones sem sucesso até encontrar o calendário escolar.<br>- Consegue visualizar as datas importantes, embora tenha levado mais tempo do que o esperado. |
-| **Restrições** | Design pouco intuitivo e possibilidade de dificuldade na navegação do menu.                                                                                                                                                                                                             |
-| **Exceção**    | Dificuldade para localizar a funcionalidade de calendário dentro do app devido à navegação pouco intuitiva. <br>Erro de conexão à internet.                                                                                                                                                                             |
+### Cenário 1: Realizar login de forma simples e rápida
 
-<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ( [Ana Victória](https://github.com/navicg) e [João Marcos](https://github.com/JJOAOMARCOSS), 2025)</p></font>
+| Elemento   | Descrição                                                                                    |
+| ---------- | -------------------------------------------------------------------------------------------- |
+| Objetivo   | Permitir que o usuário acesse o aplicativo rapidamente sem complicações.                    |
+| Contexto   | Um cidadão tenta abrir o app e acessar seus serviços públicos.                              |
+| Recursos   | Smartphone, app eGDF, conexão com internet.                                                  |
+| Ator(res)  | Usuário cidadão, sistema eGDF.                                                               |
+| Episódios  | - Usuário abre o app.<br>- Seleciona "Entrar com gov.br".<br>- Insere os dados da sua conta<br>- Realiza login.               |
+| Restrições | - Tempo de login exceder um tempo limite.<br>- O serviço de autenticação deve estar ativo.                                                |
+| Exceção    | - O serviço gov.br estiver indisponível.<br>- Erro de conexão à internet durante o login. |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Ana Victória](https://github.com/navicg), 2025)</p></font>
 
 ---
 
-### Cenário 2: Emitindo guia de pagamento do IPVA
+### Cenário 2: Acesso com pouca familiaridade tecnológica
 
-| Elemento     | Descrição                                                                                                                                                                                                                                                           |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Objetivo**   | Emitir e pagar a guia do IPVA antes do vencimento.                                                                                                                                                                                                                  |
-| **Contexto**   | Um estudante que acabou de comprar seu primeiro carro precisa emitir o boleto para pagamento do IPVA.                                                                                                                                                               |
-| **Recursos**   | Smartphone, CPF e número do Renavam em mãos, conexão com internet.                                                                                                                                                                                                  |
-| **Ator(res)**       | Estudante (usuário), sistema eGDF, banco.                                                                                                                                                                                                                           |
-| **Episódios**  | - O estudante acessa o app eGDF e procura por "Tributos".<br>- Entra em “IPVA”, preenche os dados solicitados.<br>- Gera a guia e realiza o pagamento via internet banking.<br>- Finaliza satisfeito, mas com a impressão de que o caminho poderia ser mais direto. |
-| **Restrições** | Layout confuso, o usuário pode se perder em encontrar a opção.                                                                                                                                                                                                      |
-| **Exceção**    | Usuário não sabe onde encontrar a opção de emissão de IPVA e considera o layout confuso.  <br>Erro de conexão à internet.                                                                                                                                                                          |
+| Elemento   | Descrição                                                                                    |
+| ---------- | -------------------------------------------------------------------------------------------- |
+| Objetivo   | Garantir acesso ao app por pessoas com pouca experiência em tecnologia.                     |
+| Contexto   | Um idoso utiliza o app pela primeira vez.                                                    |
+| Recursos   | Smartphone, app eGDF.                                                                        |
+| Ator(res)  | Idoso (usuário), sistema eGDF.                                                               |
+| Episódios  | - Usuário acessa app.<br>- Usa ícones simples e textos descritivos.<br>- Encontra serviços. |
+| Restrições | - Interface com muitos jargões técnicos.<br>- A interface não seguir padrões de acessibilidade (cores, tamanho de fonte, linguagem simples)                                                    |
+| Exceção    | - Usuário se perder no aplicativo e não ter opção de ajuda.<br>- Erro de conexão à  internet, e não aparecer mensagem informando o erro.                        |
 
-<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ( [Ana Victória](https://github.com/navicg) e [João Marcos](https://github.com/JJOAOMARCOSS), 2025)</p></font>
-
----
-
-### Cenário 3: Consultando linhas e horários do transporte público
-
-| Elemento     | Descrição                                                                                                                                                                                                                             |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Objetivo**   | Saber o horário do próximo ônibus para planejar o deslocamento até o trabalho.                                                                                                                                                        |
-| **Contexto**   | Um professor universitário precisa ir ao campus e busca informações no eGDF antes de sair de casa.                                                                                                                                    |
-| **Recursos**   | Smartphone, conexão à internet, localização ativada.                                                                                                                                                                                  |
-| **Ator(res)**       | Professor (usuário), sistema eGDF, sistema de transporte público.                                                                                                                                                                     |
-| **Episódios**  | - O usuário abre o app e acessa a seção “DF no Ponto”.<br>- Informa sua linha de ônibus e ponto de partida.<br>- Visualiza os próximos horários e a previsão de chegada.<br>- Organiza sua saída de casa com base nos dados exibidos. |
-| **Restrições** | O app pode demorar para carregar ou mostrar informações desatualizadas sobre a linha.                                                                                                                                                 |
-| **Exceção**    | O app demora para carregar ou mostra informações desatualizadas sobre a linha. <br>Erro de conexão à internet.                                                                                                                                                        |
-
-<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ( [Ana Victória](https://github.com/navicg) e [João Marcos](https://github.com/JJOAOMARCOSS), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Ana Victória](https://github.com/navicg), 2025)</p></font>
 
 ---
 
-### Cenário 4: Primeiro contato com o aplicativo após recomendação
+### Cenário 3: Notificações baseadas em localização
 
-| Elemento     | Descrição                                                                                                                                                                                                                                                                           |
-| ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Objetivo**   | Conhecer os serviços disponíveis e descobrir funcionalidades úteis.                                                                                                                                                                                                                 |
-| **Contexto**   | Um jovem tecnófilo ouve falar do app por um amigo e decide instalar para explorar os serviços digitais do governo.                                                                                                                                                                  |
-| **Recursos**   | Smartphone, internet, acesso à loja de aplicativos.                                                                                                                                                                                                                                 |
-| **Ator(res)**       | Jovem morador do DF, amigo que recomendou, sistema eGDF.                                                                                                                                                                                                                            |
-| **Episódios**  | - O jovem baixa e instala o eGDF.<br>- Ao abrir, visualiza várias opções no menu, mas sem orientações claras.<br>- Clica em “Receitas e Tributos” por curiosidade, mas não entende a utilidade imediata.<br>- Fecha o app com a intenção de tentar novamente depois com mais tempo. |
-| **Restrições** | O app pode parecer confuso ou desorganizado para um primeiro uso.                                                                                                                                                                                                                   |
-| **Exceção**    | O usuário sente-se perdido na navegação inicial e fecha o app sem concluir nenhuma tarefa. <br>Erro de conexão à internet.                                                                                                                                                                                         |
+| Elemento   | Descrição                                                                                    |
+| ---------- | -------------------------------------------------------------------------------------------- |
+| Objetivo   | Enviar notificações úteis com base na localização do usuário.                               |
+| Contexto   | Um cidadão passa próximo a um posto de vacinação.                                           |
+| Recursos   | GPS do celular, app eGDF, servidor de notificações.                                         |
+| Ator(res)  | Cidadão (usuário), sistema eGDF.                                                             |
+| Episódios  | - Sistema detecta proximidade.<br>- Sistema personaliza a notificação com base no perfil do usuário (ex: idade, grupo prioritário).<br>- Envia alerta “Vacinação disponível aqui perto”.<br> - Usuário toca na notificação e é direcionado para a tela com mais informações (endereço, horário).<br>- O usuário confirma interesse.    |
+| Restrições | - Necessário consentimento para uso de localização.<br>- O usuário deve ter permitido o recebimento de notificações        .                                  |
+| Exceção    | - GPS desativado.<br>- Erro de conexão à internet e a notificação não ser entregue.            |
 
-<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ( [Ana Victória](https://github.com/navicg) e [João Marcos](https://github.com/JJOAOMARCOSS), 2025)</p></font>
-
----
-
-### Cenário 5: Usuário fazendo registro de problema na sua localização
-
-| Elemento     | Descrição                                                                                                                                                                                                                                         |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Objetivo**   | Reportar um buraco em via pública à Administração Regional utilizando o aplicativo eGDF.                                                                                                                                                          |
-| **Contexto**   | Morador do Distrito Federal nota um buraco crescente em sua rua após dias de chuva. À noite, em casa, decide reportar.                                                                                                                            |
-| **Recursos**   | Smartphone, internet, aplicativo eGDF (módulo Administração 24 horas), câmera do celular.                                                                                                                                                         |
-| **Ator(res)**       | Morador de 36 anos, servidor público com familiaridade intermediária com tecnologia, sistema eGDF, Administração Regional.                                                                                                                        |
-| **Episódios**  | - O usuário acessa o app eGDF, entra na aba "Administração 24 horas".<br> - Escolhe a opção de reportar problema. <br> - Preenche dados e anexa foto do buraco. <br>- Insere a localização que está ocorrendo o problema. <br>- Envia a postagem. |
-| **Restrições** | Limitações no tamanho ou tipo do arquivo de imagem; localização automática imprecisa.                                                                                                                                                             |
-| **Exceção**    | Caso o app apresente erro no envio ou na captura da localização, o usuário tenta novamente mais tarde ou liga para a Administração Regional. <br>Erro de conexão à internet.                                                                                                     |
-
-<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ( [Ana Victória](https://github.com/navicg) e [João Marcos](https://github.com/JJOAOMARCOSS), 2025)</p></font>
-
-### Cenário 6: Acompanhando andamento de solicitação no GDF Presente
-
-| Elemento       | Descrição                                                                                                                                                                                                     |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Objetivo**   | Verificar o status de uma solicitação feita anteriormente no sistema GDF Presente.                                                                                                                            |
-| **Contexto**   | Um morador do DF acessa o app eGDF de sua residência durante o dia, alguns dias após realizar uma solicitação.                                                                                                |
-| **Recursos**   | Aplicativo eGDF, smartphone, conexão com a internet.                                                                                                                                                          |
-| **Ator**       | Morador do DF                                                                                                                                                                                                 |
-| **Episódios**  | - O usuário abre o aplicativo e acessa a seção "Administração 24h".<br>- Seleciona "Minhas Solicitações".<br>- Localiza a solicitação de poda de árvore.<br>- Verifica que o status consta como “Em análise”. |
-| **Restrições** | A solicitação só pode ser consultada se o usuário estiver logado com CPF vinculado à solicitação anterior.                                                                                                    |
-| **Exceção**    | O sistema não mostra atualizações recentes, gerando insegurança sobre o andamento da demanda. <br>Erro de conexão à internet.                                                                                                               |
-
-<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ( [Ana Victória](https://github.com/navicg) e [João Marcos](https://github.com/JJOAOMARCOSS), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Ana Victória](https://github.com/navicg), 2025)</p></font>
 
 ---
 
-### Cenário 7: Agendando atendimento presencial em órgão público
+### Cenário 4: Consulta centralizada de agendamentos e serviços
 
-| Elemento       | Descrição                                                                                                                                                                                                        |
-| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Objetivo**   | Agendar atendimento presencial para emissão da segunda via do RG.                                                                                                                                                |
-| **Contexto**   | Um cidadão do DF acessa o app eGDF pela manhã, em sua casa, buscando evitar filas em um posto do Na Hora.                                                                                                        |
-| **Recursos**   | Aplicativo eGDF, smartphone, CPF do cidadão, conexão com a internet.                                                                                                                                             |
-| **Ator**       | Cidadão do DF                                                                                                                                                                                                    |
-| **Episódios**  | - O usuário acessa o app.<br>- Vai à seção de agendamento de serviços.<br>- Seleciona “Segunda via de RG”.<br>- Escolhe o local, data e horário disponíveis.<br>- Confirma o agendamento e recebe o comprovante. |
-| **Restrições** | Apenas horários futuros e unidades com vagas disponíveis podem ser agendados.                                                                                                                                    |
-| **Exceção**    | Poucas datas disponíveis, com unidades distantes ou não exibidas por instabilidade no sistema.  <br>Erro de conexão à internet.                                                                                                                 |
+| Elemento     | Descrição                                                         |
+|--------------|------------------------------------------------------------------|
+| Objetivo     | Facilitar a visualização de todos os agendamentos em uma única tela. |
+| Contexto     | Um servidor público deseja conferir todos seus compromissos no app. |
+| Recursos     | App eGDF, agenda pessoal, conexão com internet.                  |
+| Ator(res)    | Servidor público (usuário), sistema eGDF.                        |
+| Episódios    | - Abre o app.<br>- Vai até “Meus Agendamentos”.<br>- Visualiza tudo em um só lugar. |
+| Restrições   | Deve sincronizar com serviços de agendamento do GDF.             |
+| Exceção      |- Sistema parceiro estiver fora do ar.<br>- Erro de conexão à internet. |
 
-<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ( [Ana Victória](https://github.com/navicg) e [João Marcos](https://github.com/JJOAOMARCOSS), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Artur Mendonça Arruda](https://github.com/ArtyMend07), 2025)</p></font>
 
 ---
+
+### Cenário 5: Assistente virtual com voz
+
+| Elemento     | Descrição                                                         |
+|--------------|------------------------------------------------------------------|
+| Objetivo     | Ajudar o usuário por meio de comandos de voz com acessibilidade. |
+| Contexto     | Um cidadão com deficiência visual usa comandos para emitir boleto do IPVA. |
+| Recursos     | Smartphone com microfone, app eGDF, sistema de voz.              |
+| Ator(res)    | Cidadão com deficiência (usuário), sistema eGDF.                 |
+| Episódios    | - Usuário diz “Emitir IPVA”.<br>- Assistente pergunta CPF.<br>- Responde por voz.<br>- Gera boleto. |
+| Restrições   | - Reconhecimento de voz pouco intuitivo.     |
+| Exceção      |- Ambiente com muito ruído.<br>- Perda de conexão com a internet durante o uso da assistente virtual com voz.             |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Artur Mendonça Arruda](https://github.com/ArtyMend07), 2025)</p></font>
+
+---
+
+### Cenário 6: Tutoriais passo a passo
+
+| Elemento     | Descrição                                                         |
+|--------------|------------------------------------------------------------------|
+| Objetivo     | Ajudar novos usuários a entenderem o funcionamento do app.       |
+| Contexto     | Uma nova usuária acessa o app para agendar consulta médica.      |
+| Recursos     | App eGDF, tutoriais animados.                                    |
+| Ator(res)    | Usuária iniciante, sistema eGDF.                                 |
+| Episódios    | - App detecta primeiro uso.<br>- Exibe passo a passo para agendamento.<br>- Usuária realiza com sucesso. |
+| Restrições   | - O tutorial ser muito extenso<br> - Ser pouco intuitivo.                   |
+| Exceção      |- Usuário ignorar o tutorial.<br>- Perda de conexão da internet durante o tutorial.” |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Artur Mendonça Arruda](https://github.com/ArtyMend07), 2025)</p></font>
+
+---
+
+### Cenário 7: Alterar tamanho da fonte e contraste
+
+| Elemento     | Descrição                                                                 |
+|--------------|---------------------------------------------------------------------------|
+| Objetivo     | Tornar o app acessível a pessoas com deficiência visual ou sensibilidade ocular. |
+| Contexto     | Um aposentado deseja aumentar o tamanho da fonte e ativar alto contraste. |
+| Recursos     | Smartphone, app eGDF, configurações de acessibilidade.                    |
+| Ator(res)    | Aposentado (usuário), sistema eGDF.                                       |
+| Episódios    | - Acessa configurações. <br> - Altera fonte para “Grande”. <br> - Ativa “Modo Alto Contraste”. |
+| Restrições   | Interface não se ajustar dinamicamente as alterações.                |
+| Exceção      | - Dispositivo não ser compatível com essa funcionalidade.<br>- Erro de conexão ao fazer as alterações.   |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Gabriel Lopes](https://github.com/BrzGab), 2025)</p></font>
+
+---
+
+### Cenário 8: Modo escuro
+
+| Elemento     | Descrição                                                                 |
+|--------------|---------------------------------------------------------------------------|
+| Objetivo     | Reduzir o cansaço visual e economizar bateria em telas OLED.              |
+| Contexto     | Um usuário utiliza o app à noite e ativa o modo escuro.                   |
+| Recursos     | App eGDF, configurações do sistema, suporte a temas.                      |
+| Ator(res)    | Usuário noturno, sistema eGDF.                                            |
+| Episódios    | - Acessa configurações. <br> - Ativa “Modo Escuro”. <br> - Interface muda imediatamente. |
+| Restrições   | Não funcionar pra todos os dispositivos e telas.                            |
+| Exceção      | - Haver incompatibilidade com a versão do Android/iOS.<br>- Erro de conexão ao mudar para o modo escuro.   |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Gabriel Lopes](https://github.com/BrzGab), 2025)</p></font>
+
+---
+
+### Cenário 9: O usuário deve poder gerar relatórios e visualizar comprovantes de agendamentos
+
+| Elemento   | Descrição                                                                                                                                         |
+|------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Objetivo**   | Permitir que o usuário acesse relatórios e comprovantes dos agendamentos realizados, para fins de controle, conferência ou documentação.          |
+| **Contexto**   | O usuário está autenticado no sistema via portal web corporativo durante o horário comercial, em um ambiente de trabalho com acesso à internet.    |
+| **Recursos**   | Sistema de agendamentos, banco de dados de agendamentos, módulo de relatórios, interface gráfica, botão "Gerar Relatório", botão "Visualizar Comprovante". |
+| **Ator(res)**  | Usuário final (ex: servidor público ou atendente administrativo)                                                                               |
+| **Episódios**  |- O usuário acessa o módulo de agendamentos no sistema <br> - Seleciona o período desejado <br> - Clica em "Gerar Relatório" <br> - O sistema gera e exibe o relatório <br> - O usuário seleciona um agendamento específico <br> - Clica em "Visualizar Comprovante" <br> - O sistema exibe ou permite o download do comprovante em PDF. |
+| **Restrições** | - O acesso aos relatórios e comprovantes só é permitido a usuários autenticados com permissão adequada. <br> - Relatórios só podem ser gerados para datas válidas. |
+| **Exceção**    | - Não haver agendados dísponiveis na data selacionado e o sistema não informar isso.<br>- Erro de conexão à internet.<br> - O sistema não gerar o relátorio corretamente.      |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Gabriel Lopes](https://github.com/BrzGab), 2025)</p></font>
+
+---
+
+### Cenário 10: Alterar idioma do aplicativo
+
+| Elemento   | Descrição                                                                                      |
+|------------|------------------------------------------------------------------------------------------------|
+| Objetivo   | Permitir que o usuário utilize o aplicativo no idioma de sua preferência.                     |
+| Contexto   | O usuário acessa o aplicativo em um ambiente multilíngue, como uma viagem internacional.       |
+| Recursos   | Smartphone, aplicativo, configurações de idioma.                                               |
+| Ator(res)  | Usuário cidadão, sistema eGDF.                                                                 |
+| Episódios  | - Usuário acessa as configurações do app. <br> - Clica na opção "Idioma". <br> - Seleciona o idioma desejado (ex: inglês). <br> - O app é recarregado com os textos traduzidos. |
+| Restrições | - Nem todos os conteúdos podem estar disponíveis em todos os idiomas. <br> - A tradução deve ser previamente implementada para cada idioma. |
+| Exceção    | - Falha ao aplicar o novo idioma. <br> - Tradução ausente para o idioma escolhido.<br> - Erro de conexão à internet ao mudar de idioma         |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS), 2025)</p></font>
+
+---
+
+### Cenário 11: Personalizar preferências e perfis para recomendações
+
+| Elemento   | Descrição                                                                                      |
+|------------|------------------------------------------------------------------------------------------------|
+| Objetivo   | Permitir que o usuário configure seu perfil e preferências para receber recomendações mais relevantes. |
+| Contexto   | O usuário está criando ou editando seu perfil dentro do aplicativo em casa, durante o uso regular. |
+| Recursos   | Smartphone, aplicativo, base de dados de preferências.                                         |
+| Ator(res)  | Usuário cidadão, sistema eGDF.                                                                 |
+| Episódios  | - Usuário acessa a área de "Preferências". <br> - Informa dados como localização, faixa etária e interesses. <br> - Salva o perfil personalizado. <br> - O sistema usa as informações para oferecer recomendações de serviços públicos. |
+| Restrições | - O sistema deve proteger os dados pessoais conforme a LGPD. <br> - As recomendações dependem das informações fornecidas. |
+| Exceção    | - O usuário não finaliza o cadastro. <br> - O sistema falha ao salvar as preferências.<br>- Ocorre um erro de internet ao personalizar as preferências.     |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS), 2025)</p></font>
+
+---
+
+### Cenário 12: Enviar mensagens curtas sobre vencimentos e lembretes
+
+| Elemento   | Descrição                                                                                      |
+|------------|------------------------------------------------------------------------------------------------|
+| Objetivo   | Informar o usuário sobre vencimentos de prazos ou eventos importantes através de mensagens curtas. |
+| Contexto   | O usuário tem prazos a cumprir (como pagamento de taxas) e está com o app instalado no celular. |
+| Recursos   | Smartphone, aplicativo, notificações push ou SMS, banco de dados de prazos.                    |
+| Ator(res)  | Sistema eGDF, usuário cidadão.                                                                 |
+| Episódios  | - O sistema verifica prazos próximos no cadastro do usuário. <br> - Gera mensagem com lembrete. <br> - Envia notificação para o celular do usuário. <br> - O usuário recebe e visualiza o lembrete. |
+| Restrições | - O usuário não ter autorizado o envio de notificações. <br> - Os lembretes não serem configurados previamente. |
+| Exceção    | - O usuário está sem internet ou com notificações desativadas. <br> - Mensagens duplicadas ou fora de contexto são enviadas. |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS), 2025)</p></font>
+
+---
+
+### Cenário 13: Acompanhamento de pendências na área educacional 
+
+| Elemento   | Descrição                                                                                      |
+|------------|------------------------------------------------------------------------------------------------|
+| Objetivo   | Permitir o acompanhamento de pendências escolares relacionadas ao usuário |
+| Contexto   | O usuário acessa o aplicativo para ver a sua frequência escolar . |
+| Recursos   | Smartphone com aplicativo instalado, autenticação gov, base de dados escolares                    |
+| Ator(res)  | Alunos (Usuário).                                                                 |
+| Episódios  | - O usuário faz login no aplicativo. <br> - O sistema consulta a base de dados escolares. <br> - O usuário acessa a seção sobre educação <br> - O usuário visualiza a sua frequência escolar. |
+| Restrições | - O usuário precisa estar vinculado a uma unidade escolar cadastrada. <br> - Base de dados deve estar atualizada e disponível. |
+| Exceção    | - Falha na conexão com a internet. <br> - Base de dados indisponível para consulta. |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
+
+---
+
+### Cenário 14: Notificações por categorias
+
+| Elemento   | Descrição                                                                                      |
+|------------|------------------------------------------------------------------------------------------------|
+| Objetivo   | Permitir que o usuário receba notificações classificadas por categorias |
+| Contexto   | O usuário deseja identificar qual categoria pertence a notificação . |
+| Recursos   | Smartphone com aplicativo instalado, autenticação gov, conexão com a internet                    |
+| Ator(res)  | Usuário.                                                                 |
+| Episódios  | - O usuário faz login no aplicativo. <br> - O sistema envia notificações classificadas por categoria. <br> - O usuário identifica a categoria e a informação relacionada. |
+| Restrições | - O usuário precisa autorizar o recebimento de notificações. <br> - O usuário precisa estar conectado com a internet. |
+| Exceção    | - Falha na conexão com a internet. <br> - Erro de sincronização entre o backend e o app. |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
+
+---
+
+### Cenário 15: Solicitar serviço público
+
+| Elemento   | Descrição                                                                                   |
+|------------|---------------------------------------------------------------------------------------------|
+| Objetivo   | Permitir que o usuário solicite um serviço público diretamente pelo aplicativo              |
+| Contexto   | Usuário em casa acessando o aplicativo via Wi-Fi no período da manhã                        |
+| Recursos   | Aplicativo móvel, formulário de solicitação, lista de serviços disponíveis                  |
+| Ator(res)  | Cidadão                                                                                     |
+| Episódios  | - O cidadão acessa o aplicativo<br>- Escolhe a opção "Solicitar Serviço"<br>- Seleciona "Coleta de entulho"<br>- Indica a localização e confirma a solicitação |
+| Restrições | O sistema deve validar se o serviço está disponível para a região selecionada               |
+| Exceção    |- O serviço pode não estar disponível para a loclização selecionada<br>- Erro de conexão à internet|
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
+
+---
+### Cenário 16: Confirmar resolução da situação registrada
+
+
+| Elemento   | Descrição                                                                                   |
+|------------|---------------------------------------------------------------------------------------------|
+| Objetivo   | Permitir que o usuário confirme que o problema reportado foi resolvido                      |
+| Contexto   | Usuário recebe notificação de que o serviço foi executado e acessa o aplicativo em sua residência à noite |
+| Recursos   | Aplicativo móvel, histórico de relatos, botão de confirmação                               |
+| Ator(res)  | Cidadão                                                                                     |
+| Episódios  |- O cidadão acessa o histórico de relatos<br> - Seleciona o problema notificado como resolvido<br>- Verifica a área no mapa e clica em "Confirmar Resolução" |
+| Restrições | O usuário só pode confirmar problemas associados à sua conta                                |
+| Exceção    |- Pode não ser possível fazer a confirmação devido ao problema não ter sido solucionado<br>- Pode ocorrer erro de conexão à internet no momento da confirmação |
+
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
+
+
+---
+
+
+### Cenário 17: Exclusão de conta
+
+
+| Elemento   | Descrição |
+|------------|-----------|
+| **Objetivo** | Permitir que o usuário exclua todos os seus dados e sua conta permanentemente do aplicativo. |
+| **Contexto** | O usuário está autenticado no aplicativo, utilizando seu celular pessoal, em qualquer local e horário. |
+| **Recursos** | Interface do aplicativo, banco de dados de usuários, sistema de autenticação. |
+| **Ator(res)** | Usuário autenticado. |
+| **Episódios** |- O usuário acessa o menu de configurações do aplicativo<br>- Escolhe a opção "Excluir Conta"<br> - Confirma a exclusão após visualizar um aviso sobre a perda de dados<br>- O sistema remove todos os dados associados ao usuário. |
+| **Restrições** |- A exclusão só pode ser realizada por usuários autenticados.<br>- Confirmação de identidade é exigida antes da remoção dos dados. |
+| **Exceção** | - Exclusão é interrompida por perda de conexão com à internet. |
+
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
+
+
+---
+
+
+### Cenário 18: Busca por Vagas em Escolas ou CILs
+
+
+| Elemento   | Descrição |
+|------------|-----------|
+| **Objetivo** | Permitir que o usuário busque por vagas disponíveis em escolas regulares ou Centros Interescolares de Línguas (CILs) no Distrito Federal. |
+| **Contexto** | O usuário acessa o aplicativo por meio de seu celular, conectado à internet, durante o período de matrícula escolar divulgado pela Secretaria de Educação. |
+| **Recursos** | Interface de busca do aplicativo, banco de dados com informações atualizadas das escolas e CILs, filtros de pesquisa. |
+| **Ator(res)** | Usuário (responsável ou estudante). |
+| **Episódios** | O usuário acessa a aba de busca por vagas<br> - Seleciona filtros como nível de ensino, localidade e instituição (escola ou CIL)<br>- Visualiza a lista de unidades com vagas disponíveis<br> - Escolhe uma para mais detalhes. |
+| **Restrições** | - A busca só exibe resultados referentes ao Distrito Federal<br>- O sistema deve conter dados atualizados fornecidos pela rede de ensino. |
+| **Exceção** |- Não ter vagas disponíveis para os filtros colocados<br> - Ocorrer um erro na internet que impeça a busca de vagas |
+
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
+
+
+---
+
+
+### Cenários 19: Autenticação via gov.br de forma segura e por reconhecimento facial
+
+
+| Elemento   | Descrição |
+|------------|-----------|
+| **Objetivo** | Garantir que o usuário acesse o aplicativo de forma segura por meio da autenticação na plataforma gov.br, utilizando recursos como reconhecimento facial. |
+| **Contexto** | O usuário está utilizando um dispositivo móvel com câmera frontal funcional e conexão com a internet, no momento de realizar login no aplicativo. |
+| **Recursos** | Plataforma gov.br, câmera do dispositivo, sistema de login do aplicativo. |
+| **Ator(res)** | Usuário final, plataforma gov.br |
+| **Episódios** | - O usuário escolhe a opção de login via gov.br<br> - É redirecionado para a autenticação segura<br>- Realiza reconhecimento facial com sucesso e retorna autenticado ao aplicativo. |
+| **Restrições** | - A autenticação exige conta ativa e verificada no gov.br<br> - O dispositivo deve possuir câmera compatível. |
+| **Exceção** | - Reconhecimento facial pode falhar pelo gov.br estar indisponível<br>- A câmera pode apresentar problemas que impessam o uso para o reconhecimento facial<br> - Pode ocorrer erro de conexão à internet|
+
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
+
+
+---
+
+
+### Cenário 20: Compartilhar ou Salvar Informações Importantes
+
+
+| Elemento   | Descrição |
+|------------|-----------|
+| **Objetivo** | Permitir que o usuário compartilhe ou salve comprovantes e protocolos gerados pelo aplicativo após a realização de ações importantes (como matrículas, atualizações de dados ou solicitações). |
+| **Contexto** | O usuário está autenticado no aplicativo, utilizando seu smartphone com acesso à internet, imediatamente após concluir uma ação que gera um protocolo ou comprovante. |
+| **Recursos** | Interface do aplicativo, visualização de protocolo/comprovante em PDF, sistema de compartilhamento nativo do dispositivo, armazenamento local do celular. |
+| **Ator(res)** | Usuário final. |
+| **Episódios** |- Após concluir uma matrícula ou solicitação, o aplicativo exibe o comprovante na tela<br>-  O usuário escolhe entre "Salvar no dispositivo" ou "Compartilhar", podendo enviar via e-mail, WhatsApp ou outro app instalado<br>- O sistema realiza a ação e exibe uma confirmação. |
+| **Restrições** | - O compartilhamento depende dos aplicativos instalados no dispositivo<br>- O salvamento requer permissão de acesso ao armazenamento. |
+| **Exceção** | - O usuário pode negar a permissão de armazenamento<br> - O sistema de compartilhamento pode falhar devido a problemas técnicos<br> - Erro de conexão à internet |
+
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
+
+
+---
+
+
+### Cenário 21: Visualizar localização de serviços e problemas no mapa
+
+
+| Elemento   | Descrição                                                                                   |
+|------------|---------------------------------------------------------------------------------------------|
+| Objetivo   | Permitir que o usuário veja no mapa os serviços solicitados e problemas reportados         |
+| Contexto   | Usuário está verificando o status de sua solicitação durante o horário da tarde em seu local de trabalho |
+| Recursos   | Aplicativo móvel, mapa interativo, ícones de status dos serviços e problemas                |
+| Ator(res)  | Cidadão                                                                                     |
+| Episódios  | - O cidadão acessa o aplicativo<br>- Navega até a aba "Mapa"<br> - Visualiza os pontos coloridos indicando solicitações e problemas<br> -Clica em um ponto para ver os detalhes |
+| Restrições | O sistema deve garantir que apenas os itens do bairro ou cidade do usuário sejam carregados inicialmente |
+| Exceção    |- Pode não haver dados disponíveis para a área visualizada<br>- A localização pode não estar habilitada, e o sistema não mostra os serviços solicitados<br> - Erro de conexão à internet|
+
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
+
 
 ## Referências Bibliográficas
 
@@ -162,3 +410,11 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 |--------|------------|------------------------------------------|----------------------|-------------|----------------|
 | 1.0    |  Adicionando introdução e metodologia | [Ana Victória](https://github.com/navicg) e [João Marcos Moraes](https://github.com/JJOAOMARCOSS)|14/04/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 15/05/2025 |
 | 1.1    |  Adicionando tabelas de cenários e Bibliografia | [Ana Victória](https://github.com/navicg) e [João Marcos Moraes](https://github.com/JJOAOMARCOSS)|14/04/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 15/05/2025 |
+| 1.2    |  Adição dos 3 primeiros cenários baseados nos requisitos funcionais não implementados| [Ana Victória](https://github.com/navicg)|16/04/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 17/05/2025 |
+| 1.3    | Cenários 4, 5 e 6 incorporados ao documento. | [Artur Mendonça Arruda](https://github.com/ArtyMend07) |16/04/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 17/05/2025 |
+| 1.4    | Elaboração do sétimo, oitavo e nono cenário | [Gabriel Lopes](https://github.com/BrzGab)|16/04/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 17/05/2025 |
+| 1.5    | Adição do cenário 10, 11 e 12 no artefato. | [João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS)|16/04/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 17/05/2025 |
+| 1.6    | Adição do cenário 13, 14 no artefato. | [Lucas Mendonça](https://github.com/lucasarruda9)|17/04/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 17/05/2025 |
+| 1.7    | Adição do cenário 15(solicitação de serviço público) no documento. | [Lucas Mendonça](https://github.com/lucasarruda9)|17/04/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 17/05/2025 |
+| 1.8    | Implementando os cenários 16, 17 e 18 no artefato. | [Karoline Luz da Conceição](https://github.com/KarolineLuz)|17/04/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 17/05/2025 |
+| 2.0    | Adicionando os cenários 19, 20 e 21.| [Luiza da Silva Pugas](https://github.com/Luizaxx)|17/04/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 17/05/2025 |
