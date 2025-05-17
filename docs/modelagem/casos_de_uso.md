@@ -49,7 +49,7 @@ A ferramenta utilizada para a criação do diagrama foi o **[Drawio](https://www
 
 ## Diagrama de Casos de Uso 
 
-<a href="https://ibb.co/Ndm9236c"><img src="https://i.ibb.co/ks942ygN/Diagrama-de-Casos-de-Uso-drawio.png" alt="Diagrama-de-Casos-de-Uso-drawio" border="0" /></a>
+<a href="https://ibb.co/Ndm9236c"><img src="https://i.ibb.co/v6W1Qfjz/Diagrama-de-Casos-de-Uso-drawio.png" alt="Diagrama-de-Casos-de-Uso-drawio" border="0" /></a>
 
 
 <font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Gabriel Lopes](https://github.com/BrzGab) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
