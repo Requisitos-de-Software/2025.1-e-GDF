@@ -29,6 +29,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ( [Ana Victória](https://github.com/navicg) e [João Marcos](https://github.com/JJOAOMARCOSS), 2025)</p></font>
 
+---
 
 ### Cenário 1: Realizar login de forma simples e rápida
 
@@ -75,6 +76,8 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 | Exceção    | - GPS desativado.<br>- Erro de conexão à internet e a notificação não ser entregue.            |
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Ana Victória](https://github.com/navicg), 2025)</p></font>
+
+---
 
 ### Cenário 4: Consulta centralizada de agendamentos e serviços
 
@@ -123,6 +126,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Artur Mendonça Arruda](https://github.com/ArtyMend07), 2025)</p></font>
 
 ---
+
 ### Cenário 7: Alterar tamanho da fonte e contraste
 
 | Elemento     | Descrição                                                                 |
@@ -153,6 +157,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Gabriel Lopes](https://github.com/BrzGab), 2025)</p></font>
 
+---
 
 ### Cenário 9: O usuário deve poder gerar relatórios e visualizar comprovantes de agendamentos
 
@@ -168,6 +173,8 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Gabriel Lopes](https://github.com/BrzGab), 2025)</p></font>
 
+---
+
 ### Cenário 10: Alterar idioma do aplicativo
 
 | Elemento   | Descrição                                                                                      |
@@ -181,6 +188,8 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 | Exceção    | - Falha ao aplicar o novo idioma. <br> - Tradução ausente para o idioma escolhido.<br> - Erro de conexão à internet ao mudar de idioma         |
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS), 2025)</p></font>
+
+---
 
 ### Cenário 11: Personalizar preferências e perfis para recomendações
 
@@ -196,6 +205,8 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS), 2025)</p></font>
 
+---
+
 ### Cenário 12: Enviar mensagens curtas sobre vencimentos e lembretes
 
 | Elemento   | Descrição                                                                                      |
@@ -209,6 +220,8 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 | Exceção    | - O usuário está sem internet ou com notificações desativadas. <br> - Mensagens duplicadas ou fora de contexto são enviadas. |
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS), 2025)</p></font>
+
+---
 
 ### Cenário 13: Acompanhamento de pendências na área educacional 
 
@@ -224,6 +237,8 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
 
+---
+
 ### Cenário 14: Notificações por categorias
 
 | Elemento   | Descrição                                                                                      |
@@ -237,6 +252,25 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 | Exceção    | - Falha na conexão com a internet. <br> - Erro de sincronização entre o backend e o app. |
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
+
+---
+
+### Cenário 15: Solicitar serviço público
+
+| Elemento   | Descrição                                                                                   |
+|------------|---------------------------------------------------------------------------------------------|
+| Objetivo   | Permitir que o usuário solicite um serviço público diretamente pelo aplicativo              |
+| Contexto   | Usuário em casa acessando o aplicativo via Wi-Fi no período da manhã                        |
+| Recursos   | Aplicativo móvel, formulário de solicitação, lista de serviços disponíveis                  |
+| Ator(res)  | Cidadão                                                                                     |
+| Episódios  | - O cidadão acessa o aplicativo<br>- Escolhe a opção "Solicitar Serviço"<br>- Seleciona "Coleta de entulho"<br>- Indica a localização e confirma a solicitação |
+| Restrições | O sistema deve validar se o serviço está disponível para a região selecionada               |
+| Exceção    |- O serviço pode não estar disponível para a loclização selecionada<br>- Erro de conexão à internet|
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
+
+---
+
 
 ## Referências Bibliográficas
 
@@ -266,3 +300,4 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 | 1.4    | Elaboração do sétimo, oitavo e nono cenário | [Gabriel Lopes](https://github.com/BrzGab)|16/04/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 17/05/2025 |
 | 1.5    | Adição do cenário 10, 11 e 12 no artefato. | [João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS)|16/04/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 17/05/2025 |
 | 1.6    | Adição do cenário 13, 14 no artefato. | [Lucas Mendonça](https://github.com/lucasarruda9)|17/04/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 17/05/2025 |
+| 1.7    | Adição do cenário 15(solicitação de serviço público) no documento. | [Lucas Mendonça](https://github.com/lucasarruda9)|17/04/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 17/05/2025 |
