@@ -31,12 +31,23 @@ Esse tópico diz respeito aos requisitos relacionados a facilidade do usuário d
 
 Para essa categoria os requisitos identificados estão representados na tabela 1 a seguir.
 
+| Requisito | Texto original |
+|-----------|----------------|
+| U01 | O sistema deve ter uma interface intuitiva. |
+| U02 | O sistema deve possuir uma interface simples, limpa e com ícones ilustrativos. |
+| U03 | O aplicativo deve permitir acessibilidade para pessoas idosas ou com deficiência visual. |
+| U04 | O layout deve ser responsivo para diferentes tamanhos de tela. |
+| U05 | O sistema deve ter compatibilidade com leitores de tela. |
+| U06 | O app deve conter linguagem clara e acessível, adequada a diferentes níveis de escolaridade. |
+| U07 | O aplicativo deve ser mais autoexplicativo, com uma navegação intuitiva e menos dependência de redirecionamentos externos. |
+| U08 | O aplicativo deve considerar a usabilidade para usuários idosos, garantindo que o design e as funcionalidades sejam facilmente compreensíveis e acessíveis. |
+| U09 | O aplicativo deve fornecer suporte para acessibilidade, incluindo recursos para daltônicos e deficientes visuais. |
+| U10 | O aplicativo deve ter uma aparência profissional e confiável para transmitir segurança aos usuários. |
+| U11 | A interface deve ser simples, objetiva e utilizar linguagem acessível a usuários com diferentes níveis de escolaridade. |
+
 <font><p style="text-align: center">**Tabela 1** - Requisitos de Usabilidade.</p></font>
 
-
-
-<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([João Marcos](https://github.com/JJOAOMARCOSS) e [Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
-
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Ana Victória](https://github.com/navicg) e [Artur Mendonça](https://github.com/ArtyMend07), 2025)</p></font>
 
 ### Confiabilidade
 
@@ -44,17 +55,31 @@ Diz respeito ao quão confiável é o sistema, ou seja, qual é a frequência de
 
 Para essa categoria os requisitos identificados estão representados na tabela 2 a seguir.
 
+| Requisito | Texto original |
+|-----------|----------------|
+| R01 | O sistema deve estar em conformidade com a Lei Geral de Proteção de Dados (LGPD). |
+| R02 | O aplicativo deve garantir que as informações exibidas sejam atualizadas e reflitam fielmente a realidade, especialmente nas áreas de saúde e educação. |
+| R03 | O aplicativo deve apresentar estabilidade, evitando travamentos ou falhas de carregamento, especialmente em redes móveis. |
+| R04 | O aplicativo deve garantir proteção de dados pessoais, reforçando a confiança do usuário quanto à privacidade e segurança. |
+| R05 | O sistema deve proteger as informações pessoais com criptografia de dados e autenticação segura. |
 
 <font><p style="text-align: center">**Tabela 2** - Requisitos de Confiabilidade.</p></font>
 
-
-<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([João Marcos](https://github.com/JJOAOMARCOSS) e [Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
-
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Gabriel Lopes](https://github.com/BrzGab) e [Karoline Luz](https://github.com/karol), 2025)</p></font>
 
 ### Desempenho
+
 Diz respeito às condições que os requisitos devem operar. A velocidade, limites superiores e inferiores, tempo de resposta, restrições de interface e de funções, etc.
 
 Para essa categoria os requisitos identificados estão representados na tabela 3 a seguir.
+
+| Requisito | Texto original |
+|-----------|----------------|
+| P01 | A navegação deve ser rápida e fluida entre telas, sem necessidade de redirecionamentos excessivos. |
+| P02 | O sistema deve carregar as informações de forma otimizada, reduzindo tempo de resposta. |
+| P03 | O aplicativo deve melhorar a performance do processo de login, permitindo uma experiência mais fluida. |
+| P04 | As funcionalidades principais devem responder em, no máximo, dois segundos para garantir boa experiência. |
+| P05 | As imagens capturadas pelo usuário devem ser otimizadas para upload rápido mesmo em conexões móveis. |
 
 <font><p style="text-align: center">**Tabela 3** - Requisitos de Desempenho.</p></font>
 
@@ -66,29 +91,33 @@ Envolve os requisitos relacionados ao suporte e manutenção do sistema. Isso in
 
 Para essa categoria os requisitos identificados estão representados na tabela 4 a seguir.
 
+| Requisito | Texto original |
+|-----------|----------------|
+| S01 | O sistema deve ser compatível com vários dispositivos como Android e iOS. |
+| S02 | O sistema deve funcionar mesmo em dispositivos com baixa capacidade de hardware. |
+| S03 | O aplicativo deve ser compatível com as versões mais recentes dos sistemas Android e iOS. |
+| S04 | Deve funcionar em modo offline para consulta de registros ou informações previamente acessadas. |
+
 <font><p style="text-align: center">**Tabela 4** - Requisitos de Suportabilidade.</p></font>
 
-<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([João Marcos](https://github.com/JJOAOMARCOSS) e [Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
-
-
-
-
-
-
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
 
 ### Requisitos de Licenciamento
+
 O sistema deve restringir o uso através de termos de uso.
 
 ### Observações Legais, de Copyright e Outras
+
 O sistema está sujeito à lei dos direitos autorais, portanto, para a utilização de outras marcas será necessário uma autorização prévia dos envolvidos. Deve-se atentar também para a legislação de proteção de dados (a LGPD) e as de serviços financeiros.
 
 ### Padrões Aplicáveis
+
 O sistema deve seguir os padrões definidos pelas normas: WCAG, ISO 9241-11, ISO/TC-211, ISO 9000, ISO 9001-3, ISO 12207, ISO 12202 e pelos guias de estilo dos sistemas Android e iOS.
 
 ### Requisitos Físicos
 
-O aplicativo é construido nas seguintes linguagens:
-Android: Kotlin, Java.
+O aplicativo é construído nas seguintes linguagens:  
+Android: Kotlin, Java.  
 iOS: Objective-C, Swift.
 
 ## Referências Bibliográficas
@@ -111,3 +140,7 @@ iOS: Objective-C, Swift.
 | Versão | Descrição                                      | Autor(es)                                                                                         | Data       | Revisor(es)                                                                                                 | Data de Revisão |
 | ------ | ---------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------------------------------------------------------------------- | --------------- |
 | 1.0    | Criação da documentação especificação suplementar  | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Lucas Mendonça](https://github.com/lucasarruda9) | 15/05/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 17/05/2025      |
+| 1.1    | Adição da tabela Desempenho      | [João Marcos Moraes](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9) | 15/05/2025 | [Karoline Luz](https://github.com/KarolineLuz), [Artur Mendonça](https://github.com/ArtyMend07)     | 17/05/2025      |
+| 1.2    | Adição da tabela Confiabilidade  | [Gabriel Lopes](https://github.com/BrzGab), [Karoline Luz](https://github.com/KarolineLuz)          | 16/05/2025 | [Ana Victória](https://github.com/navicg), [Luiza da Silva Pugas](https://github.com/Luizaxx)       | 17/05/2025      |
+| 1.3    | Adição da tabela Usabilidade     | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07)          | 16/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS), [Gabriel Lopes](https://github.com/BrzGab)    | 17/05/2025      |
+| 1.4    | Adição da tabela Suportabilidade | [Luiza da Silva Pugas](https://github.com/Luizaxx)                                                | 16/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9)                                                  | 17/05/2025      |
