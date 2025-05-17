@@ -1,18 +1,18 @@
-# Inspeção do Grupo: Entrega 3
+# Inspeção do Grupo + 1: Entrega 3
 
 ## Informações do Grupo:
 
-- **Grupo 8**: [e-GDF](https://requisitos-de-software.github.io/2025.1-e-GDF/)
+- **Grupo 9**: [GDF-Saude](https://github.com/Requisitos-de-Software/2025.1-GDF-Saude)
 - **Data**: 18/05/2025
 - **Local**: Microsoft Teams
 
 ## Introdução
 
-A inspeção constitui uma fase essencial no ciclo de desenvolvimento de projetos. Nesta etapa, os artefatos produzidos são minuciosamente analisados para garantir que atendam aos requisitos especificados. Este documento apresenta o planejamento da inspeção dos artefatos desenvolvidos pelo p´roprio grupo 8 durante a etapa 3, que corresponde a modelagem de requisitos
+A inspeção constitui uma fase essencial no ciclo de desenvolvimento de projetos. Nesta etapa, os artefatos produzidos são minuciosamente analisados para garantir que atendam aos requisitos especificados. Este documento apresenta o planejamento da inspeção dos artefatos desenvolvidos pelo Grupo 9 durante a Etapa 3.
 
 ## Objetivos
 
-Este documento tem como finalidade verificar se os artefatos produzidos na Etapa 3 pelo Grupo 8 contêm todos os elementos necessários e seguem o padrão exigido.
+Este documento tem como finalidade verificar se os artefatos produzidos na Etapa 3 pelo Grupo 9 contêm todos os elementos necessários e seguem o padrão exigido.
 
 ## Participantes
 
