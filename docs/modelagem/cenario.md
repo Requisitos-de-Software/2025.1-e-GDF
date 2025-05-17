@@ -168,6 +168,47 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Gabriel Lopes](https://github.com/BrzGab), 2025)</p></font>
 
+### Cenário 10: Alterar idioma do aplicativo
+
+| Elemento   | Descrição                                                                                      |
+|------------|------------------------------------------------------------------------------------------------|
+| Objetivo   | Permitir que o usuário utilize o aplicativo no idioma de sua preferência.                     |
+| Contexto   | O usuário acessa o aplicativo em um ambiente multilíngue, como uma viagem internacional.       |
+| Recursos   | Smartphone, aplicativo, configurações de idioma.                                               |
+| Ator(res)  | Usuário cidadão, sistema eGDF.                                                                 |
+| Episódios  | - Usuário acessa as configurações do app. <br> - Clica na opção "Idioma". <br> - Seleciona o idioma desejado (ex: inglês). <br> - O app é recarregado com os textos traduzidos. |
+| Restrições | - Nem todos os conteúdos podem estar disponíveis em todos os idiomas. <br> - A tradução deve ser previamente implementada para cada idioma. |
+| Exceção    | - Falha ao aplicar o novo idioma. <br> - Tradução ausente para o idioma escolhido.<br> - Erro de conexão à internet ao mudar de idioma         |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS), 2025)</p></font>
+
+### Cenário 11: Personalizar preferências e perfis para recomendações
+
+| Elemento   | Descrição                                                                                      |
+|------------|------------------------------------------------------------------------------------------------|
+| Objetivo   | Permitir que o usuário configure seu perfil e preferências para receber recomendações mais relevantes. |
+| Contexto   | O usuário está criando ou editando seu perfil dentro do aplicativo em casa, durante o uso regular. |
+| Recursos   | Smartphone, aplicativo, base de dados de preferências.                                         |
+| Ator(res)  | Usuário cidadão, sistema eGDF.                                                                 |
+| Episódios  | - Usuário acessa a área de "Preferências". <br> - Informa dados como localização, faixa etária e interesses. <br> - Salva o perfil personalizado. <br> - O sistema usa as informações para oferecer recomendações de serviços públicos. |
+| Restrições | - O sistema deve proteger os dados pessoais conforme a LGPD. <br> - As recomendações dependem das informações fornecidas. |
+| Exceção    | - O usuário não finaliza o cadastro. <br> - O sistema falha ao salvar as preferências.<br>- Ocorre um erro de internet ao personalizar as preferências.     |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS), 2025)</p></font>
+
+### Cenário 12: Enviar mensagens curtas sobre vencimentos e lembretes
+
+| Elemento   | Descrição                                                                                      |
+|------------|------------------------------------------------------------------------------------------------|
+| Objetivo   | Informar o usuário sobre vencimentos de prazos ou eventos importantes através de mensagens curtas. |
+| Contexto   | O usuário tem prazos a cumprir (como pagamento de taxas) e está com o app instalado no celular. |
+| Recursos   | Smartphone, aplicativo, notificações push ou SMS, banco de dados de prazos.                    |
+| Ator(res)  | Sistema eGDF, usuário cidadão.                                                                 |
+| Episódios  | - O sistema verifica prazos próximos no cadastro do usuário. <br> - Gera mensagem com lembrete. <br> - Envia notificação para o celular do usuário. <br> - O usuário recebe e visualiza o lembrete. |
+| Restrições | - O usuário não ter autorizado o envio de notificações. <br> - Os lembretes não serem configurados previamente. |
+| Exceção    | - O usuário está sem internet ou com notificações desativadas. <br> - Mensagens duplicadas ou fora de contexto são enviadas. |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS), 2025)</p></font>
 
 ## Referências Bibliográficas
 
@@ -195,3 +236,4 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 | 1.2    |  Adição dos 3 primeiros cenários baseados nos requisitos funcionais não implementados| [Ana Victória](https://github.com/navicg)|16/04/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 17/05/2025 |
 | 1.3    | Cenários 4, 5 e 6 incorporados ao documento. | [Artur Mendonça Arruda](https://github.com/ArtyMend07) |16/04/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 17/05/2025 |
 | 1.4    | Elaboração do sétimo, oitavo e nono cenário | [Gabriel Lopes](https://github.com/BrzGab)|16/04/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 17/05/2025 |
+| 1.5    | Adição do cenário 10, 11 e 12 no artefato. | [João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS)|16/04/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 17/05/2025 |
