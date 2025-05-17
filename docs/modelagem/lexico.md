@@ -21,7 +21,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 | Objeto | Definir o objeto e identificar outros objetos com os quais ele se relaciona | Ações que podem ser aplicadas ao objeto  |
 | Estado | O que indica e ações que levaram a esse estado | Identificar outros estados que podem ocorrer a partir do estado que se descreve  |
 
-<font size="3"><p style="text-align: center">Fonte: [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol). </p></font>
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelos autores [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol). </p></font>
 
 ---
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Template Léxicos </p></font>
@@ -37,7 +37,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 | **Sinônimos**| Termos equivalentes ou próximos encontrados durante a entrevista.             |
 | **Tipo**     | Classificação como VERBO, OBJETO ou ESTADO, com base nas regras da Tabela 1.  |
 
-<font size="3"><p style="text-align: center">Fonte: [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol). </p></font>
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelos autores [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol). </p></font>
 
 ---
 ## Léxico
@@ -64,29 +64,19 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 
 
 ### Tabela 4: Termos do Léxico - Entrevista 
-
 | Símbolo | Noção | Impacto | Sinônimos | Tipo |
 |---------|-------|---------|-----------|------|
-| [Autenticação Segura](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/entrevista.md#anchor_EN04) | Processo de login através da plataforma gov.br com opções de reconhecimento facial | Garante a segurança dos dados do usuário e facilita o acesso ao sistema | Login Seguro | Verbo |
 | [Funcionalidades Educacionais](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/entrevista.md#anchor_EN06) | Recursos específicos para acompanhamento de pendências de professores e alunos | Melhora a gestão e acompanhamento das atividades educacionais | Recursos Educacionais | Objeto |
-| [Acessibilidade Avançada](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/entrevista.md#anchor_EN07) | Recursos como leitura em áudio e suporte em Libras para deficientes auditivos | Promove inclusão digital para pessoas com deficiência | Recursos de Acessibilidade | Estado |
-| [Ajuste de Fonte](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/entrevista.md#anchor_EN08) | Capacidade de modificar o tamanho da fonte para facilitar a leitura | Melhora a experiência de leitura, especialmente para usuários idosos | Tamanho de Texto | Estado |
 | [Mapa Interativo](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/entrevista.md#anchor_EN09) | Interface para reportar problemas urbanos através de um mapa | Facilita a identificação e registro de problemas na cidade | Mapa de Ocorrências | Objeto |
-| [Suporte ao Usuário](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/entrevista.md#anchor_EN11) | Seção dedicada com instruções de uso do aplicativo | Ajuda usuários a entenderem e utilizarem melhor o sistema | Ajuda, Instruções | Objeto |
 
 <font size="3"><p style="text-align: center">Fonte: Elaborado pelos autores [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol). </p></font>
 ---
 
-### Tabela 5: Termos do Léxico - Introspeção
-
+### Tabela 5: Termos do Léxico - Introspecção
 | Símbolo | Noção | Impacto | Sinônimos | Tipo |
 |---------|-------|---------|-----------|------|
-| [Notificação Automática](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/introspeccao.md#anchor_INT) | Sistema de alertas sobre alterações no status das ocorrências registradas pelo usuário | Mantém o usuário informado sobre atualizações importantes em suas solicitações | Alertas de Status | Objeto |
-| [Favoritos](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/introspeccao.md#anchor_INT) | Funcionalidade que permite criar atalhos para serviços mais utilizados | Facilita o acesso rápido aos serviços mais frequentes do usuário | Atalhos, Serviços Frequentes | Objeto |
 | [Avaliação de Serviços](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/introspeccao.md#anchor_INT) | Sistema que permite ao usuário avaliar e comentar sobre os serviços públicos utilizados | Fornece feedback para melhorias nos serviços e transparência na gestão pública | Feedback, Avaliação | Verbo |
 | [Pagamento Digital](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/introspeccao.md#anchor_INT) | Integração com sistemas de carteiras digitais para pagamento de tributos e taxas | Facilita o pagamento de serviços públicos de forma digital e segura | Pagamento Online | Verbo |
-| [Modo Acessível](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/introspeccao.md#anchor_INT) | Configuração especial com ícones maiores, narração de comandos e navegação simplificada | Melhora a usabilidade para pessoas com necessidades especiais | Modo de Acessibilidade | Estado |
-| [Chatbot IA](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/introspeccao.md#anchor_INT) | Assistente virtual baseado em inteligência artificial com capacidade de aprendizado | Fornece respostas mais precisas e contextualizadas para dúvidas complexas | Assistente Inteligente | Objeto |
 
 <font size="3"><p style="text-align: center">Fonte: Elaborado pelos autores [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol). </p></font>
 
@@ -97,11 +87,11 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 |---------|-------|---------|-----------|------|
 | [Ajuste de Acessibilidade](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/analise_documentos.md#ajuste-de-acessibilidade---ad08) | Funcionalidade que permite aumentar ícones e o tamanho da fonte no aplicativo por meio de um botão. | Melhora a usabilidade e a experiência para usuários com deficiência visual ou idosos. | Ampliar Fonte, Aumentar Ícones | Estado |
 
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelos autores [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol). </p></font>
+ 
 
 ---
 
-## Bibliografia
+## Referência Bibliográfica
 
 > SERRANO, Milene; SERRANO, Maurício. Aula 10. Universidade de Brasília, Faculdade Gama, [s.d.]. Disponível em: https://aprender3.unb.br/pluginfile.php/3096108/mod_resource/content/1/Aula%2010.pdf. Acesso em: 15 mai. 2025.
 
@@ -142,9 +132,10 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 
 | Versão | Descrição | Autor(es) | Data | Revisor(es) | Data de Revisão |
 |--------|-----------|-----------|------|-------------|-----------------|
-| 1.0 | Criação do documento de léxico | [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol) | 15/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0) | 17/05/2025|
+| 1.0 | Introdução do documento | [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol) | 15/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0) | 17/05/2025|
 | 1.1 | Adição das imagens de referência |  [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol) | 15/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0) | 17/05/2025|
 | 1.2 | Ajustes nas tabelas do léxico conforme novo modelo base |  [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol)| 15/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |
 | 1.3    | Inclusão dos termos extraídos da técnica de entrevista (sem repetições) | [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol) | 15/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0) | 17/05/2025      |
 | 1.4 | Adição dos termos de introspecção e correção da tabela de entrevista  |  [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol)| 16/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
 | 1.5 | Adição dos termos de analise de documentos e alteração para a dinâmica correta da metodologia  |  [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol)| 16/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
+| 1.6 | Removendo repetições e ambiguidade das Tabelas 3, 4, 5 e 6  |  [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/karol)| 17/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
