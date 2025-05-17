@@ -39,8 +39,8 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 | Recursos   | Smartphone, app eGDF, conexão com internet.                                                  |
 | Ator(res)  | Usuário cidadão, sistema eGDF.                                                               |
 | Episódios  | - Usuário abre o app.<br>- Seleciona "Entrar com gov.br".<br>- Insere os dados da sua conta<br>- Realiza login.               |
-| Restrições | - Tempo de login não pode exceder 5 segundos.<br>- O serviço de autenticação deve estar ativo                                                 |
-| Exceção    | - Se o serviço gov.br estiver indisponível, oferecer login alternativo.<br>- Em caso de erro de conexão à internet, exibir mensagem de falha e solicitar nova tentativa. |
+| Restrições | - Tempo de login exceder um tempo limite.<br>- O serviço de autenticação deve estar ativo.                                                |
+| Exceção    | - O serviço gov.br estiver indisponível.<br>- Erro de conexão à internet durante o login. |
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Ana Victória](https://github.com/navicg), 2025)</p></font>
 ---
@@ -54,8 +54,8 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 | Recursos   | Smartphone, app eGDF.                                                                        |
 | Ator(res)  | Idoso (usuário), sistema eGDF.                                                               |
 | Episódios  | - Usuário acessa app.<br>- Usa ícones simples e textos descritivos.<br>- Encontra serviços. |
-| Restrições | - Interface deve evitar jargões técnicos.<br>- A interface deve seguir padrões de acessibilidade (cores, tamanho de fonte, linguagem simples)                                                    |
-| Exceção    | - Caso o usuário se perca, botão "Ajuda" o redireciona.<br>- Em caso de erro de conexão à internet, exibir instrução para verificar a rede.                        |
+| Restrições | - Interface com muitos jargões técnicos.<br>- A interface não seguir padrões de acessibilidade (cores, tamanho de fonte, linguagem simples)                                                    |
+| Exceção    | - Usuário se perder no aplicativo e não ter opção de ajuda.<br>- Erro de conexão à  internet, e não aparecer mensagem informando o erro.                        |
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Ana Victória](https://github.com/navicg), 2025)</p></font>
 ---
@@ -70,9 +70,53 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 | Ator(res)  | Cidadão (usuário), sistema eGDF.                                                             |
 | Episódios  | - Sistema detecta proximidade.<br>- Envia alerta “Vacinação disponível aqui perto”.         |
 | Restrições | - Necessário consentimento para uso de localização.<br>- O usuário deve ter permitido o recebimento de notificações        .                                  |
-| Exceção    | - Caso o GPS esteja desativado, nenhuma notificação é enviada.<br>- Em caso de erro de conexão à internet, a notificação não é enviada e será reagendada.            |
+| Exceção    | - GPS desativado.<br>- Erro de conexão à internet e a notificação não ser entregue.            |
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Ana Victória](https://github.com/navicg), 2025)</p></font>
+
+### Cenário 4: Consulta centralizada de agendamentos e serviços
+
+| Elemento     | Descrição                                                         |
+|--------------|------------------------------------------------------------------|
+| Objetivo     | Facilitar a visualização de todos os agendamentos em uma única tela. |
+| Contexto     | Um servidor público deseja conferir todos seus compromissos no app. |
+| Recursos     | App eGDF, agenda pessoal, conexão com internet.                  |
+| Ator(res)    | Servidor público (usuário), sistema eGDF.                        |
+| Episódios    | - Abre o app.<br>- Vai até “Meus Agendamentos”.<br>- Visualiza tudo em um só lugar. |
+| Restrições   | Deve sincronizar com serviços de agendamento do GDF.             |
+| Exceção      |- Sistema parceiro estiver fora do ar.<br>- Erro de conexão à internet. |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Artur Mendonça Arruda](https://github.com/ArtyMend07), 2025)</p></font>
+---
+
+### Cenário 5: Assistente virtual com voz
+
+| Elemento     | Descrição                                                         |
+|--------------|------------------------------------------------------------------|
+| Objetivo     | Ajudar o usuário por meio de comandos de voz com acessibilidade. |
+| Contexto     | Um cidadão com deficiência visual usa comandos para emitir boleto do IPVA. |
+| Recursos     | Smartphone com microfone, app eGDF, sistema de voz.              |
+| Ator(res)    | Cidadão com deficiência (usuário), sistema eGDF.                 |
+| Episódios    | - Usuário diz “Emitir IPVA”.<br>- Assistente pergunta CPF.<br>- Responde por voz.<br>- Gera boleto. |
+| Restrições   | - Reconhecimento de voz pouco intuitivo.     |
+| Exceção      |- Ambiente com muito ruído.<br>- Perda de conexão com a internet durante o uso da assistente virtual com voz.             |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Artur Mendonça Arruda](https://github.com/ArtyMend07), 2025)</p></font>
+---
+
+### Cenário 6: Tutoriais passo a passo
+
+| Elemento     | Descrição                                                         |
+|--------------|------------------------------------------------------------------|
+| Objetivo     | Ajudar novos usuários a entenderem o funcionamento do app.       |
+| Contexto     | Uma nova usuária acessa o app para agendar consulta médica.      |
+| Recursos     | App eGDF, tutoriais animados.                                    |
+| Ator(res)    | Usuária iniciante, sistema eGDF.                                 |
+| Episódios    | - App detecta primeiro uso.<br>- Exibe passo a passo para agendamento.<br>- Usuária realiza com sucesso. |
+| Restrições   | - Ser muito extenso<br> - Ser pouco intuitivo.                   |
+| Exceção      |- Usuário ignorar o tutorial.<br>- Perda de conexão da internet durante o tutorial.” |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Artur Mendonça Arruda](https://github.com/ArtyMend07), 2025)</p></font>
 
 ---
 
@@ -97,6 +141,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 
 | Versão | Descrição    | Autor(es)                            | Data   | Revisor(es) | Data de Revisão |
 |--------|------------|------------------------------------------|----------------------|-------------|----------------|
-| 1.0    |  Adicionando introdução e metodologia | [Ana Victória](https://github.com/navicg) e [João Marcos Moraes](https://github.com/JJOAOMARCOSS)|14/04/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 17/05/2025 |
-| 1.1    |  Adicionando tabelas de cenários e Bibliografia | [Ana Victória](https://github.com/navicg) e [João Marcos Moraes](https://github.com/JJOAOMARCOSS)|14/04/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 17/05/2025 |
+| 1.0    |  Adicionando introdução e metodologia | [Ana Victória](https://github.com/navicg) e [João Marcos Moraes](https://github.com/JJOAOMARCOSS)|14/04/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 15/05/2025 |
+| 1.1    |  Adicionando tabelas de cenários e Bibliografia | [Ana Victória](https://github.com/navicg) e [João Marcos Moraes](https://github.com/JJOAOMARCOSS)|14/04/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 15/05/2025 |
 | 1.2    |  Adição dos 3 primeiros cenários baseados nos requisitos funcionais não implementados| [Ana Victória](https://github.com/navicg)|16/04/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 17/05/2025 |
+| 1.3    | Cenários 4, 5 e 6 incorporados ao documento. | [Artur Mendonça Arruda](https://github.com/ArtyMend07) |16/04/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 17/05/2025 |
