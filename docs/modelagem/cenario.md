@@ -270,6 +270,64 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
 
 ---
+### Cenário 16: Confirmar resolução da situação registrada
+
+
+| Elemento   | Descrição                                                                                   |
+|------------|---------------------------------------------------------------------------------------------|
+| Objetivo   | Permitir que o usuário confirme que o problema reportado foi resolvido                      |
+| Contexto   | Usuário recebe notificação de que o serviço foi executado e acessa o aplicativo em sua residência à noite |
+| Recursos   | Aplicativo móvel, histórico de relatos, botão de confirmação                               |
+| Ator(res)  | Cidadão                                                                                     |
+| Episódios  |- O cidadão acessa o histórico de relatos<br> - Seleciona o problema notificado como resolvido<br>- Verifica a área no mapa e clica em "Confirmar Resolução" |
+| Restrições | O usuário só pode confirmar problemas associados à sua conta                                |
+| Exceção    |- Pode não ser possível fazer a confirmação devido ao problema não ter sido solucionado<br>- Pode ocorrer erro de conexão à internet no momento da confirmação |
+
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
+
+
+---
+
+
+### Cenário 17: Exclusão de conta
+
+
+| Elemento   | Descrição |
+|------------|-----------|
+| **Objetivo** | Permitir que o usuário exclua todos os seus dados e sua conta permanentemente do aplicativo. |
+| **Contexto** | O usuário está autenticado no aplicativo, utilizando seu celular pessoal, em qualquer local e horário. |
+| **Recursos** | Interface do aplicativo, banco de dados de usuários, sistema de autenticação. |
+| **Ator(res)** | Usuário autenticado. |
+| **Episódios** |- O usuário acessa o menu de configurações do aplicativo<br>- Escolhe a opção "Excluir Conta"<br> - Confirma a exclusão após visualizar um aviso sobre a perda de dados<br>- O sistema remove todos os dados associados ao usuário. |
+| **Restrições** |- A exclusão só pode ser realizada por usuários autenticados.<br>- Confirmação de identidade é exigida antes da remoção dos dados. |
+| **Exceção** | - Exclusão é interrompida por perda de conexão com à internet. |
+
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
+
+
+---
+
+
+### Cenário 18: Busca por Vagas em Escolas ou CILs
+
+
+| Elemento   | Descrição |
+|------------|-----------|
+| **Objetivo** | Permitir que o usuário busque por vagas disponíveis em escolas regulares ou Centros Interescolares de Línguas (CILs) no Distrito Federal. |
+| **Contexto** | O usuário acessa o aplicativo por meio de seu celular, conectado à internet, durante o período de matrícula escolar divulgado pela Secretaria de Educação. |
+| **Recursos** | Interface de busca do aplicativo, banco de dados com informações atualizadas das escolas e CILs, filtros de pesquisa. |
+| **Ator(res)** | Usuário (responsável ou estudante). |
+| **Episódios** | O usuário acessa a aba de busca por vagas<br> - Seleciona filtros como nível de ensino, localidade e instituição (escola ou CIL)<br>- Visualiza a lista de unidades com vagas disponíveis<br> - Escolhe uma para mais detalhes. |
+| **Restrições** | - A busca só exibe resultados referentes ao Distrito Federal<br>- O sistema deve conter dados atualizados fornecidos pela rede de ensino. |
+| **Exceção** |- Não ter vagas disponíveis para os filtros colocados<br> - Ocorrer um erro na internet que impeça a busca de vagas |
+
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
+
+
+---
 
 
 ## Referências Bibliográficas
@@ -301,3 +359,4 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 | 1.5    | Adição do cenário 10, 11 e 12 no artefato. | [João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS)|16/04/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 17/05/2025 |
 | 1.6    | Adição do cenário 13, 14 no artefato. | [Lucas Mendonça](https://github.com/lucasarruda9)|17/04/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 17/05/2025 |
 | 1.7    | Adição do cenário 15(solicitação de serviço público) no documento. | [Lucas Mendonça](https://github.com/lucasarruda9)|17/04/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 17/05/2025 |
+| 1.8    | Implementando os cenários 16, 17 e 18 no artefato. | [Karoline Luz da Conceição](https://github.com/KarolineLuz)|17/04/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 17/05/2025 |
