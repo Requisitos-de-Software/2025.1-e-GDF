@@ -178,8 +178,4 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 
 | Versão | Descrição | Autor(es) | Data | Revisor(es) | Data de revisão |
 |--------|-----------|-----------|------|-------------|-----------------|
-<<<<<<< HEAD
 | 1.0 | Adicionando tabelas das verificaçõs de artefatos| [Luiza da Silva Pugas](https://github.com/Luizaxx) | 16/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 18/05/2025 |
-=======
-| 1.0 | Criação da documentação do Inspeção | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 16/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 18/05/2025 |
->>>>>>> 396a1293677b41225861ee5e7ed77847c938f417
