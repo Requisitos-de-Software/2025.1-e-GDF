@@ -103,6 +103,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 ### Cenário 4: Consulta centralizada de agendamentos e serviços
 
 **Rastreabilidade do RF04**: <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR04</a>  
+
 | Elemento     | Descrição                                                         |
 |--------------|------------------------------------------------------------------|
 | **Objetivo**     | Facilitar a visualização de todos os agendamentos em uma única tela. |
