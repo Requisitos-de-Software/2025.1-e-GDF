@@ -54,7 +54,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 | **Sinônimos** | Autenticação, Acesso |
 | **Tipo**      | **Verbo** |
 
-<p style="text-align: center"><b>Tabela 3:</b> Léxico de Login (Elaborado pelos autores <a href="https://github.com/navicg">Ana Vitória</a>, <a href="https://github.com/KarolineLuz" e>Karoline Luz</a> e  <a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a>, 2025).</p>
+<p style="text-align: center"><b>Tabela 3:</b> Léxico de Login (Elaborado pelos autores <a href="https://github.com/navicg">Ana Vitória</a>, <a href="https://github.com/KarolineLuz">Karoline Luz</a> e <a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a>, 2025).</p>
 
 
 
@@ -72,11 +72,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 | **Tipo**      | **Verbo** |
 
 
-<font size="3">
-  <p style="text-align: center">
-    <b>Tabela 4:</b> Léxico de Agendamento (Elaborado pelos autores <a href="https://github.com/ArtyMend07">Artur Mendonça</a> e <a href="https://github.com/lucasarruda9">Lucas Mendonça</a>, 2025).
-  </p>
-</font>
+<p style="text-align: center"><b>Tabela 4:</b> Léxico de Agendamento (Elaborado pelos autores <a href="https://github.com/ArtyMend07">Artur Mendonça</a> e <a href="https://github.com/lucasarruda9">Lucas Mendonça</a>, 2025).</p>
 
 
 
@@ -93,11 +89,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 | **Tipo**      | **Verbo** |
 
 
-<font size="3">
-  <p style="text-align: center">
-    <b>Tabela 5:</b> Léxico de Serviços (Elaborado pelos autores <a href="https://github.com/lucasarruda9">Lucas Mendonça</a>, 2025).
-  </p>
-</font>
+<p style="text-align: center"><b>Tabela 5:</b> Léxico de Serviços (Elaborado pelos autores <a href="https://github.com/lucasarruda9">Lucas Mendonça</a>, 2025).</p>
 
 
 ---
@@ -148,7 +140,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 | **Tipo**      | **Objeto** |
 
 
-<p style="text-align: center"><b>Tabela 9:</b> Léxico de Funcionalidades educacionais (Elaborado pelos autores <a href="https://github.com/lucasarruda9">Lucas Mendonça</a> e  <a href="https://github.com/KarolineLuz">Karoline Luz</a>, 2025).</p>
+<p style="text-align: center"><b>Tabela 9:</b> Léxico de Funcionalidades Educacionais (Elaborado pelos autores <a href="https://github.com/lucasarruda9">Lucas Mendonça</a> e <a href="https://github.com/KarolineLuz">Karoline Luz</a>, 2025).</p>
 
 ---
 
@@ -176,7 +168,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 | **Sinônimos** | Chatbot, Ajudante Virtual |
 | **Tipo**      | **Objeto** |
 
-<p align="center"><b>Tabela 11:</b> Léxico de Assistente virtual (Elaborado pelos autores <a href="https://github.com/ArtyMend07">Artur Mendonça</a>, 2025).</p>
+<p style="text-align: center"><b>Tabela 11:</b> Léxico de Assistente Virtual (Elaborado pelos autores <a href="https://github.com/ArtyMend07">Artur Mendonça</a>, 2025).</p>
 
 
 ---
@@ -191,7 +183,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 | **Sinônimos** | Guia, Manual |
 | **Tipo**      | **Objeto** |
 
-<p align="center"><b>Tabela 12:</b> Léxico de Tutorial (Elaborado pelos autores <a href="https://github.com/ArtyMend07">Artur Mendonça</a>, 2025).</p>
+<p style="text-align: center"><b>Tabela 12:</b> Léxico de Tutorial (Elaborado pelos autores <a href="https://github.com/ArtyMend07">Artur Mendonça</a>, 2025).</p>
 
 
 ---
@@ -206,7 +198,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 | **Sinônimos** | Comprovante, Registro |
 | **Tipo**      | **Objeto** |
 
-<p style="text-align: center"><b>Tabela 13:</b> Léxico de Ajuste de Relatório (Elaborado pelos autores <a href="https://github.com/BrzGab">Gabriel Lopes</a> e  <a href="https://github.com/KarolineLuz">Karoline Luz</a>, 2025).</p>
+<p style="text-align: center"><b>Tabela 13:</b> Léxico de Relatório (Elaborado pelos autores <a href="https://github.com/BrzGab">Gabriel Lopes</a> e <a href="https://github.com/KarolineLuz">Karoline Luz</a>, 2025).</p>
 
 
 ---
@@ -269,7 +261,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 | **Sinônimos** | Tema Escuro |
 | **Tipo**      | **Estado** |
 
-<p style="text-align: center"><b>Tabela 17:</b> Léxico de Ajuste de Modo escuro (Elaborado pelos autores <a href="https://github.com/BrzGab">Gabriel Lopes</a>, 2025).</p>
+<p style="text-align: center"><b>Tabela 17:</b> Léxico de Modo Escuro (Elaborado pelos autores <a href="https://github.com/BrzGab">Gabriel Lopes</a>, 2025).</p>
 
 
 ---
@@ -298,7 +290,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 | **Sinônimos** | Linguagem |
 | **Tipo**      | **Estado** |
 
-<p style="text-align: center"><b>Tabela 19:</b> Léxico de Ajuste de Idioma (Elaborado pelos autores <a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes</a>, 2025).</p>
+<p style="text-align: center"><b>Tabela 19:</b> Léxico de Idioma (Elaborado pelos autores <a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes</a>, 2025).</p>
 
 ---
 
