@@ -171,7 +171,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 
 <p style="text-align: center"><b>Tabela 9:</b> Léxico de Funcionalidades Educacionais</p>
 
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelos autores (<a href="https://github.com/lucasarruda9">Lucas Mendonça</a> e <a href="https://github.com/KarolineLuz">Karoline Luz</a>, 2025).</p></font>
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelos autores (<a href="https://github.com/lucasarruda9">Lucas Mendonça</a>, 2025).</p></font>
 
 ---
 
@@ -187,7 +187,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 
 <p style="text-align: center"><b>Tabela 10:</b> Léxico de Mapa Interativo</p>
 
-<font size="3"><p style="text-align: center">Fonte: Elaborado pela autora (<a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a>, 2025).</p></font>
+<font size="3"><p style="text-align: center">Fonte: Elaborado pela autora (<a href="https://github.com/KarolineLuz">Karoline Luz</a>, 2025).</p></font>
 
 ----
 
@@ -203,7 +203,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 
 <p style="text-align: center"><b>Tabela 11:</b> Léxico de Assistente Virtual</p>
 
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor (<a href="https://github.com/ArtyMend07">Artur Mendonça</a>, 2025).</p></font>
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor (<a href="https://github.com/ArtyMend07">Artur Mendonça</a> e <a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a>, 2025).</p></font>
 
 
 ---
