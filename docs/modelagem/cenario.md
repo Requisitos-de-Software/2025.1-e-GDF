@@ -26,8 +26,8 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 | CEN 07, 08 e 09  |  [Gabriel Lopes](https://github.com/BrzGab)  |
 | CEN 10, 11 e 12    |    [João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS)   |
 | CEN 13 e 14  |  [Lucas Mendonça](https://github.com/lucasarruda9)   |
-| CEN 15, 16 e 17| [Karoline Luz da Conceição](https://github.com/KarolineLuz) |
-|CEN 18, 19 e 20|  [Luiza da Silva Pugas](https://github.com/Luizaxx)| 
+| CEN 15 e 16| [Karoline Luz da Conceição](https://github.com/KarolineLuz) |
+|CEN 17, 18 e 19.|  [Luiza da Silva Pugas](https://github.com/Luizaxx)| 
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ( [Ana Victória](https://github.com/navicg) e [João Marcos](https://github.com/JJOAOMARCOSS), 2025)</p></font>
 
@@ -49,7 +49,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 
 ### Cenário 1: Realizar login de forma simples e rápida
 
-**Rastreabilidade do RF01**: <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR01</a>, <a href="../tec_elicitacao/analise_documentos/#anchor_AD">AD01</a> 
+**Rastreabilidade do RF01**: [BR01, AD01](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) 
 
 | Elemento   | Descrição                                                                                    |
 | ---------- | -------------------------------------------------------------------------------------------- |
@@ -67,7 +67,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 
 ### Cenário 2: Acesso com pouca familiaridade tecnológica
 
-**Rastreabilidade do RF02**: <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR02</a> 
+**Rastreabilidade do RF02**: [BR02](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) 
 
 | Elemento   | Descrição                                                                                    |
 | ---------- | -------------------------------------------------------------------------------------------- |
@@ -85,7 +85,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 
 ### Cenário 3: Notificações baseadas em localização
 
-**Rastreabilidade do RF03**: <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR03</a> 
+**Rastreabilidade do RF03**: [BR03](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) 
 
 | Elemento   | Descrição                                                                                    |
 | ---------- | -------------------------------------------------------------------------------------------- |
@@ -102,7 +102,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 ---
 ### Cenário 4: Consulta centralizada de agendamentos e serviços
 
-**Rastreabilidade do RF04**: <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR04</a>  
+**Rastreabilidade do RF04**: [BR04](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/)  
 
 | Elemento     | Descrição                                                         |
 |--------------|------------------------------------------------------------------|
@@ -120,7 +120,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 
 ### Cenário 5: Assistente virtual com voz
 
-**Rastreabilidade do RF05**: <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR05</a>, <a href="../tec_elicitacao/analise_documentos/#anchor_AD">AD05</a>, <a href="../tec_elicitacao/introspeccao/#anchor_INT">INT13</a>
+**Rastreabilidade do RF05**: [BR05, AD05, INT13](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/)
 
 | Elemento     | Descrição                                                         |
 |--------------|------------------------------------------------------------------|
@@ -138,7 +138,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 
 ### Cenário 6: Tutoriais passo a passo
 
-**Rastreabilidade do RF06**: <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR06</a>  
+**Rastreabilidade do RF06**:[BR06](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/)  
 
 | Elemento     | Descrição                                                         |
 |--------------|------------------------------------------------------------------|
@@ -156,7 +156,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 
 ### Cenário 7: Alterar tamanho da fonte e contraste
 
-**Rastreabilidade do RF07**: <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR07</a>, <a href="../tec_elicitacao/entrevista/#anchor_EN">EN08</a>, <a href="../tec_elicitacao/analise_documentos/#anchor_AD">AD08</a>
+**Rastreabilidade do RF07**: [BR07, EN08, AD08](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/)
 
 | Elemento     | Descrição                                                                 |
 |--------------|---------------------------------------------------------------------------|
@@ -174,7 +174,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 
 ### Cenário 8: Modo escuro
 
-**Rastreabilidade do RF08**: <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR08</a>  
+**Rastreabilidade do RF08**: [BR08](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/)  
 
 | Elemento     | Descrição                                                                 |
 |--------------|---------------------------------------------------------------------------|
@@ -192,7 +192,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 ---
 ### Cenário 9: O usuário deve poder gerar relatórios e visualizar comprovantes de agendamentos
 
-**Rastreabilidade do RF10**: <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR11</a> 
+**Rastreabilidade do RF10**: [BR11](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/)
 
 | Elemento   | Descrição                                                                                                                                         |
 |------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -210,7 +210,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 
 ### Cenário 10: Alterar idioma do aplicativo
 
- **Rastreabilidade do RF12**: <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR13</a> 
+ **Rastreabilidade do RF12**: [BR13](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) 
 
 | Elemento   | Descrição                                                                                      |
 |------------|------------------------------------------------------------------------------------------------|
@@ -228,7 +228,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 
 ### Cenário 11: Personalizar preferências e perfis para recomendações
 
- **Rastreabilidade do RF13**: <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR14</a>
+ **Rastreabilidade do RF13**: [BR14](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/)
 
 | Elemento   | Descrição                                                                                      |
 |------------|------------------------------------------------------------------------------------------------|
@@ -246,7 +246,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 
 ### Cenário 12: Enviar mensagens curtas sobre vencimentos e lembretes
 
- **Rastreabilidade do RF14**:  <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR15</a> 
+ **Rastreabilidade do RF14**:  [BR15](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) 
 
 | Elemento   | Descrição                                                                                      |
 |------------|------------------------------------------------------------------------------------------------|
@@ -264,7 +264,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 
 ### Cenário 13: Acompanhamento de pendências na área educacional 
 
- **Rastreabilidade do RF24**: <a href="../tec_elicitacao/entrevista/#anchor_EN">EN06</a>
+ **Rastreabilidade do RF24**: [EN06](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/)
 
 | Elemento   | Descrição                                                                                      |
 |------------|------------------------------------------------------------------------------------------------|
@@ -282,7 +282,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 
 ### Cenário 14: Notificações por categorias do aplicativo
 
- **Rastreabilidade do RF17**: <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR19</a> 
+ **Rastreabilidade do RF17**: [BR19](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) 
 
 | Elemento   | Descrição                                                                                      |
 |------------|------------------------------------------------------------------------------------------------|
@@ -296,30 +296,11 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
 
----
-
-### Cenário 15: Busca por Vagas em Escolas ou CILs na categoria de Educação
-
- **Rastreabilidade do RF21**: <a href="../tec_elicitacao/entrevista/#anchor_EN">EN03</a>, <a href="../tec_elicitacao/introspeccao/#anchor_INT">INT07</a> 
-
-| Elemento   | Descrição |
-|------------|-----------|
-| **Objetivo** | Permitir que o usuário busque por vagas disponíveis em escolas regulares ou Centros Interescolares de Línguas (CILs) no Distrito Federal. |
-| **Contexto** | O usuário acessa o aplicativo por meio de seu celular, conectado à internet, durante o período de matrícula escolar divulgado pela Secretaria de Educação. |
-| **Recursos** | Interface de busca do aplicativo eGDF, banco de dados com informações atualizadas das escolas e CILs, filtros de pesquisa. |
-| **Ator(res)** | Usuário (responsável ou estudante). |
-| **Episódios** | O usuário acessa a aba de busca por vagas na categoria de Educação<br> - Seleciona filtros como nível de ensino, localidade e instituição (escola ou CIL)<br>- Visualiza a lista de unidades com vagas disponíveis<br> - Escolhe uma para mais detalhes. |
-| **Restrições** | - A busca só exibe resultados referentes ao Distrito Federal<br>- O sistema deve conter dados atualizados fornecidos pela rede de ensino. |
-| **Exceção** |- Não ter vagas disponíveis para os filtros colocados<br> - Ocorrer um erro na internet que impeça a busca de vagas |
-
-
-<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
-
 
 ---
-### Cenário 16: Acessar informações de reagendamentos em um só lugar
+### Cenário 15: Acessar informações de reagendamentos em um só lugar
 
- **Rastreabilidade do RF16**: <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR17</a> 
+ **Rastreabilidade do RF16**: [BR17](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) 
 
 | Elemento    | Descrição                                                                                                                                   |
 |-------------|---------------------------------------------------------------------------------------------------------------------------------------------|
@@ -335,9 +316,9 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 
 ---
 
-### Cenário 17: Reportar problemas urbanos por meio de um mapa interativo
+### Cenário 16: Reportar problemas urbanos por meio de um mapa interativo
 
- **Rastreabilidade do RF25**: <a href="../tec_elicitacao/entrevista/#anchor_EN">EN09</a> 
+ **Rastreabilidade do RF25**: [EN09](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) 
 
 | Elemento    | Descrição                                                                                                                                     |
 |-------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -352,9 +333,9 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
 
 ---
-### Cenário 18: Autenticação via gov.br de forma segura e por reconhecimento facial
+### Cenário 17: Autenticação via gov.br de forma segura e por reconhecimento facial
 
- **Rastreabilidade do RF22**: <a href="../tec_elicitacao/entrevista/#anchor_EN">EN04</a>
+ **Rastreabilidade do RF22**: [EN04](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/)
 
 | Elemento   | Descrição |
 |------------|-----------|
@@ -371,9 +352,9 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 
 ---
 
-### Cenário 19: Compartilhar ou Salvar Informações Importantes
+### Cenário 18: Compartilhar ou Salvar Informações Importantes
 
- **Rastreabilidade do RF18**: <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR20</a> 
+ **Rastreabilidade do RF18**: [BR20](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) 
 
 | Elemento   | Descrição |
 |------------|-----------|
@@ -391,9 +372,9 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 
 ---
 
-### Cenário 20: Seção de suporte ao usuário
+### Cenário 19: Seção de suporte ao usuário
 
- **Rastreabilidade do RF27**:  <a href="../tec_elicitacao/entrevista/#anchor_EN">EN11</a>
+ **Rastreabilidade do RF27**: [EN09](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/)
 
 | Elemento    | Descrição                                                                                                                                   |
 |-------------|---------------------------------------------------------------------------------------------------------------------------------------------|
@@ -437,6 +418,6 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 | 1.4    | Elaboração do sétimo, oitavo e nono cenário. | [Gabriel Lopes](https://github.com/BrzGab)|16/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 18/05/2025 |
 | 1.5    | Adição do cenário 10, 11 e 12 no artefato. | [João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS)|16/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 18/05/2025 |
 | 1.6    | Adição do cenário 13 e 14 no artefato. | [Lucas Mendonça](https://github.com/lucasarruda9)|17/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 18/05/2025 |
-| 1.7    | Implementando os cenários 15, 16 e 17 no artefato. | [Karoline Luz da Conceição](https://github.com/KarolineLuz)|17/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 18/05/2025 |
+| 1.7    | Implementando os cenários 15 e 16 no artefato. | [Karoline Luz da Conceição](https://github.com/KarolineLuz)|17/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 18/05/2025 |
 | 1.8    | Adicionando os cenários 18, 19 e 20| [Luiza da Silva Pugas](https://github.com/Luizaxx)|17/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 18/05/2025 |
 | 1.9    | Adicionando tabela que identifica o cenário que cada um participou e rastreabilidade dos requisitos elicitados. | [Ana Victória](https://github.com/navicg)|18/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 18/05/2025 |
