@@ -31,12 +31,12 @@ O principal objetivo dos casos de uso é **documentar como o sistema deve se com
 
 | **Componente** | **Descrição** | **Representação** | **Observações** |
 |----------------|---------------|--------------------|------------------|
-| **Ator** | Representa um usuário ou sistema externo que interage com o sistema. |  <p> boneco de palito </p>   <img src="https://i.ibb.co/RkFjGPY8/ator.png" style="height:100px;width:100px"/>| Pode ser uma pessoa, sistema, dispositivo, etc. |
-| **Sistema** | Define o escopo do sistema e contém os casos de uso. | <p> Retângulo </p> <img src="https://i.ibb.co/kPxyVjR/retangulo.png" style="height:100px;width:100px"/> | Casos de uso fora do retângulo estão fora do escopo. |
-| **Caso de Uso** | Representa uma funcionalidade ou ação do sistema. | <p> Elipse </p>   <img src="https://i.ibb.co/FqxcxMgS/caso-De-uso.png" style="height:100px;width:100px"/> | Ex: `Realizar login` |
-| **Comunicação** | Relação entre ator e caso de uso. | <p> Linha sólida </p>   <img src="https://i.ibb.co/hJQ6y1RQ/linha-solida.png" style="height:100px;width:100px"/> | Indica que o ator executa ou interage com a funcionalidade. |
-| **Inclusão** (`<<include>>`) | Um caso de uso inclui outro obrigatoriamente. | <p> Linha tracejada com seta e nome `<<include>>`. </p>   <img src="https://i.ibb.co/cSd8mKgP/linha-tracejada.png" style="height:100px;width:100px"/>  | O caso incluído **sempre** será executado. |
-| **Extensão** (`<<extend>>`) | Um caso de uso pode adicionar comportamento opcional a outro. | <p> Linha tracejada com seta apontada para o caso base e nome `<<extend>>`. </p>   <img src="https://i.ibb.co/hRRGpQTP/extensao.png" style="height:100px;width:100px"/>  | O caso estendido **pode ou não** ser executado. |
+| **Ator** | Representa um usuário ou sistema externo que interage com o sistema. |  <p> boneco de palito </p>   <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/ajuste-simples_imagens/docs/assets/modelagem/casos_de_uso/ator.png" style="height:100px;width:100px"/>| Pode ser uma pessoa, sistema, dispositivo, etc. |
+| **Sistema** | Define o escopo do sistema e contém os casos de uso. | <p> Retângulo </p> <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/ajuste-simples_imagens/docs/assets/modelagem/casos_de_uso/retangulo.png" style="height:100px;width:100px"/> | Casos de uso fora do retângulo estão fora do escopo. |
+| **Caso de Uso** | Representa uma funcionalidade ou ação do sistema. | <p> Elipse </p>   <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/ajuste-simples_imagens/docs/assets/modelagem/casos_de_uso/caso-De-uso.png" style="height:100px;width:100px"/> | Ex: `Realizar login` |
+| **Comunicação** | Relação entre ator e caso de uso. | <p> Linha sólida </p>   <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/ajuste-simples_imagens/docs/assets/modelagem/casos_de_uso/linha-solida.png" style="height:100px;width:100px"/> | Indica que o ator executa ou interage com a funcionalidade. |
+| **Inclusão** (`<<include>>`) | Um caso de uso inclui outro obrigatoriamente. | <p> Linha tracejada com seta e nome `<<include>>`. </p>   <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/ajuste-simples_imagens/docs/assets/modelagem/casos_de_uso/linha-tracejada.png" style="height:100px;width:100px"/>  | O caso incluído **sempre** será executado. |
+| **Extensão** (`<<extend>>`) | Um caso de uso pode adicionar comportamento opcional a outro. | <p> Linha tracejada com seta apontada para o caso base e nome `<<extend>>`. </p>   <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/ajuste-simples_imagens/docs/assets/modelagem/casos_de_uso/extensao.png" style="height:100px;width:100px"/>  | O caso estendido **pode ou não** ser executado. |
 
 <font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Gabriel Lopes](https://github.com/BrzGab) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
 
@@ -49,7 +49,7 @@ A ferramenta utilizada para a criação do diagrama foi o **[Drawio](https://www
 
 ## Diagrama de Casos de Uso 
 
-<a href="https://ibb.co/tMjJ4XNh"><img src="https://i.ibb.co/xS97DHcs/diagrama-casos-de-uso-2.png" alt="diagrama-casos-de-uso-2" border="0"></a>
+<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/ajuste-simples_imagens/docs/assets/modelagem/casos_de_uso/diagrama.png"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/ajuste-simples_imagens/docs/assets/modelagem/casos_de_uso/diagrama.png" alt="diagrama-casos-de-uso-2" border="0"></a>
 
 
 <font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Gabriel Lopes](https://github.com/BrzGab) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
