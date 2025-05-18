@@ -75,7 +75,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 
 <p style="text-align: center"><b>Tabela 3:</b> Léxico de Login</p>
 
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelos autores (<a href="https://github.com/navicg">Ana Vitória</a>, <a href="https://github.com/KarolineLuz">Karoline Luz</a> e <a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a>, 2025).</p></font>
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelos autores (<a href="https://github.com/navicg">Ana Vitória</a> e <a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a>, 2025).</p></font>
 
 
 
