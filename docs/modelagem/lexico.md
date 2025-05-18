@@ -364,27 +364,27 @@ mod_resource/content/1/Aula%2010.pdf. Acesso em: 15 mai. 2025.
 
 <center>
 <figure>
-    <img src="../assets/modelagem/lexico-fonte1.png" alt="Fonte 1 do Léxico" width="500">
+    <img src="/assets/modelagem/lexico-fonte1.png" alt="Fonte 1 do Léxico" width="500">
     <figcaption>Fonte: SERRANO, Milene; SERRANO, Maurício. Aula 10. Universidade de Brasília, Faculdade Gama, [s.d.], p. 13.</figcaption>
 </figure>
 
 <figure>
-    <img src="../assets/modelagem/lexico-fonte2.png" alt="Fonte 2 do Léxico" width="500">
+    <img src="/assets/modelagem/lexico-fonte2.png" alt="Fonte 2 do Léxico" width="500">
     <figcaption>Fonte: SERRANO, Milene; SERRANO, Maurício. Aula 10. Universidade de Brasília, Faculdade Gama, [s.d.], p. 14.</figcaption>
 </figure>
 
 <figure>
-    <img src="../assets/modelagem/lexico-fonte3.png" alt="Fonte 3 do Léxico" width="500">
+    <img src="/assets/modelagem/lexico-fonte3.png" alt="Fonte 3 do Léxico" width="500">
     <figcaption>Fonte: SERRANO, Milene; SERRANO, Maurício. Aula 10. Universidade de Brasília, Faculdade Gama, [s.d.], p. 15.</figcaption>
 </figure>
 
 <figure>
-    <img src="../assets/modelagem/lexico-fonte4.png" alt="Fonte 4 do Léxico" width="500">
+    <img src="/assets/modelagem/lexico-fonte4.png" alt="Fonte 4 do Léxico" width="500">
     <figcaption>Fonte: SERRANO, Milene; SERRANO, Maurício. Aula 10. Universidade de Brasília, Faculdade Gama, [s.d.], p. 16.</figcaption>
 </figure>
 
 <figure>
-    <img src="../assets/modelagem/lexico-fonte5.png" alt="Fonte 5 do Léxico" width="500">
+    <img src="/assets/modelagem/lexico-fonte5.png" alt="Fonte 5 do Léxico" width="500">
     <figcaption>Fonte: SERRANO, Milene; SERRANO, Maurício. Aula 10. Universidade de Brasília, Faculdade Gama, [s.d.], p. 17.</figcaption>
 </figure>
 </center>
