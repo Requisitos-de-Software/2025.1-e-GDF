@@ -2,6 +2,7 @@
 
 ## Introdução
 
+<a id="ref-lexico-fonte1"></a>
 O léxico é uma técnica de modelagem que visa estabelecer um vocabulário comum entre os stakeholders do projeto, garantindo que todos compartilhem o mesmo entendimento sobre os termos utilizados no sistema. Esta técnica é particularmente útil para evitar ambiguidades e garantir a consistência na comunicação entre desenvolvedores, analistas e usuários.
 
 ## Metodologia
@@ -25,6 +26,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 <font size="3"><p style="text-align: center">Fonte: Elaborado pelos autores [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/KarolineLuz). </p></font>
 
 ---
+<a id="ref-lexico-fonte2"></a>
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Template Léxicos </p></font>
 
 
@@ -41,6 +43,21 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 <font size="3"><p style="text-align: center">Fonte: Elaborado pelos autores [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/KarolineLuz). </p></font>
 
 ---
+
+<a id="ref-lexico-fonte3"></a>
+**Exemplo prático de entrada de léxico:**
+
+| Símbolo | Renovação de Exemplar de Livro |
+|---------|-------------------------------|
+| Noção   | Exemplar de livro está emprestado a um usuário da biblioteca. Usuário deseja permanecer com o exemplar de livro por mais tempo. |
+| Impacto | Funcionário da biblioteca altera data da devolução do exemplar de livro de modo que fique emprestado ao usuário por mais tempo. |
+
+- Explicação com uma definição quase de "dicionário".
+- Hyperlink: [exemplar de livro](#) / [usuário](#)
+- Ocorrências do símbolo na aplicação.
+
+---
+
 ## Léxico
 > **VERBOS**
 
@@ -296,7 +313,16 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 
 ## Referência Bibliográfica
 
-> SERRANO, Milene; SERRANO, Maurício. Aula 10. Universidade de Brasília, Faculdade Gama, [s.d.]. Disponível em: https://aprender3.unb.br/pluginfile.php/3096108/mod_resource/content/1/Aula%2010.pdf. Acesso em: 15 mai. 2025.
+> SERRANO, Milene; SERRANO, Maurício. Aula 10. Universidade de Brasília, Faculdade Gama, [s.d.]. [ver no texto](#ref-lexico-fonte1)
+> SERRANO, Milene; SERRANO, Maurício. Aula 10. Universidade de Brasília, Faculdade Gama, [s.d.]. [ver no texto](#ref-lexico-fonte2)
+> SERRANO, Milene; SERRANO, Maurício. Aula 10. Universidade de Brasília, Faculdade Gama, [s.d.]. [ver no texto](#ref-lexico-fonte3)
+> SERRANO, Milene; SERRANO, Maurício. Aula 10. Universidade de Brasília, Faculdade Gama, [s.d.]. [ver no texto](#ref-lexico-fonte4)
+> SERRANO, Milene; SERRANO, Maurício. Aula 10. Universidade de Brasília, Faculdade Gama, [s.d.]. [ver no texto](#ref-lexico-fonte5)
+
+## Bibliografia
+
+> SERRANO, Milene; SERRANO, Maurício. Aula 10. Universidade de Brasília, Faculdade Gama, [s.d.]. Disponível em: https://aprender3.unb.br/pluginfile.php/3096108/
+mod_resource/content/1/Aula%2010.pdf. Acesso em: 15 mai. 2025.
 
 > LUCIDCHART. O que é um léxico de aplicação? Disponível em: https://www.lucidchart.com/blog/pt-br/o-que-e-um-lexico-de-aplicacao. Acesso em: 15 mai. 2025.
 
@@ -350,3 +376,4 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 | 1.12| Adicionando as Tabelas 4, 9 e 15 | [Lucas Mendonça](https://github.com/lucasarruda9) | 17/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0) | 17/05/2025 |
 | 1.13| Adicionando as Tabelas 3, 9 e 13 | [Karoline Luz](https://github.com/KarolineLuz) | 17/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0) | 17/05/2025 |
 | 1.14| Adicionando as Tabelas 3, 7 e 10 |[Luiza da Silva Pugas](https://github.com/Luizaxx)| 17/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |
+| 1.15 | Ajuste do histórico de versão, adição de referência bibliográfica e exemplo prático | [Artur Mendonça](https://github.com/ArtyMend07) | 17/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0) | 17/05/2025 |
