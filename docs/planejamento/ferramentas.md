@@ -18,9 +18,10 @@ A fim de facilitar o gerenciamento e a execução do projeto, foram utilizadas c
 | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" style="height:100px;width:100px"/>             |         WhatsApp          | Utilizado como principal canal de comunicação.                         |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" style="height:100px;width:100px"/>     |          YouTube          | Hospedagem de vídeos produzidos.                                       |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" style="height:100px;width:100px"/> |           Excel           | Criação de planilhas relacionadas ao cronograma e horários.  
-| <img src="https://store-images.s-microsoft.com/image/apps.1409.13851527096222888.2b60149a-04a5-4578-a6b2-d7b7377332d5.c22d8e97-4d44-4304-9bd2-55f9d29c0f82" style="height:100px;width:100px"/>                | Draw.io| Produção da primeira versão do Rich Picture.          |
+| <img src="https://store-images.s-microsoft.com/image/apps.1409.13851527096222888.2b60149a-04a5-4578-a6b2-d7b7377332d5.c22d8e97-4d44-4304-9bd2-55f9d29c0f82" style="height:100px;width:100px"/>                | Draw.io| Produção do Rich Picture e do Diagrama de Casos de uso.          |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" style="height:100px;width:100px"/>    |       Google Drive        | Compartilhamento de arquivos.                                          |
 | <img src="https://avatars.githubusercontent.com/u/47250886?s=280&v=4" style="height:100px;width:100px"/>                   | This Person Doesn't Exist | Criação de imagens falsas para as personas.                            |
+| <img src="https://imgs.search.brave.com/1FZenM9mkR1uZjB7ngAG_Pz-FcKx-C15EvJ3wcUdDLg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9mcmVl/bG9nb3BuZy5jb20v/aW1hZ2VzL2FsbF9p/bWcvMTY4MTAzODI0/MmNoYXRncHQtbG9n/by1wbmcucG5n" style="height:100px;width:100px"/>                   | Chat Gpt | Auxílio na criação de textos                            |
 
 
 <p align="center">Fonte: Autores.</p>
@@ -38,8 +39,10 @@ A fim de facilitar o gerenciamento e a execução do projeto, foram utilizadas c
 > 9. Google Docs. Disponível em: [https://www.google.com/docs/about/](https://www.google.com/docs/about/). Acesso em: 12 de abr. de 2025.  
 > 10. Google Drive. Disponível em: [https://www.google.com/drive/](https://www.google.com/drive/). Acesso em: 12 de abr. de 2025.  
 > 11. Draw.io. Disponível em: [https://app.diagrams.net/](https://app.diagrams.net/). Acesso em: 12 de abr. de 2025.  
-> 12. This Person Doesn't Exist. Disponível em: [https://this-person-does-not-exist.com/pt](https://this-person-does-not-exist.com/pt). Acesso em: 12 de abr. de 2025.  
+> 12. This Person Doesn't Exist. Disponível em: [https://this-person-does-not-exist.com/pt](https://this-person-does-not-exist.com/pt). Acesso em: 12 de abr. de 2025. 
+> 13. Chat GPT. Disponível em: [https://chatgpt.com/](https://chatgpt.com/). Acesso em: 12 de abr. de 2025. 
 
+ 
 ## Histórico de Versões
 
 ## Histórico de Versão
@@ -48,3 +51,5 @@ A fim de facilitar o gerenciamento e a execução do projeto, foram utilizadas c
 |--------|----------------------------------------|--------------------------------------------------|------------|-----------------------------------------------|-----------------|
 | 1.0    | Criação da documentação de ferramentas | [Luiza da Silva](https://github.com/Luizaxx)        | 12/04/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 12/04/2025      |
 | 1.1    |  Padronizando histórico de versões               |  [Lucas Mendonça ](https://github.com/lucasarruda9)  | 13/04/2025 | [Artur Mendonça](https://github.com/ArtyMend07)   | 13/04/2025      |
+| 1.2    |  Adicionando novas ferramentas               |  [Gabriel Lopes ](https://github.com/BrzGab)  | 14/05/2025 | [Luiza da Silva](https://github.com/Luizaxx)   | 14/05/2025      |
+
