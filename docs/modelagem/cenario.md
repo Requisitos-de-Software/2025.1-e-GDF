@@ -50,6 +50,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 ### Cenário 1: Realizar login de forma simples e rápida
 
 **Rastreabilidade do RF01**: <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR01</a>, <a href="../tec_elicitacao/analise_documentos/#anchor_AD">AD01</a> 
+
 | Elemento   | Descrição                                                                                    |
 | ---------- | -------------------------------------------------------------------------------------------- |
 | Objetivo   | Permitir que o usuário acesse o aplicativo rapidamente sem complicações.                    |
@@ -85,6 +86,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 ### Cenário 3: Notificações baseadas em localização
 
 **Rastreabilidade do RF03**: <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR03</a> 
+
 | Elemento   | Descrição                                                                                    |
 | ---------- | -------------------------------------------------------------------------------------------- |
 | Objetivo   | Enviar notificações úteis com base na localização do usuário.                               |
@@ -152,6 +154,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 ---
 
 ### Cenário 7: Alterar tamanho da fonte e contraste
+
 **Rastreabilidade do RF07**: <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR07</a>, <a href="../tec_elicitacao/entrevista/#anchor_EN">EN08</a>, <a href="../tec_elicitacao/analise_documentos/#anchor_AD">AD08</a>
 
 | Elemento     | Descrição                                                                 |
