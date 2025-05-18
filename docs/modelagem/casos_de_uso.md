@@ -211,7 +211,7 @@ A ferramenta utilizada para a criação do diagrama foi o **[Drawio](https://www
 | Data de Criação | 18/05/2025 |
 | Rastreabilidade | [BR13](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
 
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([João Marcos](https://github.com/JJOAOMARCOSS) , 2025).</p></font>
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor ([João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS), 2025).</p></font>
 
 | UC11 | Personalizar Preferências e Perfil para Recomendações |
 | ----- | ---------- |
@@ -226,7 +226,7 @@ A ferramenta utilizada para a criação do diagrama foi o **[Drawio](https://www
 | Data de Criação | 18/05/2025 |
 | Rastreabilidade | [BR14](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
 
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([João Marcos](https://github.com/JJOAOMARCOSS) , 2025).</p></font>
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor ([João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS), 2025).</p></font>
 
 | UC12 | Receber Mensagens Curtas sobre Vencimentos e Lembretes |
 | ----- | ---------- |
@@ -241,21 +241,19 @@ A ferramenta utilizada para a criação do diagrama foi o **[Drawio](https://www
 | Data de Criação | 18/05/2025 |
 | Rastreabilidade | [BR15](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
 
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([João Marcos](https://github.com/JJOAOMARCOSS) , 2025).</p></font>
-
-| UC13 | Acessar Informações de Agendamento Centralizadas |
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor ([João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS), 2025).</p></font>
+| UC13 | Implementar Funcionalidades Educacionais Adicionais |
 | ----- | ---------- |
-| Descrição | O usuário acessa informações de agendamento e reagendamento de forma centralizada |
-| Ator | Cidadão |
-| Pré-condições | Estar autenticado no sistema |
-| Ação | O usuário visualiza e gerencia todos seus agendamentos em um único local |
-| Fluxo principal | <ul><li> O usuário acessa o aplicativo e faz login </br> <li> O usuário seleciona a opção "Meus Agendamentos" </br> <li> O sistema exibe todos os agendamentos ativos em ordem cronológica </br> <li> O usuário seleciona um agendamento específico </br> <li> O sistema exibe detalhes completos do agendamento </br> <li> O usuário visualiza opções para gerenciar o agendamento </br> </ul> |
-| Fluxo alternativo | <ul><li> O usuário acessa o aplicativo e faz login </br> <li> O usuário seleciona a opção "Reagendar" em um agendamento </br> <li> O sistema exibe horários disponíveis </br> <li> O usuário seleciona novo horário </br> <li> O sistema confirma a alteração </br> <li> O sistema atualiza o agendamento com as novas informações </br> </ul> |
-| Fluxo de exceção | <ul><li> O usuário tenta reagendar um agendamento </br> <li> O sistema verifica que o prazo para reagendamento expirou </br> <li> O sistema exibe mensagem informando sobre a impossibilidade </br> <li> O sistema oferece opções para novo agendamento </br> </ul> |
-| Pós-condições | Usuário visualiza ou gerencia seus agendamentos de forma centralizada |
+| Descrição | O aplicativo implementa funcionalidades adicionais na área educacional, como acompanhamento de pendências para professores e alunos |
+| Ator | Cidadão (Professor/Aluno) |
+| Pré-condições | Estar autenticado no sistema com perfil vinculado à rede educacional |
+| Ação | O usuário acessa funcionalidades específicas da área educacional |
+| Fluxo principal | <ul><li> O usuário acessa o aplicativo e faz login </br> <li> O sistema identifica o perfil educacional (professor/aluno) </br> <li> O sistema exibe o módulo educacional personalizado </br> <li> O usuário seleciona "Acompanhamento de Pendências" </br> <li> O sistema exibe lista de pendências organizadas por categoria e prazo </br> <li> O usuário visualiza detalhes de cada pendência </br> </ul> |
+| Fluxo alternativo | <ul><li> O usuário acessa o aplicativo e faz login </br> <li> O sistema exibe o módulo educacional </br> <li> O usuário seleciona "Calendário Acadêmico" </br> <li> O sistema exibe o calendário com eventos, prazos e compromissos </br> <li> O usuário pode filtrar por tipo de evento </br> <li> O usuário adiciona eventos ao calendário pessoal </br> </ul> |
+| Fluxo de exceção | <ul><li> O usuário tenta acessar o módulo educacional </br> <li> O sistema não encontra vínculo educacional ativo </br> <li> O sistema exibe mensagem informando sobre a necessidade de vínculo ativo </br> <li> O sistema oferece informações sobre como regularizar o vínculo </br> </ul> |
+| Pós-condições | Usuário acessa e gerencia informações específicas da área educacional |
 | Data de Criação | 18/05/2025 |
-| Rastreabilidade | [BR17](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
-
+| Rastreabilidade | [EN06](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
 
 <font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Lucas Mendonça](https://github.com/lucasarruda9), 2025).</p></font>
 
@@ -274,52 +272,23 @@ A ferramenta utilizada para a criação do diagrama foi o **[Drawio](https://www
 
 <font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Lucas Mendonça](https://github.com/lucasarruda9), 2025).</p></font>
 
-| UC15 | Compartilhar ou Salvar Informações Importantes |
+| UC15 | Acessar Informações de Agendamento Centralizadas |
 | ----- | ---------- |
-| Descrição | O usuário compartilha ou salva informações importantes como protocolos ou comprovantes |
+| Descrição | O usuário acessa informações de agendamento e reagendamento de forma centralizada |
 | Ator | Cidadão |
-| Pré-condições | Estar autenticado no sistema e ter informações para compartilhar/salvar |
-| Ação | O usuário exporta ou compartilha informações do aplicativo |
-| Fluxo principal | <ul><li> O usuário acessa o aplicativo e faz login </br> <li> O usuário navega até o documento/informação desejado </br> <li> O usuário seleciona a opção "Compartilhar" </br> <li> O sistema exibe as opções de compartilhamento </br> <li> O usuário seleciona o método de compartilhamento </br> <li> O sistema exporta a informação no formato adequado </br> </ul> |
-| Fluxo alternativo | <ul><li> O usuário acessa o aplicativo e faz login </br> <li> O usuário navega até o documento/informação desejado </br> <li> O usuário seleciona a opção "Salvar" ou "Download" </br> <li> O sistema salva o documento no dispositivo </br> <li> O sistema confirma o salvamento bem-sucedido </br> </ul> |
-| Fluxo de exceção | <ul><li> O usuário tenta salvar um documento </br> <li> O sistema identifica falta de permissão de armazenamento </br> <li> O sistema solicita permissão para acesso ao armazenamento </br> <li> O usuário concede a permissão </br> <li> O sistema conclui o salvamento </br> </ul> |
-| Pós-condições | Informação compartilhada ou salva conforme solicitado pelo usuário |
+| Pré-condições | Estar autenticado no sistema |
+| Ação | O usuário visualiza e gerencia todos seus agendamentos em um único local |
+| Fluxo principal | <ul><li> O usuário acessa o aplicativo e faz login </br> <li> O usuário seleciona a opção "Meus Agendamentos" </br> <li> O sistema exibe todos os agendamentos ativos em ordem cronológica </br> <li> O usuário seleciona um agendamento específico </br> <li> O sistema exibe detalhes completos do agendamento </br> <li> O usuário visualiza opções para gerenciar o agendamento </br> </ul> |
+| Fluxo alternativo | <ul><li> O usuário acessa o aplicativo e faz login </br> <li> O usuário seleciona a opção "Reagendar" em um agendamento </br> <li> O sistema exibe horários disponíveis </br> <li> O usuário seleciona novo horário </br> <li> O sistema confirma a alteração </br> <li> O sistema atualiza o agendamento com as novas informações </br> </ul> |
+| Fluxo de exceção | <ul><li> O usuário tenta reagendar um agendamento </br> <li> O sistema verifica que o prazo para reagendamento expirou </br> <li> O sistema exibe mensagem informando sobre a impossibilidade </br> <li> O sistema oferece opções para novo agendamento </br> </ul> |
+| Pós-condições | Usuário visualiza ou gerencia seus agendamentos de forma centralizada |
 | Data de Criação | 18/05/2025 |
-| Rastreabilidade | [BR20](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
+| Rastreabilidade | [BR17](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
 
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Lucas Mendonça](https://github.com/lucasarruda9), 2025).</p></font>
 
-| UC16 | Autenticação Segura via Plataforma gov.br |
-| ----- | ---------- |
-| Descrição | O aplicativo permite autenticação segura através da plataforma gov.br, com opções como reconhecimento facial |
-| Ator | Cidadão |
-| Pré-condições | Ter o aplicativo instalado e conta na plataforma gov.br |
-| Ação | O usuário realiza login através da integração com a plataforma gov.br |
-| Fluxo principal | <ul><li> O usuário acessa o aplicativo </br> <li> O sistema apresenta a tela de login </br> <li> O usuário seleciona "Entrar com gov.br" </br> <li> O sistema redireciona para a autenticação da plataforma gov.br </br> <li> O usuário insere suas credenciais gov.br </br> <li> O usuário seleciona reconhecimento facial como segundo fator </br> <li> O sistema solicita o reconhecimento facial </br> <li> O usuário realiza o reconhecimento </br> <li> O sistema valida a autenticação e retorna ao aplicativo </br> <li> O usuário é autenticado no aplicativo </br> </ul> |
-| Fluxo alternativo | <ul><li> O usuário acessa o aplicativo </br> <li> O sistema apresenta a tela de login </br> <li> O usuário seleciona "Entrar com gov.br" </br> <li> O sistema redireciona para a autenticação da plataforma gov.br </br> <li> O usuário insere suas credenciais gov.br </br> <li> O usuário seleciona outro método de segundo fator (código via SMS, token) </br> <li> O sistema processa a verificação do segundo fator </br> <li> O usuário completa a verificação </br> <li> O sistema valida a autenticação e retorna ao aplicativo </br> <li> O usuário é autenticado no aplicativo </br> </ul> |
-| Fluxo de exceção | <ul><li> O usuário tenta realizar login com gov.br </br> <li> O sistema redireciona para a autenticação </br> <li> O usuário insere credenciais incorretas </br> <li> O sistema gov.br exibe mensagem de erro </br> <li> O usuário tem opção de recuperar acesso ou tentar novamente </br> </ul> |
-| Pós-condições | Usuário autenticado no aplicativo com credenciais seguras da plataforma gov.br |
-| Data de Criação | 18/05/2025 |
-| Rastreabilidade | [EN04](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Karoline Luz da Conceição](https://github.com/), 2025).</p></font>
 
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Karoline Luz](https://github.com/KarolineLuz), 2025).</p></font>
-
-| UC17 | Implementar Funcionalidades Educacionais Adicionais |
-| ----- | ---------- |
-| Descrição | O aplicativo implementa funcionalidades adicionais na área educacional, como acompanhamento de pendências para professores e alunos |
-| Ator | Cidadão (Professor/Aluno) |
-| Pré-condições | Estar autenticado no sistema com perfil vinculado à rede educacional |
-| Ação | O usuário acessa funcionalidades específicas da área educacional |
-| Fluxo principal | <ul><li> O usuário acessa o aplicativo e faz login </br> <li> O sistema identifica o perfil educacional (professor/aluno) </br> <li> O sistema exibe o módulo educacional personalizado </br> <li> O usuário seleciona "Acompanhamento de Pendências" </br> <li> O sistema exibe lista de pendências organizadas por categoria e prazo </br> <li> O usuário visualiza detalhes de cada pendência </br> </ul> |
-| Fluxo alternativo | <ul><li> O usuário acessa o aplicativo e faz login </br> <li> O sistema exibe o módulo educacional </br> <li> O usuário seleciona "Calendário Acadêmico" </br> <li> O sistema exibe o calendário com eventos, prazos e compromissos </br> <li> O usuário pode filtrar por tipo de evento </br> <li> O usuário adiciona eventos ao calendário pessoal </br> </ul> |
-| Fluxo de exceção | <ul><li> O usuário tenta acessar o módulo educacional </br> <li> O sistema não encontra vínculo educacional ativo </br> <li> O sistema exibe mensagem informando sobre a necessidade de vínculo ativo </br> <li> O sistema oferece informações sobre como regularizar o vínculo </br> </ul> |
-| Pós-condições | Usuário acessa e gerencia informações específicas da área educacional |
-| Data de Criação | 18/05/2025 |
-| Rastreabilidade | [EN06](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
-
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Karoline Luz](https://github.com/KarolineLuz), 2025).</p></font>
-
-| UC18 | Reportar Problemas da Cidade via Mapa Interativo |
+| UC16 | Reportar Problemas da Cidade via Mapa Interativo |
 | ----- | ---------- |
 | Descrição | O aplicativo permite que usuários reportem problemas da cidade através de um mapa interativo |
 | Ator | Cidadão |
@@ -335,6 +304,37 @@ A ferramenta utilizada para a criação do diagrama foi o **[Drawio](https://www
 
 <font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Karoline Luz](https://github.com/KarolineLuz), 2025).</p></font>
 
+
+| UC17 | Autenticação Segura via Plataforma gov.br |
+| ----- | ---------- |
+| Descrição | O aplicativo permite autenticação segura através da plataforma gov.br, com opções como reconhecimento facial |
+| Ator | Cidadão |
+| Pré-condições | Ter o aplicativo instalado e conta na plataforma gov.br |
+| Ação | O usuário realiza login através da integração com a plataforma gov.br |
+| Fluxo principal | <ul><li> O usuário acessa o aplicativo </br> <li> O sistema apresenta a tela de login </br> <li> O usuário seleciona "Entrar com gov.br" </br> <li> O sistema redireciona para a autenticação da plataforma gov.br </br> <li> O usuário insere suas credenciais gov.br </br> <li> O usuário seleciona reconhecimento facial como segundo fator </br> <li> O sistema solicita o reconhecimento facial </br> <li> O usuário realiza o reconhecimento </br> <li> O sistema valida a autenticação e retorna ao aplicativo </br> <li> O usuário é autenticado no aplicativo </br> </ul> |
+| Fluxo alternativo | <ul><li> O usuário acessa o aplicativo </br> <li> O sistema apresenta a tela de login </br> <li> O usuário seleciona "Entrar com gov.br" </br> <li> O sistema redireciona para a autenticação da plataforma gov.br </br> <li> O usuário insere suas credenciais gov.br </br> <li> O usuário seleciona outro método de segundo fator (código via SMS, token) </br> <li> O sistema processa a verificação do segundo fator </br> <li> O usuário completa a verificação </br> <li> O sistema valida a autenticação e retorna ao aplicativo </br> <li> O usuário é autenticado no aplicativo </br> </ul> |
+| Fluxo de exceção | <ul><li> O usuário tenta realizar login com gov.br </br> <li> O sistema redireciona para a autenticação </br> <li> O usuário insere credenciais incorretas </br> <li> O sistema gov.br exibe mensagem de erro </br> <li> O usuário tem opção de recuperar acesso ou tentar novamente </br> </ul> |
+| Pós-condições | Usuário autenticado no aplicativo com credenciais seguras da plataforma gov.br |
+| Data de Criação | 18/05/2025 |
+| Rastreabilidade | [EN04](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
+
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ( [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+
+| UC18 | Compartilhar ou Salvar Informações Importantes |
+| ----- | ---------- |
+| Descrição | O usuário compartilha ou salva informações importantes como protocolos ou comprovantes |
+| Ator | Cidadão |
+| Pré-condições | Estar autenticado no sistema e ter informações para compartilhar/salvar |
+| Ação | O usuário exporta ou compartilha informações do aplicativo |
+| Fluxo principal | <ul><li> O usuário acessa o aplicativo e faz login </br> <li> O usuário navega até o documento/informação desejado </br> <li> O usuário seleciona a opção "Compartilhar" </br> <li> O sistema exibe as opções de compartilhamento </br> <li> O usuário seleciona o método de compartilhamento </br> <li> O sistema exporta a informação no formato adequado </br> </ul> |
+| Fluxo alternativo | <ul><li> O usuário acessa o aplicativo e faz login </br> <li> O usuário navega até o documento/informação desejado </br> <li> O usuário seleciona a opção "Salvar" ou "Download" </br> <li> O sistema salva o documento no dispositivo </br> <li> O sistema confirma o salvamento bem-sucedido </br> </ul> |
+| Fluxo de exceção | <ul><li> O usuário tenta salvar um documento </br> <li> O sistema identifica falta de permissão de armazenamento </br> <li> O sistema solicita permissão para acesso ao armazenamento </br> <li> O usuário concede a permissão </br> <li> O sistema conclui o salvamento </br> </ul> |
+| Pós-condições | Informação compartilhada ou salva conforme solicitado pelo usuário |
+| Data de Criação | 18/05/2025 |
+| Rastreabilidade | [BR20](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
+
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ( [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+
 | UC19 | Acessar Seção de Suporte ao Usuário |
 | ----- | ---------- |
 | Descrição | O aplicativo oferece uma seção de suporte ao usuário com instruções de uso |
@@ -346,9 +346,10 @@ A ferramenta utilizada para a criação do diagrama foi o **[Drawio](https://www
 | Fluxo de exceção | <ul><li> O usuário busca por um tópico de suporte específico </br> <li> O sistema não encontra informações sobre o tópico </br> <li> O sistema exibe opções de contato direto com suporte </br> <li> O usuário seleciona o canal de suporte preferido </br> <li> O sistema conecta o usuário ao suporte escolhido </br> </ul> |
 | Pós-condições | Usuário obtém as informações de suporte necessárias |
 | Data de Criação | 18/05/2025 |
-| Rastreabilidade | [EN11](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
+| Rastreabilidade | [EN09](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
 
 <font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ( [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+
 
 ## Referências Bibliograficas
 
