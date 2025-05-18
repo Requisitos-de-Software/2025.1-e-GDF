@@ -269,7 +269,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 | **Recursos**   | Smartphone com aplicativo do eGDF instalado, autenticação gov, base de dados escolares                    |
 | **Ator(res)**  | Alunos (Usuário).                                                                 |
 | **Episódios** | - O usuário faz login no aplicativo. <br> - O sistema consulta a base de dados escolares. <br> - O usuário acessa a seção sobre educação <br> - O usuário visualiza a sua frequência escolar. |
-| **Restrições**** | - O usuário precisa estar vinculado a uma unidade escolar cadastrada. <br> - Base de dados deve estar atualizada e disponível. |
+| **Restrições** | - O usuário precisa estar vinculado a uma unidade escolar cadastrada. <br> - Base de dados deve estar atualizada e disponível. |
 | **Exceção**    | - Falha na conexão com a internet. <br> - Base de dados indisponível para consulta. |
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
@@ -348,7 +348,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
 
 ---
-### Cenários 18: Autenticação via gov.br de forma segura e por reconhecimento facial
+### Cenário 18: Autenticação via gov.br de forma segura e por reconhecimento facial
 
  **Rastreabilidade do RF22**: <a href="../tec_elicitacao/entrevista/#anchor_EN">EN04</a>
 
