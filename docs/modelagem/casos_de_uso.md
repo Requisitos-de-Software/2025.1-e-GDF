@@ -49,7 +49,7 @@ A ferramenta utilizada para a criação do diagrama foi o **[Drawio](https://www
 
 ## Diagrama de Casos de Uso 
 
-<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/ajuste-simples_imagens/docs/assets/modelagem/casos_de_uso/diagrama.png"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/ajuste-simples_imagens/docs/assets/modelagem/casos_de_uso/diagrama.png" alt="diagrama-casos-de-uso-2" border="0"></a>
+<a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/ajuste-diagrama/docs/assets/modelagem/casos_de_uso/diagrama.drawio.png"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/ajuste-diagrama/docs/assets/modelagem/casos_de_uso/diagrama.drawio.png" alt="diagrama-casos-de-uso-2" border="0"></a>
 
 
 <font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Gabriel Lopes](https://github.com/BrzGab) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
