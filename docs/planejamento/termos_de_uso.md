@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Após a leitura dos termos de uso, observou-se que não há nenhuma cláusula que proíba ou permita explicitamente o uso da Carteira Digital de Trânsito para fins acadêmicos ou educacionais. 
+Após a leitura dos termos de uso, observou-se que não há nenhuma cláusula que proíba ou permita explicitamente o uso do eGDF para fins acadêmicos ou educacionais. 
 
 <br>
 
@@ -41,4 +41,6 @@ Termos de Uso. Disponível em: [https://cadastro.acesso.gov.br/termo-de-uso](htt
 | :----: | :------------------------------------: | :--------: | :--------: | :------------: | :-------------: |
 |  1.0   | Adição dos termos de uso | [Lucas Mendonça](https://github.com/lucasarruda9)| 11/04/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 12/04/2025 |
 | 1.1    |  Padronizando histórico de versões               |  [Lucas Mendonça ](https://github.com/lucasarruda9)  | 13/04/2025 | [Artur Mendonça](https://github.com/ArtyMend07)   | 13/04/2025      |
+| 2.0    |         Mudando para o aplicativo eGDF        |  [Lucas Mendonça ](https://github.com/lucasarruda9)  | 09/05/2025 |  [Gabriel Lopes](https://github.com/BrzGab)  | 09/05/2025      |
+
 
