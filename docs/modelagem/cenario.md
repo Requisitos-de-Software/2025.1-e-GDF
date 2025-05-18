@@ -48,8 +48,8 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 ## Cenários
 
 ### Cenário 1: Realizar login de forma simples e rápida
-**Requisito Não-Implementado Relacionado**: [RF01]()
 
+**Rastreabilidade do RF01**: <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR01</a>, <a href="../tec_elicitacao/analise_documentos/#anchor_AD">AD01</a> 
 | Elemento   | Descrição                                                                                    |
 | ---------- | -------------------------------------------------------------------------------------------- |
 | Objetivo   | Permitir que o usuário acesse o aplicativo rapidamente sem complicações.                    |
@@ -66,7 +66,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 
 ### Cenário 2: Acesso com pouca familiaridade tecnológica
 
-**Requisito Não-Implementado Relacionado**: [RF02]()
+**Rastreabilidade do RF02**: <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR02</a> 
 
 | Elemento   | Descrição                                                                                    |
 | ---------- | -------------------------------------------------------------------------------------------- |
@@ -84,8 +84,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 
 ### Cenário 3: Notificações baseadas em localização
 
-**Requisito Não-Implementado Relacionado**: [RF03]()
-
+**Rastreabilidade do RF03**: <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR03</a> 
 | Elemento   | Descrição                                                                                    |
 | ---------- | -------------------------------------------------------------------------------------------- |
 | Objetivo   | Enviar notificações úteis com base na localização do usuário.                               |
@@ -100,7 +99,8 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 
 ---
 ### Cenário 4: Consulta centralizada de agendamentos e serviços
-**Requisito Não-Implementado Relacionado**: [RF04]()
+
+**Rastreabilidade do RF04**: <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR04</a>  
 | Elemento     | Descrição                                                         |
 |--------------|------------------------------------------------------------------|
 | **Objetivo**     | Facilitar a visualização de todos os agendamentos em uma única tela. |
@@ -117,7 +117,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 
 ### Cenário 5: Assistente virtual com voz
 
-**Requisito Não-Implementado Relacionado**: [RF05]()
+**Rastreabilidade do RF05**: <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR05</a>, <a href="../tec_elicitacao/analise_documentos/#anchor_AD">AD05</a>, <a href="../tec_elicitacao/introspeccao/#anchor_INT">INT13</a>
 
 | Elemento     | Descrição                                                         |
 |--------------|------------------------------------------------------------------|
@@ -135,7 +135,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 
 ### Cenário 6: Tutoriais passo a passo
 
-**Requisito Não-Implementado Relacionado**: [RF06]()
+**Rastreabilidade do RF06**: <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR06</a>  
 
 | Elemento     | Descrição                                                         |
 |--------------|------------------------------------------------------------------|
@@ -152,8 +152,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 ---
 
 ### Cenário 7: Alterar tamanho da fonte e contraste
-
-**Requisito Não-Implementado Relacionado**: [RF07]()
+**Rastreabilidade do RF07**: <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR07</a>, <a href="../tec_elicitacao/entrevista/#anchor_EN">EN08</a>, <a href="../tec_elicitacao/analise_documentos/#anchor_AD">AD08</a>
 
 | Elemento     | Descrição                                                                 |
 |--------------|---------------------------------------------------------------------------|
@@ -171,7 +170,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 
 ### Cenário 8: Modo escuro
 
-**Requisito Não-Implementado Relacionado**: [RF08]()
+**Rastreabilidade do RF08**: <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR08</a>  
 
 | Elemento     | Descrição                                                                 |
 |--------------|---------------------------------------------------------------------------|
@@ -189,7 +188,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 ---
 ### Cenário 9: O usuário deve poder gerar relatórios e visualizar comprovantes de agendamentos
 
-**Requisito Não-Implementado Relacionado**: [RF10]()
+**Rastreabilidade do RF10**: <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR11</a> 
 
 | Elemento   | Descrição                                                                                                                                         |
 |------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -207,7 +206,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 
 ### Cenário 10: Alterar idioma do aplicativo
 
-**Requisito Não-Implementado Relacionado**: [RF12]()
+ **Rastreabilidade do RF12**: <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR13</a> 
 
 | Elemento   | Descrição                                                                                      |
 |------------|------------------------------------------------------------------------------------------------|
@@ -225,7 +224,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 
 ### Cenário 11: Personalizar preferências e perfis para recomendações
 
-**Requisito Não-Implementado Relacionado**: [RF13]()
+ **Rastreabilidade do RF13**: <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR14</a>
 
 | Elemento   | Descrição                                                                                      |
 |------------|------------------------------------------------------------------------------------------------|
@@ -243,7 +242,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 
 ### Cenário 12: Enviar mensagens curtas sobre vencimentos e lembretes
 
-**Requisito Não-Implementado Relacionado**: [RF14]()
+ **Rastreabilidade do RF14**:  <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR15</a> 
 
 | Elemento   | Descrição                                                                                      |
 |------------|------------------------------------------------------------------------------------------------|
@@ -261,7 +260,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 
 ### Cenário 13: Acompanhamento de pendências na área educacional 
 
-**Requisito Não-Implementado Relacionado**: [RF24]()
+ **Rastreabilidade do RF24**: <a href="../tec_elicitacao/entrevista/#anchor_EN">EN06</a>
 
 | Elemento   | Descrição                                                                                      |
 |------------|------------------------------------------------------------------------------------------------|
@@ -279,7 +278,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 
 ### Cenário 14: Notificações por categorias do aplicativo
 
-**Requisito Não-Implementado Relacionado**: [RF17]()
+ **Rastreabilidade do RF17**: <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR19</a> 
 
 | Elemento   | Descrição                                                                                      |
 |------------|------------------------------------------------------------------------------------------------|
@@ -297,7 +296,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 
 ### Cenário 15: Busca por Vagas em Escolas ou CILs na categoria de Educação
 
-**Requisito Não-Implementado Relacionado**: [RF21]()
+ **Rastreabilidade do RF21**: <a href="../tec_elicitacao/entrevista/#anchor_EN">EN03</a>, <a href="../tec_elicitacao/introspeccao/#anchor_INT">INT07</a> 
 
 | Elemento   | Descrição |
 |------------|-----------|
@@ -316,7 +315,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 ---
 ### Cenário 16: Acessar informações de reagendamentos em um só lugar
 
-**Requisito Não-Implementado Relacionado**: [RF16]()
+ **Rastreabilidade do RF16**: <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR17</a> 
 
 | Elemento    | Descrição                                                                                                                                   |
 |-------------|---------------------------------------------------------------------------------------------------------------------------------------------|
@@ -334,7 +333,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 
 ### Cenário 17: Reportar problemas urbanos por meio de um mapa interativo
 
-**Requisito Não-Implementado Relacionado**: [RF25]()
+ **Rastreabilidade do RF25**: <a href="../tec_elicitacao/entrevista/#anchor_EN">EN09</a> 
 
 | Elemento    | Descrição                                                                                                                                     |
 |-------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -351,7 +350,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 ---
 ### Cenários 18: Autenticação via gov.br de forma segura e por reconhecimento facial
 
-**Requisito Não-Implementado Relacionado**: [RF22]()
+ **Rastreabilidade do RF22**: <a href="../tec_elicitacao/entrevista/#anchor_EN">EN04</a>
 
 | Elemento   | Descrição |
 |------------|-----------|
@@ -370,7 +369,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 
 ### Cenário 19: Compartilhar ou Salvar Informações Importantes
 
-**Requisito Não-Implementado Relacionado**: [RF18]()
+ **Rastreabilidade do RF18**: <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR20</a> 
 
 | Elemento   | Descrição |
 |------------|-----------|
@@ -390,7 +389,7 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 
 ### Cenário 20: Seção de suporte ao usuário
 
-**Requisito Não-Implementado Relacionado**: [RF27]()
+ **Rastreabilidade do RF27**:  <a href="../tec_elicitacao/entrevista/#anchor_EN">EN11</a>
 
 | Elemento    | Descrição                                                                                                                                   |
 |-------------|---------------------------------------------------------------------------------------------------------------------------------------------|
@@ -436,4 +435,4 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 | 1.6    | Adição do cenário 13 e 14 no artefato. | [Lucas Mendonça](https://github.com/lucasarruda9)|17/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 18/05/2025 |
 | 1.7    | Implementando os cenários 15, 16 e 17 no artefato. | [Karoline Luz da Conceição](https://github.com/KarolineLuz)|17/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 18/05/2025 |
 | 1.8    | Adicionando os cenários 18, 19 e 20| [Luiza da Silva Pugas](https://github.com/Luizaxx)|17/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 18/05/2025 |
-| 1.9    | Adicionando tabela que identifica o cenário que cada um participou e rastreabilidade dos requisitos estudados. | [Ana Victória](https://github.com/navicg)|18/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 18/05/2025 |
+| 1.9    | Adicionando tabela que identifica o cenário que cada um participou e rastreabilidade dos requisitos elicitados. | [Ana Victória](https://github.com/navicg)|18/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 18/05/2025 |
