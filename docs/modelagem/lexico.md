@@ -54,7 +54,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 | **Sinônimos** | Autenticação, Acesso |
 | **Tipo**      | **Verbo** |
 
-<p style="text-align: center"><b>Tabela 3:</b> Léxico de Login (Elaborado pelos autores <a href="https://github.com/navicg">Ana Vitória</a> e  <a href="https://github.com/KarolineLuz">Karoline Luz</a>, 2025).</p>
+<p style="text-align: center"><b>Tabela 3:</b> Léxico de Login (Elaborado pelos autores <a href="https://github.com/navicg">Ana Vitória</a>, <a href="https://github.com/KarolineLuz" e>Karoline Luz</a> e  <a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a>, 2025).</p>
 
 
 
@@ -82,35 +82,23 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 
 
 ---
-- **Avaliação de Serviços**
+- **Serviços**
 
 | Campo     | Descrição |
 |-----------|-----------|
-| **Símbolo**   | [Avaliação de Serviços](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/introspeccao.md#anchor_INT) |
+| **Símbolo**   | [Serviços](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/introspeccao.md#anchor_INT) |
 | **Noção**     | Sistema que permite ao usuário avaliar e comentar sobre os serviços públicos utilizados. |
 | **Impacto**   | Fornece feedback para melhorias nos serviços e transparência na gestão pública. |
 | **Sinônimos** | Feedback, Avaliação |
 | **Tipo**      | **Verbo** |
 
 
+<font size="3">
+  <p style="text-align: center">
+    <b>Tabela 5:</b> Léxico de Serviços (Elaborado pelos autores <a href="https://github.com/lucasarruda9">Lucas Mendonça</a>, 2025).
+  </p>
+</font>
 
-<font size="3"><p style="text-align: center"><b>Tabela 5: </b> - Léxico de Avaliação de serviços( Elaborado pelos autores , 2025).</p></font>
-
----
-
-- **Pagamento Digital**
-
-| Campo     | Descrição |
-|-----------|-----------|
-| **Símbolo**   | [Pagamento Digital](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/introspeccao.md#anchor_INT) |
-| **Noção**     | Integração com sistemas de carteiras digitais para pagamento de tributos e taxas. |
-| **Impacto**   | Facilita o pagamento de serviços públicos de forma digital e segura. |
-| **Sinônimos** | Pagamento Online |
-| **Tipo**      | **Verbo** |
-
-
-
-<p style="text-align: center"><b>Tabela 6:</b> Léxico de Pagamento digital (Elaborado pelos autores , 2025).</p>
 
 ---
 
@@ -125,8 +113,8 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 | **Tipo**      | **Verbo** |
 
 
+<p style="text-align: center"><b>Tabela 7:</b> Léxico de Compartilhamento (Elaborado pelos autores <a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a>, 2025).</p>
 
-<p style="text-align: center"><b>Tabela 7:</b> Léxico de Compartilhamento (Elaborado pelos autores , 2025).</p>
 
 ---
 
@@ -174,7 +162,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 | **Sinônimos** | Mapa de Ocorrências |
 | **Tipo**      | **Objeto** |
 
-<p style="text-align: center"><b>Tabela 10:</b> Léxico de Mapa interativo (Elaborado pelos autores , 2025).</p>
+<p style="text-align: center"><b>Tabela 10:</b> Léxico de Mapa Interativo (Elaborado pelos autores <a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a>, 2025).</p>
 
 ----
 
@@ -361,11 +349,12 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 | 1.3    | Inclusão dos termos extraídos da técnica de entrevista (sem repetições) | [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/KarolineLuz) | 15/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0) | 17/05/2025      |
 | 1.4 | Adição dos termos de introspecção e correção da tabela de entrevista  |  [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/KarolineLuz)| 16/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
 | 1.5 | Adição dos termos de analise de documentos e alteração para a dinâmica correta da metodologia  |  [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/KarolineLuz)| 16/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
-| 1.6 | Removendo repetições e ambiguidade das Tabelas 3, 4, 5 e 6  |  [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/KarolineLuz)| 17/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
-| 1.7 | Adicionando as Tabelas 3, 8 e 16 |  [Ana Vitória](https://github.com/navicg)| 17/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
-| 1.8 | Adicionando as Tabelas 4, 11 e 12 |  [Artur Mendonça](https://github.com/ArtyMend07)| 17/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
-| 1.9| Adicionando as Tabelas 13, 17 e 18 |   [Gabriel Lopes](https://github.com/BrzGab)| 17/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
-| 1.10| Adicionando as Tabelas 8, 14 e 19 |   [João Marcos Moraes](https://github.com/JJOAOMARCOSS)| 17/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
-| 1.11| Adicionando as Tabelas 4, 9 e 15 | [Lucas Mendonça](https://github.com/lucasarruda9)| 17/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
-| 1.12| Adicionando as Tabelas 3, 9 e 13 |  [Karoline Luz](https://github.com/KarolineLuz)| 17/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
-| 2.0 | Adicionando Tabelas Léxas |  [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/KarolineLuz)| 17/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
+| 1.6 | Adicionando Tabelas Léxas |  [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/KarolineLuz)| 17/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
+| 1.7 | Removendo repetições e ambiguidade das Tabelas 3, 4, 5 e 6  |  [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/KarolineLuz)| 17/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
+| 1.8 | Adicionando as Tabelas 3, 8 e 16 |  [Ana Vitória](https://github.com/navicg)| 17/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
+| 1.9 | Adicionando as Tabelas 4, 11 e 12 |  [Artur Mendonça](https://github.com/ArtyMend07)| 17/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
+| 1.10| Adicionando as Tabelas 13, 17 e 18 |   [Gabriel Lopes](https://github.com/BrzGab)| 17/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
+| 1.11| Adicionando as Tabelas 8, 14 e 19 |   [João Marcos Moraes](https://github.com/JJOAOMARCOSS)| 17/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
+| 1.12| Adicionando as Tabelas 4, 9 e 15 | [Lucas Mendonça](https://github.com/lucasarruda9)| 17/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
+| 1.13| Adicionando as Tabelas 3, 9 e 13 |  [Karoline Luz](https://github.com/KarolineLuz)| 17/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
+| 1.14| Adicionando as Tabelas 3, 7 e 10 |[Luiza da Silva Pugas](https://github.com/Luizaxx)| 17/05/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0)| 17/05/2025 |/2025 |
