@@ -67,7 +67,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 
 | Campo     | Descrição |
 |-----------|-----------|
-| **Símbolo**   | [Login](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md#anchor_BS), [AD01](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/analise_documentos.md#anchor_AD) |
+| **Símbolo**   | [Login](../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS), [AD01](../elicitacao/tec_elicitacao/analise_documentos.md#anchor_AD) |
 | **Noção**     | Processo de autenticação do usuário no sistema através da plataforma gov.br, com opções como reconhecimento facial. |
 | **Impacto**   | Permite o acesso seguro às funcionalidades do aplicativo, garantindo a privacidade dos dados do usuário e uma experiência fluida. |
 | **Sinônimos** | Autenticação, Acesso |
@@ -86,7 +86,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 
 | Campo     | Descrição |
 |-----------|-----------|
-| **Símbolo**   | [Agendamento](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) |
+| **Símbolo**   | [Agendamento](../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) |
 | **Noção**     | Marcação de horário para serviços específicos, como atendimentos em órgãos públicos. |
 | **Impacto**   | Permite ao usuário organizar seus compromissos com serviços públicos de forma centralizada e eficiente. |
 | **Sinônimos** | Marcação, Agenda |
@@ -105,7 +105,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 
 | Campo     | Descrição |
 |-----------|-----------|
-| **Símbolo**   | [Serviços](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/introspeccao.md#anchor_INT) |
+| **Símbolo**   | [Serviços](../elicitacao/tec_elicitacao/introspeccao.md#anchor_INT) |
 | **Noção**     | Sistema que permite ao usuário avaliar e comentar sobre os serviços públicos utilizados. |
 | **Impacto**   | Fornece feedback para melhorias nos serviços e transparência na gestão pública. |
 | **Sinônimos** | Feedback, Avaliação |
@@ -123,7 +123,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 
 | Campo     | Descrição |
 |-----------|-----------|
-| **Símbolo**   | [Compartilhamento](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) |
+| **Símbolo**   | [Compartilhamento](../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) |
 | **Noção**     | Ação de distribuir informações do sistema com outros usuários, como protocolos ou comprovantes. |
 | **Impacto**   | Facilita a comunicação e troca de informações entre usuários, promovendo colaboração. |
 | **Sinônimos** | Distribuição, Envio |
@@ -143,7 +143,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 
 | Campo     | Descrição |
 |-----------|-----------|
-| **Símbolo**   | [Notificação](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) |
+| **Símbolo**   | [Notificação](../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) |
 | **Noção**     | Alerta ou mensagem enviada ao usuário sobre eventos relevantes, personalizada com base em sua localização. |
 | **Impacto**   | Mantém o usuário informado sobre atualizações, lembretes e eventos importantes relacionados aos serviços. |
 | **Sinônimos** | Alerta, Aviso |
@@ -162,7 +162,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 
 | Campo     | Descrição |
 |-----------|-----------|
-| **Símbolo**   | [Funcionalidades Educacionais](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/entrevista.md#anchor_EN06) |
+| **Símbolo**   | [Funcionalidades Educacionais](../elicitacao/tec_elicitacao/entrevista.md#anchor_EN06) |
 | **Noção**     | Recursos específicos para acompanhamento de pendências de professores e alunos. |
 | **Impacto**   | Melhora a gestão e acompanhamento das atividades educacionais. |
 | **Sinônimos** | Recursos Educacionais |
@@ -179,7 +179,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 
 | Campo     | Descrição |
 |-----------|-----------|
-| **Símbolo**   | [Mapa Interativo](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/entrevista.md#anchor_EN09) |
+| **Símbolo**   | [Mapa Interativo](../elicitacao/tec_elicitacao/entrevista.md#anchor_EN09) |
 | **Noção**     | Interface para reportar problemas urbanos através de um mapa. |
 | **Impacto**   | Facilita a identificação e registro de problemas na cidade. |
 | **Sinônimos** | Mapa de Ocorrências |
@@ -195,7 +195,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 
 | Campo     | Descrição |
 |-----------|-----------|
-| **Símbolo**   | [Assistente Virtual](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md#anchor_BS), [AD05](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/analise_documentos.md#anchor_AD), [INT13](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/introspeccao.md#anchor_INT) |
+| **Símbolo**   | [Assistente Virtual](../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS), [AD05](../elicitacao/tec_elicitacao/analise_documentos.md#anchor_AD), [INT13](../elicitacao/tec_elicitacao/introspeccao.md#anchor_INT) |
 | **Noção**     | Sistema automatizado que auxilia o usuário através de interações por voz ou texto, com respostas automáticas para dúvidas frequentes. |
 | **Impacto**   | Fornece suporte e orientação aos usuários, facilitando a navegação e resolução de dúvidas. |
 | **Sinônimos** | Chatbot, Ajudante Virtual |
@@ -212,7 +212,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 
 | Campo     | Descrição |
 |-----------|-----------|
-| **Símbolo**   | [Tutorial](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) |
+| **Símbolo**   | [Tutorial](../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) |
 | **Noção**     | Guia passo a passo sobre como utilizar as funcionalidades do aplicativo. |
 | **Impacto**   | Ajuda novos usuários a compreenderem as funcionalidades do sistema, reduzindo a necessidade de suporte externo. |
 | **Sinônimos** | Guia, Manual |
@@ -229,7 +229,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 
 | Campo     | Descrição |
 |-----------|-----------|
-| **Símbolo**   | [Relatório](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) |
+| **Símbolo**   | [Relatório](../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) |
 | **Noção**     | Documento gerado contendo informações sobre atividades do usuário, como agendamentos e solicitações. |
 | **Impacto**   | Permite ao usuário acompanhar suas interações e serviços utilizados. |
 | **Sinônimos** | Comprovante, Registro |
@@ -246,7 +246,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 
 | Campo     | Descrição |
 |-----------|-----------|
-| **Símbolo**   | [Preferência](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) |
+| **Símbolo**   | [Preferência](../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) |
 | **Noção**     | Configurações personalizadas do usuário para adaptar o sistema às suas necessidades. |
 | **Impacto**   | Adapta o sistema às necessidades específicas de cada usuário, melhorando a experiência. |
 | **Sinônimos** | Configuração, Personalização |
@@ -263,7 +263,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 
 | Campo     | Descrição |
 |-----------|-----------|
-| **Símbolo**   | [Lembretes](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) |
+| **Símbolo**   | [Lembretes](../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) |
 | **Noção**     | Alertas sobre eventos futuros ou pendências importantes para o usuário. |
 | **Impacto**   | Mantém o usuário informado sobre compromissos e prazos importantes. |
 | **Sinônimos** | Alertas, Notificações |
@@ -283,7 +283,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 
 | Campo     | Descrição |
 |-----------|-----------|
-| **Símbolo**   | [Acessibilidade](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md#anchor_BS), [EN08](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/entrevista.md#anchor_EN), [AD08](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/analise_documentos.md#anchor_AD) |
+| **Símbolo**   | [Acessibilidade](../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS), [EN08](../elicitacao/tec_elicitacao/entrevista.md#anchor_EN), [AD08](../elicitacao/tec_elicitacao/analise_documentos.md#anchor_AD) |
 | **Noção**     | Recursos que tornam o aplicativo utilizável por pessoas com diferentes necessidades. |
 | **Impacto**   | Garante que o sistema possa ser utilizado por todos os usuários, promovendo inclusão digital. |
 | **Sinônimos** | Inclusão Digital |
@@ -300,7 +300,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 
 | Campo     | Descrição |
 |-----------|-----------|
-| **Símbolo**   | [Modo Escuro](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) |
+| **Símbolo**   | [Modo Escuro](../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) |
 | **Noção**     | Tema visual com cores escuras para reduzir o brilho da tela. |
 | **Impacto**   | Melhora a experiência do usuário em ambientes com pouca luz, reduz consumo de bateria e oferece personalização. |
 | **Sinônimos** | Tema Escuro |
@@ -317,7 +317,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 
 | Campo     | Descrição |
 |-----------|-----------|
-| **Símbolo**   | [Ajuste de Acessibilidade](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/analise_documentos.md#ajuste-de-acessibilidade---ad08) |
+| **Símbolo**   | [Ajuste de Acessibilidade](../elicitacao/tec_elicitacao/analise_documentos.md#ajuste-de-acessibilidade---ad08) |
 | **Noção**     | Funcionalidade que permite aumentar ícones e o tamanho da fonte no aplicativo por meio de um botão. |
 | **Impacto**   | Melhora a usabilidade e a experiência para usuários com deficiência visual ou idosos. |
 | **Sinônimos** | Ampliar Fonte, Aumentar Ícones |
@@ -334,7 +334,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 
 | Campo     | Descrição |
 |-----------|-----------|
-| **Símbolo**   | [Idioma](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) |
+| **Símbolo**   | [Idioma](../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) |
 | **Noção**     | Configuração de linguagem do aplicativo, permitindo sua utilização em diferentes idiomas. |
 | **Impacto**   | Permite que usuários de diferentes nacionalidades utilizem o sistema em seu idioma preferido. |
 | **Sinônimos** | Linguagem |
