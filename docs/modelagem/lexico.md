@@ -3,7 +3,9 @@
 ## Introdução
 
 <a id="ref-lexico-fonte1"></a>
-O léxico é uma técnica de modelagem que visa estabelecer um vocabulário comum entre as partes interessadas do projeto, garantindo que todos compartilhem o mesmo entendimento sobre os termos utilizados no sistema. Esta técnica é particularmente útil para evitar ambiguidades e garantir a consistência na comunicação entre desenvolvedores, analistas e usuários.
+O léxico é uma técnica de modelagem que visa estabelecer um vocabulário comum entre as partes interessadas do projeto, garantindo que todos compartilhem o mesmo entendimento sobre os termos utilizados no sistema. Esta técnica é particularmente útil para evitar ambiguidades e garantir a consistência na comunicação entre desenvolvedores, analistas e usuários. "Uma notação que usa descrição de termos via léxico é o: LAL – Léxico Ampliado da Linguagem. Trata-se de uma técnica que procura descrever os símbolos de uma linguagem. O principal objetivo a ser perseguido pelos Engenheiros de Requisitos é a identificação de palavras ou frases peculiares ao meio social da aplicação sob estudo <a href="#figura1">[1]</a>." 
+
+
 
 ## Metodologia
 Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léxico Ampliado da Linguagem (LAL), aplicando à análise dos requisitos funcionais e não implementados do sistema para identificar os termos mais relevantes e suas relações com o sistema. A seguir, apresentamos duas tabelas que guiam a estruturação do documento:
@@ -13,7 +15,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 
 ---
 
-<font size="3"><p style="text-align: center"><b>Tabela 1</b> -  Léxico Ampliado da Linguagem (LAL)</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1 </a></b> -  Léxico Ampliado da Linguagem (LAL) <a href="#figura5">2</a></p></font>
 
 
 | Tipo do símbolo | Noção | Impacto |
@@ -363,27 +365,27 @@ mod_resource/content/1/Aula%2010.pdf. Acesso em: 15 mai. 2025.
 > LEITE, J. C. S. P. et al. Enhancing a Requirements Baseline with Scenarios. In: INTERNATIONAL SYMPOSIUM ON REQUIREMENTS ENGINEERING, 1997, Annapolis. Proceedings... Los Alamitos: IEEE Computer Society Press, 1997. p. 44-53.
 
 <center>
-<figure>
+<figure id="figura1">
     <img src="/assets/modelagem/lexico-fonte1.png" alt="Fonte 1 do Léxico" width="500">
     <figcaption>Fonte: SERRANO, Milene; SERRANO, Maurício. Aula 10. Universidade de Brasília, Faculdade Gama, [s.d.], p. 13.</figcaption>
 </figure>
 
-<figure>
+<figure id="figura2">
     <img src="/assets/modelagem/lexico-fonte2.png" alt="Fonte 2 do Léxico" width="500">
     <figcaption>Fonte: SERRANO, Milene; SERRANO, Maurício. Aula 10. Universidade de Brasília, Faculdade Gama, [s.d.], p. 14.</figcaption>
 </figure>
 
-<figure>
+<figure id="figura3">
     <img src="/assets/modelagem/lexico-fonte3.png" alt="Fonte 3 do Léxico" width="500">
     <figcaption>Fonte: SERRANO, Milene; SERRANO, Maurício. Aula 10. Universidade de Brasília, Faculdade Gama, [s.d.], p. 15.</figcaption>
 </figure>
 
-<figure>
+<figure id="figura4">
     <img src="/assets/modelagem/lexico-fonte4.png" alt="Fonte 4 do Léxico" width="500">
     <figcaption>Fonte: SERRANO, Milene; SERRANO, Maurício. Aula 10. Universidade de Brasília, Faculdade Gama, [s.d.], p. 16.</figcaption>
 </figure>
 
-<figure>
+<figure id="figura5">
     <img src="/assets/modelagem/lexico-fonte5.png" alt="Fonte 5 do Léxico" width="500">
     <figcaption>Fonte: SERRANO, Milene; SERRANO, Maurício. Aula 10. Universidade de Brasília, Faculdade Gama, [s.d.], p. 17.</figcaption>
 </figure>
