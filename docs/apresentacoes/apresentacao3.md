@@ -54,5 +54,5 @@ Fonte: Elaborado pelo autor ([Lucas Mendonça](https://github.com/lucasarruda9),
 
 | Versão | Descrição | Autor(es) | Data | Revisor(es) | Data de revisão |
 | ------ | --------- | --------- | ---- | ----------- | --------------- |
-| 1.0    | Gravação do vídeo de apresentação | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Karoline Luz](https://github.com/KarolineLuz), [Lucas Mendonça ](https://github.com/lucasarruda9) e [Luiza da Silva](https://github.com/Luizaxx) |  18/05/2025 | [Karoline Luz](https://github.com/ArtyMend07) | 18/05/2025      |
-| 1.1    | Documentação da | [João Marcos](https://github.com/JJOAOMARCOSS) |  18/05/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 18/05/2025      |
+| 1.0    | Gravação do vídeo de apresentação | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Karoline Luz](https://github.com/KarolineLuz), [Lucas Mendonça ](https://github.com/lucasarruda9) e [Luiza da Silva](https://github.com/Luizaxx) |  18/05/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 18/05/2025      |
+| 1.1    | Documentação da apresentação 3| [Lucas Mendonça ](https://github.com/lucasarruda9) |  18/05/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 18/05/2025      | 
