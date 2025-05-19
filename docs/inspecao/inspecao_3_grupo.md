@@ -8,7 +8,7 @@
 
 ## Introdução
 
-A inspeção constitui uma fase essencial no ciclo de desenvolvimento de projetos. Nesta etapa, os artefatos produzidos são minuciosamente analisados para garantir que atendam aos requisitos especificados. Este documento apresenta o planejamento da inspeção dos artefatos desenvolvidos pelo p´roprio grupo 8 durante a etapa 3, que corresponde a modelagem de requisitos
+A inspeção constitui uma fase essencial no ciclo de desenvolvimento de projetos. Nesta etapa, os artefatos produzidos são minuciosamente analisados para garantir que atendam aos requisitos especificados. Este documento apresenta o planejamento da inspeção dos artefatos desenvolvidos pelo próprio grupo 8 durante a etapa 3, que corresponde a modelagem de requisitos
 
 ## Objetivos
 
@@ -162,6 +162,13 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 
  ---
 
+# Link da Reunião | Inspeção do nosso próprio grupo
+
+<p style="text-align: center">
+  <iframe width="560" height="315" src="https://youtube.com/embed/xBIYM-60qOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+
 # Referências 
 
 - Lista de verificação elaborada pelo grupo para avaliar todos os artefatos da Entrega 3 do projeto. Disponível em: [Lista de verificação](../verificacao/grupo/entrega03/entrega03grupo.md).
@@ -174,3 +181,4 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 |--------|-----------|-----------|------|-------------|-----------------|
 | 1.0 | Adiconando tabelas da lista de verificação | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 16/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 18/05/2025 |
 | 1.1 | Arrumando a tabela de Cenários | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Ana Victória](https://github.com/navicg) | 17/05/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 18/05/2025 |
+| 1.2 | Adicionando vídeo | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)  | 18/05/2025 | [Ana Victória](https://github.com/navicg) | 18/05/2025 |
