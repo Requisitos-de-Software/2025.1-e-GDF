@@ -50,16 +50,20 @@ nav:
       - Grupo:
           - Entrega 1: verificacao/grupo/entrega01/inspecao.md 
           - Entrega 2: verificacao/grupo/entrega02/entrega02grupo.md
+          - Entrega 3: verificacao/grupo/entrega03/entrega03grupo.md
       - Grupo +1:
           - Entrega 1: verificacao/grupo/entrega01/planejamento-verificacao.md
           - Entrega 2: verificacao/grupo/entrega02/entrega02grupo+1.md
+          - Entrega 3: verificacao/grupo/entrega03/entrega03grupo+1.md
   - Inspeção:
       - Grupo:
           - Entrega 1: verificacao/grupo/entrega01/inspecao.md 
           - Entrega 2: inspecao/inspecao_2_grupo.md
+          - Entrega 3: inspecao/inspecao_3_grupo.md
       - Grupo +1:
           - Entrega 1: verificacao/grupo/entrega01/planejamento-verificacao.md
           - Entrega 2: inspecao/inspecao_2_grupo+1.md
+          - Entrega 3: inspecao/inspecao_3_grupo+1.md
 
 
 theme:
