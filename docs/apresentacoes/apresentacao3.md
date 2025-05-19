@@ -46,7 +46,7 @@ Fonte: Elaborado pelo autor ([Lucas Mendonça](https://github.com/lucasarruda9),
 
 ## Referências Bibliográficas
 
-- *UNIVERSIDADE DE BRASÍLIA.* Plano de Ensino – Requisitos de Software (Turma 03 – 1º semestre de 2025). Faculdade UnB Gama. Brasília, DF, 2025. Professor: André Barros de Sales. Disponível em: [https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf). Acesso em: 10 abr. 2025.
+- *UNIVERSIDADE DE BRASÍLIA.* Plano de Ensino – Requisitos de Software (Turma 03 – 1º semestre de 2025). Faculdade UnB Gama. Brasília, DF, 2025. Professor: André Barros de Sales. Disponível em: [https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf](https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf). Acesso em: 18 abr. 2025.
 
 - *UNIVERSIDADE DE BRASÍLIA.* Lista de Verificação – Entregas do Projeto da Disciplina de Requisitos de Software. Faculdade UnB Gama. Brasília, DF, 2025. Versão 1. Professor: André Barros de Sales. Disponível em: [https://aprender3.unb.br/pluginfile.php/3106711/mod_resource/content/55/Lista%20de%20Verifificação%20-%20Plano_de_Ensino%20RE%20012025%20Turma%2003%20v1.pdf](https://aprender3.unb.br/pluginfile.php/3106711/mod_resource/content/55/Lista%20de%20Verifificação%20-%20Plano_de_Ensino%20RE%20012025%20Turma%2003%20v1.pdf). Acesso em: 18 abr. 2025.
 
