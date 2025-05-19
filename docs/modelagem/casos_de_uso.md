@@ -242,6 +242,7 @@ A ferramenta utilizada para a criação do diagrama foi o **[Drawio](https://www
 | Rastreabilidade | [BR15](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor ([João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS), 2025).</p></font>
+
 | UC13 | Implementar Funcionalidades Educacionais Adicionais |
 | ----- | ---------- |
 | Descrição | O aplicativo implementa funcionalidades adicionais na área educacional, como acompanhamento de pendências para professores e alunos |
