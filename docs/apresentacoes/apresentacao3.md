@@ -19,10 +19,10 @@ A reunião foi realizada através da plataforma **Microsoft Teams**.
 ## Link da Reunião
 
 <p style="text-align: center">
-  <iframe width="560" height="315" src="https://youtube.com/embed/OpUQ1KN-e1A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://youtube.com/embed/mzTBOV_Q2ZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
-A gravação da reunião está disponível em: [https://youtube.com/embed/mzTBOV_Q2ZI](https://youtube.com/embed/mzTBOV_Q2ZI)
+A gravação da reunião está disponível em: [https://youtu.be.com/embed/mzTBOV_Q2ZI](https://youtube.com/embed/mzTBOV_Q2ZI)
 
 ## Horário da Reunião
 
