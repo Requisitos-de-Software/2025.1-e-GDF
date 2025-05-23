@@ -45,7 +45,11 @@ nav:
       - Cenários: modelagem/cenario.md
       - Léxicos:  modelagem/lexico.md
       - Casos de Uso: modelagem/casos_de_uso.md
-      - Especificação Suplementar: modelagem/especificacao_suplementar.md        
+      - Especificação Suplementar: modelagem/especificacao_suplementar.md
+      - Ágil:
+          - NFR Framework: modelagem/agil/nfrframework.md
+          - Backlog: modelagem/agil/backlog.md
+          - Histórias de Usuário: modelagem/agil/historia-de-usuario.md        
 
   - Verificação:
       - Grupo:
