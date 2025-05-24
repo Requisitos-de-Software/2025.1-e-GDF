@@ -36,6 +36,10 @@ Reunião realizada online via **Microsoft Teams**.
 
 [Link da oitava reunião](https://youtu.be/DxQvXrulRZc)
 
+## Bibliografia:
+
+**BRASIL. Ministério da Ciência, Tecnologia e Inovação. Ata de Reunião. Brasília: MCTI, [s.d.]. Disponível em**: https://pdp.mctic.gov.br/MCTI-PDP/guidances/examples/Ata%20Reuniao_21C35EC2.html?nodeId=7c6d2e0. **Acesso em: 24 maio 2025**.
+
 ## Próxima Reunião
 **23/05/2025** às **20h**
 
