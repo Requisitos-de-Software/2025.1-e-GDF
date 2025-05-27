@@ -1,4 +1,38 @@
 
+| Código | Requisito                                                                                                                                     | Autor        | Rastreabilidade |
+|--------|-----------------------------------------------------------------------------------------------------------------------------------------------|--------------|-----------------|
+| RF22   | O aplicativo permite autenticação segura através da plataforma gov.br, com opções como reconhecimento facial.                                | Luiza Pugas  | EN04            |
+| RF18   | O usuário deve conseguir compartilhar ou salvar informações importantes (como protocolos ou comprovantes).                                   | Luiza Pugas  | BR20            |
+| RF27   | O aplicativo deve oferecer uma seção de suporte ao usuário com instruções de uso.                                                            | Luiza Pugas  | EN11            |
+| RF30   | O sistema deve permitir que o usuário visualize e acompanhe o status das suas solicitações.                                                  | Luiza Pugas  | AD04            |
+| RF31   | O sistema deve permitir que o usuário confirme a resolução de problemas relatados.                                                           | Luiza Pugas  | AD06            |
+| RF32   | O sistema deve permitir que o usuário exclua seus dados e conta do aplicativo.                                                               | Luiza Pugas  | AD07            |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
