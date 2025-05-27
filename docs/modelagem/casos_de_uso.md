@@ -363,7 +363,7 @@ Disponível na plataforma Aprender3: [https://aprender3.unb.br/pluginfile.php/30
 Acessado em: 13 de Maio. de 2025.
 
 
-# Histórico de Versões
+## Histórico de Versões
 
 | Versão | Descrição                                           | Autor(es)                                                                 | Data       | Revisor(es)                                         | Data de revisão |
 |--------|----------------------------------------------------|---------------------------------------------------------------------------|------------|----------------------------------------------------|-----------------|
