@@ -1,3 +1,50 @@
+# História de Usuário
+
+## Introdução
+
+A história do usuário é um componente central no desenvolvimento ágil, especialmente na metodologia Extreme Programming (XP). Segundo Pressman (2011), “a atividade de ‘Ouvir’ conduz à criação de um conjunto de ‘histórias’ (também denominado histórias de usuários) que descreve o resultado, as características e a funcionalidade requisitados para o software a ser construído”<a id="anchor_1" href="#FRM1"> [1]</a> </q>.Essas histórias são escritas pelo cliente e colocadas em fichas, com prioridade atribuída “baseando-se no valor de negócio global do recurso ou função” (PRESSMAN, 2011)<a id="anchor_2" href="#FRM2"> [2]</a> </q>.
+
+Além disso, as histórias de usuário são usadas como base para os testes de aceitação: “À medida que um incremento é entregue a um cliente, as histórias de usuários [...] implementados pelo incremento são usados como base para testes de aceitação” (PRESSMAN, 2011)<a id="anchor_3" href="#FRM3"> [3]</a> </q>. A XP enfatiza a simplicidade e o foco no que é essencial, seguindo o princípio: “Simplifique sempre que puder, mas tenha ciência de que um ‘retrabalho’ (refabricação, redesenvolvimento) contínuo consegue absorver tempo e recursos significativos” (PRESSMAN, 2011)<a id="anchor_4" href="#FRM4"> [4]</a> </q>.
+
+Por fim, as histórias de usuários possibilitam um feedback constante entre cliente e equipe, já que “conforme novas necessidades surgem como parte do planejamento iterativo, a equipe dá ao cliente um rápido feedback referente ao impacto nos custos e no cronograma” (PRESSMAN, 2011)<a id="anchor_5" href="#FRM5"> [5]</a> </q>.
+
+Cada história de usuário é construída de forma a responder três perguntas essenciais:  
+- **Quem?** — Quem é o usuário ou persona envolvida na interação.  
+- **O que?** — Qual é a ação, necessidade ou funcionalidade desejada.  
+- **Por que?** — Qual é o valor, objetivo ou benefício buscado por meio daquela ação.
+
+## Metodologia
+
+A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma abordagem centrada no usuário, considerando tanto os requisitos funcionais já implementados quanto os ainda não implementados, todos identificados por meio de quatro técnicas de elicitação de requisitos aplicadas, que visaram garantir uma compreensão ampla e fiel das necessidades dos usuários e, consequentemente, orientar o desenvolvimento das histórias. As seguintes técnicas foram:
+
+- **Entrevista:** Um diálogo aberto com os usuários, guiado por um roteiro previamente elaborado, mas com flexibilidade para adaptar-se conforme necessário, buscando compreender suas demandas, expectativas e desafios ao utilizar os serviços oferecidos pelo eGDF.
+
+- **Introspecção:** Avaliação realizada com base na experiência pessoal dos responsáveis pelo projeto, buscando identificar possíveis falhas e oportunidades de melhoria.
+
+- **Análise de Documentos:** Técnica que consiste na revisão e interpretação de materiais já existentes — como relatórios, manuais, normativas ou registros — para extrair informações relevantes sobre o sistema ou domínio em questão.
+
+- **Brainstorming:** Método colaborativo que reúne um grupo de pessoas para gerar, de forma espontânea e criativa, o maior número possível de ideias e soluções relacionadas ao sistema ou problema que está sendo analisado.
+
+ Cada requisito identificado foi transformado em uma história de usuário, e cada integrante da equipe ficou responsável por elaborar seis histórias, conforme demonstrado na **Tabela 2**. O modelo adotado para a elaboração está apresentado na **Tabela 1**, contendo os elementos utilizados nas histórias, juntamente com suas respectivas definições.
+
+### Tabela 1: Modelo de História de Usuário
+
+| **Elemento**                | **Definição** |
+|-----------------------------|---------------|
+| **Título**                  | Um resumo claro e direto sobre a funcionalidade ou requisito que será implementado. |
+| **Como**                    | Identifica o perfil ou tipo de usuário que necessita da funcionalidade. |
+| **Eu quero**                | Descreve a ação ou funcionalidade desejada pelo usuário. |
+| **Para que**                | Indica o objetivo ou benefício que o usuário deseja alcançar com a funcionalidade. |
+| **Critérios de Aceitação**  | Conjunto de condições que determinam quando a história será considerada concluída e aceita. |
+| **Subtarefas**              | Lista de atividades técnicas e operacionais necessárias para implementar a funcionalidade descrita. |
+| **Rastreabilidade**         | Referência ao requisito ou artefato relacionado, garantindo o vínculo entre a história de usuário e o requisito formal. |
+| **Estimativa de Esforço**   | Avaliação da complexidade ou prioridade da implementação da funcionalidade. |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos(as) autores(as) ( [Ana Victória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz), 2025)</p></font>
+
+
+### Tabela 2: Requisitos abordados nas histórias de usuário
+
 | ID   | Descrição                                                                                                     | Rastreabilidade                                                             | Autor                                              |
 | ---- | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------- |
 | RF22 | O aplicativo permite autenticação segura através da plataforma gov.br, com opções como reconhecimento facial. | <a href="../tec_elicitacao/entrevista/#anchor_EN">EN04</a>         | [Luiza da Silva Pugas](https://github.com/Luizaxx) |
@@ -955,7 +1002,17 @@
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
 
+## Referências Bibliográficas
 
+> <a id="FRM1" href="#anchor_1">1.</a>PRESSMAN, Roger S. Engenharia de software: uma abordagem profissional. 8. ed. Porto Alegre: AMGH, 2016.
+
+> <a id="FRM2" href="#anchor_2">2.</a>PRESSMAN, Roger S. Engenharia de software: uma abordagem profissional. 8. ed. Porto Alegre: AMGH, 2016.
+
+> <a id="FRM3" href="#anchor_3">3.</a>PRESSMAN, Roger S. Engenharia de software: uma abordagem profissional. 8. ed. Porto Alegre: AMGH, 2016.
+
+> <a id="FRM4" href="#anchor_4">4.</a>PRESSMAN, Roger S. Engenharia de software: uma abordagem profissional. 8. ed. Porto Alegre: AMGH, 2016.
+
+> <a id="FRM5" href="#anchor_5">5.</a>PRESSMAN, Roger S. Engenharia de software: uma abordagem profissional. 8. ed. Porto Alegre: AMGH, 2016.
 
 ## Histórico de Versões
 
@@ -980,3 +1037,4 @@
 | 1.15  | Criação e elaboração das história de usuário RF19 | [Gabriel Lopes](https://github.com/BrzGab) | 28/05/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 03/06/2025      |
 | 1.16  | Criação e elaboração das história de usuário RF23 | [Gabriel Lopes](https://github.com/BrzGab) | 28/05/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 03/06/2025      |
 | 1.17  | Criação e elaboração das história de usuário RF34 | [Gabriel Lopes](https://github.com/BrzGab) | 28/05/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 03/06/2025      |
+| 1.18  | Adicionando introdução, metodologia e referências bibliográficas | [Ana Victória Guedes da Costa](https://github.com/navicg) | 28/05/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 03/06/2025      |
