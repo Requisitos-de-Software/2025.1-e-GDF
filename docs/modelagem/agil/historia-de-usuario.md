@@ -1,18 +1,23 @@
-
 | ID   | Descrição                                                                                                     | Rastreabilidade                                                             | Autor                                              |
 | ---- | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------- |
-| RF22 | O aplicativo permite autenticação segura através da plataforma gov.br, com opções como reconhecimento facial. | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN04</a>         | [Luiza da Silva Pugas](https://github.com/Luizaxx) |
-| RF18 | O usuário deve conseguir compartilhar ou salvar informações importantes (como protocolos ou comprovantes)     | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR20</a>      | [Luiza da Silva Pugas](https://github.com/Luizaxx) |
-| RF27 | O aplicativo deve oferecer uma seção de suporte ao usuário com instruções de uso.                             | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN11</a>         | [Luiza da Silva Pugas](https://github.com/Luizaxx) |
-| RF30 | O sistema deve permitir que o usuário visualize e acompanhe o status das suas solicitações.                   | <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD04</a> | [Luiza da Silva Pugas](https://github.com/Luizaxx) |
-| RF31 | O sistema deve permitir que o usuário confirme a resolução de problemas relatados.                            | <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD06</a> | [Luiza da Silva Pugas](https://github.com/Luizaxx) |
-| RF32 | O sistema deve permitir que o usuário exclua seus dados e conta do aplicativo.                                | <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD07</a> | [Luiza da Silva Pugas](https://github.com/Luizaxx) |
-| RF12   | O usuário deve poder alterar o idioma do aplicativo                                                                                                                     | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR13</a>                                                                                                                  | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)           |
-| RF13   | O usuário deve poder personalizar suas preferências e perfis para recomendações de serviços                                                                             | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR14</a>                                                                                                                  | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)           |
-| RF14   | O aplicativo deve permitir o envio de mensagens curtas sobre vencimentos e lembretes importantes                                                                        | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR15</a>                                                                                                                  | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)           |
-| RF35   | Permitir ao usuário selecionar o tipo de serviço desejado (implantação, limpeza ou reparo).                                                                               | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT03</a>                                                                                                                  | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)           |
-| RF36   | Possibilitar a adição de descrição textual, imagem e localização GPS da ocorrência.                                                                                      | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT04</a>                                                                                                                  | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)           |
-| RF38   | Oferecer acesso a serviços de transporte público, incluindo pré-cadastro do Cartão Mobilidade.                                                                            | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT08</a>                                                                                                                  | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)           |
+| RF22 | O aplicativo permite autenticação segura através da plataforma gov.br, com opções como reconhecimento facial. | <a href="../tec_elicitacao/entrevista/#anchor_EN">EN04</a>         | [Luiza da Silva Pugas](https://github.com/Luizaxx) |
+| RF18 | O usuário deve conseguir compartilhar ou salvar informações importantes (como protocolos ou comprovantes)     | <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR20</a>      | [Luiza da Silva Pugas](https://github.com/Luizaxx) |
+| RF27 | O aplicativo deve oferecer uma seção de suporte ao usuário com instruções de uso.                             | <a href="../tec_elicitacao/entrevista/#anchor_EN">EN11</a>         | [Luiza da Silva Pugas](https://github.com/Luizaxx) |
+| RF30 | O sistema deve permitir que o usuário visualize e acompanhe o status das suas solicitações.                   | <a href="../tec_elicitacao/analise_documentos/#anchor_AD">AD04</a> | [Luiza da Silva Pugas](https://github.com/Luizaxx) |
+| RF31 | O sistema deve permitir que o usuário confirme a resolução de problemas relatados.                            | <a href="../tec_elicitacao/analise_documentos/#anchor_AD">AD06</a> | [Luiza da Silva Pugas](https://github.com/Luizaxx) |
+| RF32 | O sistema deve permitir que o usuário exclua seus dados e conta do aplicativo.                                | <a href="../tec_elicitacao/analise_documentos/#anchor_AD">AD07</a> | [Luiza da Silva Pugas](https://github.com/Luizaxx) |
+| RF12   | O usuário deve poder alterar o idioma do aplicativo                                                                                                                     | <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR13</a>                                                                                                                  | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)           |
+| RF13   | O usuário deve poder personalizar suas preferências e perfis para recomendações de serviços                                                                             | <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR14</a>                                                                                                                  | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)           |
+| RF14   | O aplicativo deve permitir o envio de mensagens curtas sobre vencimentos e lembretes importantes                                                                        | <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR15</a>                                                                                                                  | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)           |
+| RF35   | Permitir ao usuário selecionar o tipo de serviço desejado (implantação, limpeza ou reparo).                                                                               | <a href="../tec_elicitacao/introspeccao/#anchor_INT">INT03</a>                                                                                                                  | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)           |
+| RF36   | Possibilitar a adição de descrição textual, imagem e localização GPS da ocorrência.                                                                                      | <a href="../tec_elicitacao/introspeccao/#anchor_INT">INT04</a>                                                                                                                  | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)           |
+| RF38   | Oferecer acesso a serviços de transporte público, incluindo pré-cadastro do Cartão Mobilidade.                                                                            | <a href="../tec_elicitacao/introspeccao/#anchor_INT">INT08</a>                                                                                                                  | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)           |
+| RF07 | O usuário deve poder alterar o tamanho da fonte e o contraste de cores | <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR07</a>, <a href="../tec_elicitacao/entrevista/#anchor_EN">EN08</a>, <a href="../tec_elicitacao/analise_documentos/#anchor_AD">AD08</a> | [Gabriel Lopes](https://github.com/BrzGab) |
+| RF08 | O aplicativo deve permitir modo escuro | <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR08</a> | [Gabriel Lopes](https://github.com/BrzGab) |
+| RF10 | O usuário deve poder gerar relatórios e visualizar comprovantes de agendamentos | <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR11</a> | [Gabriel Lopes](https://github.com/BrzGab) |
+| RF19 | O aplicativo permite a visualização da localização dos ônibus em tempo real, incluindo previsão de chegada e rota no mapa. | <a href="../tec_elicitacao/entrevista/#anchor_EN">EN01</a> | [Gabriel Lopes](https://github.com/BrzGab) |
+| RF23 | O aplicativo facilita o acesso a serviços relacionados a impostos (como boletos do IPVA) com instruções claras. | <a href="../tec_elicitacao/entrevista/#anchor_EN">EN05</a> | [Gabriel Lopes](https://github.com/BrzGab) |
+| RF34 | Disponibilizar categorias pré-definidas para o tipo de ocorrência, facilitando a triagem pelos órgãos competentes. | <a href="../tec_elicitacao/introspeccao/#anchor_INT">INT02</a> | [Gabriel Lopes](https://github.com/BrzGab) |
 
 
 
@@ -633,6 +638,324 @@
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), 2025).</p></font>
 
 
+??? info " O usuário deve poder alterar o tamanho da fonte e o contraste de cores"
+
+    **História de Usuário — RF07: Ajuste de Tamanho de Fonte e Contraste**
+
+    ---
+
+    #### **Título:** Ajuste de Tamanho de Fonte e Contraste de Cores
+
+    ---
+
+    #### História
+
+    **Como** um cidadão usuário do aplicativo,  
+    **Eu quero** poder alterar o tamanho da fonte e o contraste de cores da interface,  
+    **Para que** eu possa utilizar o aplicativo de forma mais confortável, especialmente se tiver dificuldades visuais.
+
+    ---
+
+    #### Critérios de Aceitação
+
+    - <input type="checkbox"> O sistema deve oferecer pelo menos 3 opções de tamanho de fonte (pequena, média, grande).
+    - <input type="checkbox"> Deve haver opções de alto contraste para melhor visibilidade.
+    - <input type="checkbox"> As alterações devem ser aplicadas imediatamente em toda a interface.
+    - <input type="checkbox"> As preferências do usuário devem ser salvas para sessões futuras.
+    - <input type="checkbox"> Deve haver um botão de "Restaurar padrão" para voltar às configurações originais.
+
+    ---
+
+    #### Subtarefas
+
+    - <input type="checkbox"> Implementar controles deslizantes ou botões para ajuste de fonte.
+    - <input type="checkbox"> Criar temas de alto contraste seguindo diretrizes de acessibilidade.
+    - <input type="checkbox"> Aplicar mudanças dinamicamente em todos os componentes.
+    - <input type="checkbox"> Persistir preferências de acessibilidade no perfil do usuário.
+    - <input type="checkbox"> Testar conformidade com WCAG 2.1 nível AA.
+
+    ---
+
+    #### Rastreabilidade
+
+    - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF07</a>
+
+    ---
+
+    #### Estimativa de Esforço
+
+    - **Prioridade:** Alta
+
+    ----
+
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
+
+
+??? info " O aplicativo deve permitir modo escuro"
+
+    **História de Usuário — RF08: Ativação do Modo Escuro**
+
+    ---
+
+    #### **Título:** Ativação do Modo Escuro
+
+    ---
+
+    #### História
+
+    **Como** um cidadão usuário do aplicativo,  
+    **Eu quero** poder ativar o modo escuro na interface,  
+    **Para que** eu possa usar o aplicativo com mais conforto em ambientes com pouca luz ou reduzir o cansaço visual.
+
+    ---
+
+    #### Critérios de Aceitação
+
+    - <input type="checkbox"> O sistema deve ter um botão ou switch claramente identificável para ativar/desativar o modo escuro.
+    - <input type="checkbox"> A mudança entre modo claro e escuro deve ser instantânea e suave.
+    - <input type="checkbox"> Todos os elementos da interface devem se adaptar corretamente ao tema escuro.
+    - <input type="checkbox"> A escolha do usuário deve ser salva e aplicada automaticamente em acessos futuros.
+    - <input type="checkbox"> O contraste no modo escuro deve atender aos padrões de acessibilidade.
+
+    ---
+
+    #### Subtarefas
+
+    - <input type="checkbox"> Criar paleta de cores para o tema escuro.
+    - <input type="checkbox"> Implementar toggle switch para alternar entre temas.
+    - <input type="checkbox"> Adaptar todos os componentes visuais para o modo escuro.
+    - <input type="checkbox"> Salvar preferência de tema no armazenamento local/perfil.
+    - <input type="checkbox"> Validar contraste e legibilidade no modo escuro.
+
+    ---
+
+    #### Rastreabilidade
+
+    - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF08</a>
+
+    ---
+
+    #### Estimativa de Esforço
+
+    - **Prioridade:** Média
+
+    ----
+
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
+
+
+??? info " O usuário deve poder gerar relatórios e visualizar comprovantes de agendamentos"
+
+    **História de Usuário — RF10: Geração de Relatórios e Comprovantes**
+
+    ---
+
+    #### **Título:** Geração de Relatórios e Visualização de Comprovantes de Agendamentos
+
+    ---
+
+    #### História
+
+    **Como** um cidadão usuário do aplicativo,  
+    **Eu quero** gerar relatórios e visualizar comprovantes dos meus agendamentos,  
+    **Para que** eu possa ter registros organizados dos serviços solicitados e apresentá-los quando necessário.
+
+    ---
+
+    #### Critérios de Aceitação
+
+    - <input type="checkbox"> O sistema deve permitir a geração de relatórios em formato PDF ou digital.
+    - <input type="checkbox"> Os comprovantes devem conter todas as informações relevantes do agendamento.
+    - <input type="checkbox"> O usuário deve poder filtrar relatórios por período ou tipo de serviço.
+    - <input type="checkbox"> Os comprovantes devem ter um código de verificação ou QR Code para autenticação.
+    - <input type="checkbox"> Deve ser possível compartilhar ou salvar os documentos gerados.
+
+    ---
+
+    #### Subtarefas
+
+    - <input type="checkbox"> Desenvolver templates para relatórios e comprovantes.
+    - <input type="checkbox"> Implementar gerador de PDF com dados do agendamento.
+    - <input type="checkbox"> Criar sistema de filtros para busca de agendamentos.
+    - <input type="checkbox"> Adicionar código de verificação/QR Code aos comprovantes.
+    - <input type="checkbox"> Integrar opções de compartilhamento e download.
+
+    ---
+
+    #### Rastreabilidade
+
+    - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF10</a>
+
+    ---
+
+    #### Estimativa de Esforço
+
+    - **Prioridade:** Alta
+
+    ----
+
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
+
+
+??? info " O aplicativo permite a visualização da localização dos ônibus em tempo real, incluindo previsão de chegada e rota no mapa"
+
+    **História de Usuário — RF19: Localização de Ônibus em Tempo Real**
+
+    ---
+
+    #### **Título:** Visualização da Localização de Ônibus em Tempo Real
+
+    ---
+
+    #### História
+
+    **Como** um cidadão usuário do aplicativo,  
+    **Eu quero** visualizar a localização dos ônibus em tempo real com previsão de chegada e rota no mapa,  
+    **Para que** eu possa planejar melhor meu deslocamento e reduzir o tempo de espera nos pontos.
+
+    ---
+
+    #### Critérios de Aceitação
+
+    - <input type="checkbox"> O mapa deve mostrar a localização atual dos ônibus das linhas selecionadas.
+    - <input type="checkbox"> A previsão de chegada deve ser atualizada em tempo real (máximo 30 segundos).
+    - <input type="checkbox"> O usuário deve poder visualizar a rota completa da linha no mapa.
+    - <input type="checkbox"> Deve ser possível buscar linhas por número ou destino.
+    - <input type="checkbox"> O sistema deve indicar claramente quando não há dados disponíveis para uma linha.
+
+    ---
+
+    #### Subtarefas
+
+    - <input type="checkbox"> Integrar API de rastreamento de transporte público.
+    - <input type="checkbox"> Implementar mapa interativo com marcadores de ônibus.
+    - <input type="checkbox"> Desenvolver algoritmo de previsão de chegada.
+    - <input type="checkbox"> Criar sistema de busca e filtro de linhas.
+    - <input type="checkbox"> Implementar atualização automática da posição dos veículos.
+
+    ---
+
+    #### Rastreabilidade
+
+    - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF19</a>
+
+    ---
+
+    #### Estimativa de Esforço
+
+    - **Prioridade:** Alta
+
+    ----
+
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
+
+
+??? info " O aplicativo facilita o acesso a serviços relacionados a impostos (como boletos do IPVA) com instruções claras"
+
+    **História de Usuário — RF23: Acesso Facilitado a Serviços de Impostos**
+
+    ---
+
+    #### **Título:** Acesso Facilitado a Serviços de Impostos com Instruções
+
+    ---
+
+    #### História
+
+    **Como** um cidadão usuário do aplicativo,  
+    **Eu quero** acessar facilmente serviços relacionados a impostos, como boletos do IPVA, com instruções claras,  
+    **Para que** eu possa cumprir minhas obrigações fiscais sem dificuldades ou necessidade de ir presencialmente aos órgãos.
+
+    ---
+
+    #### Critérios de Aceitação
+
+    - <input type="checkbox"> O sistema deve listar claramente todos os serviços de impostos disponíveis.
+    - <input type="checkbox"> Cada serviço deve ter instruções passo a passo para utilização.
+    - <input type="checkbox"> Deve ser possível gerar e visualizar boletos diretamente no app.
+    - <input type="checkbox"> O sistema deve mostrar datas de vencimento e valores atualizados.
+    - <input type="checkbox"> As instruções devem usar linguagem simples e incluir exemplos visuais quando necessário.
+
+    ---
+
+    #### Subtarefas
+
+    - <input type="checkbox"> Criar interface organizada para serviços de impostos.
+    - <input type="checkbox"> Desenvolver guias passo a passo para cada tipo de imposto.
+    - <input type="checkbox"> Integrar com sistemas de geração de boletos fiscais.
+    - <input type="checkbox"> Implementar calendário de vencimentos e alertas.
+    - <input type="checkbox"> Adicionar recursos visuais explicativos (imagens, vídeos).
+
+    ---
+
+    #### Rastreabilidade
+
+    - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF23</a>
+
+    ---
+
+    #### Estimativa de Esforço
+
+    - **Prioridade:** Alta
+
+    ----
+
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
+
+
+??? info " Disponibilizar categorias pré-definidas para o tipo de ocorrência, facilitando a triagem pelos órgãos competentes"
+
+    **História de Usuário — RF34: Categorização de Ocorrências**
+
+    ---
+
+    #### **Título:** Categorias Pré-definidas para Tipos de Ocorrência
+
+    ---
+
+    #### História
+
+    **Como** um cidadão usuário do aplicativo,  
+    **Eu quero** selecionar categorias pré-definidas ao reportar uma ocorrência,  
+    **Para que** minha solicitação seja direcionada rapidamente ao órgão competente e tratada com a prioridade adequada.
+
+    ---
+
+    #### Critérios de Aceitação
+
+    - <input type="checkbox"> O sistema deve apresentar uma lista organizada de categorias de ocorrências.
+    - <input type="checkbox"> As categorias devem ser claras e com descrições quando necessário.
+    - <input type="checkbox"> Deve haver subcategorias para refinamento da classificação.
+    - <input type="checkbox"> O usuário deve poder selecionar apenas uma categoria principal por ocorrência.
+    - <input type="checkbox"> A interface deve sugerir a categoria mais adequada baseada em palavras-chave.
+
+    ---
+
+    #### Subtarefas
+
+    - <input type="checkbox"> Definir taxonomia de categorias com órgãos responsáveis.
+    - <input type="checkbox"> Criar interface de seleção hierárquica de categorias.
+    - <input type="checkbox"> Implementar sistema de sugestão baseado em palavras-chave.
+    - <input type="checkbox"> Mapear categorias com órgãos e departamentos responsáveis.
+    - <input type="checkbox"> Adicionar tooltips explicativos para categorias ambíguas.
+
+    ---
+
+    #### Rastreabilidade
+
+    - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF34</a>
+
+    ---
+
+    #### Estimativa de Esforço
+
+    - **Prioridade:** Alta
+
+    ----
+
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
+
+
 
 ## Histórico de Versões
 
@@ -651,3 +974,9 @@
 | 1.9  | Criação e elaboração das história de usuário RF35 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 27/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 03/06/2025      |
 | 1.10  | Criação e elaboração das história de usuário RF36 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 27/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 03/06/2025      |
 | 1.11  | Criação e elaboração das história de usuário RF38 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 27/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 03/06/2025      |
+| 1.12  | Criação e elaboração das história de usuário RF07 | [Gabriel Lopes](https://github.com/BrzGab) | 28/05/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 03/06/2025      |
+| 1.13  | Criação e elaboração das história de usuário RF08 | [Gabriel Lopes](https://github.com/BrzGab) | 28/05/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 03/06/2025      |
+| 1.14  | Criação e elaboração das história de usuário RF10 | [Gabriel Lopes](https://github.com/BrzGab) | 28/05/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 03/06/2025      |
+| 1.15  | Criação e elaboração das história de usuário RF19 | [Gabriel Lopes](https://github.com/BrzGab) | 28/05/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 03/06/2025      |
+| 1.16  | Criação e elaboração das história de usuário RF23 | [Gabriel Lopes](https://github.com/BrzGab) | 28/05/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 03/06/2025      |
+| 1.17  | Criação e elaboração das história de usuário RF34 | [Gabriel Lopes](https://github.com/BrzGab) | 28/05/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 03/06/2025      |
