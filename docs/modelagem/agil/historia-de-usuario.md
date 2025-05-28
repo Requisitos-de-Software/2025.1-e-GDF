@@ -7,7 +7,6 @@
 | RF30 | O sistema deve permitir que o usuário visualize e acompanhe o status das suas solicitações.                   | <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD04</a> | [Luiza da Silva Pugas](https://github.com/Luizaxx) |
 | RF31 | O sistema deve permitir que o usuário confirme a resolução de problemas relatados.                            | <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD06</a> | [Luiza da Silva Pugas](https://github.com/Luizaxx) |
 | RF32 | O sistema deve permitir que o usuário exclua seus dados e conta do aplicativo.                                | <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD07</a> | [Luiza da Silva Pugas](https://github.com/Luizaxx) |
-
 | RF12   | O usuário deve poder alterar o idioma do aplicativo                                                                                                                     | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR13</a>                                                                                                                  | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)           |
 | RF13   | O usuário deve poder personalizar suas preferências e perfis para recomendações de serviços                                                                             | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR14</a>                                                                                                                  | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)           |
 | RF14   | O aplicativo deve permitir o envio de mensagens curtas sobre vencimentos e lembretes importantes                                                                        | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR15</a>                                                                                                                  | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)           |
@@ -16,27 +15,9 @@
 | RF38   | Oferecer acesso a serviços de transporte público, incluindo pré-cadastro do Cartão Mobilidade.                                                                            | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT08</a>                                                                                                                  | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)           |
 
 
-<style>
-details {
-  background-color: #031b2e;
-  border: 1px solidrgb(4, 55, 72);
-  border-radius: 6px;
-  padding: 10px;
-  margin-bottom: 10px;
-  color: white;
-  font-family: sans-serif;
-}
-
-summary {
-  cursor: pointer;
-  font-weight: bold;
-  color:rgb(253, 253, 253);
-}
-</style>
-
 <details>
   <summary>📋 O aplicativo permite autenticação segura através da plataforma gov.br, com opções como reconhecimento facial. </summary>
-  <p História de Usuário — US01: Autenticação Segura via gov.br
+  <p> História de Usuário — US01: Autenticação Segura via gov.br
 #### 
 #### **Título:** Autenticação Segura via gov.br
 
