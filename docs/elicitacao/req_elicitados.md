@@ -21,7 +21,7 @@ A legenda para cada sigla é a seguinte:
 
 <p style="text-align: center"><b><a id="tab_1" style="visibility: hidden;"></a>Tabela 1</b> - Requisitos funcionais e não funcionais</p>
 
-| ID   | Descrição                                                                                                                                                               | Rastreabilidade                                                  | Implementação |
+| <a id="anchor_RF" style="color:white;">ID</a>   | Descrição                                                                                                                                                               | Rastreabilidade                                                  | Implementação |
 | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ------------- |
 | RF01   | O usuário deve conseguir realizar login de forma simples e rápida                                                                                                       | <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR01</a>, <a href="../tec_elicitacao/analise_documentos/#anchor_AD">AD01</a>                                              | Não           |
 | RF02   | O usuário deve conseguir acessar funcionalidades mesmo com pouca familiaridade com tecnologia                                                                           | <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR02</a>                                                                                                                  | Não           |

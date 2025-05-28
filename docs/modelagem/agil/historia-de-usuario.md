@@ -15,53 +15,62 @@
 | RF38   | Oferecer acesso a serviços de transporte público, incluindo pré-cadastro do Cartão Mobilidade.                                                                            | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT08</a>                                                                                                                  | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)           |
 
 
-<details>
-  <summary>📋 O aplicativo permite autenticação segura através da plataforma gov.br, com opções como reconhecimento facial. </summary>
-  <p> História de Usuário — US01: Autenticação Segura via gov.br
-#### 
-#### **Título:** Autenticação Segura via gov.br
 
----
+??? info "📋 O aplicativo permite autenticação segura através da plataforma gov.br, com opções como reconhecimento facial."
 
-####  História
+    **História de Usuário — US01: Autenticação Segura via gov.br**
 
-**Como** um cidadão usuário do aplicativo,  
-**Eu quero** me autenticar de forma segura utilizando a plataforma gov.br, com suporte a reconhecimento facial,  
-**Para que** eu possa acessar os serviços oferecidos pelo aplicativo sem precisar criar uma nova conta e com total segurança.
+    ---
 
----
+    #### **Título:** Autenticação Segura via gov.br
 
-####  Critérios de Aceitação
+    ---
 
-- [ ] O sistema deve redirecionar o usuário para a tela oficial de login do gov.br.
-- [ ] Devem ser aceitas formas de autenticação oferecidas pelo gov.br (ex: senha, reconhecimento facial).
-- [ ] Após login bem-sucedido, o sistema deve retornar o usuário ao app com sessão iniciada.
-- [ ] Se o login falhar, uma mensagem clara deve ser exibida e o usuário poderá tentar novamente.
-- [ ] O sistema deve estar em conformidade com a LGPD no tratamento de dados do usuário.
+    #### História
 
----
+    **Como** um cidadão usuário do aplicativo,  
+    **Eu quero** me autenticar de forma segura utilizando a plataforma gov.br, com suporte a reconhecimento facial,  
+    **Para que** eu possa acessar os serviços oferecidos pelo aplicativo sem precisar criar uma nova conta e com total segurança.
 
-####  Subtarefas
+    ---
 
-- [ ] Integrar SDK/API do gov.br ao backend do app.
-- [ ] Implementar interface de redirecionamento para o login gov.br.
-- [ ] Tratar respostas da autenticação (sucesso, falha, erro de rede).
-- [ ] Criar alertas e mensagens de erro amigáveis.
-- [ ] Validar conformidade de dados com a LGPD.
+    #### Critérios de Aceitação
 
----
+    - <input type="checkbox"> O sistema deve redirecionar o usuário para a tela oficial de login do gov.br.
+    - <input type="checkbox"> Devem ser aceitas formas de autenticação oferecidas pelo gov.br (ex: senha, reconhecimento facial).
+    - <input type="checkbox"> Após login bem-sucedido, o sistema deve retornar o usuário ao app com sessão iniciada.
+    - <input type="checkbox"> Se o login falhar, uma mensagem clara deve ser exibida e o usuário poderá tentar novamente.
+    - <input type="checkbox"> O sistema deve estar em conformidade com a LGPD no tratamento de dados do usuário.
 
-####  Rastreabilidade
+    ---
 
-- **Requisito Funcional Relacionado:** RF22
+    #### Subtarefas
 
----
+    - <input type="checkbox"> Integrar SDK/API do gov.br ao backend do app.
+    - <input type="checkbox"> Implementar interface de redirecionamento para o login gov.br.
+    - <input type="checkbox"> Tratar respostas da autenticação (sucesso, falha, erro de rede).
+    - <input type="checkbox"> Criar alertas e mensagens de erro amigáveis.
+    - <input type="checkbox"> Validar conformidade de dados com a LGPD.
 
-####  Estimativa de Esforço
+    ---
 
-- **Story Points:** 5 (médio esforço)
-</p>
-</details>
+    #### Rastreabilidade
+
+    - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF22</a>
+
+    ---
+
+    #### Estimativa de Esforço
+
+    - **Prioridade:** Médio
+  
+    ----
+
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+
+
+
+
 
 
 
