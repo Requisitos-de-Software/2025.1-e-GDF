@@ -116,8 +116,8 @@
     #### Estimativa de Esforço
 
     - **Prioridade:** Média
-  
-  <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+    
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
     
 
 ??? info "📋 O aplicativo deve oferecer uma seção de suporte ao usuário com instruções de uso."
@@ -168,7 +168,7 @@
 
     - **Prioridade:** Média
 
-<font size="3"><p style="text-align: center">Elaborado pelo autor: ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
 
 ??? info "📋 O sistema deve permitir que o usuário visualize e acompanhe o status das suas solicitações."
 
@@ -218,7 +218,7 @@
 
     - **Prioridade:** Média
 
-<font size="3"><p style="text-align: center">Elaborado pelo autor: ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
 
 ??? info "📋 O sistema deve permitir que o usuário confirme a resolução de problemas relatados."
 
@@ -268,11 +268,11 @@
 
     - **Prioridade:** Média
 
-<font size="3"><p style="text-align: center">Elaborado pelo autor: ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
 
 ??? info "📋 O sistema deve permitir que o usuário exclua seus dados e conta do aplicativo."
 
-    **História de Usuário — RF3: Exclusão de Conta e Dados Pessoais**
+    **História de Usuário — RF32: Exclusão de Conta e Dados Pessoais**
 
     ---
 
@@ -317,7 +317,321 @@
     #### Estimativa de Esforço
 
     - **Prioridade:** Média
-<font size="3"><p style="text-align: center">Elaborado pelo autor: ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+
+??? info "🌐 O aplicativo permite que o usuário altere o idioma da interface para melhor usabilidade."
+
+    **História de Usuário — US12: Alteração de Idioma no Aplicativo**
+
+    ---
+
+    #### **Título:** Alteração de Idioma no Aplicativo
+
+    ---
+
+    #### História
+
+    **Como** um usuário do aplicativo,  
+    **Eu quero** poder alterar o idioma da interface do aplicativo facilmente,  
+    **Para que** eu possa utilizar o app no idioma que me for mais confortável ou apropriado.
+
+    ---
+
+    #### Critérios de Aceitação
+
+    - <input type="checkbox"> O sistema deve disponibilizar uma lista com os idiomas suportados para seleção.
+    - <input type="checkbox"> A alteração de idioma deve refletir imediatamente na interface do usuário.
+    - <input type="checkbox"> A preferência de idioma do usuário deve ser salva para futuras sessões.
+    - <input type="checkbox"> O sistema deve manter a consistência da interface após a mudança de idioma.
+    - <input type="checkbox"> Caso o idioma selecionado não seja suportado, deve-se exibir mensagem apropriada.
+
+    ---
+
+    #### Subtarefas
+
+    - <input type="checkbox"> Implementar componente para seleção de idioma na interface.
+    - <input type="checkbox"> Integrar mecanismo de internacionalização (i18n) no app.
+    - <input type="checkbox"> Armazenar preferência do idioma no perfil do usuário ou localmente.
+    - <input type="checkbox"> Traduzir textos e mensagens para os idiomas suportados.
+    - <input type="checkbox"> Testar mudança de idioma em diferentes telas e fluxos.
+
+    ---
+
+    #### Rastreabilidade
+
+    - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF12</a>
+
+    ---
+
+    #### Estimativa de Esforço
+
+    - **Prioridade:** Médio
+
+    ----
+
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), 2025).</p></font>
+
+??? info "⚙️ O aplicativo permite que o usuário personalize suas preferências e perfil para recomendações mais assertivas."
+
+    **História de Usuário — US13: Personalização de Preferências e Perfil**
+
+    ---
+
+    #### **Título:** Personalização de Preferências e Perfil para Recomendações
+
+    ---
+
+    #### História
+
+    **Como** um usuário do aplicativo,  
+    **Eu quero** poder personalizar minhas preferências e configurar meu perfil,  
+    **Para que** as recomendações de serviços oferecidas pelo aplicativo sejam mais adequadas aos meus interesses e necessidades.
+
+    ---
+
+    #### Critérios de Aceitação
+
+    - <input type="checkbox"> O sistema deve permitir que o usuário edite informações do seu perfil (ex: interesses, preferências, localização).
+    - <input type="checkbox"> O usuário deve conseguir selecionar categorias ou tipos de serviços de interesse.
+    - <input type="checkbox"> As preferências personalizadas devem ser salvas e usadas para ajustar as recomendações.
+    - <input type="checkbox"> O sistema deve apresentar sugestões baseadas no perfil e preferências configuradas.
+    - <input type="checkbox"> O usuário deve poder alterar suas preferências a qualquer momento.
+
+    ---
+
+    #### Subtarefas
+
+    - <input type="checkbox"> Criar interface para edição do perfil e preferências.
+    - <input type="checkbox"> Desenvolver backend para armazenar e gerenciar as preferências do usuário.
+    - <input type="checkbox"> Implementar mecanismo de recomendação baseado nas preferências do usuário.
+    - <input type="checkbox"> Testar persistência e atualização das preferências.
+    - <input type="checkbox"> Garantir feedback visual claro ao salvar preferências.
+
+    ---
+
+    #### Rastreabilidade
+
+    - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF13</a>
+
+    ---
+
+    #### Estimativa de Esforço
+
+    - **Prioridade:** Médio
+
+    ----
+
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), 2025).</p></font>
+
+??? info "✉️ O aplicativo permite o envio de mensagens curtas para alertar sobre vencimentos e lembretes importantes."
+
+    **História de Usuário — US14: Envio de Mensagens Curtas para Lembretes**
+
+    ---
+
+    #### **Título:** Envio de Mensagens Curtas sobre Vencimentos e Lembretes
+
+    ---
+
+    #### História
+
+    **Como** um usuário do aplicativo,  
+    **Eu quero** receber mensagens curtas com alertas sobre vencimentos e lembretes importantes,  
+    **Para que** eu possa ser notificado de forma prática e rápida, evitando perder prazos ou compromissos.
+
+    ---
+
+    #### Critérios de Aceitação
+
+    - <input type="checkbox"> O sistema deve enviar notificações ou mensagens curtas para alertar sobre vencimentos próximos.
+    - <input type="checkbox"> O usuário deve poder configurar quais tipos de lembretes deseja receber.
+    - <input type="checkbox"> As mensagens devem ser claras, objetivas e conter informações relevantes.
+    - <input type="checkbox"> O sistema deve garantir o envio das mensagens dentro do prazo configurado.
+    - <input type="checkbox"> O usuário deve poder ativar ou desativar essas notificações a qualquer momento.
+
+    ---
+
+    #### Subtarefas
+
+    - <input type="checkbox"> Implementar sistema de notificações para vencimentos e lembretes.
+    - <input type="checkbox"> Criar interface para configuração das preferências de mensagens.
+    - <input type="checkbox"> Desenvolver mecanismo para agendamento e envio das mensagens.
+    - <input type="checkbox"> Testar o envio das mensagens em diferentes cenários.
+    - <input type="checkbox"> Garantir conformidade com políticas de privacidade e comunicação.
+
+    ---
+
+    #### Rastreabilidade
+
+    - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF14</a>
+
+    ---
+
+    #### Estimativa de Esforço
+
+    - **Prioridade:** Médio
+
+    ----
+
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), 2025).</p></font>
+
+??? info "🔧 O aplicativo permite ao usuário selecionar o tipo de serviço desejado, como implantação, limpeza ou reparo."
+
+    **História de Usuário — US35: Seleção do Tipo de Serviço**
+
+    ---
+
+    #### **Título:** Seleção do Tipo de Serviço (Implantação, Limpeza ou Reparo)
+
+    ---
+
+    #### História
+
+    **Como** um usuário do aplicativo,  
+    **Eu quero** poder selecionar o tipo de serviço que desejo contratar, seja implantação, limpeza ou reparo,  
+    **Para que** eu possa receber um atendimento personalizado conforme minha necessidade específica.
+
+    ---
+
+    #### Critérios de Aceitação
+
+    - <input type="checkbox"> O sistema deve apresentar claramente as opções de serviço (implantação, limpeza, reparo).
+    - <input type="checkbox"> O usuário deve conseguir selecionar apenas um tipo de serviço por solicitação.
+    - <input type="checkbox"> A seleção do tipo de serviço deve influenciar nas opções e recomendações exibidas.
+    - <input type="checkbox"> O sistema deve confirmar a seleção antes de prosseguir com o atendimento.
+    - <input type="checkbox"> O usuário pode alterar a seleção antes da confirmação final.
+
+    ---
+
+    #### Subtarefas
+
+    - <input type="checkbox"> Criar componente de interface para seleção do tipo de serviço.
+    - <input type="checkbox"> Integrar a seleção com o fluxo de atendimento do aplicativo.
+    - <input type="checkbox"> Implementar validação para garantir seleção única por solicitação.
+    - <input type="checkbox"> Testar impacto da seleção na exibição das opções e recomendações.
+    - <input type="checkbox"> Desenvolver mensagens de confirmação e possibilidade de alteração.
+
+    ---
+
+    #### Rastreabilidade
+
+    - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF35</a>
+
+    ---
+
+    #### Estimativa de Esforço
+
+    - **Prioridade:** Médio
+
+    ----
+
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), 2025).</p></font>
+
+??? info "📍 O aplicativo permite ao usuário adicionar descrição textual, imagem e localização GPS da ocorrência."
+
+    **História de Usuário — US36: Registro Detalhado da Ocorrência**
+
+    ---
+
+    #### **Título:** Adição de Descrição, Imagem e Localização GPS da Ocorrência
+
+    ---
+
+    #### História
+
+    **Como** um usuário do aplicativo,  
+    **Eu quero** poder adicionar uma descrição textual, anexar imagens e registrar a localização GPS da ocorrência,  
+    **Para que** eu possa fornecer informações completas e precisas sobre o evento reportado.
+
+    ---
+
+    #### Critérios de Aceitação
+
+    - <input type="checkbox"> O sistema deve permitir a inserção de texto descritivo livre sobre a ocorrência.
+    - <input type="checkbox"> O usuário deve conseguir anexar uma ou mais imagens relacionadas à ocorrência.
+    - <input type="checkbox"> O sistema deve capturar ou permitir o envio da localização GPS do usuário ou da ocorrência.
+    - <input type="checkbox"> As informações adicionadas devem ser salvas corretamente e associadas à ocorrência.
+    - <input type="checkbox"> O usuário deve receber confirmação do sucesso no registro dos dados.
+
+    ---
+
+    #### Subtarefas
+
+    - <input type="checkbox"> Implementar campo de texto para descrição da ocorrência.
+    - <input type="checkbox"> Desenvolver funcionalidade para upload e visualização de imagens.
+    - <input type="checkbox"> Integrar captura ou envio manual da localização GPS.
+    - <input type="checkbox"> Garantir armazenamento e associação dos dados ao registro da ocorrência.
+    - <input type="checkbox"> Criar feedback visual para confirmação do envio.
+
+    ---
+
+    #### Rastreabilidade
+
+    - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF36</a>
+
+    ---
+
+    #### Estimativa de Esforço
+
+    - **Prioridade:** Médio
+
+    ----
+
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), 2025).</p></font>
+
+??? info "🚌 O aplicativo oferece acesso a serviços de transporte público, incluindo o pré-cadastro do Cartão Mobilidade."
+
+    **História de Usuário — US38: Acesso a Serviços de Transporte e Pré-cadastro do Cartão Mobilidade**
+
+    ---
+
+    #### **Título:** Acesso a Serviços de Transporte Público e Pré-cadastro do Cartão Mobilidade
+
+    ---
+
+    #### História
+
+    **Como** um usuário do aplicativo,  
+    **Eu quero** ter acesso aos serviços de transporte público e poder realizar o pré-cadastro do Cartão Mobilidade,  
+    **Para que** eu possa utilizar o transporte público de forma mais prática e rápida, sem precisar fazer todo o cadastro presencialmente.
+
+    ---
+
+    #### Critérios de Aceitação
+
+    - <input type="checkbox"> O sistema deve disponibilizar informações sobre os serviços de transporte público disponíveis.
+    - <input type="checkbox"> O usuário deve poder iniciar o pré-cadastro do Cartão Mobilidade pelo aplicativo.
+    - <input type="checkbox"> O sistema deve validar os dados fornecidos no pré-cadastro.
+    - <input type="checkbox"> O usuário deve receber confirmação e orientações sobre os próximos passos após o pré-cadastro.
+    - <input type="checkbox"> O sistema deve garantir a segurança e privacidade dos dados pessoais durante o processo.
+
+    ---
+
+    #### Subtarefas
+
+    - <input type="checkbox"> Criar interface para acesso às informações e serviços de transporte público.
+    - <input type="checkbox"> Desenvolver formulário para pré-cadastro do Cartão Mobilidade.
+    - <input type="checkbox"> Implementar validação dos dados de pré-cadastro.
+    - <input type="checkbox"> Integrar sistema de confirmação e orientações pós-cadastro.
+    - <input type="checkbox"> Garantir conformidade com normas de segurança e privacidade.
+
+    ---
+
+    #### Rastreabilidade
+
+    - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF38</a>
+
+    ---
+
+    #### Estimativa de Esforço
+
+    - **Prioridade:** Médio
+
+    ----
+
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), 2025).</p></font>
+
 
 
 ## Histórico de Versões
@@ -325,9 +639,15 @@
 | Versão | Descrição                      | Autor(es)                                             | Data       | Revisor(es)                               | Data de Revisão |
 | ------ | ------------------------------ | ----------------------------------------------------- | ---------- | ----------------------------------------- | --------------- |
 | 1.0    | Criação da página e introdução | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 23/05/2025 | [Karoline Luz da Conceição](https://github.com/KarolineLuz) | 23/05/2025      |
-| 1.1    | Criação e elaboração das história de usuário RF22 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 27/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 03/06/2025      |
-| 1.2  | Criação e elaboração das história de usuário RF18 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 27/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 03/06/2025      |
-| 1.3  | Criação e elaboração das história de usuário RF27 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 27/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 03/06/2025      |
-| 1.4  | Criação e elaboração das história de usuário RF30 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 27/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 03/06/2025      |
-| 1.4  | Criação e elaboração das história de usuário RF31 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 27/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 03/06/2025      |
-| 1.5  | Criação e elaboração das história de usuário RF32 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 27/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 03/06/2025      |
+| 1.1    | Criação e elaboração das história de usuário RF22 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 27/05/2025 | [Ana Victória Guedes da Costa](https://github.com/navicg) | 03/06/2025      |
+| 1.2  | Criação e elaboração das história de usuário RF18 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 27/05/2025 | [Ana Victória Guedes da Costa](https://github.com/navicg) | 03/06/2025      |
+| 1.3  | Criação e elaboração das história de usuário RF27 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 27/05/2025 | [Ana Victória Guedes da Costa](https://github.com/navicg) | 03/06/2025      |
+| 1.4  | Criação e elaboração das história de usuário RF30 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 27/05/2025 | [Ana Victória Guedes da Costa](https://github.com/navicg) | 03/06/2025      |
+| 1.4  | Criação e elaboração das história de usuário RF31 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 27/05/2025 | [Ana Victória Guedes da Costa](https://github.com/navicg) | 03/06/2025      |
+| 1.5  | Criação e elaboração das história de usuário RF32 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 27/05/2025 | [Ana Victória Guedes da Costa](https://github.com/navicg) | 03/06/2025      |
+| 1.6  | Criação e elaboração das história de usuário RF12 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 27/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 03/06/2025      |
+| 1.7  | Criação e elaboração das história de usuário RF13 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 27/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 03/06/2025      |
+| 1.8  | Criação e elaboração das história de usuário RF14 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 27/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 03/06/2025      |
+| 1.9  | Criação e elaboração das história de usuário RF35 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 27/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 03/06/2025      |
+| 1.10  | Criação e elaboração das história de usuário RF36 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 27/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 03/06/2025      |
+| 1.11  | Criação e elaboração das história de usuário RF38 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 27/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 03/06/2025      |
