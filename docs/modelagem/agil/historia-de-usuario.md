@@ -9,6 +9,72 @@
 | RF32   | O sistema deve permitir que o usuário exclua seus dados e conta do aplicativo.                                                               | Luiza Pugas  | AD07            |
 
 
+<style>
+details {
+  background-color: #031b2e;
+  border: 1px solidrgb(4, 55, 72);
+  border-radius: 6px;
+  padding: 10px;
+  margin-bottom: 10px;
+  color: white;
+  font-family: sans-serif;
+}
+
+summary {
+  cursor: pointer;
+  font-weight: bold;
+  color:rgb(253, 253, 253);
+}
+</style>
+
+<details>
+  <summary>📋 O aplicativo permite autenticação segura através da plataforma gov.br, com opções como reconhecimento facial. </summary>
+  <p História de Usuário — US01: Autenticação Segura via gov.br
+#### 
+#### **Título:** Autenticação Segura via gov.br
+
+---
+
+####  História
+
+**Como** um cidadão usuário do aplicativo,  
+**Eu quero** me autenticar de forma segura utilizando a plataforma gov.br, com suporte a reconhecimento facial,  
+**Para que** eu possa acessar os serviços oferecidos pelo aplicativo sem precisar criar uma nova conta e com total segurança.
+
+---
+
+####  Critérios de Aceitação
+
+- [ ] O sistema deve redirecionar o usuário para a tela oficial de login do gov.br.
+- [ ] Devem ser aceitas formas de autenticação oferecidas pelo gov.br (ex: senha, reconhecimento facial).
+- [ ] Após login bem-sucedido, o sistema deve retornar o usuário ao app com sessão iniciada.
+- [ ] Se o login falhar, uma mensagem clara deve ser exibida e o usuário poderá tentar novamente.
+- [ ] O sistema deve estar em conformidade com a LGPD no tratamento de dados do usuário.
+
+---
+
+####  Subtarefas
+
+- [ ] Integrar SDK/API do gov.br ao backend do app.
+- [ ] Implementar interface de redirecionamento para o login gov.br.
+- [ ] Tratar respostas da autenticação (sucesso, falha, erro de rede).
+- [ ] Criar alertas e mensagens de erro amigáveis.
+- [ ] Validar conformidade de dados com a LGPD.
+
+---
+
+####  Rastreabilidade
+
+- **Requisito Funcional Relacionado:** RF22
+
+---
+
+####  Estimativa de Esforço
+
+- **Story Points:** 5 (médio esforço)
+</p>
+</details>
+
 
 
 
