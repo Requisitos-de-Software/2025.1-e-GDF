@@ -55,6 +55,25 @@ Contribuições indicam como um *softgoal* impacta outro. Podem ser:
 - **EQUALS**: Correlação direta entre os níveis de satisfação.
 - **SOME**: A contribuição é conhecida, mas sua intensidade é incerta. <a id="anchor_2" href="#REF2">²</a>
 
+<p align="center"><b>Tabela</b> — Histórico de Contribuições</p>
+
+| O que foi feito                                  | Autor(es)                                                                                                  | Data de Criação |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- | --------------- |
+| Adição das tabela modelo de RNF                  | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 28/05/2025      |
+| Adição das tabela modelo Cartão de Especificação | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 28/05/2025      |
+| Adição de tabela Compatibilidade                 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)                                                      | 28/05/2025      |
+| Adição de tabela Segurança                       | [Luiza da Silva Pugas](https://github.com/Luizaxx)                                                         | 28/05/2025      |
+| Adição de tabela Usabilidade                     | [Lucas Mendonça](https://github.com/lucasarruda9)                                                          | 28/05/2025      |
+| Adição de tabela Acessibilidade                  | [Ana Victória Guedes da Costa](https://github.com/navicg)                                                  | 28/05/2025      |
+| Adição de tabela Desempenho                      | [Artur Mendonça Arruda](https://github.com/ArtyMend07)                                                     | 28/05/2025      |
+| Adição de tabela Responsividade                  | [Gabriel Lopes](https://github.com/BrzGab)                                                                 | 28/05/2025      |
+| Adição de tabela Confiabilidade                  | [Karoline Luz da Conceição](https://github.com/KarolineLuz)                                                | 28/05/2025      |
+| Adição de tabela Autonomia/Offline               | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 28/05/2025      |
+| Adição de tabela Aparência                       | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 28/05/2025      |
+
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelos autores ([João Marcos](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
+
+
 ## Metodologia
 
 1. Definição dos temas (e.g., Confiabilidade, Desempenho, Suportabilidade, Usabilidade).
