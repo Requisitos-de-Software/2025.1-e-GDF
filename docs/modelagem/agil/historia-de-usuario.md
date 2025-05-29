@@ -65,6 +65,15 @@ A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma
 | RF19 | O aplicativo permite a visualização da localização dos ônibus em tempo real, incluindo previsão de chegada e rota no mapa. | <a href="../tec_elicitacao/entrevista/#anchor_EN">EN01</a> | [Gabriel Lopes](https://github.com/BrzGab) |
 | RF23 | O aplicativo facilita o acesso a serviços relacionados a impostos (como boletos do IPVA) com instruções claras. | <a href="../tec_elicitacao/entrevista/#anchor_EN">EN05</a> | [Gabriel Lopes](https://github.com/BrzGab) |
 | RF34 | Disponibilizar categorias pré-definidas para o tipo de ocorrência, facilitando a triagem pelos órgãos competentes. | <a href="../tec_elicitacao/introspeccao/#anchor_INT">INT02</a> | [Gabriel Lopes](https://github.com/BrzGab) |
+| RF16 | O sistema deve permitir que o usuário acesse informações centralizadas sobre agendamentos e reagendamentos.     | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR17</a>      | [Karoline Luz da Conceição](https://github.com/KarolineLuz) |
+| RF25 | O sistema deve permitir que o usuário reporte problemas urbanos por meio de um mapa interativo.                 | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN09</a>         | [Karoline Luz da Conceição](https://github.com/KarolineLuz) |
+| RF26 | O sistema deve fornecer acesso aos números de serviços de emergência, como os da polícia.                       | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN10</a>, <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT05</a> | [Karoline Luz da Conceição](https://github.com/KarolineLuz) |
+| RF28 | O sistema deve permitir que o usuário solicite serviços públicos, como coleta de lixo, reparo de vias e outros. | <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD02</a> | [Karoline Luz da Conceição](https://github.com/KarolineLuz) |
+| RF29 | O sistema deve permitir que o usuário utilize um mapa para localizar onde os serviços foram solicitados.        | <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD03</a> | [Karoline Luz da Conceição](https://github.com/KarolineLuz) |
+| RF43 | O sistema deve integrar um assistente virtual ou chatbot com respostas automáticas para dúvidas frequentes.     | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT13</a>, <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR18</a> | [Karoline Luz da Conceição](https://github.com/KarolineLuz) |
+
+
+
 
 
 
@@ -1002,6 +1011,323 @@ A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
 
+
+??? info "Acessar informações de agendamento e reagendamento de forma centralizada, promovendo praticidade e transparência ao cidadão"
+
+	**História de Usuário — RF16: Centralização das Informações de Agendamento**
+
+	---
+
+	#### **Título:** Acesso Centralizado a Agendamentos e Reagendamentos
+
+	---
+
+	#### História
+
+	**Como** um cidadão usuário do aplicativo,  
+	**Eu quero** acessar informações de agendamento e reagendamento em um local centralizado,  
+	**Para que** eu possa acompanhar meus compromissos com o GDF de maneira prática e organizada.
+
+	---
+
+	#### Critérios de Aceitação
+
+	- <input type="checkbox"> O sistema deve exibir uma área unificada com os agendamentos e reagendamentos realizados.
+	- <input type="checkbox"> As informações devem estar atualizadas em tempo real.
+	- <input type="checkbox"> Deve ser possível visualizar detalhes como data, horário, local e serviço.
+	- <input type="checkbox"> O sistema deve permitir filtrar por tipo de serviço ou data.
+	- <input type="checkbox"> A interface deve ser responsiva e acessível em diferentes dispositivos.
+
+	---
+
+	#### Subtarefas
+
+	- <input type="checkbox"> Mapear os serviços do GDF que exigem agendamento.
+	- <input type="checkbox"> Criar interface para exibição consolidada de agendamentos.
+	- <input type="checkbox"> Integrar sistema com as APIs dos serviços para obtenção dos dados.
+	- <input type="checkbox"> Implementar filtros e ordenações por tipo de serviço e data.
+	- <input type="checkbox"> Garantir acessibilidade da interface (WCAG).
+
+	---
+
+	#### Rastreabilidade
+
+	- **Requisito Funcional Relacionado:** <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR17</a>
+
+	---
+
+	#### Estimativa de Esforço
+
+	- **Prioridade:** Alta
+
+	---
+
+	<font size="3"><p style="text-align: center">Elaborado pelo autor: ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025).</p></font>
+
+
+??? info "Permitir que cidadãos reportem problemas da cidade de forma intuitiva, utilizando um mapa interativo para localização precisa"
+
+	**História de Usuário — RF25: Reporte de Problemas pelo Mapa Interativo**
+
+	---
+
+	#### **Título:** Reporte de Problemas via Mapa Interativo
+
+	---
+
+	#### História
+
+	**Como** um cidadão usuário do aplicativo,  
+	**Eu quero** reportar problemas da cidade através de um mapa interativo,  
+	**Para que** eu possa localizar facilmente o local da ocorrência e facilitar a identificação pelas autoridades responsáveis.
+
+	---
+
+	#### Critérios de Aceitação
+
+	- <input type="checkbox"> O sistema deve disponibilizar um mapa interativo com zoom e movimentação.
+	- <input type="checkbox"> O usuário deve poder clicar no mapa para marcar o local do problema.
+	- <input type="checkbox"> Deve ser possível anexar uma descrição e foto ao ponto marcado.
+	- <input type="checkbox"> O sistema deve registrar a coordenada geográfica do ponto selecionado.
+	- <input type="checkbox"> O mapa deve permitir busca por endereço para facilitar a localização.
+
+	---
+
+	#### Subtarefas
+
+	- <input type="checkbox"> Integrar API de mapa interativo (ex: Google Maps ou OpenStreetMap).
+	- <input type="checkbox"> Criar interface para seleção e marcação do local da ocorrência.
+	- <input type="checkbox"> Implementar campos para descrição e upload de imagem.
+	- <input type="checkbox"> Validar dados geográficos e armazenar com o reporte.
+	- <input type="checkbox"> Adicionar busca de endereços com sugestão automática.
+
+	---
+
+	#### Rastreabilidade
+
+	- **Requisito Funcional Relacionado:** <a href="../tec_elicitacao/entrevista/#anchor_EN09">EN09</a>
+
+	---
+
+	#### Estimativa de Esforço
+
+	- **Prioridade:** Média
+
+	---
+
+	<font size="3"><p style="text-align: center">Elaborado pelo autor: ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025).</p></font>
+
+
+??? info "Fornecer acesso rápido aos números de emergência da polícia, promovendo segurança e agilidade em situações críticas"
+
+	**História de Usuário — RF26: Acesso a Serviços de Emergência**
+
+	---
+
+	#### **Título:** Acesso Rápido aos Números da Polícia
+
+	---
+
+	#### História
+
+	**Como** um cidadão usuário do aplicativo,  
+	**Eu quero** ter acesso imediato aos números de emergência da polícia,  
+	**Para que** eu possa contatar as autoridades rapidamente em situações de perigo ou urgência.
+
+	---
+
+	#### Critérios de Aceitação
+
+	- <input type="checkbox"> O sistema deve exibir claramente o número da polícia em uma área de fácil acesso.
+	- <input type="checkbox"> O número deve estar disponível mesmo sem login no aplicativo.
+	- <input type="checkbox"> Deve haver botão de chamada direta ao número de emergência.
+	- <input type="checkbox"> O sistema deve permitir acesso rápido a partir da tela inicial.
+	- <input type="checkbox"> A interface deve seguir padrões de acessibilidade.
+
+	---
+
+	#### Subtarefas
+
+	- <input type="checkbox"> Identificar os serviços de emergência relevantes para exibir.
+	- <input type="checkbox"> Criar componente visual destacado para número da polícia.
+	- <input type="checkbox"> Implementar funcionalidade de chamada direta.
+	- <input type="checkbox"> Garantir visibilidade do recurso mesmo sem autenticação.
+	- <input type="checkbox"> Testar responsividade e acessibilidade do botão.
+
+	---
+
+	#### Rastreabilidade
+
+	- **Requisitos Funcionais Relacionados:** <a href="../tec_elicitacao/entrevista/#anchor_EN10">EN10</a>, <a href="../tec_elicitacao/entrevista/#anchor_INT05">INT05</a>
+
+	---
+
+	#### Estimativa de Esforço
+
+	- **Prioridade:** Alta
+
+	---
+
+	<font size="3"><p style="text-align: center">Elaborado pelo autor: ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025).</p></font>
+
+??? info "Permitir que cidadãos solicitem serviços públicos de forma simples e eficiente, promovendo melhorias na infraestrutura urbana"
+
+	**História de Usuário — RF28: Solicitação de Serviços Públicos**
+
+	---
+
+	#### **Título:** Solicitação de Serviços Públicos Diversos
+
+	---
+
+	#### História
+
+	**Como** um cidadão usuário do aplicativo,  
+	**Eu quero** solicitar serviços públicos como coleta de lixo e reparo de vias,  
+	**Para que** a administração pública possa atender às necessidades da população de maneira mais ágil e organizada.
+
+	---
+
+	#### Critérios de Aceitação
+
+	- <input type="checkbox"> O sistema deve apresentar uma lista de serviços públicos disponíveis para solicitação.
+	- <input type="checkbox"> O usuário deve poder selecionar o serviço desejado e descrever o problema.
+	- <input type="checkbox"> O sistema deve permitir a marcação da localização da solicitação.
+	- <input type="checkbox"> O usuário deve poder anexar imagens da situação ao enviar a solicitação.
+	- <input type="checkbox"> O sistema deve gerar um protocolo para acompanhamento da solicitação.
+
+	---
+
+	#### Subtarefas
+
+	- <input type="checkbox"> Definir os serviços públicos que poderão ser solicitados via aplicativo.
+	- <input type="checkbox"> Criar interface de seleção e detalhamento da solicitação.
+	- <input type="checkbox"> Integrar módulo de geolocalização para marcação do local.
+	- <input type="checkbox"> Implementar envio de imagens junto à solicitação.
+	- <input type="checkbox"> Desenvolver sistema de protocolo e acompanhamento.
+
+	---
+
+	#### Rastreabilidade
+
+	- **Requisito Funcional Relacionado:** <a href="../tec_elicitacao/analisededocumentos/#anchor_AD02">AD02</a>
+
+	---
+
+	#### Estimativa de Esforço
+
+	- **Prioridade:** Alta
+
+	---
+
+	<font size="3"><p style="text-align: center">Elaborado pelo autor: ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025).</p></font>
+
+??? info "Permitir que o cidadão visualize no mapa onde serviços públicos foram solicitados, promovendo maior transparência e controle"
+
+	**História de Usuário — RF29: Visualização de Solicitações em Mapa**
+
+	---
+
+	#### **Título:** Localização de Solicitações de Serviço no Mapa
+
+	---
+
+	#### História
+
+	**Como** um cidadão usuário do aplicativo,  
+	**Eu quero** visualizar no mapa os locais onde os serviços públicos foram solicitados,  
+	**Para que** eu possa acompanhar as demandas da minha região e verificar se minha solicitação foi registrada corretamente.
+
+	---
+
+	#### Critérios de Aceitação
+
+	- <input type="checkbox"> O sistema deve exibir um mapa com marcadores indicando os pontos de solicitação de serviços.
+	- <input type="checkbox"> Cada marcador deve apresentar informações básicas da solicitação.
+	- <input type="checkbox"> O mapa deve permitir filtragem por tipo de serviço e status da solicitação.
+	- <input type="checkbox"> A interface deve permitir zoom e movimentação do mapa.
+	- <input type="checkbox"> As informações devem ser atualizadas em tempo real.
+
+	---
+
+	#### Subtarefas
+
+	- <input type="checkbox"> Integrar API de mapas com capacidade de marcação dinâmica.
+	- <input type="checkbox"> Mapear dados das solicitações com coordenadas geográficas.
+	- <input type="checkbox"> Criar marcadores customizados por tipo/status de serviço.
+	- <input type="checkbox"> Implementar sistema de filtros por categoria e status.
+	- <input type="checkbox"> Garantir responsividade e desempenho da visualização no mapa.
+
+	---
+
+	#### Rastreabilidade
+
+	- **Requisito Funcional Relacionado:** <a href="../tec_elicitacao/analisededocumentos/#anchor_AD03">AD03</a>
+
+	---
+
+	#### Estimativa de Esforço
+
+	- **Prioridade:** Alta
+
+	---
+
+	<font size="3"><p style="text-align: center">Elaborado pelo autor: ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025).</p></font>
+
+
+??? info "Disponibilizar um assistente virtual para responder automaticamente dúvidas frequentes dos usuários, oferecendo suporte ágil e contínuo"
+
+	**História de Usuário — RF43: Integração com Assistente Virtual**
+
+	---
+
+	#### **Título:** Chatbot para Dúvidas Frequentes
+
+	---
+
+	#### História
+
+	**Como** um cidadão usuário do aplicativo,  
+	**Eu quero** interagir com um assistente virtual ou chatbot com respostas automáticas,  
+	**Para que** eu possa esclarecer dúvidas frequentes rapidamente, sem depender de atendimento humano.
+
+	---
+
+	#### Critérios de Aceitação
+
+	- <input type="checkbox"> O sistema deve disponibilizar um chatbot acessível a partir da tela inicial.
+	- <input type="checkbox"> O assistente virtual deve responder perguntas comuns sobre uso do aplicativo e serviços oferecidos.
+	- <input type="checkbox"> O chatbot deve reconhecer palavras-chave e apresentar respostas coerentes.
+	- <input type="checkbox"> Deve haver opção de redirecionamento para atendimento humano em casos mais complexos.
+	- <input type="checkbox"> As respostas do chatbot devem ser claras, objetivas e acessíveis.
+
+	---
+
+	#### Subtarefas
+
+	- <input type="checkbox"> Definir as dúvidas frequentes e respostas padrão.
+	- <input type="checkbox"> Integrar API ou serviço de chatbot com o aplicativo.
+	- <input type="checkbox"> Criar interface de chat com histórico de conversas.
+	- <input type="checkbox"> Implementar fallback para atendimento humano quando necessário.
+	- <input type="checkbox"> Realizar testes de usabilidade com interações reais.
+
+	---
+
+	#### Rastreabilidade
+
+	- **Requisito Funcional Relacionado:** RF43
+
+	---
+
+	#### Estimativa de Esforço
+
+	- **Prioridade:** Alta
+
+	---
+
+	<font size="3"><p style="text-align: center">Elaborado pelo autor: ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025).</p></font>
+
+
 ## Referências Bibliográficas
 
 > <a id="FRM1" href="#anchor_1">1.</a>PRESSMAN, Roger S. Engenharia de software: uma abordagem profissional. 8. ed. Porto Alegre: AMGH, 2016.
@@ -1038,3 +1364,9 @@ A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma
 | 1.16  | Criação e elaboração das história de usuário RF23 | [Gabriel Lopes](https://github.com/BrzGab) | 28/05/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 03/06/2025      |
 | 1.17  | Criação e elaboração das história de usuário RF34 | [Gabriel Lopes](https://github.com/BrzGab) | 28/05/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 03/06/2025      |
 | 1.18  | Adicionando introdução, metodologia e referências bibliográficas | [Ana Victória Guedes da Costa](https://github.com/navicg) | 28/05/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 03/06/2025      |
+| 1.19  |        Criação e elaboração das história de usuário RF16                                          |     [Karoline Luz](https://github.com/KarolineLuz)                                         | 28/05/2025             |   [Artur Mendonça](https://github.com/ArtyMend07)                                          |   03/06/2025                |
+| 1.20  |        Criação e elaboração das história de usuário RF25                                          |     [Karoline Luz](https://github.com/KarolineLuz)                                         | 28/05/2025             |   [Artur Mendonça](https://github.com/ArtyMend07)                                          |   03/06/2025                |
+| 1.21  |        Criação e elaboração das história de usuário RF26                                          |     [Karoline Luz](https://github.com/KarolineLuz)                                         | 28/05/2025             |   [Artur Mendonça](https://github.com/ArtyMend07)                                          |   03/06/2025                |
+| 1.22  |        Criação e elaboração das história de usuário RF28                                         |     [Karoline Luz](https://github.com/KarolineLuz)                                         | 28/05/2025             |   [Artur Mendonça](https://github.com/ArtyMend07)                                          |   03/06/2025                |
+| 1.23  |        Criação e elaboração das história de usuário RF29                                          |     [Karoline Luz](https://github.com/KarolineLuz)                                         | 28/05/2025             |   [Artur Mendonça](https://github.com/ArtyMend07)                                          |   03/06/2025                |
+| 1.24 |        Criação e elaboração das história de usuário RF43                                          |     [Karoline Luz](https://github.com/KarolineLuz)                                         | 28/05/2025             |   [Artur Mendonça](https://github.com/ArtyMend07)                                          |   03/06/2025                |
