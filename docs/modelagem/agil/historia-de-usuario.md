@@ -1332,6 +1332,13 @@ A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma
 
 > <a id="FRM1" href="#anchor_1">1.</a>PRESSMAN, Roger S. Engenharia de software: uma abordagem profissional. 8. ed. Porto Alegre: AMGH, 2016.
 
+<div style="text-align: center">
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/cria%C3%A7%C3%A3o-de-hist%C3%B3rias-de-usu%C3%A1rio/docs/assets/modelagem/historia_usuario1.png" >
+</div>
+
+<div style="text-align: center">
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/cria%C3%A7%C3%A3o-de-hist%C3%B3rias-de-usu%C3%A1rio/docs/assets/modelagem/historia_usuario2.png" >
+</div>
 
 ## Histórico de Versões
 
