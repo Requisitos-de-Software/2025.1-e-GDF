@@ -70,6 +70,15 @@ Com base nas técnicas de análise de documentos, entrevistas, introspecção e 
 <font size="3"><p style="text-align: center">Elaborado por: [Karoline Luz](https://github.com/KarolineLuz) e [Ana Victória](https://github.com/navicg).</p></font>
 
 
+## Conclusão
+
+A construção do perfil de usuário do sistema **e-GDF** permitiu identificar as principais características, comportamentos e necessidades dos usuários reais e potenciais. Com base em três técnicas complementares de elicitação — análise de documentos, entrevistas e brainstorming — foi possível obter uma visão abrangente dos perfis envolvidos no uso da aplicação.
+
+A análise revelou que os usuários são, em sua maioria, adultos moradores do Distrito Federal, com familiaridade  mediana com tecnologia, e que utilizam o aplicativo ocasionalmente para resolver questões relacionadas à mobilidade, infraestrutura, tributos e educação. Também foi constatado que a usabilidade inicial representa um desafio, indicando a necessidade de melhorias na interface e na navegabilidade do sistema.
+
+Essas informações são essenciais para guiar decisões no processo de desenvolvimento e refinamento dos requisitos, garantindo que o sistema esteja alinhado com as expectativas e dificuldades reais dos seus usuários. Ao compreender profundamente quem são os usuários do **e-GDF**, é possível construir soluções mais eficazes, acessíveis e centradas nas suas reais demandas.
+
+
 ### **Referências Bibliográficas:**
 
 
@@ -77,6 +86,14 @@ Com base nas técnicas de análise de documentos, entrevistas, introspecção e 
 
 > <a id="FRM1" href="#anchor_1">1.</a>BAXTER, Kathy; COURAGE, Catherine. Understanding your users: a practical guide to user requirements. San Francisco: Morgan Kaufmann, 2005.
 
+
+> BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. **Interação humano-computador**. Rio de Janeiro: Elsevier, 2010.
+
+<font size="3"><p style="text-align: center">Figura 11: <i>foto do texto da referência</i></p></font>
+
+<div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs-cria%C3%A7%C3%A3o-lista-de-verifica%C3%A7%C3%A3o---modelagem/docs/assets/modelagem/L%C3%A9xico1.png" alt="SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 10. Brasília: UnB-Gama, 2017. 35 slides, color." width="100px"><br><a href="https://aprender3.unb.br/pluginfile.php/2124471/mod_resource/content/1/Aula%2010.pdf">Acessar PDF</a></div>
+
+<font size="2"><p style="text-align: center">Fonte: [Caio Duarte](https://github.com/caioduart3), 2025.</p></font>
 
 ### **Bibliografias:**
 > <a id="FRM1" href="#anchor_1">1.</a>SMITH, John E. Brainstorming groups: size and effectiveness. [S.l.]: Southern Nazarene University. Disponível em: <https://home.snu.edu/~jsmith/library/body/v26.pdf>. Acesso em: 02 abr. 2025.
@@ -102,3 +119,4 @@ Com base nas técnicas de análise de documentos, entrevistas, introspecção e 
 | 1.2    | Adicionando perfil de usuário, metodologias e resultados das técnicas de elicitação | [Karoline Luz](https://github.com/KarolineLuz) e [Ana Victória](https://github.com/navicg) | 02/05/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 03/04/2025 |
 | 1.3    | Adicionando mais informações no perfil de usuário              | [Karoline Luz](https://github.com/KarolineLuz) e [Ana Victória](https://github.com/navicg) | 03/05/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 03/05/2025 |
 | 1.4    | Correção e padronização das tabelas, fontes e ajustes gerais   | [Karoline Luz](https://github.com/KarolineLuz) | 08/05/2025 | [Ana Victória](https://github.com/navicg) | 08/05/2025
+| 1.5    | Criação da Conclusão    | [Karoline Luz](https://github.com/KarolineLuz) | 29/05/2025 | [Ana Victória](https://github.com/navicg) | 30/05/2025
