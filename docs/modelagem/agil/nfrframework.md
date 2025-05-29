@@ -116,15 +116,15 @@ Contribuições indicam como um *softgoal* impacta outro. Podem ser:
 
 | Softgoal            | RNFs Relacionados                        |
 | ------------------- | ---------------------------------------- |
-| *Compatibilidade*   | RNF01, RNF19                             |
-| *Segurança*         | RNF02, RNF14, RNF22                      |
-| *Usabilidade*       | RNF03, RNF10, RNF11, RNF16, RNF21        |
-| *Acessibilidade*    | RNF04, RNF09, RNF17                      |
-| *Desempenho*        | RNF06, RNF07, RNF13, RNF15, RNF20, RNF24 |
-| *Responsividade*    | RNF08                                    |
-| *Confiabilidade*    | RNF12                                    |
-| *Autonomia/Offline* | RNF23                                    |
-| *Aparência*         | RNF18                                    |
+| *Compatibilidade*   | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF01</a>, <a href="/elicitacao/req_elicitados/#anchor_RF">RNF19</a>                             |
+| *Segurança*         | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF02</a>, <a href="/elicitacao/req_elicitados/#anchor_RF">RNF14</a>, <a href="/elicitacao/req_elicitados/#anchor_RF">RNF22</a>                      |
+| *Usabilidade*       | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF03</a>, <a href="/elicitacao/req_elicitados/#anchor_RF">RNF10</a>, <a href="/elicitacao/req_elicitados/#anchor_RF">RNF11</a>, <a href="/elicitacao/req_elicitados/#anchor_RF">RNF16</a>, <a href="/elicitacao/req_elicitados/#anchor_RF">RNF21</a>        |
+| *Acessibilidade*    | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF04</a>, <a href="/elicitacao/req_elicitados/#anchor_RF">RNF09</a>, <a href="/elicitacao/req_elicitados/#anchor_RF">RNF17</a>                     |
+| *Desempenho*        | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF06</a>, <a href="/elicitacao/req_elicitados/#anchor_RF">RNF07</a>, <a href="/elicitacao/req_elicitados/#anchor_RF">RNF13</a>, <a href="/elicitacao/req_elicitados/#anchor_RF">RNF15</a>, <a href="/elicitacao/req_elicitados/#anchor_RF">RNF20</a>, <a href="/elicitacao/req_elicitados/#anchor_RF">RNF24</a> |
+| *Responsividade*    | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF08</a>                                    |
+| *Confiabilidade*    | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF12</a>                                    |
+| *Autonomia/Offline* | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF23</a>                                    |
+| *Aparência*         | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF18</a>                                    |
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ( [João Marcos](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
 
@@ -156,7 +156,7 @@ Os cartões de especificação a seguir, Tabelas de 1 a n, foram utilizados para
 
 | *Item*                  | *Descrição*                                                                                                  |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------ |
-| *Nr Requisito*          | RNF01 / RNF19                                                                                                |
+| *Nr Requisito*          | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF01</a> / <a href="/elicitacao/req_elicitados/#anchor_RF">RNF19</a>                                                                                                |
 | *Classificação*         | Compatibilidade                                                                                              |
 | *Descrição*             | O sistema deve ser compatível com vários dispositivos, incluindo Android e iOS, e suportar versões recentes. |
 | *Justificativa*         | Garantir que o maior número possível de usuários possa utilizar o sistema independentemente do dispositivo.  |
@@ -175,7 +175,7 @@ Os cartões de especificação a seguir, Tabelas de 1 a n, foram utilizados para
 
 | *Item*                  | *Descrição*                                                                                                 |
 | ----------------------- | ----------------------------------------------------------------------------------------------------------- |
-| *Nr Requisito*          | RNF02 / RNF14 / RNF22                                                                                       |
+| *Nr Requisito*          | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF02</a> / <a href="/elicitacao/req_elicitados/#anchor_RF">RNF14</a> / <a href="/elicitacao/req_elicitados/#anchor_RF">RNF22</a>                                                                                       |
 | *Classificação*         | Segurança                                                                                                   |
 | *Descrição*             | O sistema deve proteger os dados dos usuários, estar em conformidade com a LGPD e usar autenticação segura. |
 | *Justificativa*         | É essencial garantir a privacidade, segurança e confiança do usuário na utilização do aplicativo.           |
@@ -194,7 +194,7 @@ Os cartões de especificação a seguir, Tabelas de 1 a n, foram utilizados para
 
 | *Item*                  | *Descrição*                                                                                                           |
 | ----------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| *Nr Requisito*          | RNF03 / RNF10 / RNF11 / RNF16 / RNF21                                                                                 |
+| *Nr Requisito*          | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF03</a> / <a href="/elicitacao/req_elicitados/#anchor_RF">RNF10</a> / <a href="/elicitacao/req_elicitados/#anchor_RF">RNF11</a> / <a href="/elicitacao/req_elicitados/#anchor_RF">RNF16</a> / <a href="/elicitacao/req_elicitados/#anchor_RF">RNF21</a>                                                                                |
 | *Classificação*         | Usabilidade                                                                                                           |
 | *Descrição*             | O sistema deve ser intuitivo, acessível, com linguagem clara e apropriada a diferentes perfis de usuários.            |
 | *Justificativa*         | Uma boa usabilidade aumenta a adesão ao aplicativo e reduz a curva de aprendizado dos usuários.                       |
@@ -213,7 +213,7 @@ Os cartões de especificação a seguir, Tabelas de 1 a n, foram utilizados para
 
 | *Item*                  | *Descrição*                                                                                                                      |
 | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| *Nr Requisito*          | RNF04 / RNF09 / RNF17                                                                                                            |
+| *Nr Requisito*          | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF04</a> / <a href="/elicitacao/req_elicitados/#anchor_RF">RNF09</a> / <a href="/elicitacao/req_elicitados/#anchor_RF">RNF17</a>                                                                                                            |
 | *Classificação*         | Acessibilidade                                                                                                                   |
 | *Descrição*             | O sistema deve oferecer suporte a leitores de tela, acessibilidade visual e opções de uso para idosos e pessoas com deficiência. |
 | *Justificativa*         | Garante que o sistema seja inclusivo, atendendo usuários com diferentes capacidades.                                             |
@@ -232,7 +232,7 @@ Os cartões de especificação a seguir, Tabelas de 1 a n, foram utilizados para
 
 | *Item*                  | *Descrição*                                                                                                                              |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| *Nr Requisito*          | RNF06 / RNF07 / RNF13 / RNF15 / RNF20 / RNF24                                                                                            |
+| *Nr Requisito*          | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF06</a> / <a href="/elicitacao/req_elicitados/#anchor_RF">RNF07</a> / <a href="/elicitacao/req_elicitados/#anchor_RF">RNF13</a> / <a href="/elicitacao/req_elicitados/#anchor_RF">RNF15</a> / <a href="/elicitacao/req_elicitados/#anchor_RF">RNF20</a> / <a href="/elicitacao/req_elicitados/#anchor_RF">RNF24</a>                                                                                            |
 | *Classificação*         | Desempenho                                                                                                                               |
 | *Descrição*             | O sistema deve garantir fluidez na navegação, carregamento rápido, estabilidade e tempo de resposta adequado, mesmo em conexões móveis.  |
 | *Justificativa*         | Garante uma experiência eficiente e satisfatória para o usuário, especialmente em contextos com recursos limitados.                      |
@@ -252,7 +252,7 @@ Os cartões de especificação a seguir, Tabelas de 1 a n, foram utilizados para
 
 | *Item*                  | *Descrição*                                                                                                        |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| *Nr Requisito*          | RNF08                                                                                                              |
+| *Nr Requisito*          | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF08</a>                                                                                                              |
 | *Classificação*         | Responsividade                                                                                                     |
 | *Descrição*             | O layout do sistema deve se adaptar corretamente a diferentes tamanhos de tela (smartphones, tablets, etc.).       |
 | *Justificativa*         | Melhorar a experiência do usuário em qualquer dispositivo, sem distorções visuais ou limitações funcionais.        |
@@ -271,7 +271,7 @@ Os cartões de especificação a seguir, Tabelas de 1 a n, foram utilizados para
 
 | *Item*                  | *Descrição*                                                                                                   |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------- |
-| *Nr Requisito*          | RNF12                                                                                                         |
+| *Nr Requisito*          | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF12</a>                                                                                                         |
 | *Classificação*         | Confiabilidade                                                                                                |
 | *Descrição*             | O aplicativo deve garantir que as informações exibidas estejam atualizadas e reflitam fielmente a realidade.  |
 | *Justificativa*         | Evita decisões erradas baseadas em dados desatualizados, essencial para áreas críticas como saúde e educação. |
@@ -290,7 +290,7 @@ Os cartões de especificação a seguir, Tabelas de 1 a n, foram utilizados para
 
 | *Item*                  | *Descrição*                                                                                                |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------- |
-| *Nr Requisito*          | RNF23                                                                                                      |
+| *Nr Requisito*          | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF23</a>                                                                                                      |
 | *Classificação*         | Autonomia / Modo Offline                                                                                   |
 | *Descrição*             | O aplicativo deve funcionar parcialmente em modo offline, permitindo a consulta de registros já acessados. |
 | *Justificativa*         | Permitir o uso em locais com conectividade instável, ampliando o alcance e utilidade do sistema.           |
@@ -309,7 +309,7 @@ Os cartões de especificação a seguir, Tabelas de 1 a n, foram utilizados para
 
 | *Item*                  | *Descrição*                                                                                                         |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| *Nr Requisito*          | RNF18                                                                                                               |
+| *Nr Requisito*          | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF18</a>                                                                                                               |
 | *Classificação*         | Aparência                                                                                                           |
 | *Descrição*             | O aplicativo deve ter uma aparência profissional e confiável para transmitir credibilidade ao usuário.              |
 | *Justificativa*         | Aparência visual impacta a confiança e a percepção de segurança do usuário, especialmente em apps públicos.         |
