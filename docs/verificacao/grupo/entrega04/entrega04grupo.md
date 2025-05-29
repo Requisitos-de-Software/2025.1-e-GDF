@@ -1,4 +1,4 @@
-# Lista de Verificação da Entrega 3
+# Lista de Verificação da Entrega 4
 
 Este documento apresenta uma lista de verificação para avaliar os artefatos produzidos na Entrega 3, tantos para o grupo e o grupo +1. As tabelas foram elaboradas com base no plano de ensino e na lista de verificação sugerida pelo professor, [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342), sendo uma lista de verificação que será usada na inspeção da entrega 4.
 
@@ -56,3 +56,8 @@ Este documento apresenta uma lista de verificação para avaliar os artefatos pr
 <font size="3"><p align="center">Elaborado pelo autor: ([João Marcos](https://github.com/JJOAOMARCOSS), 2025).</p></font>
 
 ---
+
+# Histórico de Versões
+| Versão | Descrição                                                                                          | Autor(es)                                             | Data       | Revisor(es)                                        | Data de revisão |
+| ------ | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------- | -------------------------------------------------- | --------------- |
+| 1.0    | Adicionando tabelas da lista de verificação da entrega 4 do plano de ensino | [Ana Victória](https://github.com/navicg) | 29/05/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 31/05/2025  
