@@ -1332,6 +1332,58 @@ A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma
 	<font size="3"><p style="text-align: center">Elaborado pelo autor: ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025).</p></font>
 
 
+??? info "Garantir a usabilidade do sistema para usuários idosos, oferecendo design acessível e funcionalidades intuitivas que promovam inclusão digital"
+
+	**História de Usuário — RNF16: Usabilidade para Usuários Idosos**
+
+	---
+
+	#### **Título:** Acessibilidade e Usabilidade para Idosos
+
+	---
+
+	#### História
+
+	**Como** um cidadão idoso usuário do aplicativo,  
+	**Eu quero** uma interface acessível e fácil de entender,  
+	**Para que** eu consiga utilizar as funcionalidades do sistema com autonomia e sem dificuldades.
+
+	---
+
+	#### Critérios de Aceitação
+
+	- <input type="checkbox"> O sistema deve apresentar fontes ampliadas e legíveis por padrão.
+	- <input type="checkbox"> Os botões e elementos interativos devem ter tamanho adequado para toque.
+	- <input type="checkbox"> As funcionalidades devem estar organizadas de forma intuitiva e com linguagem clara.
+	- <input type="checkbox"> O aplicativo deve ser compatível com leitores de tela.
+	- <input type="checkbox"> Deve haver possibilidade de ativar um modo de acessibilidade com alto contraste.
+
+	---
+
+	#### Subtarefas
+
+	- <input type="checkbox"> Implementar diretrizes de design inclusivo voltado para idosos.
+	- <input type="checkbox"> Testar o aplicativo com usuários reais da terceira idade.
+	- <input type="checkbox"> Criar modo de acessibilidade configurável.
+	- <input type="checkbox"> Garantir compatibilidade com ferramentas de apoio, como leitores de tela.
+	- <input type="checkbox"> Reescrever textos com linguagem simples e direta.
+
+	---
+
+	#### Rastreabilidade
+
+	- **Requisito Não Funcional Relacionado:** <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN06</a>
+
+	---
+
+	#### Estimativa de Esforço
+
+	- **Prioridade:** Alta
+
+	---
+
+	<font size="3"><p style="text-align: center">Elaborado pelo autor: ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025).</p></font>
+
 
 ??? info "📋 O aplicativo permite que o usuário realize login de forma simples e rápida."
 
