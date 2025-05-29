@@ -86,8 +86,6 @@ Essas informações são essenciais para guiar decisões no processo de desenvol
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/corre%C3%A7%C3%A3o-do-perfil-de-usu%C3%A1rio/docs/assets/elicitacao/Perfil_de_usuario.png" alt="SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 10. Brasília: UnB-Gama, 2017. 35 slides, color." width="600px"><br>
-  <a href="https://aprender3.unb.br/pluginfile.php/2124471/mod_resource/content/1/Aula%2010.pdf">Acessar Imagem</a>
-</p>
 
 <font size="3"><p style="text-align: center">Elaborado por: [Karoline Luz](https://github.com/KarolineLuz), 2015.</p></font>
 
