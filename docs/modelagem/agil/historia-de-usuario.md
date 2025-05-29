@@ -2,11 +2,11 @@
 
 ## Introdução
 
-A história do usuário é um componente central no desenvolvimento ágil, especialmente na metodologia Extreme Programming (XP). Segundo Pressman (2011), “a atividade de ‘Ouvir’ conduz à criação de um conjunto de ‘histórias’ (também denominado histórias de usuários) que descreve o resultado, as características e a funcionalidade requisitados para o software a ser construído”<a id="anchor_1" href="#FRM1"> [1]</a> </q>.Essas histórias são escritas pelo cliente e colocadas em fichas, com prioridade atribuída “baseando-se no valor de negócio global do recurso ou função” (PRESSMAN, 2011)<a id="anchor_2" href="#FRM2"> [2]</a> </q>.
+A história do usuário é um componente central no desenvolvimento ágil, especialmente na metodologia Extreme Programming (XP). Segundo Pressman (2011), “a atividade de ‘Ouvir’ conduz à criação de um conjunto de ‘histórias’ (também denominado histórias de usuários) que descreve o resultado, as características e a funcionalidade requisitados para o software a ser construído”<a id="anchor_1" href="#FRM1"> [1]</a> </q>.Essas histórias são escritas pelo cliente e colocadas em fichas, com prioridade atribuída “baseando-se no valor de negócio global do recurso ou função” (PRESSMAN, 2011)<a id="anchor_1" href="#FRM1"> [1]</a> </q>.
 
-Além disso, as histórias de usuário são usadas como base para os testes de aceitação: “À medida que um incremento é entregue a um cliente, as histórias de usuários [...] implementados pelo incremento são usados como base para testes de aceitação” (PRESSMAN, 2011)<a id="anchor_3" href="#FRM3"> [3]</a> </q>. A XP enfatiza a simplicidade e o foco no que é essencial, seguindo o princípio: “Simplifique sempre que puder, mas tenha ciência de que um ‘retrabalho’ (refabricação, redesenvolvimento) contínuo consegue absorver tempo e recursos significativos” (PRESSMAN, 2011)<a id="anchor_4" href="#FRM4"> [4]</a> </q>.
+Além disso, as histórias de usuário são usadas como base para os testes de aceitação: “À medida que um incremento é entregue a um cliente, as histórias de usuários [...] implementados pelo incremento são usados como base para testes de aceitação” (PRESSMAN, 2011)<a id="anchor_1" href="#FRM1"> [1]</a> </q>. A XP enfatiza a simplicidade e o foco no que é essencial, seguindo o princípio: “Simplifique sempre que puder, mas tenha ciência de que um ‘retrabalho’ (refabricação, redesenvolvimento) contínuo consegue absorver tempo e recursos significativos” (PRESSMAN, 2011)<a id="anchor_1" href="#FRM1"> [1]</a> </q>.
 
-Por fim, as histórias de usuários possibilitam um feedback constante entre cliente e equipe, já que “conforme novas necessidades surgem como parte do planejamento iterativo, a equipe dá ao cliente um rápido feedback referente ao impacto nos custos e no cronograma” (PRESSMAN, 2011)<a id="anchor_5" href="#FRM5"> [5]</a> </q>.
+Por fim, as histórias de usuários possibilitam um feedback constante entre cliente e equipe, já que “conforme novas necessidades surgem como parte do planejamento iterativo, a equipe dá ao cliente um rápido feedback referente ao impacto nos custos e no cronograma” (PRESSMAN, 2011)<a id="anchor_1" href="#FRM1"> [1]</a> </q>.
 
 Cada história de usuário é construída de forma a responder três perguntas essenciais:  
 - **Quem?** — Quem é o usuário ou persona envolvida na interação.  
@@ -1332,13 +1332,6 @@ A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma
 
 > <a id="FRM1" href="#anchor_1">1.</a>PRESSMAN, Roger S. Engenharia de software: uma abordagem profissional. 8. ed. Porto Alegre: AMGH, 2016.
 
-> <a id="FRM2" href="#anchor_2">2.</a>PRESSMAN, Roger S. Engenharia de software: uma abordagem profissional. 8. ed. Porto Alegre: AMGH, 2016.
-
-> <a id="FRM3" href="#anchor_3">3.</a>PRESSMAN, Roger S. Engenharia de software: uma abordagem profissional. 8. ed. Porto Alegre: AMGH, 2016.
-
-> <a id="FRM4" href="#anchor_4">4.</a>PRESSMAN, Roger S. Engenharia de software: uma abordagem profissional. 8. ed. Porto Alegre: AMGH, 2016.
-
-> <a id="FRM5" href="#anchor_5">5.</a>PRESSMAN, Roger S. Engenharia de software: uma abordagem profissional. 8. ed. Porto Alegre: AMGH, 2016.
 
 ## Histórico de Versões
 
