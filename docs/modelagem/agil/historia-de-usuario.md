@@ -71,10 +71,13 @@ A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma
 | RF28 | O sistema deve permitir que o usuário solicite serviços públicos, como coleta de lixo, reparo de vias e outros. | <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD02</a> | [Karoline Luz da Conceição](https://github.com/KarolineLuz) |
 | RF29 | O sistema deve permitir que o usuário utilize um mapa para localizar onde os serviços foram solicitados.        | <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD03</a> | [Karoline Luz da Conceição](https://github.com/KarolineLuz) |
 | RF43 | O sistema deve integrar um assistente virtual ou chatbot com respostas automáticas para dúvidas frequentes.     | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT13</a>, <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR18</a> | [Karoline Luz da Conceição](https://github.com/KarolineLuz) |
-
-
-
-
+| RF01 | O usuário deve conseguir realizar login de forma simples e rápida.   |<a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR01</a>, <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD01</a>      | [Ana Victória Guedes da Costa](https://github.com/navicg)|
+| RF02 | O usuário deve conseguir acessar funcionalidades mesmo com pouca familiaridade com tecnologia. | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR02</a>      | [Ana Victória Guedes da Costa](https://github.com/navicg) |
+| RF03 | O usuário deve poder receber notificações personalizadas com base em sua localização. | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR03</a>   | [Ana Victória Guedes da Costa](https://github.com/navicg) |
+| RF09 | O usuário deve poder acessar e visualizar notícias relevantes. | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR10</a>  | [Ana Victória Guedes da Costa](https://github.com/navicg) |
+| RF15 | O usuário deve poder acessar um menu com as principais funções logo na tela inicial.       |  <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR16</a> |[Ana Victória Guedes da Costa](https://github.com/navicg) |
+| RF20 | O aplicativo fornece links para serviços externos (como Secretaria da Fazenda) de forma eficiente, com explicações claras sobre o que o usuário encontrará após clicar.    | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN02</a>   | [Ana Victória Guedes da Costa](https://github.com/navicg) |
+| RNF13 | O aplicativo deve apresentar estabilidade, evitando travamentos ou falhas de carregamento, especialmente em redes móveis. | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN03</a>  |[Ana Victória Guedes da Costa](https://github.com/navicg) |
 
 
 ??? info "📋 O aplicativo permite autenticação segura através da plataforma gov.br, com opções como reconhecimento facial."
@@ -1328,6 +1331,371 @@ A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma
 	<font size="3"><p style="text-align: center">Elaborado pelo autor: ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025).</p></font>
 
 
+
+??? info "📋 O aplicativo permite que o usuário realize login de forma simples e rápida."
+
+    **História de Usuário — RF01: Login Simples e Rápido**
+
+    ---
+
+    #### **Título:** Login Simples e Rápido
+
+    ---
+
+    #### História
+
+    **Como** um usuário do aplicativo,  
+    **Eu quero** realizar o login de forma simples e rápida,  
+    **Para que** eu possa acessar as funcionalidades do aplicativo sem dificuldades e sem perder tempo.
+
+    ---
+
+    #### Critérios de Aceitação
+
+    - <input type="checkbox"> O sistema deve apresentar uma tela de login objetiva e intuitiva.
+    - <input type="checkbox"> O login deve ser processado em até 5 segundos.
+    - <input type="checkbox"> Deve haver feedback visual (carregamento) durante a autenticação.
+    - <input type="checkbox"> Se o login falhar, uma mensagem clara e objetiva deve ser exibida.
+    - <input type="checkbox"> O sistema deve permitir a recuperação de senha de forma intuitiva.
+
+    ---
+
+    #### Subtarefas
+
+    - <input type="checkbox"> Desenvolver interface de login com campos de usuário e senha.
+    - <input type="checkbox"> Implementar mecanismo de autenticação rápida.
+    - <input type="checkbox"> Criar mensagens de erro para diferentes falhas.
+    - <input type="checkbox"> Testar o tempo médio de resposta do login.
+    - <input type="checkbox"> Implementar fluxo de recuperação de senha.
+
+    ---
+
+    #### Rastreabilidade
+
+    - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF01</a>
+
+    ---
+
+    #### Estimativa de Esforço
+
+    - **Prioridade:** Alta
+
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Ana Victória Guedes da Costa](https://github.com/navicg), 2025).</p></font>
+
+    ---
+
+??? info "📋 O aplicativo é acessível mesmo para quem possui pouca familiaridade com tecnologia."
+
+    **História de Usuário — RF02: Acessibilidade para Usuários com Pouca Familiaridade Tecnológica**
+
+    ---
+
+    #### **Título:** Acessibilidade para Usuários com Pouca Familiaridade Tecnológica
+
+    ---
+
+    #### História
+
+    **Como** um usuário com pouca familiaridade com tecnologia,  
+    **Eu quero** acessar as funcionalidades do aplicativo de forma simples,  
+    **Para que** eu possa utilizar todos os recursos sem dificuldades ou necessidade de ajuda externa.
+
+    ---
+
+    #### Critérios de Aceitação
+
+    - <input type="checkbox"> As principais funcionalidades devem ser acessíveis em no máximo dois cliques.
+    - <input type="checkbox"> O app deve utilizar ícones e textos autoexplicativos.
+    - <input type="checkbox"> Deve haver um tutorial opcional na primeira utilização.
+    - <input type="checkbox"> As fontes e botões devem ter tamanho adequado para facilitar a leitura e interação.
+    - <input type="checkbox"> O sistema deve possuir suporte a leitura por voz.
+
+    ---
+
+    #### Subtarefas
+
+    - <input type="checkbox"> Projetar uma interface limpa e intuitiva.
+    - <input type="checkbox"> Criar tutorial guiado de apresentação das funções.
+    - <input type="checkbox"> Implementar validações de acessibilidade.
+    - <input type="checkbox"> Realizar testes com usuários não familiarizados com tecnologia.
+    - <input type="checkbox"> Adicionar suporte a leitores de tela.
+
+    ---
+
+    #### Rastreabilidade
+
+    - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF02</a>
+
+    ---
+
+    #### Estimativa de Esforço
+
+    - **Prioridade:** Alta
+
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Ana Victória Guedes da Costa](https://github.com/navicg), 2025).</p></font>
+
+    ---
+
+??? info "📋 O aplicativo envia notificações personalizadas com base na localização do usuário."
+
+    **História de Usuário — RF03: Notificações Personalizadas por Localização**
+
+    ---
+
+    #### **Título:** Notificações Personalizadas por Localização
+
+    ---
+
+    #### História
+
+    **Como** um usuário do aplicativo,  
+    **Eu quero** receber notificações personalizadas com base na minha localização,  
+    **Para que** eu fique informado sobre eventos, notícias ou alertas relevantes ao meu contexto geográfico.
+
+    ---
+
+    #### Critérios de Aceitação
+
+    - <input type="checkbox"> O sistema deve solicitar permissão para acessar a localização do usuário.
+    - <input type="checkbox"> As notificações devem ser enviadas apenas quando relevantes à região do usuário.
+    - <input type="checkbox"> O usuário pode ativar ou desativar esse tipo de notificação nas configurações.
+    - <input type="checkbox"> A privacidade dos dados de localização deve ser garantida conforme LGPD.
+    - <input type="checkbox"> O sistema deve atualizar as notificações conforme a mudança de localização do usuário.
+
+    ---
+
+    #### Subtarefas
+
+    - <input type="checkbox"> Implementar serviço de geolocalização.
+    - <input type="checkbox"> Criar lógica de disparo de notificações baseada em localização.
+    - <input type="checkbox"> Desenvolver painel de configurações para ativar/desativar notificações.
+    - <input type="checkbox"> Validar segurança no tratamento de dados de localização.
+    - <input type="checkbox"> Testar atualização dinâmica das notificações conforme localização.
+
+    ---
+
+    #### Rastreabilidade
+
+    - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF03</a>
+
+    ---
+
+    #### Estimativa de Esforço
+
+    - **Prioridade:** Médio
+
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Ana Victória Guedes da Costa](https://github.com/navicg), 2025).</p></font>
+
+    ---
+
+??? info "📋 O aplicativo permite ao usuário acessar e visualizar notícias relevantes."
+
+    **História de Usuário — RF09: Acesso e Visualização de Notícias Relevantes**
+
+    ---
+
+    #### **Título:** Acesso e Visualização de Notícias Relevantes
+
+    ---
+
+    #### História
+
+    **Como** um usuário do aplicativo,  
+    **Eu quero** acessar e visualizar notícias relevantes,  
+    **Para que** eu me mantenha informado sobre assuntos importantes de maneira rápida e organizada.
+
+    ---
+
+    #### Critérios de Aceitação
+
+    - <input type="checkbox"> O sistema deve exibir uma lista atualizada de notícias na tela inicial ou seção dedicada.
+    - <input type="checkbox"> Cada notícia deve conter título, resumo e link para conteúdo completo.
+    - <input type="checkbox"> As notícias devem ser classificadas por relevância ou data.
+    - <input type="checkbox"> O carregamento das notícias deve ser rápido e sem travamentos.
+    - <input type="checkbox"> O sistema deve permitir favoritar notícias para leitura posterior.
+
+    ---
+
+    #### Subtarefas
+
+    - <input type="checkbox"> Integrar API de notícias.
+    - <input type="checkbox"> Desenvolver interface para exibição das notícias.
+    - <input type="checkbox"> Criar filtros por categoria e data.
+    - <input type="checkbox"> Implementar cache para otimizar carregamento.
+    - <input type="checkbox"> Desenvolver funcionalidade de favoritar notícias.
+
+    ---
+
+    #### Rastreabilidade
+
+    - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF09</a>
+
+    ---
+
+    #### Estimativa de Esforço
+
+    - **Prioridade:** Baixa
+
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Ana Victória Guedes da Costa](https://github.com/navicg), 2025).</p></font>
+
+    ---
+
+??? info "📋 O aplicativo apresenta um menu com as principais funções na tela inicial."
+
+    **História de Usuário — RF15: Menu Principal na Tela Inicial**
+
+    ---
+
+    #### **Título:** Menu Principal na Tela Inicial
+
+    ---
+
+    #### História
+
+    **Como** um usuário do aplicativo,  
+    **Eu quero** acessar um menu com as principais funções diretamente na tela inicial,  
+    **Para que** eu consiga navegar rapidamente pelas opções mais importantes.
+
+    ---
+
+    #### Critérios de Aceitação
+
+    - <input type="checkbox"> O menu deve estar visível na tela inicial, com ícones e descrições claras.
+    - <input type="checkbox"> Cada item do menu deve redirecionar corretamente para sua respectiva funcionalidade.
+    - <input type="checkbox"> O menu deve ser responsivo e adaptado a diferentes tamanhos de tela.
+    - <input type="checkbox"> O design deve seguir o padrão visual do aplicativo.
+    - <input type="checkbox"> O menu deve permitir personalização da ordem dos itens pelo usuário.
+
+    ---
+
+    #### Subtarefas
+
+    - <input type="checkbox"> Projetar interface do menu principal.
+    - <input type="checkbox"> Implementar navegação entre as funcionalidades.
+    - <input type="checkbox"> Garantir responsividade do layout.
+    - <input type="checkbox"> Realizar testes de usabilidade do menu.
+    - <input type="checkbox"> Implementar funcionalidade de personalização do menu.
+
+    ---
+
+    #### Rastreabilidade
+
+    - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF15</a>
+
+    ---
+
+    #### Estimativa de Esforço
+
+    - **Prioridade:** Baixa
+
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Ana Victória Guedes da Costa](https://github.com/navicg), 2025).</p></font>
+
+    ---
+
+??? info "📋 O aplicativo fornece links para serviços externos, com explicações claras sobre o que o usuário encontrará."
+
+    **História de Usuário — RF20: Links para Serviços Externos com Explicações Claras**
+
+    ---
+
+    #### **Título:** Links para Serviços Externos com Explicações Claras
+
+    ---
+
+    #### História
+
+    **Como** um usuário do aplicativo,  
+    **Eu quero** acessar links para serviços externos com explicações claras sobre o que encontrarei,  
+    **Para que** eu possa navegar com confiança e saber o que esperar ao clicar.
+
+    ---
+
+    #### Critérios de Aceitação
+
+    - <input type="checkbox"> Antes de acessar o serviço externo, uma explicação clara deve ser exibida.
+    - <input type="checkbox"> O link deve abrir em uma nova janela ou aba para não interromper a navegação.
+    - <input type="checkbox"> O sistema deve garantir que os links estejam sempre atualizados.
+    - <input type="checkbox"> Os textos explicativos devem ser simples e objetivos.
+    - <input type="checkbox"> O sistema deve permitir ao usuário avaliar a utilidade do link acessado.
+
+    ---
+
+    #### Subtarefas
+
+    - <input type="checkbox"> Desenvolver componente de exibição de links com descrição.
+    - <input type="checkbox"> Implementar abertura segura de links externos.
+    - <input type="checkbox"> Criar rotina de validação periódica dos links.
+    - <input type="checkbox"> Revisar textos explicativos para garantir clareza.
+    - <input type="checkbox"> Implementar sistema de avaliação de utilidade dos links.
+
+    ---
+
+    #### Rastreabilidade
+
+    - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF20</a>
+
+    ---
+
+    #### Estimativa de Esforço
+
+    - **Prioridade:** Alta
+
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Ana Victória Guedes da Costa](https://github.com/navicg), 2025).</p></font>
+
+    ---
+
+??? info "📋 O aplicativo deve apresentar estabilidade, evitando travamentos ou falhas de carregamento."
+
+    **História de Usuário — RNF13: Estabilidade em Redes Móveis**
+
+    ---
+
+    #### **Título:** Estabilidade em Redes Móveis
+
+    ---
+
+    #### História
+
+    **Como** um usuário do aplicativo,  
+    **Eu quero** que o aplicativo funcione de maneira estável, sem travamentos ou falhas de carregamento,  
+    **Para que** eu tenha uma experiência contínua e confiável, mesmo utilizando redes móveis.
+
+    ---
+
+    #### Critérios de Aceitação
+
+    - <input type="checkbox"> O aplicativo deve ser testado em diversas condições de rede (3G, 4G, 5G).
+    - <input type="checkbox"> Deve haver tratamento adequado de erros de conexão.
+    - <input type="checkbox"> O sistema deve exibir mensagens informativas em caso de falhas temporárias.
+    - <input type="checkbox"> O carregamento de dados deve ser otimizado para minimizar o consumo de banda.
+    - <input type="checkbox"> O sistema deve retomar automaticamente a conexão após falhas temporárias.
+
+    ---
+
+    #### Subtarefas
+
+    - <input type="checkbox"> Implementar sistema de monitoramento de estabilidade.
+    - <input type="checkbox"> Otimizar chamadas de rede e processos de carregamento.
+    - <input type="checkbox"> Desenvolver tratamento de exceções para falhas de rede.
+    - <input type="checkbox"> Realizar testes de estresse e estabilidade.
+    - <input type="checkbox"> Implementar reconexão automática após perda de rede.
+
+    ---
+
+    #### Rastreabilidade
+
+    - **Requisito Não Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RNF13</a>
+
+    ---
+
+    #### Estimativa de Esforço
+
+    - **Prioridade:** Alta
+
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Ana Victória Guedes da Costa](https://github.com/navicg), 2025).</p></font>
+
+
+
 ## Referências Bibliográficas
 
 > <a id="FRM1" href="#anchor_1">1.</a>PRESSMAN, Roger S. Engenharia de software: uma abordagem profissional. 8. ed. Porto Alegre: AMGH, 2016.
@@ -1370,3 +1738,10 @@ A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma
 | 1.22  |        Criação e elaboração das história de usuário RF28                                         |     [Karoline Luz](https://github.com/KarolineLuz)                                         | 28/05/2025             |   [Artur Mendonça](https://github.com/ArtyMend07)                                          |   03/06/2025                |
 | 1.23  |        Criação e elaboração das história de usuário RF29                                          |     [Karoline Luz](https://github.com/KarolineLuz)                                         | 28/05/2025             |   [Artur Mendonça](https://github.com/ArtyMend07)                                          |   03/06/2025                |
 | 1.24 |        Criação e elaboração das história de usuário RF43                                          |     [Karoline Luz](https://github.com/KarolineLuz)                                         | 28/05/2025             |   [Artur Mendonça](https://github.com/ArtyMend07)                                          |   03/06/2025                |
+| 1.25  | Criação e elaboração das história de usuário RF01 | [Ana Victória Guedes da Costa](https://github.com/navicg) | 29/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 03/06/2025      |
+| 1.26 | Criação e elaboração das história de usuário RF02 | [Ana Victória Guedes da Costa](https://github.com/navicg) | 29/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 03/06/2025      |
+| 1.27 | Criação e elaboração das história de usuário RF03 | [Ana Victória Guedes da Costa](https://github.com/navicg) | 29/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 03/06/2025      |
+| 1.28  | Criação e elaboração das história de usuário RF09 | [Ana Victória Guedes da Costa](https://github.com/navicg) | 29/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 03/06/2025      |
+| 1.29  | Criação e elaboração das história de usuário RF15 | [Ana Victória Guedes da Costa](https://github.com/navicg) | 29/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 03/06/2025      |
+| 1.30  |Criação e elaboração das história de usuário RF20 | [Ana Victória Guedes da Costa](https://github.com/navicg) | 29/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 03/06/2025      |
+| 1.31  |Criação e elaboração das história de usuário RNF13 | [Ana Victória Guedes da Costa](https://github.com/navicg) | 29/05/2025 |[João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 03/06/2025      |
