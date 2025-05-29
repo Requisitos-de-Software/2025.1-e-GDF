@@ -385,6 +385,61 @@ A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
 
+
+??? info "🔒 O sistema deve estar em conformidade com a Lei Geral de Proteção de Dados (LGPD)."
+
+    **História de Usuário — US-RNF02: Conformidade com LGPD**
+
+    ---
+
+    #### **Título:** Garantir Conformidade com a LGPD
+
+    ---
+
+    #### História
+
+    **Como** um usuário do aplicativo,  
+    **Eu quero** que meus dados pessoais sejam coletados, armazenados e utilizados em conformidade com a LGPD,  
+    **Para que** eu tenha segurança e transparência sobre o uso das minhas informações pessoais.
+
+    ---
+
+    #### Critérios de Aceitação
+
+    - <input type="checkbox"> O sistema deve informar claramente quais dados estão sendo coletados e para quais finalidades.
+    - <input type="checkbox"> O usuário deve poder consentir explicitamente com a coleta e uso de seus dados.
+    - <input type="checkbox"> O sistema deve permitir que o usuário visualize, edite e exclua seus dados pessoais.
+    - <input type="checkbox"> As políticas de privacidade devem estar acessíveis e atualizadas.
+    - <input type="checkbox"> Os dados devem ser armazenados e processados de forma segura, seguindo os princípios da LGPD.
+
+    ---
+
+    #### Subtarefas
+
+    - <input type="checkbox"> Revisar políticas e práticas de coleta de dados.
+    - <input type="checkbox"> Implementar fluxos de consentimento explícito.
+    - <input type="checkbox"> Criar ferramentas para gerenciamento de dados pelo usuário.
+    - <input type="checkbox"> Garantir armazenamento seguro e monitoramento de acessos.
+    - <input type="checkbox"> Realizar auditorias para verificar conformidade.
+
+    ---
+
+    #### Rastreabilidade
+
+    - **Requisito Não Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RNF02</a>
+
+    ---
+
+    #### Estimativa de Esforço
+
+    - **Prioridade:** Alta
+
+    ----
+
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+
+
+
 ??? info "🌐 O aplicativo permite que o usuário altere o idioma da interface para melhor usabilidade."
 
     **História de Usuário — US12: Alteração de Idioma no Aplicativo**
@@ -696,6 +751,58 @@ A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma
     ----
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), 2025).</p></font>
+
+
+??? info "📱 O sistema deve ser compatível com múltiplos dispositivos, incluindo Android e iOS."
+
+    **História de Usuário — US-RNF01: Compatibilidade Multiplataforma**
+
+    ---
+
+    #### **Título:** Garantir Compatibilidade com Android e iOS
+
+    ---
+
+    #### História
+
+    **Como** um usuário do aplicativo,  
+    **Eu quero** que o sistema funcione corretamente tanto em dispositivos Android quanto iOS,  
+    **Para que** eu possa utilizar todos os recursos do aplicativo independentemente do sistema operacional do meu dispositivo.
+
+    ---
+
+    #### Critérios de Aceitação
+
+    - <input type="checkbox"> O aplicativo deve ser testado e validado em versões recentes do Android e iOS.
+    - <input type="checkbox"> Todas as funcionalidades principais devem ter comportamento consistente em ambas as plataformas.
+    - <input type="checkbox"> O layout e a interface devem se adaptar adequadamente a diferentes tamanhos de tela.
+    - <input type="checkbox"> O desempenho do aplicativo deve ser equivalente nas duas plataformas.
+
+    ---
+
+    #### Subtarefas
+
+    - <input type="checkbox"> Realizar testes em dispositivos Android e iOS.
+    - <input type="checkbox"> Corrigir inconsistências de interface e comportamento entre plataformas.
+    - <input type="checkbox"> Garantir compatibilidade com APIs específicas de cada sistema operacional.
+    - <input type="checkbox"> Monitorar e otimizar o desempenho nas duas plataformas.
+
+    ---
+
+    #### Rastreabilidade
+
+    - **Requisito Não Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RNF02</a>
+
+    ---
+
+    #### Estimativa de Esforço
+
+    - **Prioridade:** Alta
+
+    ----
+
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), 2025).</p></font>
+
 
 
 ??? info " O usuário deve poder alterar o tamanho da fonte e o contraste de cores"
