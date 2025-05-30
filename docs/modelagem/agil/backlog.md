@@ -179,6 +179,16 @@ Esta seção apresenta as gravações das validações realizadas por cada integ
 
 **Tabela 5** - Informações da validação 3
 
+| Tema                         | Épico | História do Usuário (US)                                            | ID    | Prioridade | Status       | Feature                          | Rastreabilidade                                                                                   | Autor                                                  |
+|------------------------------|-------|----------------------------------------------------------------------|-------|------------|--------------|-----------------------------------|----------------------------------------------------------------------------------------------------|--------------------------------------------------------|
+| Acessibilidade              | E35   | Ajuste de Tamanho de Fonte e Contraste de Cores                    | RF07  | MH         | Em progresso | Acessibilidade Visual            | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR07</a>                           | [Gabriel Lopes](https://github.com/BrzGab)             |
+| Interface                   | E36   | Ativação do Modo Escuro                                            | RF08  | CH         | Em progresso | Personalização de Interface      | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR08</a>                           | [Gabriel Lopes](https://github.com/BrzGab)             |
+| Documentação                | E37   | Geração de Relatórios e Visualização de Comprovantes               | RF10  | MH         | Em progresso | Gestão de Documentos             | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR11</a>                           | [Gabriel Lopes](https://github.com/BrzGab)             |
+| Mobilidade Urbana           | E38   | Localização de Ônibus em Tempo Real                                | RF19  | MH         | Em progresso | Rastreamento de Transporte       | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR21</a>, <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT06</a> | [Gabriel Lopes](https://github.com/BrzGab) |
+| Serviços Fiscais            | E39   | Acesso Facilitado a Serviços de Impostos                           | RF23  | MH         | Em progresso | Gestão de Impostos               | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN07</a>                              | [Gabriel Lopes](https://github.com/BrzGab)             |
+| Atendimento ao Cidadão      | E40   | Categorização de Ocorrências                                        | RF34  | MH         | Em progresso | Sistema de Triagem               | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT02</a>                          | [Gabriel Lopes](https://github.com/BrzGab)             |
+| Segurança de Dados          | E41   | Proteção de Informações Pessoais com Criptografia                  | RNF22 | MH         | Em progresso | Segurança e Privacidade          | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT18</a>                          | [Gabriel Lopes](https://github.com/BrzGab)             |
+
 | **Autor** | **Usuário Participante** |
 | :-------- | :---------------------- |
 | [Gabriel Lopes](https://github.com/BrzGab) | [Nome do Usuário] |
@@ -359,3 +369,10 @@ Esta seção apresenta as gravações das validações realizadas por cada integ
 | 1.34   | Criação de tabela de Product Backlog RF15     | [Ana Victória](https://github.com/navicg)      | 30/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)            | 30/05/2025      |
 | 1.35   | Criação de tabela de Product Backlog RF20     | [Ana Victória](https://github.com/navicg)      | 30/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)            | 30/05/2025      |
 | 1.36   | Criação de tabela de Product Backlog RNF13    | [Ana Victória](https://github.com/navicg)     | 30/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)            | 30/05/2025      |
+| 1.37   | Criação de tabela de Product Backlog RF07    | [Gabriel Lopes](https://github.com/BrzGab)     | 30/05/2025 | [Karoline Luz](https://github.com/KarolineLuz)             | 30/05/2025      |
+| 1.38   | Criação de tabela de Product Backlog RF08    | [Gabriel Lopes](https://github.com/BrzGab)     | 30/05/2025 | [Karoline Luz](https://github.com/KarolineLuz)             | 30/05/2025      |
+| 1.39   | Criação de tabela de Product Backlog RF10    | [Gabriel Lopes](https://github.com/BrzGab)     | 30/05/2025 | [Karoline Luz](https://github.com/KarolineLuz)             | 30/05/2025      |
+| 1.40   | Criação de tabela de Product Backlog RF19    | [Gabriel Lopes](https://github.com/BrzGab)     | 30/05/2025 | [Karoline Luz](https://github.com/KarolineLuz)             | 30/05/2025      |
+| 1.41   | Criação de tabela de Product Backlog RF23    | [Gabriel Lopes](https://github.com/BrzGab)     | 30/05/2025 | [Karoline Luz](https://github.com/KarolineLuz)             | 30/05/2025      |
+| 1.42   | Criação de tabela de Product Backlog RF34    | [Gabriel Lopes](https://github.com/BrzGab)     | 30/05/2025 | [Karoline Luz](https://github.com/KarolineLuz)             | 30/05/2025      |
+| 1.43   | Criação de tabela de Product Backlog RNF22    | [Gabriel Lopes](https://github.com/BrzGab)     | 30/05/2025 | [Karoline Luz](https://github.com/KarolineLuz)             | 30/05/2025      |
