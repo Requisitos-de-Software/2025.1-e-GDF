@@ -34,7 +34,7 @@ Este documento apresenta uma lista de verificação para avaliar os artefatos pr
 | 15  | Softgoals representam metas bem definidas?                                                                                                                         | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/lista-verificacao-entrega4/docs/assets/lista-4/lista-10-17.png" alt="Referência do item" width="100px"><br><a href="https://drive.google.com/file/d/1WImZqnhoTWPFehaWmSOhe57n31qYmDnX/view?usp=drive_link">Plano de Ensino</a></div>  |
 | 16  |Os impactos foram corretamente propagados?                                                                                                   | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) |<div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/lista-verificacao-entrega4/docs/assets/lista-4/lista-10-17.png" alt="Referência do item" width="100px"><br><a href="https://drive.google.com/file/d/1WImZqnhoTWPFehaWmSOhe57n31qYmDnX/view?usp=drive_link">Plano de Ensino</a></div>  |
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a) ( [Ana Victória](https://github.com/navicg), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ( [Ana Victória](https://github.com/navicg), 2025)</p></font>
 
 ---
 
@@ -56,21 +56,22 @@ Este documento apresenta uma lista de verificação para avaliar os artefatos pr
 <font size="3"><p align="center">Elaborado pelo autor: ([João Marcos](https://github.com/JJOAOMARCOSS), 2025).</p></font>
 
 ---
-### Lista de Verificação – História de Usuários
+### Lista de Verificação – História de Usuário
+
 <p align="center">Tabela 3 – Lista de Verificação – História de Usuários<a id="anchor_1" href="#FRM1"> [1]</a> </p>
 
 | ID  | Item de Verificação                                                                                         | Autor                                                                                      | Referência                                                                                                                                                                                                                                                                                         |
 | --- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | 	A história responde às três perguntas essenciais: Quem, O quê e Por quê?                                              | [Karoline Luz](https://github.com/KarolineLuz) e [Ana Victória](https://github.com/navicg) | |
-| 2   |O título resume de forma clara e objetiva a funcionalidade proposta?                                               | [Karoline Luz](https://github.com/KarolineLuz) e [Ana Victória](https://github.com/navicg) |  |
-| 3   | 	O tipo de usuário está claramente identificado na história?               | [Karoline Luz](https://github.com/KarolineLuz) e [Ana Victória](https://github.com/navicg) | |
-| 4   | A ação desejada pelo usuário é específica e compreensível?                                 | [Karoline Luz](https://github.com/KarolineLuz) e [Ana Victória](https://github.com/navicg) |  |
-| 5   |              |[Karoline Luz](https://github.com/KarolineLuz) e [Ana Victória](https://github.com/navicg) |  |
-| 6   |                  | [Karoline Luz](https://github.com/KarolineLuz) e [Ana Victória](https://github.com/navicg)  |
-| 7   | 	                   | [Karoline Luz](https://github.com/KarolineLuz) e [Ana Victória](https://github.com/navicg) |  |
-| 8   |                            | [Karoline Luz](https://github.com/KarolineLuz) e [Ana Victória](https://github.com/navicg) |  |
+| 1   | 	A história responde às três perguntas essenciais: Quem, O quê e Por quê?                                              | [Karoline Luz](https://github.com/KarolineLuz) e [Ana Victória](https://github.com/navicg) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/lista-verificacao-entrega4/docs/assets/lista-4/hist_usuario1.png" alt="PRESSMAN, Roger S. Engenharia de software: uma abordagem profissional. 8. ed. Porto Alegre: AMGH, 2016. Disponível em: [Engenharia de Software_Uma Abordagem Profissional ]." width="100px"><br><a href="https://drive.google.com/file/d/10D2OX-HSAKwCScySZC_DlFAerzlR9UCm/view">Acessar PDF</a></div>  |
+| 2   |O título resume de forma clara e objetiva a funcionalidade proposta?                                               | [Karoline Luz](https://github.com/KarolineLuz) e [Ana Victória](https://github.com/navicg) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/lista-verificacao-entrega4/docs/assets/lista-4/hist_usuario2.png" alt="PRESSMAN, Roger S. Engenharia de software: uma abordagem profissional. 8. ed. Porto Alegre: AMGH, 2016. Disponível em: [Engenharia de Software_Uma Abordagem Profissional ]." width="100px"><br><a href="https://drive.google.com/file/d/10D2OX-HSAKwCScySZC_DlFAerzlR9UCm/view">Acessar PDF</a></div>  |
+| 3   | 	O tipo de usuário está claramente identificado na história?               | [Karoline Luz](https://github.com/KarolineLuz) e [Ana Victória](https://github.com/navicg) |<div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/lista-verificacao-entrega4/docs/assets/lista-4/hist_usuario3.png" alt="PRESSMAN, Roger S. Engenharia de software: uma abordagem profissional. 8. ed. Porto Alegre: AMGH, 2016. Disponível em: [Engenharia de Software_Uma Abordagem Profissional ]." width="100px"><br><a href="https://drive.google.com/file/d/10D2OX-HSAKwCScySZC_DlFAerzlR9UCm/view">Acessar PDF</a></div>  |
+| 4   | A ação desejada pelo usuário é específica e compreensível?                                 | [Karoline Luz](https://github.com/KarolineLuz) e [Ana Victória](https://github.com/navicg) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/lista-verificacao-entrega4/docs/assets/lista-4/hist_usuario4.png" alt="PRESSMAN, Roger S. Engenharia de software: uma abordagem profissional. 8. ed. Porto Alegre: AMGH, 2016. Disponível em: [Engenharia de Software_Uma Abordagem Profissional ]." width="100px"><br><a href="https://drive.google.com/file/d/10D2OX-HSAKwCScySZC_DlFAerzlR9UCm/view">Acessar PDF</a></div>  |
+| 5   |     Os critérios de aceitação são compreensíveis e verificáveis (passível de teste)?         |[Karoline Luz](https://github.com/KarolineLuz) e [Ana Victória](https://github.com/navicg) | |
+| 6   |          É possível identificar a origem do requisito (documento, técnica ou necessidade do usuário)?        | [Karoline Luz](https://github.com/KarolineLuz) e [Ana Victória](https://github.com/navicg)  |
+| 7   | 	 Há uma estimativa de esforço ou complexidade definida para a história?                  | [Karoline Luz](https://github.com/KarolineLuz) e [Ana Victória](https://github.com/navicg) |  |
+| 8   |          O benefício ou objetivo buscado está explícito e tem valor claro para o usuário?                  | [Karoline Luz](https://github.com/KarolineLuz) e [Ana Victória](https://github.com/navicg) |  |
 
-<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ( [Ana Victória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos(as) autores(as): ( [Ana Victória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz), 2025)</p></font>
 
 
 
@@ -86,3 +87,4 @@ Este documento apresenta uma lista de verificação para avaliar os artefatos pr
 | ------ | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------- | -------------------------------------------------- | --------------- 
 | 1.0    | Adicionando tabelas da lista de verificação da entrega 4 do plano de ensino | [Ana Victória](https://github.com/navicg) | 29/05/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 31/05/2025  
 | 1.1    | Adicionando tabelas da lista de verificação da entrega 4 plano de ensino | [Karoline Luz](https://github.com/KarolineLuz)| 29/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) |   31/05/2025     |
+| 1.2    | Adicionando lista de verificação de história de usuário e bibliografia | [Ana Victória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz) | 29/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) |   31/05/2025     |
