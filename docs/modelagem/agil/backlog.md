@@ -4,7 +4,14 @@
 
 Este documento apresenta o backlog do produto para o aplicativo e-GDF, uma plataforma digital do Governo do Distrito Federal que centraliza serviços públicos e facilita o acesso do cidadão a diversas funcionalidades governamentais. 
 
-O backlog é um artefato fundamental no desenvolvimento ágil que consiste em uma lista priorizada de funcionalidades, requisitos, melhorias e correções que devem ser desenvolvidas para o produto. Ele serve como um repositório dinâmico de tudo que precisa ser feito, organizado de forma hierárquica e compreensível para todos os stakeholders do projeto.
+O Backlog do produto é uma lista contendo todas as funcionalidades desejadas para um produto. O conteúdo desta lista é definido pelo Product Owner. O Product Backlog não precisa estar completo no início de um projeto. Pode-se começar com tudo aquilo que é mais óbvio em um primeiro momento. Com o tempo, o Product Backlog cresce e muda à medida que se aprende mais sobre o produto e seus usuários<a id="citacao1" href="#REF1">¹</a>.
+
+Um backlog bem gerenciado traz diversos benefícios para o projeto, incluindo<a id="citacao2" href="#REF2">²</a>:
+- Priorização aprimorada das tarefas mais críticas
+- Maior eficiência no desenvolvimento
+- Melhor comunicação entre a equipe
+- Redução do desperdício de recursos
+- Maior satisfação do cliente através da priorização baseada em feedback
 
 Para este projeto, o backlog foi estruturado seguindo as melhores práticas de desenvolvimento ágil, organizando os requisitos funcionais em uma hierarquia clara de épicos, features e histórias de usuário. O processo de elaboração incluiu a análise detalhada dos requisitos funcionais levantados nas etapas anteriores do projeto, a criação de histórias de usuário que representam as necessidades reais dos cidadãos do DF, e a validação com usuários reais para garantir que as funcionalidades propostas atendam efetivamente às expectativas e necessidades da população.
 
@@ -27,7 +34,6 @@ Para este projeto, o backlog foi estruturado seguindo as melhores práticas de d
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
 
-
 </center>
 
 ## Metodologia
@@ -42,7 +48,13 @@ O desenvolvimento do backlog seguiu uma abordagem sistemática e colaborativa, o
 
 4. **Elaboração de Histórias de Usuário**: As features foram detalhadas em histórias de usuário no formato padrão "Como... Eu quero... Para que...", garantindo clareza sobre o valor entregue ao usuário final.
 
-5. **Validação com Usuários**: Cada integrante realizou validação presencial com usuários reais, apresentando os backlogs elaborados e coletando feedback para garantir alinhamento com as necessidades dos cidadãos.
+5. **Priorização**: Os itens do backlog foram priorizados considerando<a id="citacao3" href="#REF2">²</a>:
+   - Prioridade do cliente e feedback dos usuários
+   - Urgência no recebimento de feedback
+   - Dificuldade de implementação relativa
+   - Relações e dependências entre itens de trabalho
+
+6. **Validação com Usuários**: Cada integrante realizou validação presencial com usuários reais, apresentando os backlogs elaborados e coletando feedback para garantir alinhamento com as necessidades dos cidadãos.
 
 ### Estrutura do Backlog
 
@@ -246,16 +258,36 @@ Esta seção apresenta as gravações das validações realizadas por cada integ
 
 </center>
 
+## Referência Bibliográfica
+
+> <a id="REF1" href="#citacao1">1.</a> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 15. Universidade de Brasília, Faculdade do Gama, [s.d.].
+
+> <a id="REF2" href="#citacao2">2.</a> RADIGAN, Dan. O backlog do produto: sua lista de tarefas definitiva. Atlassian.
+
 ## Bibliografia
-> - SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 15. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/3096144/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf). Acesso em: 28 maio 2025.
 
-> - RADIGAN, Dan. O backlog do produto: sua lista de tarefas definitiva. Atlassian. Disponível em: [Link](https://www.atlassian.com/br/agile/scrum/backlogs). Acesso em: 28 maio 2025.
+> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 15. Universidade de Brasília, Faculdade do Gama, [s.d.]. Disponível em: [Link](https://aprender3.unb.br/pluginfile.php/3096144/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf). Acesso em: 28 maio 2025.
 
-> - O QUE É BACKLOG DO PRODUTO SCRUM E COMO FAZER UM. Lucidchart. Disponível em: [Link](https://www.lucidchart.com/blog/pt/como-fazer-um-backlog-do-produto). Acesso em: 28 maio 2025. 
+> RADIGAN, Dan. O backlog do produto: sua lista de tarefas definitiva. Atlassian. Disponível em: [Link](https://www.atlassian.com/br/agile/scrum/backlogs). Acesso em: 28 maio 2025.
+
+> O QUE É BACKLOG DO PRODUTO SCRUM E COMO FAZER UM. Lucidchart. Disponível em: [Link](https://www.lucidchart.com/blog/pt/como-fazer-um-backlog-do-produto). Acesso em: 28 maio 2025. 
+
+<center>
+<figure id="ref-backlog-fonte1">
+    <img src="../../../../assets/agil/backlog/backlog-fonte1.png" alt="Exemplo de Product Backlog" width="500" onerror="this.onerror=null;this.src='../../assets/agil/backlog/backlog-fonte1.png'">
+    <figcaption>Fonte: SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 15. Universidade de Brasília, Faculdade do Gama, [s.d.].</figcaption>
+</figure>
+
+<figure id="ref-backlog-fonte2">
+    <img src="../../../../assets/agil/backlog/backlog-fonte2.png" alt="Benefícios e Priorização do Product Backlog" width="500" onerror="this.onerror=null;this.src='../../assets/agil/backlog/backlog-fonte2.png'">
+    <figcaption>Fonte: RADIGAN, Dan. O backlog do produto: sua lista de tarefas definitiva. Atlassian.</figcaption>
+</figure>
+</center>
 
 ## Histórico de Versões
 
 | Versão | Descrição                      | Autor(es)                                             | Data       | Revisor(es)                                        | Data de Revisão |
 | ------ | ------------------------------ | ----------------------------------------------------- | ---------- | -------------------------------------------------- | --------------- |
-| `1.0`   | Criação da página | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 23/05/2025 | [Ana Victória](https://github.com/navicg) | 23/05/2025      |
-| `1.1` | Criação da introdução e do padrão a ser seguido |  [Gabriel Lopes](https://github.com/BrzGab)   | 28/05/2025| [Artur Mendonça](https://github.com/ArtyMend07) | 28/05/2025 |
+| 1.0   | Criação da página | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 23/05/2025 | [Ana Victória](https://github.com/navicg) | 23/05/2025      |
+| 1.1 | Criação da introdução e do padrão a ser seguido |  [Gabriel Lopes](https://github.com/BrzGab)   | 28/05/2025| [Artur Mendonça](https://github.com/ArtyMend07) | 28/05/2025 |
+| 1.2 | Reorganização das seções de referências e adição base das referências bibliográficas|  [Artur Mendonça](https://github.com/ArtyMend07)   | 28/05/2025| [Gabriel Lopes](https://github.com/BrzGab) | 29/05/2025 |
