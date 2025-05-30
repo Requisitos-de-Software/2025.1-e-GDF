@@ -288,8 +288,23 @@ Esta seção apresenta as gravações das validações realizadas por cada integ
 
 ## Histórico de Versões
 
-| Versão | Descrição                      | Autor(es)                                             | Data       | Revisor(es)                                        | Data de Revisão |
-| ------ | ------------------------------ | ----------------------------------------------------- | ---------- | -------------------------------------------------- | --------------- |
-| 1.0   | Criação da página | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 23/05/2025 | [Ana Victória](https://github.com/navicg) | 23/05/2025      |
-| 1.1 | Criação da introdução e do padrão a ser seguido |  [Gabriel Lopes](https://github.com/BrzGab)   | 28/05/2025| [Artur Mendonça](https://github.com/ArtyMend07) | 28/05/2025 |
-| 1.2 | Reorganização das seções de referências e adição base das referências bibliográficas|  [Artur Mendonça](https://github.com/ArtyMend07)   | 28/05/2025| [Gabriel Lopes](https://github.com/BrzGab) | 29/05/2025 |
+| Versão | Descrição                                    | Autor(es)                                             | Data       | Revisor(es)                                        | Data de Revisão |
+|--------|----------------------------------------------|-------------------------------------------------------|------------|---------------------------------------------------|-----------------|
+| 1.0    | Criação da página                             | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 23/05/2025 | [Ana Victória](https://github.com/navicg)         | 23/05/2025      |
+| 1.1    | Criação da introdução e do padrão a ser seguido | [Gabriel Lopes](https://github.com/BrzGab)            | 28/05/2025 | [Artur Mendonça](https://github.com/ArtyMend07)   | 28/05/2025      |
+| 1.2    | Criação de tabela de Product Backlog RF12     | [Luiza da Silva Pugas](https://github.com/Luizaxx)    | 30/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025      |
+| 1.3    | Criação de tabela de Product Backlog RF13     | [Luiza da Silva Pugas](https://github.com/Luizaxx)    | 30/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025      |
+| 1.4    | Criação de tabela de Product Backlog RF14     | [Luiza da Silva Pugas](https://github.com/Luizaxx)    | 30/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025      |
+| 1.5    | Criação de tabela de Product Backlog RF35     | [Luiza da Silva Pugas](https://github.com/Luizaxx)    | 30/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025      |
+| 1.6    | Criação de tabela de Product Backlog RF36     | [Luiza da Silva Pugas](https://github.com/Luizaxx)    | 30/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025      |
+| 1.7    | Criação de tabela de Product Backlog RF38     | [Luiza da Silva Pugas](https://github.com/Luizaxx)    | 30/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025      |
+| 1.8    | Criação de tabela de Product Backlog RNF01    | [Luiza da Silva Pugas](https://github.com/Luizaxx)    | 30/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025      |
+| 1.9    | Criação de tabela de Product Backlog RF22     | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx)     | 30/05/2025      |
+| 1.10   | Criação de tabela de Product Backlog RF18     | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx)     | 30/05/2025      |
+| 1.11   | Criação de tabela de Product Backlog RF27     | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx)     | 30/05/2025      |
+| 1.12   | Criação de tabela de Product Backlog RF30     | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx)     | 30/05/2025      |
+| 1.13   | Criação de tabela de Product Backlog RF31     | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx)     | 30/05/2025      |
+| 1.14   | Criação de tabela de Product Backlog RF32     | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx)     | 30/05/2025      |
+| 1.15   | Criação de tabela de Product Backlog RNF02    | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx)     | 30/05/2025      |
+
+| 
