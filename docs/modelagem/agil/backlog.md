@@ -174,15 +174,16 @@ Esta seção apresenta as gravações das validações realizadas por cada integ
 <iframe width="560" height="315" src="https://www.youtube.com/embed/[CÓDIGO_DO_VIDEO]" title="Validação Backlog - João Marcos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Tabela 6** - Informações da validação 4
-| Tema                         | Épico | História do Usuário (US)                                            | ID    | Prioridade | Status       | Feature                          |
-|------------------------------|-------|----------------------------------------------------------------------|-------|------------|--------------|-----------------------------------|
-| Usabilidade                  | E8    | Alteração de Idioma no Aplicativo                                   | RF12   | SH         | Em progresso | Internacionalização               |
-| Usabilidade                  | E9    | Personalização de Preferências e Perfil                             | RF13  | SH         | Em progresso | Personalização de Experiência     |
-| Comunicação com o Usuário    | E10   | Envio de Mensagens Curtas para Lembretes                            | RF14  | MH         | Em progresso | Notificações e Alertas            |
-| Atendimento ao Cidadão       | E11   | Seleção do Tipo de Serviço (Implantação, Limpeza ou Reparo)         | RF35  | MH         | Em progresso | Gestão de Ocorrências             |
-| Atendimento ao Cidadão       | E12   | Registro Detalhado da Ocorrência                                    | RF36  | MH         | Em progresso | Registro Detalhado de Serviço     |
-| Atendimento ao Cidadão       | E13   | Acesso a Serviços de Transporte e Pré-cadastro do Cartão Mobilidade | RF38  | MH         | Em progresso | Serviços Públicos de Transporte   |
-| Usabilidade                  | E14   | Compatibilidade com Android e iOS                                   | RNF01 | MH         | Em progresso | Compatibilidade com Dispositivos  |
+| Tema                         | Épico | História do Usuário (US)                                            | ID    | Prioridade | Status       | Feature                         | Rastreabilidade                                                                                   | Autor                                                  |
+|------------------------------|-------|----------------------------------------------------------------------|-------|------------|--------------|----------------------------------|----------------------------------------------------------------------------------------------------|--------------------------------------------------------|
+| Segurança e Acesso           | E1    | Autenticação Segura via gov.br                                      | RF22  | SH         | Em progresso | Autenticação e Segurança         | <a href="../tec_elicitacao/entrevista/#anchor_EN">EN04</a>         | [João Marcos](https://github.com/JJOAOMARCOSS)    |
+| Gerenciamento de Documentos  | E2    | Compartilhamento e Salvamento de Informações Importantes            | RF18  | SH         | Em progresso | Gerenciamento de Comprovantes    | <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR20</a>      | [João Marcos](https://github.com/JJOAOMARCOSS)    |
+| Ajuda e Suporte              | E3    | Acesso a Suporte com Instruções de Uso                              | RF27  | CH         | Em progresso | Suporte e Ajuda                  | <a href="../tec_elicitacao/entrevista/#anchor_EN">EN11</a>         | [João Marcos](https://github.com/JJOAOMARCOSS)     |
+| Serviços do Cidadão          | E4    | Acompanhamento de Status de Solicitações                            | RF30  | MH         | Em progresso | Consulta de Solicitações         | <a href="../tec_elicitacao/analise_documentos/#anchor_AD">AD04</a> | [João Marcos](https://github.com/JJOAOMARCOSS)    |
+| Serviços do Cidadão          | E5    | Confirmação da Resolução de Problemas                               | RF31  | MH         | Em progresso | Validação de Atendimento         | <a href="../tec_elicitacao/analise_documentos/#anchor_AD">AD06</a> | [João Marcos](https://github.com/JJOAOMARCOSS)     |
+| Privacidade e Dados Pessoais | E6    | Exclusão de Conta e Dados Pessoais                                  | RF32  | MH         | Em progresso | Gestão de Conta e Privacidade    | <a href="../tec_elicitacao/analise_documentos/#anchor_AD">AD07</a> | [João Marcos](https://github.com/JJOAOMARCOSS)     |
+| Privacidade e Dados Pessoais | E7    | Conformidade com LGPD                                               | RNF02 | MH         | Em progresso | Conformidade Legal               |  <a href="/elicitacao/req_elicitados/#anchor_RF">RNF01/a>                                                                                                  | [João Marcos](https://github.com/JJOAOMARCOSS)                                                         |
+
 
 
 | **Autor** | **Usuário Participante** |
@@ -238,15 +239,16 @@ Esta seção apresenta as gravações das validações realizadas por cada integ
 <iframe width="560" height="315" src="https://www.youtube.com/embed/[CÓDIGO_DO_VIDEO]" title="Validação Backlog - Luiza Silva" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Tabela 9** - Informações da validação 7
-| Tema                         | Épico | História do Usuário (US)                                            | ID    | Prioridade | Status       | Feature                         |
-|------------------------------|-------|----------------------------------------------------------------------|-------|------------|--------------|----------------------------------|
-| Segurança e Acesso           | E1    | Autenticação Segura via gov.br                                      | RF22  | SH         | Em progresso | Autenticação e Segurança         |
-| Gerenciamento de Documentos  | E2    | Compartilhamento e Salvamento de Informações Importantes            | RF18  | SH         | Em progresso | Gerenciamento de Comprovantes    |
-| Ajuda e Suporte              | E3    | Acesso a Suporte com Instruções de Uso                              | RF27  | CH         | Em progresso | Suporte e Ajuda                  |
-| Serviços do Cidadão          | E4    | Acompanhamento de Status de Solicitações                            | RF30  | MH         | Em progresso | Consulta de Solicitações         |
-| Serviços do Cidadão          | E5    | Confirmação da Resolução de Problemas                               | RF31  | MH         | Em progresso | Validação de Atendimento         |
-| Privacidade e Dados Pessoais | E6    | Exclusão de Conta e Dados Pessoais                                  | RF32  | MH         | Em progresso | Gestão de Conta e Privacidade    |
-| Privacidade e Dados Pessoais | E7    | Conformidade com LGPD                                               | RNF02 | MH         | Em progresso | Conformidade Legal               |
+| Tema                         | Épico | História do Usuário (US)                                            | ID    | Prioridade | Status       | Feature                          | Rastreabilidade                                                                                   | Autor                                                  |
+|------------------------------|-------|----------------------------------------------------------------------|-------|------------|--------------|-----------------------------------|----------------------------------------------------------------------------------------------------|--------------------------------------------------------|
+| Usabilidade                  | E8    | Alteração de Idioma no Aplicativo                                   | RF12  | SH         | Em progresso | Internacionalização               | <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR13</a> | [Luiza da Silva Pugas](https://github.com/Luizaxx)     |
+| Usabilidade                  | E9    | Personalização de Preferências e Perfil                             | RF13  | SH         | Em progresso | Personalização de Experiência     | <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR14</a> | [Luiza da Silva Pugas](https://github.com/Luizaxx)     |
+| Comunicação com o Usuário    | E10   | Envio de Mensagens Curtas para Lembretes                            | RF14  | MH         | Em progresso | Notificações e Alertas            | <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR15</a> | [Luiza da Silva Pugas](https://github.com/Luizaxx)     |
+| Atendimento ao Cidadão       | E11   | Seleção do Tipo de Serviço (Implantação, Limpeza ou Reparo)         | RF35  | MH         | Em progresso | Gestão de Ocorrências             | <a href="../tec_elicitacao/introspeccao/#anchor_INT">INT03</a> | [Luiza da Silva Pugas](https://github.com/Luizaxx)     |
+| Atendimento ao Cidadão       | E12   | Registro Detalhado da Ocorrência                                    | RF36  | MH         | Em progresso | Registro Detalhado de Serviço     | <a href="../tec_elicitacao/introspeccao/#anchor_INT">INT04</a> | [Luiza da Silva Pugas](https://github.com/Luizaxx)     |
+| Atendimento ao Cidadão       | E13   | Acesso a Serviços de Transporte e Pré-cadastro do Cartão Mobilidade | RF38  | MH         | Em progresso | Serviços Públicos de Transporte   | <a href="../tec_elicitacao/introspeccao/#anchor_INT">INT08</a> | [Luiza da Silva Pugas](https://github.com/Luizaxx)     |
+| Usabilidade                  | E14   | Compatibilidade com Android e iOS                                   | RNF01 | MH         | Em progresso | Compatibilidade com Dispositivos  |    <a href="/elicitacao/req_elicitados/#anchor_RF">RNF02</a>                                       | [Luiza da Silva Pugas](https://github.com/Luizaxx)     |
+
 
 
 
