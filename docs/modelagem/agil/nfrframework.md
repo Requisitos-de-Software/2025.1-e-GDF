@@ -166,6 +166,15 @@ A taxonomia é um esquema de classificação que organiza termos e suas relaçõ
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ( [João Marcos](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
 
+A taxonomia apresentada nesta tabela organiza os Softgoals (objetivos de qualidade não-funcionais) do sistema e relaciona cada um com os Requisitos Não-Funcionais correspondentes. Essa classificação ajuda a estruturar os critérios que devem ser atendidos para garantir aspectos importantes do software, como compatibilidade, segurança, usabilidade, acessibilidade, desempenho, entre outros.
+
+A Figura 3 ilustra a representação visual dessa taxonomia, facilitando a compreensão das relações entre os Softgoals e seus respectivos Requisitos não funcionais.
+
+<p align="center">
+  <img src="/assets/modelagem/nfr/Taxonomia.drawio.png" width="600">
+</p>
+<p align="center"><i>Figura 3: Taxonomia</i></p>
+
 ## Cartões de Especificação
 
 Os cartões de especificação a seguir, Tabelas de 1 a 10, foram utilizados para definir os Requisitos Não-Funcionais a serem utilizados na confecção dos NFR Frameworks.<a id="anchor_2" href="#REF2">²</a>
