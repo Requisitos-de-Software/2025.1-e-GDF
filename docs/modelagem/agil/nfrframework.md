@@ -27,7 +27,7 @@ Para compreender o funcionamento do SIG, é essencial entender os diferentes tip
 3. **Softgoals de Afirmação**  
    São registros em linguagem natural que expressam justificativas de projeto ou fatores do domínio, como carga de trabalho, decisões de priorização e contexto organizacional.
 
-A figura 1 mostra os diferentes tipos de *softgoals* que estão presentes em um NRF Framework:
+A figura 1 mostra a representação dos tipos de *softgoals* que estão presentes em um NRF Framework:
 
 <p align="center">
   <img src="/assets/modelagem/nfr/Derivacao_Softgoals.drawio.png" width="600">
@@ -167,7 +167,6 @@ A taxonomia é um esquema de classificação que organiza termos e suas relaçõ
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ( [João Marcos](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
 
 A taxonomia apresentada nesta tabela organiza os Softgoals (objetivos de qualidade não-funcionais) do sistema e relaciona cada um com os Requisitos Não-Funcionais correspondentes. Essa classificação ajuda a estruturar os critérios que devem ser atendidos para garantir aspectos importantes do software, como compatibilidade, segurança, usabilidade, acessibilidade, desempenho, entre outros.
-
 A Figura 3 ilustra a representação visual dessa taxonomia, facilitando a compreensão das relações entre os Softgoals e seus respectivos Requisitos não funcionais.
 
 <p align="center">
