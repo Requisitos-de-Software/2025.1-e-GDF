@@ -27,6 +27,13 @@ Para compreender o funcionamento do SIG, é essencial entender os diferentes tip
 3. **Softgoals de Afirmação**  
    São registros em linguagem natural que expressam justificativas de projeto ou fatores do domínio, como carga de trabalho, decisões de priorização e contexto organizacional.
 
+A figura 1 mostra os diferentes tipos de *softgoals* que estão presentes em um NRF Framework:
+
+<p align="center">
+  <img src="/assets/modelagem/nfr/Derivacao_Softgoals.drawio.png" width="600">
+</p>
+<p align="center"><i>Figura 1: Tipos das Softgoals</i></p>
+
 ### Interdependências
 
 As interdependências no SIG definem as associações entre os *softgoals* e se dividem em dois tipos principais:
@@ -40,6 +47,12 @@ A decomposição permite subdividir *softgoals* em objetivos mais específicos, 
 - **Afirmação**: Serve para afirmar ou refutar justificativas de projeto.
 - **Priorização**: Permite atribuir diferentes níveis de prioridade entre *softgoals* do mesmo tipo.
 
+A figura 2 ilustra essas diferentes formas de decomposição dentro do NFR Framework:
+
+<p align="center">
+  <img src="/assets/modelagem/nfr/Derivacao_Softgoals.drawio.png" width="600">
+</p>
+<p align="center"><i>Figura 2: Decomposição das Softgoals</i></p>
 
 #### Contribuições
 
