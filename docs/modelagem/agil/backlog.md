@@ -121,6 +121,18 @@ Esta seção apresenta as gravações das validações realizadas por cada integ
 
 **Tabela 3** - Informações da validação 1
 
+
+| Tema                         | Épico | História do Usuário (US)                                                                 | ID    | Prioridade | Status  | Feature                         | Rastreabilidade | Autor                                                  |
+|------------------------------|-------|-----------------------------------------------------------------------------------------|-------|------------|---------|----------------------------------|------------------|--------------------------------------------------------|
+| Segurança e Acesso          | E28    | O usuário deve conseguir realizar login de forma simples e rápida                      | RF01  |      WH      | Em progresso| Autenticação                     |   <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR01</a>, <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD01</a>               | [Ana Victória](https://github.com/navicg)              |
+| Usabilidade                  | E29    | O usuário deve conseguir acessar funcionalidades mesmo com pouca familiaridade com tecnologia | RF02  |       MH     | Em progresso| Acessibilidade                   |         <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR02</a>         | [Ana Victória](https://github.com/navicg)              |
+| Usabilidade | E30    | O usuário deve poder receber notificações personalizadas com base em sua localização     | RF03  |       CH     | Em progresso | Notificações Contextuais         |        <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR03</a>          | [Ana Victória](https://github.com/navicg)              |
+| Serviços do Cidadão                 | E31    | O usuário deve poder acessar e visualizar notícias relevantes                           | RF09  |    SH        | Em progresso | Acesso à Informação              |        <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR10</a>           | [Ana Victória](https://github.com/navicg)              |
+| Usabilidade                   | E32    | O usuário deve poder acessar um menu com as principais funções logo na tela inicial     | RF15  |      SH      | Em progresso | Menu Inicial                     |        <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR16</a>          | [Ana Victória](https://github.com/navicg)              |
+| Integração de serviços              | E33   | O aplicativo fornece links para serviços externos (como Secretaria da Fazenda) de forma eficiente, com explicações claras sobre o que o usuário encontrará após clicar | RF20  |     CH       | Em progresso | Integração com Serviços Externos |        <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN02</a>           | [Ana Victória](https://github.com/navicg)              |
+| Desempenho                   | E34    | O aplicativo deve apresentar estabilidade, evitando travamentos ou falhas de carregamento, especialmente em redes móveis | RNF13 |       MH     | Em progresso| Estabilidade e Desempenho        |         <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN03</a>         | [Ana Victória](https://github.com/navicg)              |
+
+
 | **Autor** | **Usuário Participante** |
 | :-------- | :---------------------- |
 | [Ana Victória](https://github.com/navicg) | [Nome do Usuário] |
@@ -340,3 +352,10 @@ Esta seção apresenta as gravações das validações realizadas por cada integ
 | 1.27   | Criação de tabela de Product Backlog RF29    | [Karoline Luz](https://github.com/KarolineLuz)      | 30/05/2025 |  [Artur Mendonça](https://github.com/ArtyMend07)            | 30/05/2025      |
 | 1.28   | Criação de tabela de Product Backlog RF43    | [Karoline Luz](https://github.com/KarolineLuz)      | 30/05/2025 |  [Artur Mendonça](https://github.com/ArtyMend07)            | 30/05/2025      |
 | 1.29   | Criação de tabela de Product Backlog RNF16    | [Karoline Luz](https://github.com/KarolineLuz)      | 30/05/2025 |  [Artur Mendonça](https://github.com/ArtyMend07)            | 30/05/2025      |
+| 1.30   | Criação de tabela de Product Backlog RF01     | [Ana Victória](https://github.com/navicg)      | 30/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)            | 30/05/2025      |
+| 1.31  | Criação de tabela de Product Backlog RF02     | [Ana Victória](https://github.com/navicg)      | 30/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)            | 30/05/2025      |
+| 1.32   | Criação de tabela de Product Backlog RF03     | [Ana Victória](https://github.com/navicg)      | 30/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)            | 30/05/2025      |
+| 1.33  | Criação de tabela de Product Backlog RF09     | [Ana Victória](https://github.com/navicg)      | 30/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)           | 30/05/2025      |
+| 1.34   | Criação de tabela de Product Backlog RF15     | [Ana Victória](https://github.com/navicg)      | 30/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)            | 30/05/2025      |
+| 1.35   | Criação de tabela de Product Backlog RF20     | [Ana Victória](https://github.com/navicg)      | 30/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)            | 30/05/2025      |
+| 1.36   | Criação de tabela de Product Backlog RNF13    | [Ana Victória](https://github.com/navicg)     | 30/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)            | 30/05/2025      |
