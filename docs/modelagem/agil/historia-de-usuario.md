@@ -2283,6 +2283,135 @@ A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Artur Mendonça](https://github.com/ArtyMend07), 2025).</p></font>
 
+    ---
+
+??? info "📜 Fornecer um histórico de interações do usuário com o aplicativo, incluindo solicitações e agendamentos."
+
+    ## História de usuário - RF41: Acompanhar histórico de interações
+
+    ---
+
+    ### Título: Acompanhar histórico de interações
+
+    ---
+
+    ### História
+
+    **Como** um cidadão do Distrito Federal e usuário do aplicativo,  
+    **Eu quero** visualizar meu histórico de interações, solicitações e agendamentos,  
+    **Para que** eu possa acompanhar e revisar tudo o que já realizei no app de forma organizada.
+
+    ---
+
+    ### Critérios de Aceitação
+    - <input type="checkbox"> O histórico deve exibir todas as interações realizadas pelo usuário.  
+    - <input type="checkbox"> Devem estar incluídos agendamentos, solicitações e ações executadas.  
+    - <input type="checkbox"> As informações devem estar organizadas por data.  
+    - <input type="checkbox"> O usuário deve conseguir filtrar por tipo de interação.
+
+    ---
+
+    ### Subtarefas
+    - <input type="checkbox"> Criar modelo de dados para armazenar interações.  
+    - <input type="checkbox"> Desenvolver interface do histórico.  
+    - <input type="checkbox"> Implementar filtros e ordenações por tipo e data.  
+    - <input type="checkbox"> Garantir persistência e segurança dos dados.
+
+    ---
+
+    ### Rastreabilidade
+    - **Requisito Funcional Relacionado:** RF41
+
+    ---
+
+    ### Estimativa de Esforço
+    - **Prioridade:** MH
+
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Lucas Mendonça](https://github.com/lucasarruda9), 2025).</p></font>
+
+    ---
+
+??? info "📰 Apresentar um feed de notícias atualizadas com informações úteis do Governo do Distrito Federal."
+
+    ## História de usuário - RF42: Acesso a notícias oficiais do GDF
+
+    ---
+
+    ### Título: Acesso a notícias oficiais do GDF
+
+    ---
+
+    ### História
+
+    **Como** um cidadão do Distrito Federal e usuário do aplicativo,  
+    **Eu quero** ter acesso a um feed com notícias oficiais e atualizadas do Governo do Distrito Federal,  
+    **Para que** eu possa me manter informado sobre assuntos públicos e decisões governamentais.
+
+    ---
+
+    ### Critérios de Aceitação
+    - <input type="checkbox"> O feed deve ser alimentado com fontes confiáveis do GDF.  
+    - <input type="checkbox"> As notícias devem conter título, resumo, data e link para leitura completa.  
+    - <input type="checkbox"> As atualizações devem ocorrer de forma periódica.  
+    - <input type="checkbox"> Deve ser possível compartilhar notícias via redes sociais.
+
+    ---
+
+    ### Subtarefas
+    - <input type="checkbox"> Integrar API de notícias do GDF.  
+    - <input type="checkbox"> Criar interface de listagem.  
+    - <input type="checkbox"> Exibir alertas para novas notícias.  
+    - <input type="checkbox"> Implementar botão de compartilhamento.
+
+    ---
+
+    ### Rastreabilidade
+    - **Requisito Funcional Relacionado:** RF42
+
+    ---
+
+    ### Estimativa de Esforço
+    - **Prioridade:** SH
+    
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Lucas Mendonça](https://github.com/lucasarruda9), 2025).</p></font>
+
+    ---
+
+??? info "🗓️ Permitir agendamentos em serviços sociais, como centros de assistência social e habitação."
+
+    ## História de usuário - RF39: Agendar serviços sociais
+
+    ### Título: Agendar serviços sociais
+
+    ### História
+
+    **Como** um cidadão do Distrito Federal e usuário do aplicativo,  
+    **Eu quero** poder agendar atendimentos de serviços socias,  
+    **Para que** eu consiga ter acesso aos serviços públicos do DF de forma simples e organizada.
+
+    ### Critérios de Aceitação
+    - <input type="checkbox"> Deve ser possível selecionar local, serviço e horário disponíveis.  
+    - <input type="checkbox"> O usuário deve receber confirmação do agendamento.  
+    - <input type="checkbox"> O sistema deve validar os dados antes de concluir o agendamento.  
+    - <input type="checkbox"> Deve ser possível consultar e cancelar agendamentos realizados.
+
+    ### Subtarefas
+    - <input type="checkbox"> Conectar com sistema de agendamentos do GDF.  
+    - <input type="checkbox"> Criar interface de seleção de local, serviço e horário.  
+    - <input type="checkbox"> Implementar lógica de confirmação e envio de notificação.
+
+    ### Rastreabilidade
+    - **Requisito Funcional Relacionado:** RF39
+
+    ### Estimativa de Esforço
+    - **Prioridade:** MH
+
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Lucas Mendonça](https://github.com/lucasarruda9), 2025).</p></font>
+
+    ---
+
+    
+
 ## Referências Bibliográficas
 
 > <a id="FRM1" href="#anchor_1">1.</a>PRESSMAN, Roger S. Engenharia de software: uma abordagem profissional. 8. ed. Porto Alegre: AMGH, 2016.
