@@ -55,6 +55,10 @@ O desenvolvimento do backlog seguiu uma abordagem sistemática e colaborativa, o
 | [ID e Nome do Épico] | [ID e Nome da Feature] | [ID e Descrição da História] | [Alta/Média/Baixa] |
 | | | | |
 
+
+
+
+
 <font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
 
 </center>
@@ -158,6 +162,16 @@ Esta seção apresenta as gravações das validações realizadas por cada integ
 <iframe width="560" height="315" src="https://www.youtube.com/embed/[CÓDIGO_DO_VIDEO]" title="Validação Backlog - João Marcos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Tabela 6** - Informações da validação 4
+| Tema                         | Épico | História do Usuário (US)                                            | ID    | Prioridade | Status       | Feature                          |
+|------------------------------|-------|----------------------------------------------------------------------|-------|------------|--------------|-----------------------------------|
+| Usabilidade                  | E8    | Alteração de Idioma no Aplicativo                                   | RF12   | SH         | Em progresso | Internacionalização               |
+| Usabilidade                  | E9    | Personalização de Preferências e Perfil                             | RF13  | SH         | Em progresso | Personalização de Experiência     |
+| Comunicação com o Usuário    | E10   | Envio de Mensagens Curtas para Lembretes                            | RF14  | MH         | Em progresso | Notificações e Alertas            |
+| Atendimento ao Cidadão       | E11   | Seleção do Tipo de Serviço (Implantação, Limpeza ou Reparo)         | RF35  | MH         | Em progresso | Gestão de Ocorrências             |
+| Atendimento ao Cidadão       | E12   | Registro Detalhado da Ocorrência                                    | RF36  | MH         | Em progresso | Registro Detalhado de Serviço     |
+| Atendimento ao Cidadão       | E13   | Acesso a Serviços de Transporte e Pré-cadastro do Cartão Mobilidade | RF38  | MH         | Em progresso | Serviços Públicos de Transporte   |
+| Usabilidade                  | E14   | Compatibilidade com Android e iOS                                   | RNF01 | MH         | Em progresso | Compatibilidade com Dispositivos  |
+
 
 | **Autor** | **Usuário Participante** |
 | :-------- | :---------------------- |
@@ -212,6 +226,17 @@ Esta seção apresenta as gravações das validações realizadas por cada integ
 <iframe width="560" height="315" src="https://www.youtube.com/embed/[CÓDIGO_DO_VIDEO]" title="Validação Backlog - Luiza Silva" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Tabela 9** - Informações da validação 7
+| Tema                         | Épico | História do Usuário (US)                                            | ID    | Prioridade | Status       | Feature                         |
+|------------------------------|-------|----------------------------------------------------------------------|-------|------------|--------------|----------------------------------|
+| Segurança e Acesso           | E1    | Autenticação Segura via gov.br                                      | RF22  | SH         | Em progresso | Autenticação e Segurança         |
+| Gerenciamento de Documentos  | E2    | Compartilhamento e Salvamento de Informações Importantes            | RF18  | SH         | Em progresso | Gerenciamento de Comprovantes    |
+| Ajuda e Suporte              | E3    | Acesso a Suporte com Instruções de Uso                              | RF27  | CH         | Em progresso | Suporte e Ajuda                  |
+| Serviços do Cidadão          | E4    | Acompanhamento de Status de Solicitações                            | RF30  | MH         | Em progresso | Consulta de Solicitações         |
+| Serviços do Cidadão          | E5    | Confirmação da Resolução de Problemas                               | RF31  | MH         | Em progresso | Validação de Atendimento         |
+| Privacidade e Dados Pessoais | E6    | Exclusão de Conta e Dados Pessoais                                  | RF32  | MH         | Em progresso | Gestão de Conta e Privacidade    |
+| Privacidade e Dados Pessoais | E7    | Conformidade com LGPD                                               | RNF02 | MH         | Em progresso | Conformidade Legal               |
+
+
 
 | **Autor** | **Usuário Participante** |
 | :-------- | :---------------------- |
