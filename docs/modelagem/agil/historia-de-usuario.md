@@ -86,6 +86,7 @@ A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma
 | RF11 | O aplicativo deve permitir a integração com serviços de saúde, educação e mobilidade | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR12</a> | [Artur Mendonça](https://github.com/ArtyMend07) |
 | RF21 | O aplicativo oferece funcionalidades para consulta de informações educacionais | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN03</a>, <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT07</a> | [Artur Mendonça](https://github.com/ArtyMend07) |
 | RF33 | Permitir o registro de ocorrências relacionadas a problemas de infraestrutura urbana | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT01</a> | [Artur Mendonça](https://github.com/ArtyMend07) |
+| RNF20 | As funcionalidades principais devem responder em, no máximo, dois segundos para garantir boa experiência | <a href="../tec_elicitacao/integracao/#anchor_INTT">INT16</a> | [Artur Mendonça](https://github.com/ArtyMend07) |
 
 
 ??? info "📋 O aplicativo permite autenticação segura através da plataforma gov.br, com opções como reconhecimento facial."
@@ -2230,6 +2231,58 @@ A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Artur Mendonça](https://github.com/ArtyMend07), 2025).</p></font>
 
+    ---
+
+??? info "⚡ As funcionalidades principais devem responder em, no máximo, dois segundos"
+
+    **História de Usuário — RNF20: Performance das Funcionalidades Principais**
+
+    ---
+
+    #### **Título:** Tempo de Resposta das Funcionalidades Principais
+
+    ---
+
+    #### História
+
+    **Como** um usuário do aplicativo,  
+    **Eu quero** que as funcionalidades principais respondam rapidamente em no máximo dois segundos,  
+    **Para que** eu possa realizar minhas tarefas de forma eficiente e sem frustrações com esperas.
+
+    ---
+
+    #### Critérios de Aceitação
+
+    - <input type="checkbox"> Todas as funcionalidades principais devem responder em até 2 segundos.
+    - <input type="checkbox"> O sistema deve mostrar indicadores de carregamento para operações mais longas.
+    - <input type="checkbox"> O aplicativo deve otimizar o carregamento de dados e imagens.
+    - <input type="checkbox"> O sistema deve implementar cache para melhorar o tempo de resposta.
+    - <input type="checkbox"> Deve haver monitoramento contínuo do tempo de resposta.
+
+    ---
+
+    #### Subtarefas
+
+    - <input type="checkbox"> Implementar sistema de monitoramento de performance.
+    - <input type="checkbox"> Otimizar consultas ao banco de dados.
+    - <input type="checkbox"> Criar sistema de cache para dados frequentemente acessados.
+    - <input type="checkbox"> Implementar lazy loading para imagens e conteúdo pesado.
+    - <input type="checkbox"> Desenvolver indicadores visuais de carregamento.
+
+    ---
+
+    #### Rastreabilidade
+
+    - **Requisito Não Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RNF20</a>
+
+    ---
+
+    #### Estimativa de Esforço
+
+    - **Prioridade:** Média
+
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Artur Mendonça](https://github.com/ArtyMend07), 2025).</p></font>
+
 ## Referências Bibliográficas
 
 > <a id="FRM1" href="#anchor_1">1.</a>PRESSMAN, Roger S. Engenharia de software: uma abordagem profissional. 8. ed. Porto Alegre: AMGH, 2016.
@@ -2287,4 +2340,4 @@ A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma
 | 1.37  | Criação e elaboração da história de usuário RF11 | [Artur Mendonça](https://github.com/ArtyMend07) | 29/05/2025 | [Luiza Silva](https://github.com/Luizaxx) | 03/06/2025      |
 | 1.38  | Criação e elaboração da história de usuário RF21 | [Artur Mendonça](https://github.com/ArtyMend07) | 29/05/2025 | [Luiza Silva](https://github.com/Luizaxx) | 03/06/2025      |
 | 1.39  | Criação e elaboração da história de usuário RF33 | [Artur Mendonça](https://github.com/ArtyMend07) | 29/05/2025 | [Luiza Silva](https://github.com/Luizaxx) | 03/06/2025      |
-
+| 1.40  | Criação e elaboração da história de usuário RNF20 | [Artur Mendonça](https://github.com/ArtyMend07) | 30/05/2025 | [Luiza Silva](https://github.com/Luizaxx) | 03/06/2025      |
