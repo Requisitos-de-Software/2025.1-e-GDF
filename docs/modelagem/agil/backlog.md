@@ -139,6 +139,16 @@ Esta seção apresenta as gravações das validações realizadas por cada integ
 
 **Tabela 4** - Informações da validação 2
 
+| Tema                         | Épico | História do Usuário (US)                                            | ID    | Prioridade | Status       | Feature                          | Rastreabilidade                                                                                   | Autor                                                  |
+|------------------------------|-------|----------------------------------------------------------------------|-------|------------|--------------|-----------------------------------|----------------------------------------------------------------------------------------------------|--------------------------------------------------------|
+| Gestão de Serviços          | E15   | Consulta Centralizada de Agendamentos e Serviços                    | RF04  | MH         | Em progresso | Gerenciamento de Compromissos     | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR04</a>                           | [Artur Mendonça](https://github.com/ArtyMend07)        |
+| Acessibilidade              | E16   | Assistente Virtual com Acessibilidade por Voz                       | RF05  | MH         | Em progresso | Assistente Virtual                | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR05</a>, <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD05</a>, <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT13</a> | [Artur Mendonça](https://github.com/ArtyMend07) |
+| Suporte ao Usuário          | E17   | Tutoriais Passo a Passo do Aplicativo                              | RF06  | SH         | Em progresso | Tutoriais e Ajuda                | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR06</a>                           | [Artur Mendonça](https://github.com/ArtyMend07)        |
+| Integração de Serviços      | E18   | Integração com Serviços de Saúde, Educação e Mobilidade           | RF11  | MH         | Em progresso | Integração de Sistemas           | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR12</a>                           | [Artur Mendonça](https://github.com/ArtyMend07)        |
+| Educação                    | E19   | Consulta de Informações Educacionais                               | RF21  | MH         | Em progresso | Gestão Educacional               | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN03</a>, <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT07</a> | [Artur Mendonça](https://github.com/ArtyMend07) |
+| Infraestrutura Urbana       | E20   | Registro de Ocorrências de Infraestrutura                          | RF33  | MH         | Em progresso | Gestão de Ocorrências            | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT01</a>                          | [Artur Mendonça](https://github.com/ArtyMend07)        |
+| Performance                 | E21   | Performance das Funcionalidades Principais                          | RNF20 | MH         | Em progresso | Otimização de Desempenho         | <a href="../tec_elicitacao/integracao/#anchor_INTT">INT16</a>                                    | [Artur Mendonça](https://github.com/ArtyMend07)        |
+
 | **Autor** | **Usuário Participante** |
 | :-------- | :---------------------- |
 | [Artur Mendonça](https://github.com/ArtyMend07) | [Nome do Usuário] |
@@ -292,19 +302,25 @@ Esta seção apresenta as gravações das validações realizadas por cada integ
 |--------|----------------------------------------------|-------------------------------------------------------|------------|---------------------------------------------------|-----------------|
 | 1.0    | Criação da página                             | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 23/05/2025 | [Ana Victória](https://github.com/navicg)         | 23/05/2025      |
 | 1.1    | Criação da introdução e do padrão a ser seguido | [Gabriel Lopes](https://github.com/BrzGab)            | 28/05/2025 | [Artur Mendonça](https://github.com/ArtyMend07)   | 28/05/2025      |
-| 1.2    | Criação de tabela de Product Backlog RF12     | [Luiza da Silva Pugas](https://github.com/Luizaxx)    | 30/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025      |
-| 1.3    | Criação de tabela de Product Backlog RF13     | [Luiza da Silva Pugas](https://github.com/Luizaxx)    | 30/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025      |
-| 1.4    | Criação de tabela de Product Backlog RF14     | [Luiza da Silva Pugas](https://github.com/Luizaxx)    | 30/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025      |
-| 1.5    | Criação de tabela de Product Backlog RF35     | [Luiza da Silva Pugas](https://github.com/Luizaxx)    | 30/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025      |
-| 1.6    | Criação de tabela de Product Backlog RF36     | [Luiza da Silva Pugas](https://github.com/Luizaxx)    | 30/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025      |
-| 1.7    | Criação de tabela de Product Backlog RF38     | [Luiza da Silva Pugas](https://github.com/Luizaxx)    | 30/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025      |
-| 1.8    | Criação de tabela de Product Backlog RNF01    | [Luiza da Silva Pugas](https://github.com/Luizaxx)    | 30/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025      |
-| 1.9    | Criação de tabela de Product Backlog RF22     | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx)     | 30/05/2025      |
-| 1.10   | Criação de tabela de Product Backlog RF18     | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx)     | 30/05/2025      |
-| 1.11   | Criação de tabela de Product Backlog RF27     | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx)     | 30/05/2025      |
-| 1.12   | Criação de tabela de Product Backlog RF30     | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx)     | 30/05/2025      |
-| 1.13   | Criação de tabela de Product Backlog RF31     | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx)     | 30/05/2025      |
-| 1.14   | Criação de tabela de Product Backlog RF32     | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx)     | 30/05/2025      |
-| 1.15   | Criação de tabela de Product Backlog RNF02    | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx)     | 30/05/2025      |
-
-| 
+| 1.2 | Reorganização das seções de referências e adição base das referências bibliográficas|  [Artur Mendonça](https://github.com/ArtyMend07)   | 28/05/2025| [Gabriel Lopes](https://github.com/BrzGab) | 29/05/2025 |
+| 1.3    | Criação de tabela de Product Backlog RF12     | [Luiza da Silva Pugas](https://github.com/Luizaxx)    | 30/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025      |
+| 1.4    | Criação de tabela de Product Backlog RF13     | [Luiza da Silva Pugas](https://github.com/Luizaxx)    | 30/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025      |
+| 1.5    | Criação de tabela de Product Backlog RF14     | [Luiza da Silva Pugas](https://github.com/Luizaxx)    | 30/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025      |
+| 1.6    | Criação de tabela de Product Backlog RF35     | [Luiza da Silva Pugas](https://github.com/Luizaxx)    | 30/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025      |
+| 1.7    | Criação de tabela de Product Backlog RF36     | [Luiza da Silva Pugas](https://github.com/Luizaxx)    | 30/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025      |
+| 1.8    | Criação de tabela de Product Backlog RF38     | [Luiza da Silva Pugas](https://github.com/Luizaxx)    | 30/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025      |
+| 1.9    | Criação de tabela de Product Backlog RNF01    | [Luiza da Silva Pugas](https://github.com/Luizaxx)    | 30/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025      |
+| 1.10    | Criação de tabela de Product Backlog RF22     | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx)     | 30/05/2025      |
+| 1.11   | Criação de tabela de Product Backlog RF18     | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx)     | 30/05/2025      |
+| 1.12   | Criação de tabela de Product Backlog RF27     | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx)     | 30/05/2025      |
+| 1.13   | Criação de tabela de Product Backlog RF30     | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx)     | 30/05/2025      |
+| 1.14   | Criação de tabela de Product Backlog RF31     | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx)     | 30/05/2025      |
+| 1.15   | Criação de tabela de Product Backlog RF32     | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx)     | 30/05/2025      |
+| 1.16   | Criação de tabela de Product Backlog RNF02    | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx)     | 30/05/2025      |
+| 1.17   | Criação de tabela de Product Backlog RF04     | [Artur Mendonça](https://github.com/ArtyMend07)      | 30/05/2025 | [Gabriel Lopes](https://github.com/BrzGab)            | 30/05/2025      |
+| 1.18   | Criação de tabela de Product Backlog RF05     | [Artur Mendonça](https://github.com/ArtyMend07)      | 30/05/2025 | [Gabriel Lopes](https://github.com/BrzGab)            | 30/05/2025      |
+| 1.19   | Criação de tabela de Product Backlog RF06     | [Artur Mendonça](https://github.com/ArtyMend07)      | 30/05/2025 | [Gabriel Lopes](https://github.com/BrzGab)            | 30/05/2025      |
+| 1.20   | Criação de tabela de Product Backlog RF11     | [Artur Mendonça](https://github.com/ArtyMend07)      | 30/05/2025 | [Gabriel Lopes](https://github.com/BrzGab)            | 30/05/2025      |
+| 1.21   | Criação de tabela de Product Backlog RF21     | [Artur Mendonça](https://github.com/ArtyMend07)      | 30/05/2025 | [Gabriel Lopes](https://github.com/BrzGab)            | 30/05/2025      |
+| 1.22   | Criação de tabela de Product Backlog RF33     | [Artur Mendonça](https://github.com/ArtyMend07)      | 30/05/2025 | [Gabriel Lopes](https://github.com/BrzGab)            | 30/05/2025      |
+| 1.23   | Criação de tabela de Product Backlog RNF20    | [Artur Mendonça](https://github.com/ArtyMend07)      | 30/05/2025 | [Gabriel Lopes](https://github.com/BrzGab)            | 30/05/2025      |
