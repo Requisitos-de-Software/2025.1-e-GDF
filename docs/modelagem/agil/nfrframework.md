@@ -73,6 +73,27 @@ Contribuições indicam como um *softgoal* impacta outro. Podem ser:
 
 <font size="3"><p style="text-align: center">Fonte: Elaborado pelos autores ([João Marcos](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
 
+## Priorização MoSCoW
+
+Para organizar e definir a importância relativa dos requisitos não-funcionais identificados, este projeto utiliza a técnica de priorização [**MoSCoW**](../../elicitacao/tec_priorizacao/moscow.md).
+
+O método **MoSCoW** categoriza os requisitos em quatro grupos principais:
+
+- **Must have (M)** → Essenciais para o sucesso do sistema. Sem eles, o projeto falha.
+- **Should have (S)** → Importantes, mas não críticos. Sua ausência pode ser contornada temporariamente.
+- **Could have (C)** → Desejáveis, porém opcionais. Podem ser incluídos se houver tempo e recursos.
+- **Won’t have this time (W)** → Fora do escopo atual. Requisitos que foram deliberadamente deixados para versões futuras.
+
+### Aplicação no NFR Framework
+
+No contexto deste projeto, a priorização **MoSCoW** será usada para:
+
+1. **Atribuir prioridades aos softgoals NFR e aos requisitos relacionados**, complementando os valores numéricos de prioridade já indicados nos cartões de especificação.
+2. **Guiar decisões de implementação**, ajudando a equipe a entender quais requisitos não-funcionais são indispensáveis, quais podem ser adiados e quais são opcionais.
+3. **Registrar as decisões nos Softgoal Interdependency Graphs (SIGs)**, utilizando as tags **M / S / C / W** nos nós e/ou nas legendas, para manter rastreabilidade visual das prioridades.
+
+Essa priorização também será documentada nas tabelas de especificação, adicionando uma coluna ou anotação que indique a categoria **MoSCoW** de cada requisito.
+
 
 ## Metodologia
 
@@ -114,6 +135,8 @@ Contribuições indicam como um *softgoal* impacta outro. Podem ser:
 
 ## Taxonomia
 
+<p align="center"><b>Tabela</b> — Taxonomia</p>
+
 | Softgoal            | RNFs Relacionados                        |
 | ------------------- | ---------------------------------------- |
 | *Compatibilidade*   | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF01</a>, <a href="/elicitacao/req_elicitados/#anchor_RF">RNF19</a>                             |
@@ -143,7 +166,7 @@ Os cartões de especificação a seguir, Tabelas de 1 a n, foram utilizados para
 | *Origem*                | Origem do requisito (stakeholder, norma, etc.)                                                              |
 | *Critério de Aceitação* | Métrica do requisito que possa ser testada e validada                                                       |
 | *Dependências*          | Requisitos relacionados e estruturas dependentes                                                            |
-| *Prioridade*            | Um número usado para decidir a importância relativa deste requisito (ex: 1 = prioridade mínima, 5 = máxima) |
+| *Prioridade*            | Categoria de prioridade: **M** (Must have), **S** (Should have), **C** (Could have), **W** (Won’t have) |
 | *Conflitos*             | Requisitos conflitantes com este                                                                            |
 | *História*              | Data de criação e de modificação                                                                            |
 
@@ -163,7 +186,7 @@ Os cartões de especificação a seguir, Tabelas de 1 a n, foram utilizados para
 | *Origem*                | Análise documental, boas práticas de desenvolvimento multiplataforma.                                        |
 | *Critério de Aceitação* | O sistema deve executar corretamente em dispositivos com Android (10 ou superior) e iOS (13 ou superior).    |
 | *Dependências*          | RNF08 (Responsividade), RNF24 (Otimização de imagens para upload móvel)                                      |
-| *Prioridade*            | 5                                                                                                            |
+| *Prioridade*            |  **M** (Must have)                                                                                                            |
 | *Conflitos*             | Pode limitar uso de recursos específicos de cada sistema operacional.                                        |
 | *História*              | Criado em 28/05/2025 – Última modificação em 28/05/2025                                                      |
 
@@ -182,7 +205,7 @@ Os cartões de especificação a seguir, Tabelas de 1 a n, foram utilizados para
 | *Origem*                | Análise documental, entrevista com stakeholders, boas práticas de segurança digital.                        |
 | *Critério de Aceitação* | Assegurar criptografia de dados, autenticação via gov.br e conformidade com a LGPD.                         |
 | *Dependências*          | RNF15 (Performance de login), RNF23 (Modo offline pode impactar segurança)                                  |
-| *Prioridade*            | Média (1.67)                                                                                                |
+| *Prioridade*            |  **M** (Must have)                                                                                                |
 | *Conflitos*             | Pode limitar certas funcionalidades ou aumentar a complexidade de implementação.                            |
 | *História*              | Criado em 28/05/2025 – Última modificação em 28/05/2025                                                     |
 
@@ -201,7 +224,7 @@ Os cartões de especificação a seguir, Tabelas de 1 a n, foram utilizados para
 | *Origem*                | Análise documental, brainstorming e entrevistas com usuários.                                                         |
 | *Critério de Aceitação* | Interface limpa e clara, compatível com leitores de tela, linguagem acessível, responsividade, e navegação intuitiva. |
 | *Dependências*          | RNF08 (Responsividade), RNF17 (Acessibilidade)                                                                        |
-| *Prioridade*            | Alta (2.17)                                                                                                           |
+| *Prioridade*            |  **M** (Must have)                                                                                                           |
 | *Conflitos*             | Pode exigir mais tempo de design e testes com usuários reais.                                                         |
 | *História*              | Criado em 28/05/2025 – Última modificação em 28/05/2025                                                               |
 
@@ -220,7 +243,7 @@ Os cartões de especificação a seguir, Tabelas de 1 a n, foram utilizados para
 | *Origem*                | Brainstorming, entrevistas e boas práticas de acessibilidade digital.                                                            |
 | *Critério de Aceitação* | Funcionalidades compatíveis com leitores de tela, layout adaptado e recursos para daltônicos ou baixa visão.                     |
 | *Dependências*          | RNF03 (Interface intuitiva), RNF11 (Linguagem acessível)                                                                         |
-| *Prioridade*            | Média (1.67)                                                                                                                     |
+| *Prioridade*            |  **M** (Must have)                                                                                                                     |
 | *Conflitos*             | Pode exigir testes especializados e maior atenção no design visual e técnico.                                                    |
 | *História*              | Criado em 28/05/2025 – Última modificação em 28/05/2025                                                                          |
 
@@ -239,7 +262,7 @@ Os cartões de especificação a seguir, Tabelas de 1 a n, foram utilizados para
 | *Origem*                | Brainstorming, entrevistas e critérios técnicos de desempenho.                                                                           |
 | *Critério de Aceitação* | O tempo de resposta das ações deve ser inferior a dois segundos; o sistema não deve travar em redes móveis ou em dispositivos limitados. |
 | *Dependências*          | RNF08 (Responsividade), RNF01 (Compatibilidade)                                                                                          |
-| *Prioridade*            | Média (1.50)                                                                                                                             |
+| *Prioridade*            | **S** (Should have)                                                                                                                            |
 | *Conflitos*             | Pode aumentar o esforço de desenvolvimento e exigir otimizações específicas por plataforma.                                              |
 | *História*              | Criado em 28/05/2025 – Última modificação em 28/05/2025                                                                                  |
 
@@ -259,7 +282,7 @@ Os cartões de especificação a seguir, Tabelas de 1 a n, foram utilizados para
 | *Origem*                | Brainstorming e Integração                                                                                         |
 | *Critério de Aceitação* | A interface deve se ajustar perfeitamente a pelo menos três resoluções distintas de tela sem perda de usabilidade. |
 | *Dependências*          | RNF01 (Compatibilidade), RNF21 (Usabilidade)                                                                       |
-| *Prioridade*            | Média (1.33)                                                                                                       |
+| *Prioridade*            | **M** (Must have)                                                                                                       |
 | *Conflitos*             | Pode requerer maior esforço de desenvolvimento para manter uniformidade visual entre plataformas.                  |
 | *História*              | Criado em 28/05/2025 – Última modificação em 28/05/2025                                                            |
 
@@ -278,7 +301,7 @@ Os cartões de especificação a seguir, Tabelas de 1 a n, foram utilizados para
 | *Origem*                | Entrevistas                                                                                                   |
 | *Critério de Aceitação* | Os dados sensíveis devem ser atualizados automaticamente de fontes confiáveis a cada 24h.                     |
 | *Dependências*          | RNF13 (Estabilidade), RNF22 (Segurança)                                                                       |
-| *Prioridade*            | Média (1.67)                                                                                                  |
+| *Prioridade*            | **M** (Must have)                                                                                                  |
 | *Conflitos*             | Necessidade de sincronização frequente pode impactar desempenho em conexões lentas.                           |
 | *História*              | Criado em 28/05/2025 – Última modificação em 28/05/2025                                                       |
 
@@ -297,7 +320,7 @@ Os cartões de especificação a seguir, Tabelas de 1 a n, foram utilizados para
 | *Origem*                | Integração                                                                                                 |
 | *Critério de Aceitação* | O usuário deve conseguir acessar os dados anteriormente consultados sem conexão com a internet.            |
 | *Dependências*          | RNF24 (Desempenho de upload), RNF12 (Confiabilidade)                                                       |
-| *Prioridade*            | Baixa (1.00)                                                                                               |
+| *Prioridade*            | **M** (Must have)                                                                                              |
 | *Conflitos*             | Pode exigir armazenamento local, aumentando o tamanho da instalação ou uso de memória.                     |
 | *História*              | Criado em 28/05/2025 – Última modificação em 28/05/2025                                                    |
 
@@ -316,7 +339,7 @@ Os cartões de especificação a seguir, Tabelas de 1 a n, foram utilizados para
 | *Origem*                | Entrevistas                                                                                                         |
 | *Critério de Aceitação* | A interface deve seguir os guias de estilo do governo e plataformas Android/iOS, com identidade visual padronizada. |
 | *Dependências*          | RNF03 (Interface intuitiva), RNF11 (Linguagem clara)                                                                |
-| *Prioridade*            | Alta (2.00)                                                                                                         |
+| *Prioridade*            | **M** (Must have)                                                                                                         |
 | *Conflitos*             | Pode aumentar o tempo de design e exigência de revisão por múltiplas entidades governamentais.                      |
 | *História*              | Criado em 28/05/2025 – Última modificação em 28/05/2025                                                             |
 
