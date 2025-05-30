@@ -92,7 +92,7 @@ No contexto deste projeto, a priorização **MoSCoW** será usada para:
 2. **Guiar decisões de implementação**, ajudando a equipe a entender quais requisitos não-funcionais são indispensáveis, quais podem ser adiados e quais são opcionais.
 3. **Registrar as decisões nos Softgoal Interdependency Graphs (SIGs)**, utilizando as tags **M / S / C / W** nos nós e/ou nas legendas, para manter rastreabilidade visual das prioridades.
 
-Essa priorização também será documentada nas tabelas de especificação, adicionando uma coluna ou anotação que indique a categoria **MoSCoW** de cada requisito.
+Essa priorização também será documentada nas tabelas de especificação, adicionando uma coluna e a anotação que indique a categoria **MoSCoW** de cada requisito.
 
 
 ## Metodologia
@@ -135,6 +135,8 @@ Essa priorização também será documentada nas tabelas de especificação, adi
 
 ## Taxonomia
 
+A taxonomia é um esquema de classificação que organiza termos e suas relações no contexto de uma área de conhecimento. Segundo Usman et al. (2017), **“taxonomias contribuem para amadurecer um campo de conhecimento, permitindo descrever seus elementos e evoluindo ao longo do tempo ao incorporar novos conhecimentos”**<a id="anchor_2" href="#REF2">²</a>.
+
 <p align="center"><b>Tabela</b> — Taxonomia</p>
 
 | Softgoal            | RNFs Relacionados                        |
@@ -153,7 +155,7 @@ Essa priorização também será documentada nas tabelas de especificação, adi
 
 ## Cartões de Especificação
 
-Os cartões de especificação a seguir, Tabelas de 1 a n, foram utilizados para definir os Requisitos Não-Funcionais a serem utilizados na confecção dos NFR Frameworks.<a id="anchor_3" href="#REF3">³</a>
+Os cartões de especificação a seguir, Tabelas de 1 a 10, foram utilizados para definir os Requisitos Não-Funcionais a serem utilizados na confecção dos NFR Frameworks.<a id="anchor_2" href="#REF2">²</a>
 
 <p align="center"><b>Tabela 1</b> — Cartão de Especificação modelo</p>
 
@@ -359,12 +361,20 @@ Os cartões de especificação a seguir, Tabelas de 1 a n, foram utilizados para
 ## Referências Bibliográficas
 
 > <a id="REF1" href="#anchor_1">1.</a>CHUNG, L., NIXON, B. A., YU, E., MYLOPOULOS, J. Non-functional requirementsin software engineering. Springer Science & Business Media: [S.l.], 2000. v. 5.
-> 
+
+<div style="text-align: center">
+<img src="" >
+</div>
+ 
 > <a id="REF2" href="#anchor_2">2.</a>SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019. Disponível em: <https://repositorio.ufpe.br/handle/123456789/34150>. Acesso em: 22/05/2025.
->
-> <a id="REF3" href="#anchor_3">3.</a>PAIM, F. R. S., CASTRO, J. F. B. Enhancing Data Warehouse Design with the NFR Framework. Centro de Informática UFPE, Recife, 2019. Disponível em: http://wer.inf.puc-rio.br/WERpapers/artigos/artigos_WER02/paim.pdf. Acesso em: 28/05/2025
 
+<div style="text-align: center">
+<img src="" >
+</div>
 
+<div style="text-align: center">
+<img src="" >
+</div>
 
 
 ## Histórico de Versões
