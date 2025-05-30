@@ -80,6 +80,12 @@ A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma
 | RF15 | O usuário deve poder acessar um menu com as principais funções logo na tela inicial.       |  <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR16</a> |[Ana Victória Guedes da Costa](https://github.com/navicg) |
 | RF20 | O aplicativo fornece links para serviços externos (como Secretaria da Fazenda) de forma eficiente, com explicações claras sobre o que o usuário encontrará após clicar.    | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN02</a>   | [Ana Victória Guedes da Costa](https://github.com/navicg) |
 | RNF13 | O aplicativo deve apresentar estabilidade, evitando travamentos ou falhas de carregamento, especialmente em redes móveis. | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN03</a>  |[Ana Victória Guedes da Costa](https://github.com/navicg) |
+| RF04 | O usuário deve poder consultar agendamentos e serviços em um único local centralizado | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR04</a> | [Artur Mendonça](https://github.com/ArtyMend07) |
+| RF05 | O usuário deve ter acesso a um assistente virtual com acessibilidade por voz | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR05</a>, <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD05</a>, <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT13</a> | [Artur Mendonça](https://github.com/ArtyMend07) |
+| RF06 | O usuário deve poder acessar tutoriais passo a passo sobre como usar o app | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR06</a> | [Artur Mendonça](https://github.com/ArtyMend07) |
+| RF11 | O aplicativo deve permitir a integração com serviços de saúde, educação e mobilidade | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR12</a> | [Artur Mendonça](https://github.com/ArtyMend07) |
+| RF21 | O aplicativo oferece funcionalidades para consulta de informações educacionais | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN03</a>, <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT07</a> | [Artur Mendonça](https://github.com/ArtyMend07) |
+| RF33 | Permitir o registro de ocorrências relacionadas a problemas de infraestrutura urbana | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT01</a> | [Artur Mendonça](https://github.com/ArtyMend07) |
 
 
 ??? info "📋 O aplicativo permite autenticação segura através da plataforma gov.br, com opções como reconhecimento facial."
@@ -1912,7 +1918,317 @@ A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Ana Victória Guedes da Costa](https://github.com/navicg), 2025).</p></font>
 
+    ---
 
+??? info "📅 O usuário deve poder consultar agendamentos e serviços em um único local centralizado"
+
+    **História de Usuário — RF04: Consulta Centralizada de Agendamentos e Serviços**
+
+    ---
+
+    #### **Título:** Consulta Centralizada de Agendamentos e Serviços
+
+    ---
+
+    #### História
+
+    **Como** um usuário do aplicativo,  
+    **Eu quero** consultar todos os meus agendamentos e serviços em um único local centralizado,  
+    **Para que** eu possa gerenciar minhas atividades e compromissos de forma eficiente e organizada.
+
+    ---
+
+    #### Critérios de Aceitação
+
+    - <input type="checkbox"> O sistema deve exibir uma lista consolidada de todos os agendamentos e serviços do usuário.
+    - <input type="checkbox"> Os agendamentos devem ser organizados por data e categoria.
+    - <input type="checkbox"> O usuário deve poder filtrar os agendamentos por tipo de serviço.
+    - <input type="checkbox"> Cada item deve mostrar informações essenciais como data, hora e tipo de serviço.
+    - <input type="checkbox"> O sistema deve atualizar a lista automaticamente quando houver mudanças.
+
+    ---
+
+    #### Subtarefas
+
+    - <input type="checkbox"> Desenvolver interface de visualização centralizada.
+    - <input type="checkbox"> Implementar sistema de filtros e ordenação.
+    - <input type="checkbox"> Criar mecanismo de atualização automática.
+    - <input type="checkbox"> Integrar com diferentes serviços do sistema.
+    - <input type="checkbox"> Implementar cache para acesso offline aos dados.
+
+    ---
+
+    #### Rastreabilidade
+
+    - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF04</a>
+
+    ---
+
+    #### Estimativa de Esforço
+
+    - **Prioridade:** Alta
+
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Artur Mendonça](https://github.com/ArtyMend07), 2025).</p></font>
+
+    ---
+
+??? info "🗣️ O usuário deve ter acesso a um assistente virtual com acessibilidade por voz"
+
+    **História de Usuário — RF05: Assistente Virtual com Acessibilidade por Voz**
+
+    ---
+
+    #### **Título:** Assistente Virtual com Acessibilidade por Voz
+
+    ---
+
+    #### História
+
+    **Como** um usuário do aplicativo,  
+    **Eu quero** ter acesso a um assistente virtual que responda a comandos de voz,  
+    **Para que** eu possa interagir com o aplicativo de forma mais acessível e natural.
+
+    ---
+
+    #### Critérios de Aceitação
+
+    - <input type="checkbox"> O sistema deve reconhecer e processar comandos de voz com precisão.
+    - <input type="checkbox"> O assistente deve responder através de áudio de forma clara e compreensível.
+    - <input type="checkbox"> Deve haver suporte para diferentes sotaques e variações linguísticas.
+    - <input type="checkbox"> O assistente deve funcionar mesmo com ruído ambiente moderado.
+    - <input type="checkbox"> O usuário deve poder ativar/desativar o assistente facilmente.
+
+    ---
+
+    #### Subtarefas
+
+    - <input type="checkbox"> Implementar sistema de reconhecimento de voz.
+    - <input type="checkbox"> Desenvolver engine de processamento de linguagem natural.
+    - <input type="checkbox"> Criar interface de ativação/desativação do assistente.
+    - <input type="checkbox"> Integrar sistema de síntese de voz para respostas.
+    - <input type="checkbox"> Realizar testes de usabilidade com diferentes perfis de usuário.
+
+    ---
+
+    #### Rastreabilidade
+
+    - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF05</a>
+
+    ---
+
+    #### Estimativa de Esforço
+
+    - **Prioridade:** Baixa
+
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Artur Mendonça](https://github.com/ArtyMend07), 2025).</p></font>
+
+    ---
+
+??? info "📚 O usuário deve poder acessar tutoriais passo a passo sobre como usar o app"
+
+    **História de Usuário — RF06: Tutoriais Passo a Passo**
+
+    ---
+
+    #### **Título:** Tutoriais Passo a Passo do Aplicativo
+
+    ---
+
+    #### História
+
+    **Como** um usuário do aplicativo,  
+    **Eu quero** acessar tutoriais passo a passo sobre como usar as funcionalidades,  
+    **Para que** eu possa aprender a utilizar o aplicativo de forma independente.
+
+    ---
+
+    #### Critérios de Aceitação
+
+    - <input type="checkbox"> Os tutoriais devem estar organizados por categorias de funcionalidades.
+    - <input type="checkbox"> Cada tutorial deve ter instruções claras e objetivas.
+    - <input type="checkbox"> Deve haver imagens ou vídeos ilustrativos quando necessário.
+    - <input type="checkbox"> O usuário deve poder marcar tutoriais como concluídos.
+    - <input type="checkbox"> Os tutoriais devem ser acessíveis offline após primeiro acesso.
+
+    ---
+
+    #### Subtarefas
+
+    - <input type="checkbox"> Criar estrutura de navegação dos tutoriais.
+    - <input type="checkbox"> Desenvolver conteúdo instrucional com imagens.
+    - <input type="checkbox"> Implementar sistema de marcação de progresso.
+    - <input type="checkbox"> Adicionar cache para acesso offline.
+    - <input type="checkbox"> Testar clareza e efetividade dos tutoriais.
+
+    ---
+
+    #### Rastreabilidade
+
+    - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF06</a>
+
+    ---
+
+    #### Estimativa de Esforço
+
+    - **Prioridade:** Alta
+
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Artur Mendonça](https://github.com/ArtyMend07), 2025).</p></font>
+
+    ---
+
+??? info "🔄 O aplicativo deve permitir a integração com serviços de saúde, educação e mobilidade"
+
+    **História de Usuário — RF11: Integração com Serviços Essenciais**
+
+    ---
+
+    #### **Título:** Integração com Serviços de Saúde, Educação e Mobilidade
+
+    ---
+
+    #### História
+
+    **Como** um usuário do aplicativo,  
+    **Eu quero** ter acesso integrado aos serviços de saúde, educação e mobilidade,  
+    **Para que** eu possa gerenciar diferentes aspectos da minha vida através de uma única plataforma.
+
+    ---
+
+    #### Critérios de Aceitação
+
+    - <input type="checkbox"> O sistema deve integrar-se com os sistemas de saúde pública.
+    - <input type="checkbox"> Deve haver acesso às informações educacionais da rede pública.
+    - <input type="checkbox"> A integração com serviços de mobilidade deve ser em tempo real.
+    - <input type="checkbox"> O usuário deve poder alternar entre os serviços facilmente.
+    - <input type="checkbox"> As informações devem ser sincronizadas periodicamente.
+
+    ---
+
+    #### Subtarefas
+
+    - <input type="checkbox"> Implementar APIs de integração com cada serviço.
+    - <input type="checkbox"> Criar interfaces unificadas para acesso aos serviços.
+    - <input type="checkbox"> Desenvolver sistema de sincronização de dados.
+    - <input type="checkbox"> Implementar mecanismos de segurança para dados sensíveis.
+    - <input type="checkbox"> Realizar testes de integração com cada sistema.
+
+    ---
+
+    #### Rastreabilidade
+
+    - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF11</a>
+
+    ---
+
+    #### Estimativa de Esforço
+
+    - **Prioridade:** Média
+
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Artur Mendonça](https://github.com/ArtyMend07), 2025).</p></font>
+    
+    ---
+
+??? info "📚 O aplicativo oferece funcionalidades para consulta de informações educacionais"
+
+    **História de Usuário — RF21: Consulta de Informações Educacionais**
+
+    ---
+
+    #### **Título:** Consulta de Informações Educacionais
+
+    ---
+
+    #### História
+
+    **Como** um usuário do aplicativo,  
+    **Eu quero** consultar informações educacionais como calendário letivo e status de vagas,  
+    **Para que** eu possa me manter informado sobre o sistema educacional.
+
+    ---
+
+    #### Critérios de Aceitação
+
+    - <input type="checkbox"> O sistema deve exibir o calendário letivo atualizado.
+    - <input type="checkbox"> Deve ser possível consultar vagas disponíveis nas instituições.
+    - <input type="checkbox"> As informações devem ser atualizadas em tempo real.
+    - <input type="checkbox"> O usuário deve poder filtrar informações por região ou escola.
+    - <input type="checkbox"> Deve haver notificações sobre atualizações importantes.
+
+    ---
+
+    #### Subtarefas
+
+    - <input type="checkbox"> Criar interface de visualização do calendário letivo.
+    - <input type="checkbox"> Implementar sistema de consulta de vagas.
+    - <input type="checkbox"> Desenvolver filtros de busca por região/escola.
+    - <input type="checkbox"> Integrar sistema de notificações.
+    - <input type="checkbox"> Realizar testes de atualização de dados.
+
+    ---
+
+    #### Rastreabilidade
+
+    - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF21</a>
+
+    ---
+
+    #### Estimativa de Esforço
+
+    - **Prioridade:** Média
+
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Artur Mendonça](https://github.com/ArtyMend07), 2025).</p></font>
+
+    ---
+
+??? info "🏗️ Permitir o registro de ocorrências relacionadas a problemas de infraestrutura urbana"
+
+    **História de Usuário — RF33: Registro de Ocorrências de Infraestrutura**
+
+    ---
+
+    #### **Título:** Registro de Ocorrências de Infraestrutura Urbana
+
+    ---
+
+    #### História
+
+    **Como** um cidadão usuário do aplicativo,  
+    **Eu quero** registrar ocorrências relacionadas a problemas de infraestrutura urbana,  
+    **Para que** as autoridades competentes possam ser notificadas e resolver os problemas.
+
+    ---
+
+    #### Critérios de Aceitação
+
+    - <input type="checkbox"> O sistema deve permitir o registro detalhado da ocorrência.
+    - <input type="checkbox"> Deve ser possível anexar fotos do problema.
+    - <input type="checkbox"> O usuário deve poder marcar a localização exata no mapa.
+    - <input type="checkbox"> O sistema deve gerar um número de protocolo para acompanhamento.
+    - <input type="checkbox"> O usuário deve receber atualizações sobre o status da ocorrência.
+
+    ---
+
+    #### Subtarefas
+
+    - <input type="checkbox"> Criar formulário de registro de ocorrências.
+    - <input type="checkbox"> Implementar upload de imagens.
+    - <input type="checkbox"> Integrar sistema de geolocalização.
+    - <input type="checkbox"> Desenvolver geração de protocolos.
+    - <input type="checkbox"> Implementar sistema de notificações de status.
+
+    ---
+
+    #### Rastreabilidade
+
+    - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF33</a>
+
+    ---
+
+    #### Estimativa de Esforço
+
+    - **Prioridade:** Alta
+
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Artur Mendonça](https://github.com/ArtyMend07), 2025).</p></font>
 
 ## Referências Bibliográficas
 
@@ -1965,4 +2281,10 @@ A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma
 | 1.31  |Criação e elaboração das história de usuário RNF13 | [Ana Victória Guedes da Costa](https://github.com/navicg) | 29/05/2025 |[João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 03/06/2025      |
 | 1.32  |Criação e elaboração das história de usuário RNF16 | [Karoline Luz](https://github.com/KarolineLuz) | 29/05/2025 |[Artur Mendonça](https://github.com/ArtyMend07) | 03/06/2025      |
 | 1.33  | Criação e elaboração das história de usuário RNF22 | [Gabriel Lopes](https://github.com/BrzGab) | 29/05/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 03/06/2025      |
+| 1.34  | Criação e elaboração da história de usuário RF04 | [Artur Mendonça](https://github.com/ArtyMend07) | 29/05/2025 | [Luiza Silva](https://github.com/Luizaxx) | 03/06/2025      |
+| 1.35  | Criação e elaboração da história de usuário RF05 | [Artur Mendonça](https://github.com/ArtyMend07) | 29/05/2025 | [Luiza Silva](https://github.com/Luizaxx) | 03/06/2025      |
+| 1.36  | Criação e elaboração da história de usuário RF06 | [Artur Mendonça](https://github.com/ArtyMend07) | 29/05/2025 | [Luiza Silva](https://github.com/Luizaxx) | 03/06/2025      |
+| 1.37  | Criação e elaboração da história de usuário RF11 | [Artur Mendonça](https://github.com/ArtyMend07) | 29/05/2025 | [Luiza Silva](https://github.com/Luizaxx) | 03/06/2025      |
+| 1.38  | Criação e elaboração da história de usuário RF21 | [Artur Mendonça](https://github.com/ArtyMend07) | 29/05/2025 | [Luiza Silva](https://github.com/Luizaxx) | 03/06/2025      |
+| 1.39  | Criação e elaboração da história de usuário RF33 | [Artur Mendonça](https://github.com/ArtyMend07) | 29/05/2025 | [Luiza Silva](https://github.com/Luizaxx) | 03/06/2025      |
 
