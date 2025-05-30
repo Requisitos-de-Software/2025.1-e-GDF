@@ -65,6 +65,7 @@ A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma
 | RF19 | O aplicativo permite a visualização da localização dos ônibus em tempo real, incluindo previsão de chegada e rota no mapa. | <a href="../tec_elicitacao/entrevista/#anchor_EN">EN01</a> | [Gabriel Lopes](https://github.com/BrzGab) |
 | RF23 | O aplicativo facilita o acesso a serviços relacionados a impostos (como boletos do IPVA) com instruções claras. | <a href="../tec_elicitacao/entrevista/#anchor_EN">EN05</a> | [Gabriel Lopes](https://github.com/BrzGab) |
 | RF34 | Disponibilizar categorias pré-definidas para o tipo de ocorrência, facilitando a triagem pelos órgãos competentes. | <a href="../tec_elicitacao/introspeccao/#anchor_INT">INT02</a> | [Gabriel Lopes](https://github.com/BrzGab) |
+| RNF22 | O sistema deve proteger as informações pessoais com criptografia de dados e autenticação segura. | <a href="../tec_elicitacao/introspeccao/#anchor_INT">INT18</a> | [Gabriel Lopes](https://github.com/BrzGab) |
 | RF16 | O sistema deve permitir que o usuário acesse informações centralizadas sobre agendamentos e reagendamentos.     | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR17</a>      | [Karoline Luz da Conceição](https://github.com/KarolineLuz) |
 | RF25 | O sistema deve permitir que o usuário reporte problemas urbanos por meio de um mapa interativo.                 | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN09</a>         | [Karoline Luz da Conceição](https://github.com/KarolineLuz) |
 | RF26 | O sistema deve fornecer acesso aos números de serviços de emergência, como os da polícia.                       | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN10</a>, <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT05</a> | [Karoline Luz da Conceição](https://github.com/KarolineLuz) |
@@ -1122,6 +1123,63 @@ A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
 
+??? info "O sistema deve proteger as informações pessoais com criptografia de dados e autenticação segura"
+
+    **História de Usuário — RNF22: Proteção de Informações Pessoais**
+
+    ---
+
+    #### **Título:** Proteção de Informações Pessoais com Criptografia e Autenticação Segura
+
+    ---
+
+    #### História
+
+    **Como** um cidadão usuário do aplicativo e-GDF,  
+    **Eu quero** ter garantia de que minhas informações pessoais estão protegidas por criptografia e autenticação segura,  
+    **Para que** eu possa utilizar os serviços digitais com confiança, sabendo que meus dados estão seguros contra acessos não autorizados.
+
+    ---
+
+    #### Critérios de Aceitação
+
+    - <input type="checkbox"> O sistema deve implementar criptografia AES-256 para dados em repouso.
+    - <input type="checkbox"> Toda comunicação deve utilizar protocolo HTTPS com TLS 1.3 ou superior.
+    - <input type="checkbox"> Senhas devem ser armazenadas usando hash com salt (bcrypt, scrypt ou Argon2).
+    - <input type="checkbox"> O sistema deve implementar autenticação multifator (2FA) como opção.
+    - <input type="checkbox"> Logs de acesso devem ser criptografados e auditáveis.
+    - <input type="checkbox"> Dados sensíveis em trânsito devem ter criptografia fim-a-fim.
+    - <input type="checkbox"> O sistema deve detectar e alertar sobre tentativas de acesso suspeitas.
+
+    ---
+
+    #### Subtarefas
+
+    - <input type="checkbox"> Implementar camada de criptografia para banco de dados.
+    - <input type="checkbox"> Configurar certificados SSL/TLS atualizados automaticamente.
+    - <input type="checkbox"> Desenvolver sistema de hash seguro para senhas.
+    - <input type="checkbox"> Integrar serviços de autenticação multifator (SMS, app authenticator).
+    - <input type="checkbox"> Criar sistema de monitoramento e alertas de segurança.
+    - <input type="checkbox"> Implementar políticas de rotação de chaves criptográficas.
+    - <input type="checkbox"> Realizar testes de penetração e auditoria de segurança.
+
+    ---
+
+    #### Rastreabilidade
+
+    - **Requisito Não Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RNF">RNF22</a>
+    - **Técnica de Elicitação:** <a href="../tec_elicitacao/introspeccao/#anchor_INT">INT18</a>
+
+    ---
+
+    #### Estimativa de Esforço
+
+    - **Prioridade:** Crítica
+
+    ----
+
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
+
 
 ??? info "Acessar informações de agendamento e reagendamento de forma centralizada, promovendo praticidade e transparência ao cidadão"
 
@@ -1906,3 +1964,5 @@ A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma
 | 1.30  |Criação e elaboração das história de usuário RF20 | [Ana Victória Guedes da Costa](https://github.com/navicg) | 29/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 03/06/2025      |
 | 1.31  |Criação e elaboração das história de usuário RNF13 | [Ana Victória Guedes da Costa](https://github.com/navicg) | 29/05/2025 |[João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 03/06/2025      |
 | 1.32  |Criação e elaboração das história de usuário RNF16 | [Karoline Luz](https://github.com/KarolineLuz) | 29/05/2025 |[Artur Mendonça](https://github.com/ArtyMend07) | 03/06/2025      |
+| 1.33  | Criação e elaboração das história de usuário RNF22 | [Gabriel Lopes](https://github.com/BrzGab) | 29/05/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 03/06/2025      |
+
