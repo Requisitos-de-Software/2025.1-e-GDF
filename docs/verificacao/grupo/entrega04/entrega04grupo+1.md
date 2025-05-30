@@ -56,6 +56,29 @@ Este documento apresenta uma lista de verificação para avaliar os artefatos pr
 <font size="3"><p align="center">Elaborado pelo autor: ([João Marcos](https://github.com/JJOAOMARCOSS), 2025).</p></font>
 
 ---
+### Lista de Verificação – História de Usuários
+<p align="center">Tabela 3 – Lista de Verificação – História de Usuários<a id="anchor_1" href="#FRM1"> [1]</a> </p>
+
+| ID  | Item de Verificação                                                                                         | Autor                                                                                      | Referência                                                                                                                                                                                                                                                                                         |
+| --- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | 	A história responde às três perguntas essenciais: Quem, O quê e Por quê?                                              | [Karoline Luz](https://github.com/KarolineLuz) e [Ana Victória](https://github.com/navicg) | |
+| 2   |O título resume de forma clara e objetiva a funcionalidade proposta?                                               | [Karoline Luz](https://github.com/KarolineLuz) e [Ana Victória](https://github.com/navicg) |  |
+| 3   | 	O tipo de usuário está claramente identificado na história?               | [Karoline Luz](https://github.com/KarolineLuz) e [Ana Victória](https://github.com/navicg) | |
+| 4   | A ação desejada pelo usuário é específica e compreensível?                                 | [Karoline Luz](https://github.com/KarolineLuz) e [Ana Victória](https://github.com/navicg) |  |
+| 5   |              |[Karoline Luz](https://github.com/KarolineLuz) e [Ana Victória](https://github.com/navicg) |  |
+| 6   |                  | [Karoline Luz](https://github.com/KarolineLuz) e [Ana Victória](https://github.com/navicg)  |
+| 7   | 	                   | [Karoline Luz](https://github.com/KarolineLuz) e [Ana Victória](https://github.com/navicg) |  |
+| 8   |                            | [Karoline Luz](https://github.com/KarolineLuz) e [Ana Victória](https://github.com/navicg) |  |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ( [Ana Victória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz), 2025)</p></font>
+
+
+
+## Referências Bibliográficas
+
+> <a id="FRM1" href="#anchor_1">1.</a>PRESSMAN, Roger S. Engenharia de software: uma abordagem profissional. 8. ed. Porto Alegre: AMGH, 2016.
+
+
 # Histórico de Versões
 | Versão | Descrição                                                                                          | Autor(es)                                             | Data       | Revisor(es)                                        | Data de revisão |
 | ------ | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------- | -------------------------------------------------- | --------------- |
