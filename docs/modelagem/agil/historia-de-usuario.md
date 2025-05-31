@@ -2280,6 +2280,23 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 
     ---
 
+**Vídeo 6** - Validação e Priorização com usuário por [Artur Mendonça](https://github.com/ArtyMend07)
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/ToXDVRxCUCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/ToXDVRxCUCk" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+| **Nome** | **Função** | **Data** | **Hora** |
+|:---------:|:------------------------:|:--------:|:--------:|
+| [Artur Mendonça](https://github.com/ArtyMend07) | Elaborador das histórias | 30/05/2025 | 10:40 |
+| Arthur Fernandes Alencar | Cidadão | 30/05/2025 | 10:40 |
+
+
+## Termo de consentimento de imagem 
+Este documento confirma que o cidadão Arthur Fernandes Alencar forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/assets/termo-de-imagem-hu/Termo_Artur_Historia.pdf)
+
 ## US43 - Acompanhar histórico de interações {#us43}
 
 ??? abstract "Tabela 45 - História de Usuário - Fornecer um histórico de interações do usuário com o aplicativo, incluindo solicitações e agendamentos."
