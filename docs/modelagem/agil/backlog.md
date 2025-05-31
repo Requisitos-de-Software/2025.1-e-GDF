@@ -366,6 +366,18 @@ O desenvolvimento do backlog seguiu uma abordagem sistemática e colaborativa, o
 
 **Tabela 8** - Informações da validação 6
 
+| Tema                     | Épico                          | Feature                                  | História de Usuário                                                                                   | ID   | Prioridade | Status   | Autor  |
+|--------------------------|--------------------------------|-------------------------------------------|------------------------------------------------------------------------------------------------------------------------|-------|------------|----------|--------|
+| Acesso a serviços públicos | Consulta de Serviços (EP04)    | Consulta a histórico e comprovantes (FT07) | Como um cidadão contribuinte do distrito federal, eu quero poder emitir tributos, certidões e documentos fiscais diretamente no aplicativo, para que eu possa regularizar minha situação de forma prática e digital. | US46 | MH         | Validado | [Lucas Mendonça](https://github.com/lucasarruda9)  |
+| Acesso a serviços públicos | Consulta de Serviços (EP04)    | Consulta a histórico e comprovantes (FT07) | Como um cidadão do Distrito Federal e usuário do aplicativo, eu quero visualizar meu histórico de interações, solicitações e agendamentos, para que eu possa acompanhar e revisar tudo o que já realizei no app de forma organizada. | US43 | MH         | Validado | [Lucas Mendonça](https://github.com/lucasarruda9) |
+| Acesso a serviços públicos | Consulta de Serviços (EP04)    | Acessar informações offline (FT17)        | Como um cidadão do Distrito Federal e com acesso limitado à internet, eu quero consultar registros ou informações acessadas anteriormente sem precisar de conexão com a internet, para que eu possa usar o aplicativo mesmo sem conexão com a internet. | US49 | MH         | Validado | [Lucas Mendonça](https://github.com/lucasarruda9)  |
+| Acesso a serviços públicos | Consulta de Serviços (EP04)    | Acompanhamento educacional (FT16)         | Como um aluno ou professor da rede pública do distrito federal, eu quero acompanhar pendências escolares, para que eu possa organizar minhas obrigações de forma mais eficiente. | US47 | MH         | Validado | [Lucas Mendonça](https://github.com/lucasarruda9)  |
+| Acesso a serviços públicos | Agendamentos (EP03)            | Agendamento de serviços públicos (FT05)  | Como um cidadão do Distrito Federal e usuário do aplicativo, eu quero poder agendar atendimentos de serviços sociais, para que eu consiga ter acesso aos serviços públicos do DF de forma simples e organizada. | US45 | MH         | Validado | [Lucas Mendonça](https://github.com/lucasarruda9)  |
+| Comunicação              | Canal de Comunicação (EP06)     | Notícias (FT11)                           | Como um cidadão do Distrito Federal e usuário do aplicativo, eu quero ter acesso a um feed com notícias oficiais e atualizadas do Governo do Distrito Federal, para que eu possa me manter informado sobre assuntos públicos e decisões governamentais. | US44 | SH         | Validado | [Lucas Mendonça](https://github.com/lucasarruda9)  |
+| Comunicação              | Canal de Comunicação (EP06)     | Notificações personalizadas (FT12)        | Como um cidadão do Distrito Federal e usuário do app, eu quero receber notificações por categorias como saúde, educação e transporte, para que eu possa me manter informado sobre assuntos relevantes para mim de forma simples e rápida. | US48 | SH         | Validado | [Lucas Mendonça](https://github.com/lucasarruda9)  |
+
+
+
 | **Autor** | **Usuário Participante** |
 | :-------- | :---------------------- |
 | [Lucas Mendonça](https://github.com/lucasarruda9) | [Nome do Usuário] |
@@ -479,3 +491,4 @@ O desenvolvimento do backlog seguiu uma abordagem sistemática e colaborativa, o
 | 1.41   | Criação de tabela de Product Backlog RF23    | [Gabriel Lopes](https://github.com/BrzGab)     | 30/05/2025 | [Karoline Luz](https://github.com/KarolineLuz)             | 30/05/2025      |
 | 1.42   | Criação de tabela de Product Backlog RF34    | [Gabriel Lopes](https://github.com/BrzGab)     | 30/05/2025 | [Karoline Luz](https://github.com/KarolineLuz)             | 30/05/2025      |
 | 1.43   | Criação de tabela de Product Backlog RNF22    | [Gabriel Lopes](https://github.com/BrzGab)     | 30/05/2025 | [Karoline Luz](https://github.com/KarolineLuz)             | 30/05/2025      |
+| 1.44   | Criação de tabela de Product Backlog US46, US43, US49, US47, US45, US44, US48    |  [Lucas Mendonça](https://github.com/lucasarruda9)   | 31/05/2025 | [Gabriel Lopes](https://github.com/BrzGab)            | 31/05/2025      |
