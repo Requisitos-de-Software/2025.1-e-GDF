@@ -8,11 +8,11 @@ O **NFR Framework** é uma abordagem para representar e analisar [Requisitos Nã
 - Requisitos funcionais e não-funcionais;
 - Prioridades e carga de trabalho.
 
-Esses fatores determinam a escolha das alternativas de desenvolvimento mais adequadas para cada sistema. Para isso, o framework utiliza grafos chamados **Softgoal Interdependency Graphs (SIGs)**, nos quais os *softgoals* representam objetivos abstratos de satisfação imprecisa.<a id="anchor_1" href="#REF1">¹</a>
+Esses fatores determinam a escolha das alternativas de desenvolvimento mais adequadas para cada sistema. Para isso, o framework utiliza grafos chamados **Softgoal Interdependency Graphs (SIGs)**, nos quais os *softgoals* representam objetivos abstratos de satisfação imprecisa.<a id="anchor_1" href="#REF1">[1]</a>
 
 ## Softgoal Interdependency Graph (SIG)
 
-O **Softgoal Interdependency Graph (SIG)** é uma ferramenta gráfica utilizada pelo *NFR Framework* para representar decisões de projeto relacionadas a *softgoals* — objetivos com critérios de satisfação vagos ou imprecisos. Cada nó do grafo representa um *softgoal*, enquanto as arestas indicam relações de decomposição ou de contribuição entre eles. <a id="anchor_1" href="#REF1">¹</a>
+O **Softgoal Interdependency Graph (SIG)** é uma ferramenta gráfica utilizada pelo *NFR Framework* para representar decisões de projeto relacionadas a *softgoals* — objetivos com critérios de satisfação vagos ou imprecisos. Cada nó do grafo representa um *softgoal*, enquanto as arestas indicam relações de decomposição ou de contribuição entre eles. <a id="anchor_1" href="#REF1">[1]</a>
 
 ### Tipos de Softgoal
 
@@ -29,11 +29,13 @@ Para compreender o funcionamento do SIG, é essencial entender os diferentes tip
 
 A figura 1 mostra a representação dos tipos de *softgoals* que estão presentes em um NRF Framework:
 
+<p align="center"><i>Figura 1: Tipos das Softgoals</i></p>
+
 <p align="center">
   <img src="/assets/nfr/tipos.png" width="600">
 </p>
 
-<p align="center"><i>Figura 1: Tipos das Softgoals</i></p>
+<font size="3"><p style="text-align: center"> Fonte: (SILVA, 2019)</p></font>
 
 ### Interdependências
 
@@ -50,10 +52,13 @@ A decomposição permite subdividir *softgoals* em objetivos mais específicos, 
 
 A figura 2 ilustra essas diferentes formas de decomposição dentro do NFR Framework:
 
+<p align="center"><i>Figura 2: Tipos de Decomposição das Softgoals</i></p>
+
 <p align="center">
   <img src="/assets/modelagem/nfr/Derivacao_Softgoals.drawio.png" width="600">
 </p>
-<p align="center"><i>Figura 2: Decomposição das Softgoals</i></p>
+
+<font size="3"><p style="text-align: center"> Fonte: (SILVA, 2019)</p></font>
 
 #### Contribuições
 
@@ -67,7 +72,7 @@ Contribuições indicam como um *softgoal* impacta outro. Podem ser:
 - **HURT (-):** Contribuição levemente negativa.
 - **UNKNOWN (?)**: Contribuição desconhecida.
 - **EQUALS**: Correlação direta entre os níveis de satisfação.
-- **SOME**: A contribuição é conhecida, mas sua intensidade é incerta. <a id="anchor_2" href="#REF2">²</a>
+- **SOME**: A contribuição é conhecida, mas sua intensidade é incerta. <a id="anchor_2" href="#REF2">[2]</a>
 
 <p align="center"><b>Tabela</b> — Histórico de Contribuições</p>
 
@@ -149,7 +154,7 @@ Essa priorização também será documentada nas tabelas de especificação, adi
 
 ## Taxonomia
 
-A taxonomia é um esquema de classificação que organiza termos e suas relações no contexto de uma área de conhecimento. Segundo Usman et al. (2017), **“taxonomias contribuem para amadurecer um campo de conhecimento, permitindo descrever seus elementos e evoluindo ao longo do tempo ao incorporar novos conhecimentos”**<a id="anchor_2" href="#REF2">²</a>.
+A taxonomia é um esquema de classificação que organiza termos e suas relações no contexto de uma área de conhecimento. Segundo Usman et al. (2017), **“taxonomias contribuem para amadurecer um campo de conhecimento, permitindo descrever seus elementos e evoluindo ao longo do tempo ao incorporar novos conhecimentos”**<a id="anchor_2" href="#REF2">[2]</a>.
 
 <p align="center"><b>Tabela</b> — Taxonomia</p>
 
@@ -177,7 +182,7 @@ A Figura 3 ilustra a representação visual dessa taxonomia, facilitando a compr
 
 ## Cartões de Especificação
 
-Os cartões de especificação a seguir, Tabelas de 1 a 10, foram utilizados para definir os Requisitos Não-Funcionais a serem utilizados na confecção dos NFR Frameworks.<a id="anchor_2" href="#REF2">²</a>
+Os cartões de especificação a seguir, Tabelas de 1 a 10, foram utilizados para definir os Requisitos Não-Funcionais a serem utilizados na confecção dos NFR Frameworks.<a id="anchor_2" href="#REF2">[2]</a>
 
 <p align="center"><b>Tabela 1</b> — Cartão de Especificação modelo</p>
 
