@@ -51,20 +51,21 @@ Os resultados levantados a partir da sessão realizada de brainstorming, estão 
 
 [Resultados levantados](https://drive.google.com/file/d/14MLVRpVaCT0_U_Hiilgv3C7l44e98eIp/view?usp=drive_link)
 
-## Definição do Perfil de Usuário
+### Definição do Perfil de Usuário
 
 Com base nas técnicas de análise de documentos, entrevistas, introspecção e brainstorming, foi definido o perfil genérico do usuário do sistema, conforme descrito abaixo:
-| **Atributo**                | **Descrição**                                                                 |
-|----------------------------|-------------------------------------------------------------------------------|
-| **Gênero predominante**     | Em sua maior parte masculino.                                                |
-| **Idade**                  | Jovens a adultos, com faixa etária entre 20 a 40 anos.                       |
-| **Experiência**            | Usuários novatos a intermediários.                                           |
-| **Ocupação**               | Estudantes e servidores da área da Educação.                                |
-| **Região**                 | Moradores do **Distrito Federal**.                                          |
-| **Atitude**                | Neutros a tecnófilos – usuários que buscam soluções práticas, sem resistência ao uso de tecnologia. |
-| **Tarefas primárias**      | Uso da **mobilidade**, principalmente para utilizar a opção do DF no Ponto, **receitas e tributos**, que facilita a emissão do IPVA e IPTU, e **educação**, para acessar o calendário escolar anual. |
-| **Frequência de uso do sistema** | Raramente.                                                               |
-| **Usabilidade percebida**  | Usuários relatam dificuldade inicial de uso, indicando baixa facilidade de navegação. |
+
+| Atributo                   | Descrição                                                                                                                                     |
+|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| Gênero predominante        | Em sua maior parte masculino.                                                                                                                  |
+| Idade                      | Jovens a adultos, com faixa etária entre 20 a 40 anos.                                                                                         |
+| Experiência                | Usuários novatos a intermediários.                                                                                                             |
+| Ocupação                   | Estudantes e servidores da área da Educação.                                                                                                   |
+| Região                     | Moradores do Distrito Federal.                                                                                                                 |
+| Atitude                    | Neutros a tecnófilos – usuários que buscam soluções práticas, sem grande resistência ao uso de tecnologia.                                     |
+| Tarefas primárias          | Uso da mobilidade, principalmente para utilizar a opção do DF no Ponto, receitas e tributos, que facilita a emissão do IPVA e IPTU, e educação, para acessar o calendário escolar anual. |
+| Frequência de uso do sistema | Raramente.                                                                                                                                     |
+| Usabilidade percebida      | Usuários relatam dificuldade inicial de uso, indicando baixa facilidade de navegação.                                                           |
 
 ---
 
@@ -78,16 +79,18 @@ A análise revelou que os usuários são, em sua maioria, adultos moradores do D
 
 Essas informações são essenciais para guiar decisões no processo de desenvolvimento e refinamento dos requisitos, garantindo que o sistema esteja alinhado com as expectativas e dificuldades reais dos seus usuários. Ao compreender profundamente quem são os usuários do **[e-GDF](https://play.google.com/store/apps/details?id=br.gov.df.eGDF&hl=pt_BR)**, é possível construir soluções mais eficazes, acessíveis e centradas nas suas reais demandas.
 
-### **Referências Bibliográficas:**
+
+### **Referências Bibliográficas**
 
 > <a id="FRM1" href="#anchor_1">1.</a> BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. _Interação humano-computador_. Rio de Janeiro: Elsevier, 2010.
 
-<font size="3"><p style="text-align: center"> <i>foto do texto da referência</i></p></font>
+<p align="center"><em>Foto do texto da referência:</em></p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/corre%C3%A7%C3%A3o-do-perfil-de-usu%C3%A1rio/docs/assets/elicitacao/Perfil_de_usuario.png" alt="SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 10. Brasília: UnB-Gama, 2017. 35 slides, color." width="600px"><br>
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/corre%C3%A7%C3%A3o-do-perfil-de-usu%C3%A1rio/docs/assets/elicitacao/Perfil_de_usuario.png" alt="Imagem da referência de Barbosa e Silva" width="600px">
+</p>
 
-<font size="3"><p style="text-align: center">Elaborado por: [Karoline Luz](https://github.com/KarolineLuz), 2015.</p></font>
+<p align="center">Elaborado por: <a href="https://github.com/KarolineLuz">Karoline Luz</a>, 2015.</p>
 
 ### **Bibliografias:**
 
@@ -115,3 +118,4 @@ Essas informações são essenciais para guiar decisões no processo de desenvol
 | 1.4    | Correção e padronização das tabelas, fontes e ajustes gerais                        | [Karoline Luz](https://github.com/KarolineLuz)                                             | 08/05/2025 | [Ana Victória](https://github.com/navicg)       | 08/05/2025      |
 | 1.5    | Criação da Conclusão                                                                | [Karoline Luz](https://github.com/KarolineLuz)                                             | 29/05/2025 | [Ana Victória](https://github.com/navicg)       | 30/05/2025      |
 | 1.6    | Correção das Tabelas e Adição da imagem de referência bibliográfica                                                       | [Karoline Luz](https://github.com/KarolineLuz)                                             | 29/05/2025 | [Ana Victória](https://github.com/navicg)       | 30/05/2025      |
+| 1.7    | Correção da tabela e imagem quebrada no gitpages                                                       | [Karoline Luz](https://github.com/KarolineLuz)                                             | 31/05/2025 | [Ana Victória](https://github.com/navicg)       | 01/05/2025      |
