@@ -2650,3 +2650,10 @@ A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma
 | 1.38  | Criação e elaboração da história de usuário RF21 | [Artur Mendonça](https://github.com/ArtyMend07) | 29/05/2025 | [Luiza Silva](https://github.com/Luizaxx) | 03/06/2025      |
 | 1.39  | Criação e elaboração da história de usuário RF33 | [Artur Mendonça](https://github.com/ArtyMend07) | 29/05/2025 | [Luiza Silva](https://github.com/Luizaxx) | 03/06/2025      |
 | 1.40  | Criação e elaboração da história de usuário RNF20 | [Artur Mendonça](https://github.com/ArtyMend07) | 30/05/2025 | [Luiza Silva](https://github.com/Luizaxx) | 03/06/2025      |
+| 1.41  | Criação e elaboração da história de usuário RF39 | [Lucas Mendonça](https://github.com/lucasarruda9) | 30/05/2025 | [Gabriel Lopes](https://github.com/BrzGab) | 03/06/2025      |
+| 1.42  | Criação e elaboração da história de usuário RF41 | [Lucas Mendonça](https://github.com/lucasarruda9) | 30/05/2025 | [Gabriel Lopes](https://github.com/BrzGab) | 03/06/2025      |
+| 1.43  | Criação e elaboração da história de usuário RF42 | [Lucas Mendonça](https://github.com/lucasarruda9) | 30/05/2025 | [Gabriel Lopes](https://github.com/BrzGab) | 03/06/2025      |
+| 1.44  | Criação e elaboração da história de usuário RF24 | [Lucas Mendonça](https://github.com/lucasarruda9) | 30/05/2025 | [Gabriel Lopes](https://github.com/BrzGab) | 03/06/2025      |
+| 1.45  | Criação e elaboração da história de usuário RF40 | [Lucas Mendonça](https://github.com/lucasarruda9) | 30/05/2025 | [Gabriel Lopes](https://github.com/BrzGab) | 03/06/2025      |
+| 1.46  | Criação e elaboração da história de usuário RF17 | [Lucas Mendonça](https://github.com/lucasarruda9) | 30/05/2025 | [Gabriel Lopes](https://github.com/BrzGab) | 03/06/2025      |
+| 1.47  | Criação e elaboração da história de usuário RNF23 | [Lucas Mendonça](https://github.com/lucasarruda9) | 30/05/2025 | [Gabriel Lopes](https://github.com/BrzGab) | 03/06/2025      |
