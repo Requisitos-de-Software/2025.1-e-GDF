@@ -93,7 +93,21 @@ Este documento apresenta uma lista de verificação para avaliar os artefatos pr
 
 <font size="3"><p style="text-align: center"> Elaborado pelos(as) autores(as): ([João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
 
+### Lista de Verificação - Backlog 
 
+<p align="center">Tabela 5 – Lista de Verificação – Backlog<a id="anchor_4" href="#FRM4"> [4]</a>, <a id="anchor_5" href="#FRM5"> [5]</a></p>
+
+| ID  | Item de Verificação | Autor | Referência |
+| --- | ------------------- | ----- | ---------- |
+| 1   | O backlog possui uma lista priorizada de funcionalidades, requisitos ou itens de trabalho? | [Gabriel Lopes](https://github.com/BrzGab) | <div><img src="https://i.ibb.co/VWRn4Cdt/image.png" alt="Referência do item" width="100px"><br><a href="https://www.atlassian.com/br/agile/scrum/backlogs">Atlassian - Backlogs do Scrum</a></div> |
+| 2   | Os itens do backlog estão escritos da perspectiva do usuário (histórias de usuário)? | [Gabriel Lopes](https://github.com/BrzGab) | <div><img src="https://i.ibb.co/6cBh2R0p/image.png" alt="Referência do item" width="100px"><br><a href="https://drive.google.com/file/d/1SFAT97ez2GsJfsJcOnjCfl6yNSAUzbZa/view?usp=sharing">Slide da Aula 15 - página 10</div> |
+| 3   | O backlog é definido pelo Product Owner? | [Gabriel Lopes](https://github.com/BrzGab) | <div><img src="https://i.ibb.co/HTqCrwZh/image.png" alt="Referência do item" width="100px"><a href="https://drive.google.com/file/d/1SFAT97ez2GsJfsJcOnjCfl6yNSAUzbZa/view?usp=sharing"><br>Slide da Aula 15 - página 8</div> |
+| 4   | O backlog contém estimativas de esforço para os itens (story points, horas, etc.)? | [Gabriel Lopes](https://github.com/BrzGab) | <div><img src="https://i.ibb.co/1h7x4cy/image.png" alt="Referência do item" width="100px"><a href="https://drive.google.com/file/d/1SFAT97ez2GsJfsJcOnjCfl6yNSAUzbZa/view?usp=sharing"><br>Slide da Aula 15 - página 11</div> |
+| 5   | O backlog está organizado em épicos, features e histórias de usuário? | [Gabriel Lopes](https://github.com/BrzGab) | <div><img src="https://i.ibb.co/fdQpwHfn/image.pngg" alt="Referência do item" width="100px"><a href="https://drive.google.com/file/d/1SFAT97ez2GsJfsJcOnjCfl6yNSAUzbZa/view?usp=sharing"><br>Slide da Aula 15 - páginas 12-13</div> |
+| 6   | Os itens do backlog são independentes entre si sempre que possível? | [Gabriel Lopes](https://github.com/BrzGab) | <div><img src="https://i.ibb.co/8gxtNZWg/image.png" alt="Referência do item" width="100px"><br><a href="https://www.atlassian.com/br/agile/scrum/backlogs">Atlassian - Características do backlog</a></div> |
+| 7  | O backlog reflete as necessidades e prioridades atuais do negócio? | [Gabriel Lopes](https://github.com/BrzGab) | <div><img src="https://i.ibb.co/Xf4W9bW1/image.png" alt="Referência do item" width="100px"><a href="https://drive.google.com/file/d/1SFAT97ez2GsJfsJcOnjCfl6yNSAUzbZa/view?usp=sharing"><br>Slide da Aula 15 - página 10</div> |
+
+<font size="3"><p style="text-align: center"> Elaborado pelo autor: ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
 
 ## Referências Bibliográficas
 
@@ -102,6 +116,11 @@ Este documento apresenta uma lista de verificação para avaliar os artefatos pr
 > <a id="FRM2" href="#anchor_2">2.</a>SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 26. [S.l.], [s.d.]. Aula ministrada. Disponível em: [Aula 026](https://drive.google.com/file/d/1XhBEUfd6DUGg4yugw8o9tTLeaQDEfD9w/view?usp=drive_link). Acesso em: 29 mai.2025
 
 > <a id="FRM3" href="#anchor_3">3.</a>SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019. Disponível em: <https://repositorio.ufpe.br/handle/123456789/34150>. Acesso em: 22/05/2025.
+
+> <a id="FRM4" href="#anchor_4">4.</a> ATLASSIAN. Backlogs no Scrum. [S.l.]: Atlassian, [s.d.]. Disponível em: https://www.atlassian.com/br/agile/scrum/backlogs. Acesso em: 29 maio 2025.
+
+> <a id="FRM5" href="#anchor_5">5.</a> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 15. [S.l.], [s.d.]. Aula ministrada. Disponível em: [Aula 15](https://drive.google.com/file/d/1SFAT97ez2GsJfsJcOnjCfl6yNSAUzbZa/view). Acesso em: 29 mai. 2025.
+
 
 
 
@@ -112,3 +131,4 @@ Este documento apresenta uma lista de verificação para avaliar os artefatos pr
 | 1.1    | Adicionando tabelas da lista de verificação da entrega 4 plano de ensino | [Karoline Luz](https://github.com/KarolineLuz)| 29/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) |   31/05/2025     |
 | 1.2    | Adicionando lista de verificação de história de usuário e bibliografia | [Ana Victória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz) | 29/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) |   31/05/2025     |
 | 1.3   | Adicionando lista de verificação de NFR Framework e bibliografia | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 31/05/2025| [Ana Victória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz) |   31/05/2025     |
+| 1.4   | Adicionando lista de verificação do Backlog e bibliografia | [Gabriel Lopes](https://github.com/BrzGab) | 31/05/2025| [Artur Mendonça](https://github.com/ArtyMend07) |   31/05/2025     |
