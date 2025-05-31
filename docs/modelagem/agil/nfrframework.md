@@ -29,8 +29,10 @@ Para compreender o funcionamento do SIG, é essencial entender os diferentes tip
 
 A figura 1 mostra a representação dos tipos de *softgoals* que estão presentes em um NRF Framework:
 
+<figure markdown class="usecaseElement">
+
 <p align="center">
-  <img src="/assets/modelagem/nfr/Derivacao_Softgoals.drawio.png" width="600">
+  <img src="/assets/nfr/tiposdesoftgoal.png" width="600">
 </p>
 <p align="center"><i>Figura 1: Tipos das Softgoals</i></p>
 
