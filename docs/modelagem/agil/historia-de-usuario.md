@@ -15,7 +15,12 @@ Cada história de usuário é construída de forma a responder três perguntas e
 
 ## Metodologia
 
-A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma abordagem centrada no usuário, considerando tanto os requisitos funcionais já implementados quanto os ainda não implementados, todos identificados por meio de quatro técnicas de elicitação de requisitos aplicadas, que visaram garantir uma compreensão ampla e fiel das necessidades dos usuários e, consequentemente, orientar o desenvolvimento das histórias. As seguintes técnicas foram:
+A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma abordagem centrada no usuário, considerando tanto os requisitos funcionais e não funcionais, sendo eles implementados quanto os ainda não implementados, todos identificados por meio de quatro técnicas de elicitação de requisitos aplicadas, que visaram garantir uma compreensão ampla e fiel das necessidades dos usuários e, consequentemente, orientar o desenvolvimento das histórias. 
+
+A priorização das histórias de usuário foi realizada utilizando a [técnica de moscow](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/tec_priorizacao/moscow/), que organizou todas as prioridades dos requisitos elicitados em uma tabela. Posteriormente, essas prioridades foram validadas em uma reunião com um ou mais usuários do **eGDF**.
+
+As técnicas de elicitação aplicadas foram:
+
 
 - **Entrevista:** Um diálogo aberto com os usuários, guiado por um roteiro previamente elaborado, mas com flexibilidade para adaptar-se conforme necessário, buscando compreender suas demandas, expectativas e desafios ao utilizar os serviços oferecidos pelo eGDF.
 
@@ -25,7 +30,7 @@ A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma
 
 - **Brainstorming:** Método colaborativo que reúne um grupo de pessoas para gerar, de forma espontânea e criativa, o maior número possível de ideias e soluções relacionadas ao sistema ou problema que está sendo analisado.
 
- Cada requisito identificado foi transformado em uma história de usuário, e cada integrante da equipe ficou responsável por elaborar seis histórias, conforme demonstrado na **Tabela 2**. O modelo adotado para a elaboração está apresentado na **Tabela 1**, contendo os elementos utilizados nas histórias, juntamente com suas respectivas definições.
+ Cada requisito identificado foi transformado em uma história de usuário, e cada integrante da equipe ficou responsável por elaborar sete histórias, conforme demonstrado na **Tabela 2**. O modelo adotado para a elaboração está apresentado na **Tabela 1**, contendo os elementos utilizados nas histórias, juntamente com suas respectivas definições.
 
 ### Tabela 1: Modelo de História de Usuário
 
@@ -38,69 +43,87 @@ A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma
 | **Critérios de Aceitação**  | Conjunto de condições que determinam quando a história será considerada concluída e aceita. |
 | **Subtarefas**              | Lista de atividades técnicas e operacionais necessárias para implementar a funcionalidade descrita. |
 | **Rastreabilidade**         | Referência ao requisito ou artefato relacionado, garantindo o vínculo entre a história de usuário e o requisito formal. |
-| **Estimativa de Esforço**   | Avaliação da complexidade ou prioridade da implementação da funcionalidade. |
+| **Prioridade**   | Avaliação da complexidade ou prioridade da implementação da funcionalidade. |
 
-<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos(as) autores(as) ( [Ana Victória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz), 2025)</p></font>
-
-
-### Tabela 2: Requisitos abordados nas histórias de usuário
-
-| ID   | Descrição                                                                                                     | Rastreabilidade                                                             | Autor                                              |
-| ---- | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------- |
-| RF22 | O aplicativo permite autenticação segura através da plataforma gov.br, com opções como reconhecimento facial. | <a href="../tec_elicitacao/entrevista/#anchor_EN">EN04</a>         | [Luiza da Silva Pugas](https://github.com/Luizaxx) |
-| RF18 | O usuário deve conseguir compartilhar ou salvar informações importantes (como protocolos ou comprovantes)     | <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR20</a>      | [Luiza da Silva Pugas](https://github.com/Luizaxx) |
-| RF27 | O aplicativo deve oferecer uma seção de suporte ao usuário com instruções de uso.                             | <a href="../tec_elicitacao/entrevista/#anchor_EN">EN11</a>         | [Luiza da Silva Pugas](https://github.com/Luizaxx) |
-| RF30 | O sistema deve permitir que o usuário visualize e acompanhe o status das suas solicitações.                   | <a href="../tec_elicitacao/analise_documentos/#anchor_AD">AD04</a> | [Luiza da Silva Pugas](https://github.com/Luizaxx) |
-| RF31 | O sistema deve permitir que o usuário confirme a resolução de problemas relatados.                            | <a href="../tec_elicitacao/analise_documentos/#anchor_AD">AD06</a> | [Luiza da Silva Pugas](https://github.com/Luizaxx) |
-| RF32 | O sistema deve permitir que o usuário exclua seus dados e conta do aplicativo.                                | <a href="../tec_elicitacao/analise_documentos/#anchor_AD">AD07</a> | [Luiza da Silva Pugas](https://github.com/Luizaxx) |
-| RF12   | O usuário deve poder alterar o idioma do aplicativo                                                                                                                     | <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR13</a>                                                                                                                  | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)           |
-| RF13   | O usuário deve poder personalizar suas preferências e perfis para recomendações de serviços                                                                             | <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR14</a>                                                                                                                  | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)           |
-| RF14   | O aplicativo deve permitir o envio de mensagens curtas sobre vencimentos e lembretes importantes                                                                        | <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR15</a>                                                                                                                  | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)           |
-| RF35   | Permitir ao usuário selecionar o tipo de serviço desejado (implantação, limpeza ou reparo).                                                                               | <a href="../tec_elicitacao/introspeccao/#anchor_INT">INT03</a>                                                                                                                  | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)           |
-| RF36   | Possibilitar a adição de descrição textual, imagem e localização GPS da ocorrência.                                                                                      | <a href="../tec_elicitacao/introspeccao/#anchor_INT">INT04</a>                                                                                                                  | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)           |
-| RF38   | Oferecer acesso a serviços de transporte público, incluindo pré-cadastro do Cartão Mobilidade.                                                                            | <a href="../tec_elicitacao/introspeccao/#anchor_INT">INT08</a>                                                                                                                  | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)           |
-| RF07 | O usuário deve poder alterar o tamanho da fonte e o contraste de cores | <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR07</a>, <a href="../tec_elicitacao/entrevista/#anchor_EN">EN08</a>, <a href="../tec_elicitacao/analise_documentos/#anchor_AD">AD08</a> | [Gabriel Lopes](https://github.com/BrzGab) |
-| RF08 | O aplicativo deve permitir modo escuro | <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR08</a> | [Gabriel Lopes](https://github.com/BrzGab) |
-| RF10 | O usuário deve poder gerar relatórios e visualizar comprovantes de agendamentos | <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR11</a> | [Gabriel Lopes](https://github.com/BrzGab) |
-| RF19 | O aplicativo permite a visualização da localização dos ônibus em tempo real, incluindo previsão de chegada e rota no mapa. | <a href="../tec_elicitacao/entrevista/#anchor_EN">EN01</a> | [Gabriel Lopes](https://github.com/BrzGab) |
-| RF23 | O aplicativo facilita o acesso a serviços relacionados a impostos (como boletos do IPVA) com instruções claras. | <a href="../tec_elicitacao/entrevista/#anchor_EN">EN05</a> | [Gabriel Lopes](https://github.com/BrzGab) |
-| RF34 | Disponibilizar categorias pré-definidas para o tipo de ocorrência, facilitando a triagem pelos órgãos competentes. | <a href="../tec_elicitacao/introspeccao/#anchor_INT">INT02</a> | [Gabriel Lopes](https://github.com/BrzGab) |
-| RNF22 | O sistema deve proteger as informações pessoais com criptografia de dados e autenticação segura. | <a href="../tec_elicitacao/introspeccao/#anchor_INT">INT18</a> | [Gabriel Lopes](https://github.com/BrzGab) |
-| RF16 | O sistema deve permitir que o usuário acesse informações centralizadas sobre agendamentos e reagendamentos.     | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR17</a>      | [Karoline Luz da Conceição](https://github.com/KarolineLuz) |
-| RF25 | O sistema deve permitir que o usuário reporte problemas urbanos por meio de um mapa interativo.                 | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN09</a>         | [Karoline Luz da Conceição](https://github.com/KarolineLuz) |
-| RF26 | O sistema deve fornecer acesso aos números de serviços de emergência, como os da polícia.                       | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN10</a>, <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT05</a> | [Karoline Luz da Conceição](https://github.com/KarolineLuz) |
-| RF28 | O sistema deve permitir que o usuário solicite serviços públicos, como coleta de lixo, reparo de vias e outros. | <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD02</a> | [Karoline Luz da Conceição](https://github.com/KarolineLuz) |
-| RF29 | O sistema deve permitir que o usuário utilize um mapa para localizar onde os serviços foram solicitados.        | <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD03</a> | [Karoline Luz da Conceição](https://github.com/KarolineLuz) |
-| RF43 | O sistema deve integrar um assistente virtual ou chatbot com respostas automáticas para dúvidas frequentes.     | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT13</a>, <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR18</a> | [Karoline Luz da Conceição](https://github.com/KarolineLuz) |
-| RNF16 | O sistema deve garantir usabilidade para usuários idosos, com design e funcionalidades acessíveis e compreensíveis. | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN06</a>         | [Karoline Luz da Conceição](https://github.com/KarolineLuz) |
-| RF01 | O usuário deve conseguir realizar login de forma simples e rápida.   |<a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR01</a>, <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD01</a>      | [Ana Victória Guedes da Costa](https://github.com/navicg)|
-| RF02 | O usuário deve conseguir acessar funcionalidades mesmo com pouca familiaridade com tecnologia. | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR02</a>      | [Ana Victória Guedes da Costa](https://github.com/navicg) |
-| RF03 | O usuário deve poder receber notificações personalizadas com base em sua localização. | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR03</a>   | [Ana Victória Guedes da Costa](https://github.com/navicg) |
-| RF09 | O usuário deve poder acessar e visualizar notícias relevantes. | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR10</a>  | [Ana Victória Guedes da Costa](https://github.com/navicg) |
-| RF15 | O usuário deve poder acessar um menu com as principais funções logo na tela inicial.       |  <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR16</a> |[Ana Victória Guedes da Costa](https://github.com/navicg) |
-| RF20 | O aplicativo fornece links para serviços externos (como Secretaria da Fazenda) de forma eficiente, com explicações claras sobre o que o usuário encontrará após clicar.    | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN02</a>   | [Ana Victória Guedes da Costa](https://github.com/navicg) |
-| RNF13 | O aplicativo deve apresentar estabilidade, evitando travamentos ou falhas de carregamento, especialmente em redes móveis. | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN03</a>  |[Ana Victória Guedes da Costa](https://github.com/navicg) |
-| RF04 | O usuário deve poder consultar agendamentos e serviços em um único local centralizado | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR04</a> | [Artur Mendonça](https://github.com/ArtyMend07) |
-| RF05 | O usuário deve ter acesso a um assistente virtual com acessibilidade por voz | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR05</a>, <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD05</a>, <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT13</a> | [Artur Mendonça](https://github.com/ArtyMend07) |
-| RF06 | O usuário deve poder acessar tutoriais passo a passo sobre como usar o app | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR06</a> | [Artur Mendonça](https://github.com/ArtyMend07) |
-| RF11 | O aplicativo deve permitir a integração com serviços de saúde, educação e mobilidade | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR12</a> | [Artur Mendonça](https://github.com/ArtyMend07) |
-| RF21 | O aplicativo oferece funcionalidades para consulta de informações educacionais | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN03</a>, <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT07</a> | [Artur Mendonça](https://github.com/ArtyMend07) |
-| RF33 | Permitir o registro de ocorrências relacionadas a problemas de infraestrutura urbana | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT01</a> | [Artur Mendonça](https://github.com/ArtyMend07) |
-| RNF20 | As funcionalidades principais devem responder em, no máximo, dois segundos para garantir boa experiência | <a href="../tec_elicitacao/integracao/#anchor_INTT">INT16</a> | [Artur Mendonça](https://github.com/ArtyMend07) |
-| RF39  | Permitir agendamentos em serviços sociais, como centros de assistência social e habitação.                                                     | <a href="../tec_elicitacao/introspeccao/#anchor_INT">INT09</a>                                      | [Lucas Mendonça](https://github.com/lucasarruda9) |
-| RF41  | Fornecer um histórico de interações do usuário com o aplicativo, incluindo solicitações e agendamentos.                                        | <a href="../tec_elicitacao/introspeccao/#anchor_INT">INT11</a>                                      | [Lucas Mendonça](https://github.com/lucasarruda9) |
-| RF42  | Apresentar um feed de notícias atualizadas com informações úteis do Governo do Distrito Federal.                                               | <a href="../tec_elicitacao/introspeccao/#anchor_INT">INT12</a>                                      | [Lucas Mendonça](https://github.com/lucasarruda9) |
-| RF24  | O aplicativo implementa funcionalidades adicionais na área educacional, como acompanhamento de pendências para professores e alunos.          | <a href="../tec_elicitacao/entrevista/#anchor_EN">EN06</a>                                          | [Lucas Mendonça](https://github.com/lucasarruda9) |
-| RF40  | Disponibilizar a emissão de tributos, certidões e outros documentos fiscais.                                                                   | <a href="../tec_elicitacao/introspeccao/#anchor_INT">INT10</a>                                      | [Lucas Mendonça](https://github.com/lucasarruda9) |
-| RF17  | O aplicativo deve permitir notificações por categorias como saúde, educação, transporte                                                        | <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR19</a>                                       | [Lucas Mendonça](https://github.com/lucasarruda9) |
-| RNF23 | Deve funcionar em modo offline para consulta de registros ou informações previamente acessadas.                                                | <a href="../tec_elicitacao/integracao/#anchor_INTT">INT20</a>                                       | [Lucas Mendonça](https://github.com/lucasarruda9) |
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos(as) autores(as): ([Ana Victória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz), 2025)</p></font>
 
 
-??? info "📋 O aplicativo permite autenticação segura através da plataforma gov.br, com opções como reconhecimento facial."
+### Tabela 2: Histórias de Usuário que cada participante desenvolveu
 
-    **História de Usuário — RF22: Autenticação Segura via gov.br**
+### Legenda
 
-    ---
+- **História de Usuário:** Identificador e link para a descrição detalhada de cada história de usuário desenvolvida.
+- **Autor:** Nome e link para o perfil no GitHub do autor responsável pela elaboração da respectiva história de usuário.
+- **Requisito Relacionado:** Código do requisito funcional (RF) ou não funcional (RNF) que motivou a criação da história de usuário.
+- **Rastreabilidade do Requisito:** Referência à técnica de elicitação utilizada para identificar o requisito, com link direto para o artefato gerado e seu respectivo identificador:  
+  - **EN**: Entrevista  
+  - **BR**: Brainstorming  
+  - **AD**: Análise de Documentos  
+  - **INT**: Introspecção  
+
+
+| História de Usuário | Autor | Requisito Realcionado | Rastreabilidade do Requisito |
+| --- | --- | --- | --- |
+| [US01](#us01) | [Luiza da Silva Pugas](https://github.com/Luizaxx) | RF22 | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN04</a> |
+| [US02](#us02) | [Luiza da Silva Pugas](https://github.com/Luizaxx) | RF18 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR20</a> |
+| [US03](#us03) | [Luiza da Silva Pugas](https://github.com/Luizaxx) | RF27 | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN11</a> |
+| [US04](#us04) | [Luiza da Silva Pugas](https://github.com/Luizaxx) | RF30 | <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD04</a> |
+| [US05](#us05) | [Luiza da Silva Pugas](https://github.com/Luizaxx) | RF31 | <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD06</a> |
+| [US06](#us06) | [Luiza da Silva Pugas](https://github.com/Luizaxx) | RF32 | <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD07</a> |
+| [US07](#us07) | [Luiza da Silva Pugas](https://github.com/Luizaxx) | RNF02 | <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD10</a> |
+| [US08](#us08) | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | RF12 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR13</a> |
+| [US09](#us09) | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | RF13 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR14</a> |
+| [US10](#us10) | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | RF14 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR15</a> |
+| [US11](#us11) | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | RF35 | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT03</a> |
+| [US12](#us12) | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | RF36 | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT04</a> |
+| [US13](#us13) | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | RF38 | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT08</a> |
+| [US14](#us14) | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | RNF01 | <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD09</a> |
+| [US15](#us15) | [Gabriel Lopes](https://github.com/BrzGab) | RF07 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR07</a>, <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN08</a>, <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD08</a> |
+| [US16](#us16) | [Gabriel Lopes](https://github.com/BrzGab) | RF08 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR08</a> |
+| [US17](#us17) | [Gabriel Lopes](https://github.com/BrzGab) | RF10 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR11</a> |
+| [US18](#us18) | [Gabriel Lopes](https://github.com/BrzGab) | RF19 | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN01</a> |
+| [US19](#us19) | [Gabriel Lopes](https://github.com/BrzGab) | RF23 | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN05</a> |
+| [US20](#us20) | [Gabriel Lopes](https://github.com/BrzGab) | RF34 | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT02</a> |
+| [US21](#us21) | [Gabriel Lopes](https://github.com/BrzGab) | RNF22 | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT18</a> |
+| [US22](#us22) | [Karoline Luz da Conceição](https://github.com/KarolineLuz) | RF16 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR17</a> |
+| [US23](#us23) | [Karoline Luz da Conceição](https://github.com/KarolineLuz) | RF25 | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN09</a> |
+| [US24](#us24) | [Karoline Luz da Conceição](https://github.com/KarolineLuz) | RF26 | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN10</a>, <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT05</a> |
+| [US25](#us25) | [Karoline Luz da Conceição](https://github.com/KarolineLuz) | RF28 | <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD02</a> |
+| [US26](#us26) | [Karoline Luz da Conceição](https://github.com/KarolineLuz) | RF29 | <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD03</a> |
+| [US27](#us27) | [Karoline Luz da Conceição](https://github.com/KarolineLuz) | RF43 | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT13</a>, <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR18</a> |
+| [US28](#us28) | [Karoline Luz da Conceição](https://github.com/KarolineLuz) | RNF16 | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN06</a> |
+| [US29](#us29) | [Ana Victória Guedes da Costa](https://github.com/navicg) | RF01 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR01</a>, <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD01</a> |
+| [US30](#us30) | [Ana Victória Guedes da Costa](https://github.com/navicg) | RF02 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR02</a> |
+| [US31](#us31) | [Ana Victória Guedes da Costa](https://github.com/navicg) | RF03 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR03</a> |
+| [US32](#us32) | [Ana Victória Guedes da Costa](https://github.com/navicg) | RF09 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR10</a> |
+| [US33](#us33) | [Ana Victória Guedes da Costa](https://github.com/navicg) | RF15 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR16</a> |
+| [US34](#us34) | [Ana Victória Guedes da Costa](https://github.com/navicg) | RF20 | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN02</a> |
+| [US35](#us35) | [Ana Victória Guedes da Costa](https://github.com/navicg) | RNF13 | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN03</a> |
+| [US36](#us36) | [Artur Mendonça](https://github.com/ArtyMend07) | RF04 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR04</a> |
+| [US37](#us37) | [Artur Mendonça](https://github.com/ArtyMend07) | RF05 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR05</a>, <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD05</a>, <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT13</a> |
+| [US38](#us38) | [Artur Mendonça](https://github.com/ArtyMend07) | RF06 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR06</a> |
+| [US39](#us39) | [Artur Mendonça](https://github.com/ArtyMend07) | RF11 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR12</a> |
+| [US40](#us40) | [Artur Mendonça](https://github.com/ArtyMend07) | RF21 | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN03</a>, <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT07</a> |
+| [US41](#us41) | [Artur Mendonça](https://github.com/ArtyMend07) | RF33 | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT01</a> |
+| [US42](#us42) | [Artur Mendonça](https://github.com/ArtyMend07) | RNF20 | <a href="/elicitacao/tec_elicitacao/integracao/#anchor_INTT">INT16</a> |
+| [US43](#us43) | [Lucas Mendonça](https://github.com/lucasarruda9) | RF39 | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT09</a> |
+| [US44](#us44) | [Lucas Mendonça](https://github.com/lucasarruda9) | RF41 | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT11</a> |
+| [US45](#us45) | [Lucas Mendonça](https://github.com/lucasarruda9) | RF42 | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT12</a> |
+| [US46](#us46) | [Lucas Mendonça](https://github.com/lucasarruda9) | RF24 | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN06</a> |
+| [US47](#us47) | [Lucas Mendonça](https://github.com/lucasarruda9) | RF40 | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT10</a> |
+| [US48](#us48) | [Lucas Mendonça](https://github.com/lucasarruda9) | RF17 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR19</a> |
+| [US49](#us49) | [Lucas Mendonça](https://github.com/lucasarruda9) | RNF23 | <a href="/elicitacao/tec_elicitacao/integracao/#anchor_INTT">INT20</a> |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos(as) autores(as): ([Ana Victória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz), 2025)</p></font>
+
+## Histórias de Usuário
+
+As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o modelo disponibilizado na **Tabela 1**.
+
+## US01 - Autenticação Segura via gov.br {#us01}
+
+??? abstract "Tabela 3 -  História de Usuário - Permitir autenticação segura através da plataforma gov.br, com opções como reconhecimento facial."
+
 
     #### **Título:** Autenticação Segura via gov.br
 
@@ -148,12 +171,9 @@ A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
 
+## US02 - Compartilhamento e Salvamento de Informações Importantes {#us02}
 
-??? info "📋 O usuário deve conseguir compartilhar ou salvar informações importantes (como protocolos ou comprovantes)."
-
-    **História de Usuário — RF18: Compartilhamento e Salvamento de Informações Importantes**
-
-    ---
+??? abstract "Tabela 4 - História de Usuário - Conseguir compartilhar ou salvar informações importantes (como protocolos ou comprovantes)."
 
     #### **Título:** Compartilhamento e Salvamento de Informações Importantes
 
@@ -199,12 +219,10 @@ A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma
     
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
     
+## US03 -  Acesso a Suporte com Instruções de Uso {#us03}
 
-??? info "📋 O aplicativo deve oferecer uma seção de suporte ao usuário com instruções de uso."
+??? abstract "Tabela 5 - História de Usuário - Oferecer uma seção de suporte ao usuário com instruções de uso."
 
-    **História de Usuário — RF27: Acesso a Suporte com Instruções de Uso**
-
-    ---
 
     #### **Título:** Acesso a Suporte com Instruções de Uso
 
@@ -250,11 +268,10 @@ A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
 
-??? info "📋 O sistema deve permitir que o usuário visualize e acompanhe o status das suas solicitações."
+## US04 - Acompanhamento de Status de Solicitações {#us04}
 
-    **História de Usuário — RF30: Acompanhamento de Status de Solicitações**
+??? abstract "Tabela 6 - História de Usuário - Permitir que o usuário visualize e acompanhe o status das suas solicitações."
 
-    ---
 
     #### **Título:** Acompanhamento de Status de Solicitações
 
@@ -300,11 +317,10 @@ A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
 
-??? info "📋 O sistema deve permitir que o usuário confirme a resolução de problemas relatados."
+## US05 - Confirmação da Resolução de Problemas {#us05}
 
-    **História de Usuário — RF31: Confirmação da Resolução de Problemas**
+??? abstract "Tabela 7 - História de Usuário - Permitir que o usuário confirme a resolução de problemas relatados."
 
-    ---
 
     #### **Título:** Confirmação da Resolução de Problemas
 
@@ -350,11 +366,9 @@ A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
 
-??? info "📋 O sistema deve permitir que o usuário exclua seus dados e conta do aplicativo."
+## US06 - Exclusão de Conta e Dados Pessoais* {#us06}
 
-    **História de Usuário — RF32: Exclusão de Conta e Dados Pessoais**
-
-    ---
+??? abstract "Tabela 8 - História de Usuário - Permitir que o usuário exclua seus dados e conta do aplicativo."
 
     #### **Título:** Exclusão de Conta e Dados Pessoais
 
@@ -400,12 +414,9 @@ A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
 
+## US07 - Conformidade com LGPD {#us07}
 
-??? info "🔒 O sistema deve estar em conformidade com a Lei Geral de Proteção de Dados (LGPD)."
-
-    **História de Usuário — US-RNF02: Conformidade com LGPD**
-
-    ---
+??? abstract "Tabela 9 - História de Usuaŕio - Estar em conformidade com a Lei Geral de Proteção de Dados (LGPD)."
 
     #### **Título:** Garantir Conformidade com a LGPD
 
@@ -470,11 +481,9 @@ Este documento confirma que o cidadão Wanjo Christopher forneceu seu consentime
 
 O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/assets/termo-de-imagem-hu/Termo_39954923_tce_81319_assinado_assinado_assinado.pdf)
 
-??? info "📋 O aplicativo permite que o usuário altere o idioma da interface para melhor usabilidade."
+## US08 - Alteração de Idioma no Aplicativo {#us08}
 
-    **História de Usuário — US12: Alteração de Idioma no Aplicativo**
-
-    ---
+??? abstract "Tabela 10 - História de Usuário -  Permitir  que o usuário altere o idioma da interface para melhor usabilidade."
 
     #### **Título:** Alteração de Idioma no Aplicativo
 
@@ -522,11 +531,10 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), 2025).</p></font>
 
-??? info "📋 O aplicativo permite que o usuário personalize suas preferências e perfil para recomendações mais assertivas."
+## US09 - Personalização de Preferências e Perfil {#us09}
 
-    **História de Usuário — US13: Personalização de Preferências e Perfil**
+??? abstract "Tabela 11 - História de Usuário - Permitir que o usuário personalize suas preferências e perfil para recomendações mais assertivas."
 
-    ---
 
     #### **Título:** Personalização de Preferências e Perfil para Recomendações
 
@@ -574,11 +582,9 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), 2025).</p></font>
 
-??? info "📋 O aplicativo permite o envio de mensagens curtas para alertar sobre vencimentos e lembretes importantes."
+## US10 - Envio de Mensagens Curtas para Lembretes {#us10}
 
-    **História de Usuário — US14: Envio de Mensagens Curtas para Lembretes**
-
-    ---
+??? abstract "Tabela 12 - História de Usuário -Permitir o envio de mensagens curtas para alertar sobre vencimentos e lembretes importantes."
 
     #### **Título:** Envio de Mensagens Curtas sobre Vencimentos e Lembretes
 
@@ -626,11 +632,9 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), 2025).</p></font>
 
-??? info "📋 O aplicativo permite ao usuário selecionar o tipo de serviço desejado, como agendamento, limpeza ou reparo."
+## US11 - Seleção do Tipo de Serviço {#us11}
 
-    **História de Usuário — US35: Seleção do Tipo de Serviço**
-
-    ---
+??? abstract "Tabela 13 - História de Usuário - Permitir ao usuário selecionar o tipo de serviço desejado, como agendamento, limpeza ou reparo."
 
     #### **Título:** Seleção do Tipo de Serviço (Agendamento, Limpeza ou Reparo)
 
@@ -678,11 +682,9 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), 2025).</p></font>
 
-??? info "📋 O aplicativo permite ao usuário adicionar descrição textual, imagem e localização GPS da ocorrência."
+## US12 - Registro Detalhado da Ocorrência {#us12}
 
-    **História de Usuário — US36: Registro Detalhado da Ocorrência**
-
-    ---
+??? abstract "Tabela 14 - História de Usuário - Permitir ao usuário adicionar descrição textual, imagem e localização GPS da ocorrência."
 
     #### **Título:** Adição de Descrição, Imagem e Localização GPS da Ocorrência
 
@@ -730,11 +732,9 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), 2025).</p></font>
 
-??? info "📋 O aplicativo oferece acesso a serviços de transporte público, incluindo o pré-cadastro do Cartão Mobilidade."
+## US13 - Acesso a Serviços de Transporte e Pré-cadastro do Cartão Mobilidade {#us13}
 
-    **História de Usuário — US38: Acesso a Serviços de Transporte e Pré-cadastro do Cartão Mobilidade**
-
-    ---
+??? abstract "Tabela 15 - História de Usuário - Oferecer acesso a serviços de transporte público, incluindo o pré-cadastro do Cartão Mobilidade."
 
     #### **Título:** Acesso a Serviços de Transporte Público e Pré-cadastro do Cartão Mobilidade
 
@@ -782,12 +782,9 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), 2025).</p></font>
 
+## US14 - Compatibilidade Multiplataforma {#us14}
 
-??? info "📋 O sistema deve ser compatível com múltiplos dispositivos, incluindo Android e iOS."
-
-    **História de Usuário — US-RNF01: Compatibilidade Multiplataforma**
-
-    ---
+??? abstract "Tabel 16 - História de Usuário -Ser compatível com múltiplos dispositivos, incluindo Android e iOS."
 
     #### **Título:** Garantir Compatibilidade com Android e iOS
 
@@ -861,12 +858,9 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 | Arthur Leite |    Cidadão     | 30/05/2025 |  11:00   |
 | Vitor Pereira |    Cidadão     | 30/05/2025 |  15:30   |
 
+## US15 - Ajuste de Tamanho de Fonte e Contraste {#us15}
 
-??? info " O usuário deve poder alterar o tamanho da fonte e o contraste de cores"
-
-    **História de Usuário — RF07: Ajuste de Tamanho de Fonte e Contraste**
-
-    ---
+??? abstract "Tabela 17 - História de Usuário - Poder alterar o tamanho da fonte e o contraste de cores"
 
     #### **Título:** Ajuste de Tamanho de Fonte e Contraste de Cores
 
@@ -914,12 +908,10 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
 
+## US16 - Ativação do Modo Escuro {#us16}
 
-??? info " O aplicativo deve permitir modo escuro"
+??? abstract "Tabela 18 - História de Usuário - Permitir modo escuro"
 
-    **História de Usuário — RF08: Ativação do Modo Escuro**
-
-    ---
 
     #### **Título:** Ativação do Modo Escuro
 
@@ -968,11 +960,10 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
 
 
-??? info " O usuário deve poder gerar relatórios e visualizar comprovantes de agendamentos"
+## US17 - Geração de Relatórios e Comprovantes {#us17}
 
-    **História de Usuário — RF10: Geração de Relatórios e Comprovantes**
+??? abstract "Tabela 19 - História de usuário - Gerar relatórios e visualizar comprovantes de agendamentos"
 
-    ---
 
     #### **Título:** Geração de Relatórios e Visualização de Comprovantes de Agendamentos
 
@@ -1020,12 +1011,10 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
 
+## US18 - Localização de Ônibus em Tempo Real {#us18}
 
-??? info " O aplicativo permite a visualização da localização dos ônibus em tempo real, incluindo previsão de chegada e rota no mapa"
+??? abstract "Tabela 20 - História de Usuário - Permitir a visualização da localização dos ônibus em tempo real, incluindo previsão de chegada e rota no mapa"
 
-    **História de Usuário — RF19: Localização de Ônibus em Tempo Real**
-
-    ---
 
     #### **Título:** Visualização da Localização de Ônibus em Tempo Real
 
@@ -1073,12 +1062,10 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
 
+## US19 - Acesso Facilitado a Serviços de Impostos {#us19}
 
-??? info " O aplicativo facilita o acesso a serviços relacionados a impostos (como boletos do IPVA) com instruções claras"
+??? abstract "Tabela 21 - História de Usuário - Facilitar o acesso a serviços relacionados a impostos (como boletos do IPVA) com instruções claras"
 
-    **História de Usuário — RF23: Acesso Facilitado a Serviços de Impostos**
-
-    ---
 
     #### **Título:** Acesso Facilitado a Serviços de Impostos com Instruções
 
@@ -1126,12 +1113,9 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
 
+## US20 - Categorização de Ocorrências {#us20}
 
-??? info " Disponibilizar categorias pré-definidas para o tipo de ocorrência, facilitando a triagem pelos órgãos competentes"
-
-    **História de Usuário — RF34: Categorização de Ocorrências**
-
-    ---
+??? abstract "Tabela 22 - História de Usuário - Disponibilizar categorias pré-definidas para o tipo de ocorrência, facilitando a triagem pelos órgãos competentes"
 
     #### **Título:** Categorias Pré-definidas para Tipos de Ocorrência
 
@@ -1179,11 +1163,10 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
 
-??? info "O sistema deve proteger as informações pessoais com criptografia de dados e autenticação segura"
+## US21 - Proteção de Informações Pessoais {#us21}
 
-    **História de Usuário — RNF22: Proteção de Informações Pessoais**
+??? abstract "Tabela 23 - História de Usuário - Proteger as informações pessoais com criptografia de dados e autenticação segura"
 
-    ---
 
     #### **Título:** Proteção de Informações Pessoais com Criptografia e Autenticação Segura
 
@@ -1236,12 +1219,9 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
 
+## US22 - Centralização das Informações de Agendamento {#us22}
 
-??? info "Acessar informações de agendamento e reagendamento de forma centralizada, promovendo praticidade e transparência ao cidadão"
-
-	**História de Usuário — RF16: Centralização das Informações de Agendamento**
-
-	---
+??? abstract "Tabela 24 - História de Usuário - Acessar informações de agendamento e reagendamento de forma centralizada, promovendo praticidade e transparência ao cidadão"
 
 	#### **Título:** Acesso Centralizado a Agendamentos e Reagendamentos
 
@@ -1289,12 +1269,9 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 
 	<font size="3"><p style="text-align: center">Elaborado pelo autor: ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025).</p></font>
 
+## US23 - Reporte de Problemas pelo Mapa Interativo {#us23}
 
-??? info "Permitir que cidadãos reportem problemas da cidade de forma intuitiva, utilizando um mapa interativo para localização precisa"
-
-	**História de Usuário — RF25: Reporte de Problemas pelo Mapa Interativo**
-
-	---
+??? abstract "Tabela 25 - História de Usuário - Permitir que cidadãos reportem problemas da cidade de forma intuitiva, utilizando um mapa interativo para localização precisa"
 
 	#### **Título:** Reporte de Problemas via Mapa Interativo
 
@@ -1343,11 +1320,9 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 	<font size="3"><p style="text-align: center">Elaborado pelo autor: ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025).</p></font>
 
 
-??? info "Fornecer acesso rápido aos números de emergência da polícia, promovendo segurança e agilidade em situações críticas"
+## US24 - Acesso a Serviços de Emergência {#us24}
 
-	**História de Usuário — RF26: Acesso a Serviços de Emergência**
-
-	---
+??? abstract "Tabela 26 -  História de Usuário - Fornecer acesso rápido aos números de emergência da polícia, promovendo segurança e agilidade em situações críticas"
 
 	#### **Título:** Acesso Rápido aos Números da Polícia
 
@@ -1395,11 +1370,9 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 
 	<font size="3"><p style="text-align: center">Elaborado pelo autor: ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025).</p></font>
 
-??? info "Permitir que cidadãos solicitem serviços públicos de forma simples e eficiente, promovendo melhorias na infraestrutura urbana"
+## US25 - Solicitação de Serviços Públicos {#us25}
 
-	**História de Usuário — RF28: Solicitação de Serviços Públicos**
-
-	---
+??? abstract "Tabela 27 - História de Usuário - Permitir que cidadãos solicitem serviços públicos de forma simples e eficiente, promovendo melhorias na infraestrutura urbana"
 
 	#### **Título:** Solicitação de Serviços Públicos Diversos
 
@@ -1447,11 +1420,9 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 
 	<font size="3"><p style="text-align: center">Elaborado pelo autor: ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025).</p></font>
 
-??? info "Permitir que o cidadão visualize no mapa onde serviços públicos foram solicitados, promovendo maior transparência e controle"
+## US26 - Visualização de Solicitações em Mapa {#us26}
 
-	**História de Usuário — RF29: Visualização de Solicitações em Mapa**
-
-	---
+??? abstract "Tabela 28 - História de Usuário - Permitir que o cidadão visualize no mapa onde serviços públicos foram solicitados, promovendo maior transparência e controle"
 
 	#### **Título:** Localização de Solicitações de Serviço no Mapa
 
@@ -1499,12 +1470,10 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 
 	<font size="3"><p style="text-align: center">Elaborado pelo autor: ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025).</p></font>
 
+## US27 - Integração com Assistente Virtual {#us27}
 
-??? info "Disponibilizar um assistente virtual para responder automaticamente dúvidas frequentes dos usuários, oferecendo suporte ágil e contínuo"
+??? abstract "Tabela 29 - História de Usuário - Disponibilizar um assistente virtual para responder automaticamente dúvidas frequentes dos usuários, oferecendo suporte ágil e contínuo"
 
-	**História de Usuário — RF43: Integração com Assistente Virtual**
-
-	---
 
 	#### **Título:** Chatbot para Dúvidas Frequentes
 
@@ -1552,12 +1521,10 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 
 	<font size="3"><p style="text-align: center">Elaborado pelo autor: ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025).</p></font>
 
+## US28 - Usabilidade para Usuários Idosos {#us28}
 
-??? info "Garantir a usabilidade do sistema para usuários idosos, oferecendo design acessível e funcionalidades intuitivas que promovam inclusão digital"
+??? abstract "Tabela 30 - História de Usuário - Garantir a usabilidade do sistema para usuários idosos, oferecendo design acessível e funcionalidades intuitivas que promovam inclusão digital"
 
-	**História de Usuário — RNF16: Usabilidade para Usuários Idosos**
-
-	---
 
 	#### **Título:** Acessibilidade e Usabilidade para Idosos
 
@@ -1605,12 +1572,10 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 
 	<font size="3"><p style="text-align: center">Elaborado pelo autor: ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025).</p></font>
 
+## US29 - Login Simples e Rápido {#us29}
 
-??? info "📋 O aplicativo permite que o usuário realize login de forma simples e rápida."
+??? abstract "Tabela 31 - História de Usuário -  Permitir que o usuário realize login de forma simples e rápida."
 
-    **História de Usuário — RF01: Login Simples e Rápido**
-
-    ---
 
     #### **Título:** Login Simples e Rápido
 
@@ -1658,11 +1623,10 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 
     ---
 
-??? info "📋 O aplicativo é acessível mesmo para quem possui pouca familiaridade com tecnologia."
+## US30 - Acessibilidade para Usuários com Pouca Familiaridade Tecnológica {#us30}
 
-    **História de Usuário — RF02: Acessibilidade para Usuários com Pouca Familiaridade Tecnológica**
+??? abstract "Tabela 32 - História de Usuário - Ser acessível mesmo para quem possui pouca familiaridade com tecnologia."
 
-    ---
 
     #### **Título:** Acessibilidade para Usuários com Pouca Familiaridade Tecnológica
 
@@ -1710,11 +1674,9 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 
     ---
 
-??? info "📋 O aplicativo envia notificações personalizadas com base na localização do usuário."
+## US31 - Notificações Personalizadas por Localização {#us31}
 
-    **História de Usuário — RF03: Notificações Personalizadas por Localização**
-
-    ---
+??? abstract "Tabela 33 - História de Usuário - Enviar notificações personalizadas com base na localização do usuário."
 
     #### **Título:** Notificações Personalizadas por Localização
 
@@ -1762,11 +1724,9 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 
     ---
 
-??? info "📋 O aplicativo permite ao usuário acessar e visualizar notícias relevantes."
+## US32 - Acesso e Visualização de Notícias Relevantes {#us32}
 
-    **História de Usuário — RF09: Acesso e Visualização de Notícias Relevantes**
-
-    ---
+??? abstract "Tabela 34 - História de Usuário - Permitir ao usuário acessar e visualizar notícias relevantes."
 
     #### **Título:** Acesso e Visualização de Notícias Relevantes
 
@@ -1814,11 +1774,10 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 
     ---
 
-??? info "📋 O aplicativo apresenta um menu com as principais funções na tela inicial."
+## US33 - Menu Principal na Tela Inicial {#us33}
 
-    **História de Usuário — RF15: Menu Principal na Tela Inicial**
+??? abstract "Tabela 35 - História de Usuário - Apresentar um menu com as principais funções na tela inicial."
 
-    ---
 
     #### **Título:** Menu Principal na Tela Inicial
 
@@ -1866,11 +1825,9 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 
     ---
 
-??? info "📋 O aplicativo fornece links para serviços externos, com explicações claras sobre o que o usuário encontrará."
+## US34 - Links para Serviços Externos com Explicações Claras {#us34}
 
-    **História de Usuário — RF20: Links para Serviços Externos com Explicações Claras**
-
-    ---
+??? abstract "Tabela 36 - História de Usuário - Fornecer links para serviços externos, com explicações claras sobre o que o usuário encontrará."
 
     #### **Título:** Links para Serviços Externos com Explicações Claras
 
@@ -1918,11 +1875,10 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 
     ---
 
-??? info "📋 O aplicativo deve apresentar estabilidade, evitando travamentos ou falhas de carregamento."
+## US35 - Estabilidade em Redes Móveis {#us35}
 
-    **História de Usuário — RNF13: Estabilidade em Redes Móveis**
+??? abstract "Tabela 37 - História de Usuário - Apresentar estabilidade, evitando travamentos ou falhas de carregamento."
 
-    ---
 
     #### **Título:** Estabilidade em Redes Móveis
 
@@ -1970,11 +1926,9 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 
     ---
 
-??? info "📅 O usuário deve poder consultar agendamentos e serviços em um único local centralizado"
+## US36 - Consulta Centralizada de Agendamentos e Serviços {#us36}
 
-    **História de Usuário — RF04: Consulta Centralizada de Agendamentos e Serviços**
-
-    ---
+??? abstract "Tabela 38 - História de Usuário - Consultar agendamentos e serviços em um único local centralizado"
 
     #### **Título:** Consulta Centralizada de Agendamentos e Serviços
 
@@ -2022,11 +1976,10 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 
     ---
 
-??? info "🗣️ O usuário deve ter acesso a um assistente virtual com acessibilidade por voz"
+## US37 - Compartilhamento e Salvamento de Informações Importantes {#us37}
 
-    **História de Usuário — RF05: Assistente Virtual com Acessibilidade por Voz**
+??? abstract "Tabela 39 - História de Usuário - Ter acesso a um assistente virtual com acessibilidade por voz"
 
-    ---
 
     #### **Título:** Assistente Virtual com Acessibilidade por Voz
 
@@ -2074,11 +2027,10 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 
     ---
 
-??? info "📚 O usuário deve poder acessar tutoriais passo a passo sobre como usar o app"
+## US38 - Tutoriais Passo a Passo {#us38}
 
-    **História de Usuário — RF06: Tutoriais Passo a Passo**
+??? abstract "Tabela 40 - História de Usuário -  Poder acessar tutoriais passo a passo sobre como usar o app"
 
-    ---
 
     #### **Título:** Tutoriais Passo a Passo do Aplicativo
 
@@ -2126,11 +2078,10 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 
     ---
 
-??? info "🔄 O aplicativo deve permitir a integração com serviços de saúde, educação e mobilidade"
+## US39 - Integração com Serviços Essenciais {#us39}
 
-    **História de Usuário — RF11: Integração com Serviços Essenciais**
+??? abstract "Tabela 41 - História de Usuário - Permitir a integração com serviços de saúde, educação e mobilidade"
 
-    ---
 
     #### **Título:** Integração com Serviços de Saúde, Educação e Mobilidade
 
@@ -2178,11 +2129,10 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
     
     ---
 
-??? info "📚 O aplicativo oferece funcionalidades para consulta de informações educacionais"
+## US40 - Consulta de Informações Educacionais {#us40}
 
-    **História de Usuário — RF21: Consulta de Informações Educacionais**
+??? abstract "Tabela 42 - História de Usuário - Oferecer funcionalidades para consulta de informações educacionais"
 
-    ---
 
     #### **Título:** Consulta de Informações Educacionais
 
@@ -2230,11 +2180,9 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 
     ---
 
-??? info "🏗️ Permitir o registro de ocorrências relacionadas a problemas de infraestrutura urbana"
+## US41 - Registro de Ocorrências de Infraestrutura {#us41}
 
-    **História de Usuário — RF33: Registro de Ocorrências de Infraestrutura**
-
-    ---
+??? abstract "Tabela 43 -  História de Usuário - Permitir o registro de ocorrências relacionadas a problemas de infraestrutura urbana"
 
     #### **Título:** Registro de Ocorrências de Infraestrutura Urbana
 
@@ -2282,11 +2230,9 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 
     ---
 
-??? info "⚡ As funcionalidades principais devem responder em, no máximo, dois segundos"
+## US42 - Performance das Funcionalidades Principais {#us42}
 
-    **História de Usuário — RNF20: Performance das Funcionalidades Principais**
-
-    ---
+??? abstract "Tabela 44 - História de Usuário - As funcionalidades principais devem responder em, no máximo, dois segundos"
 
     #### **Título:** Tempo de Resposta das Funcionalidades Principais
 
@@ -2334,11 +2280,10 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 
     ---
 
-??? info "📜 Fornecer um histórico de interações do usuário com o aplicativo, incluindo solicitações e agendamentos."
+## US43 - Acompanhar histórico de interações {#us43}
 
-    ## História de usuário - RF41: Acompanhar histórico de interações
+??? abstract "Tabela 45 - História de Usuário - Fornecer um histórico de interações do usuário com o aplicativo, incluindo solicitações e agendamentos."
 
-    ---
 
     ### Título: Acompanhar histórico de interações
 
@@ -2380,11 +2325,10 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 
     ---
 
-??? info "📰 Apresentar um feed de notícias atualizadas com informações úteis do Governo do Distrito Federal."
+## US44 - cesso a notícias oficiais do GDF {#us44}
 
-    ## História de usuário - RF42: Acesso a notícias oficiais do GDF
+??? abstract "Tabela 46 - História de Usuário - Apresentar um feed de notícias atualizadas com informações úteis do Governo do Distrito Federal."
 
-    ---
 
     ### Título: Acesso a notícias oficiais do GDF
 
@@ -2426,11 +2370,10 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 
     ---
 
-??? info "🗓️ Permitir agendamentos em serviços sociais, como centros de assistência social e habitação."
+## US45 - Agendar serviços sociais {#us45}
 
-    ## História de usuário - RF39: Agendar serviços sociais
+??? abstract "Tabela 47 - História de Usuário -Permitir agendamentos em serviços sociais, como centros de assistência social e habitação."
 
-    ---
 
     ### Título: Agendar serviços sociais
 
@@ -2471,11 +2414,9 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 
     ---
 
-??? info "🧾 Disponibilizar a emissão de tributos, certidões e outros documentos fiscais." 
+## US46 - Emitir tributos, certidões e documentos fiscais {#us46}
 
-    ## História de usuário - RF40: Emitir tributos, certidões e documentos fiscais
-
-    ---
+??? abstract "Tabela 48 - História de Usuário - Disponibilizar a emissão de tributos, certidões e outros documentos fiscais." 
 
     ### Título: Emitir tributos, certidões e documentos fiscais
 
@@ -2517,9 +2458,9 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 
     ---
 
-??? info "🎓 O aplicativo implementa funcionalidades adicionais na área educacional, como acompanhamento de pendências para professores e alunos."
+## US47 - Acompanhar pendências educacionais {#us47}
 
-    ## História de usuário - RF24: Acompanhar pendências educacionais
+??? abstract "Tabela 49 - História de Usuário - Implementar funcionalidades adicionais na área educacional, como acompanhamento de pendências para professores e alunos."
 
     ### Título: Acompanhar pendências educacionais
 
@@ -2551,11 +2492,10 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 
     ---
 
-??? info "🔔 O aplicativo deve permitir notificações por categorias como saúde, educação, transporte"
+## US48 - Receber notificações categorizadas {#us48}
 
-    ## Histórias de usuário - RF17: Receber notificações categorizadas
+??? abstract "Tabela 50 - História de Usuário - Permitir notificações por categorias como saúde, educação, transporte"
 
-    ---
 
     ### Título: Receber notificações categorizadas
 
@@ -2597,11 +2537,9 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 
     ---
 
-??? info "Deve funcionar em modo offline para consulta de registros ou informações previamente acessadas."
+## US49 - Consultar registros sem conexão com a internet {#us49}
 
-    ## História de usuário - RNF23: Consultar registros sem conexão com a internet
-
-    ---
+??? abstract "Tabela 51 - História de Usuário - Funcionar em modo offline para consulta de registros ou informações previamente acessadas."
 
     ### Título: Consultar registros sem conexão com a internet
 
@@ -2709,4 +2647,5 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 | 1.48  | Adição de validação das histórias de usuário | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 30/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 03/06/2025 |
 | 1.49  | Adição de validação das histórias de usuário 1 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 03/06/2025 |
 | 1.50  | Adição de validação das histórias de usuário 2 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 03/06/2025 |
+| 1.51  | Organizando histórias de usuário e adicionando tabela do que cada um desenvolveu | [Ana Victória Guedes da Costa](https://github.com/navicg) | 31/05/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 03/06/2025 |
 
