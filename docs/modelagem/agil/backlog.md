@@ -204,6 +204,16 @@ O desenvolvimento do backlog seguiu uma abordagem sistemática e colaborativa, o
 **Épico:** EP07  
 **Descrição:** Pré-cadastro, renovação e consulta do Cartão Mobilidade para o usuário.
 
+### Feature 16: Acompanhamento educacional 
+**ID:** FT16  
+**Épico:** EP04  
+**Descrição:** Funcionalidades voltadas para acompanhamento de pendências por professores e alunos na área da educação.
+
+### Feature 17: Acessar informações sem conexão com a internet
+**ID:** FT17  
+**Épico:** EP04  
+**Descrição:** Possibilidade de acessar registros e informações anteriormente consultadas, mesmo sem conexão com a internet.
+
 ### Validação 1 - Ana Victória
 
 <center>
