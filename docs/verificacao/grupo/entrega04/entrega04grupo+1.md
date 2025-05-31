@@ -89,6 +89,11 @@ Este documento apresenta uma lista de verificação para avaliar os artefatos pr
 | 9   | Existe uma conclusão clara sobre a satisfação ou não dos requisitos de nível superior no SIG?                                                  | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx)                                                                  | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/lista-verificacao-entrega4/docs/assets/lista-4/nfr_7.png" alt="SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019.><br><a href="https://repositorio.ufpe.br/handle/123456789/34150">Acessar PDF</a></div> |
 | 10  | O artefato mantém coerência e alinhamento com documentos relacionados, como a Especificação Suplementar e outros modelos do projeto?           | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx)                                                                  | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/lista-verificacao-entrega4/docs/assets/lista-4/nfr_7.png" alt="SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019.><br><a href="https://repositorio.ufpe.br/handle/123456789/34150">Acessar PDF</a></div> |
 
+<font size="3"><p style="text-align: center"> Elaborado pelos(as) autores(as): ([João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
+
+
+
+
 ## Referências Bibliográficas
 
 > <a id="FRM1" href="#anchor_1">1.</a>PRESSMAN, Roger S. Engenharia de software: uma abordagem profissional. 8. ed. Porto Alegre: AMGH, 2016.
