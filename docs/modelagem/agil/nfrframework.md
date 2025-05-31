@@ -32,7 +32,7 @@ A figura 1 mostra a representação dos tipos de *softgoals* que estão presente
 <p align="center"><i>Figura 1: Tipos das Softgoals</i></p>
 
 <p align="center">
-  <img src="/assets/nfr/tipos.png" width="600">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/nfr/docs/assets/nfr/tipos.png" width="600">
 </p>
 
 <font size="3"><p style="text-align: center"> Fonte: (SILVA, 2019)</p></font>
@@ -55,7 +55,7 @@ A figura 2 ilustra essas diferentes formas de decomposição dentro do NFR Frame
 <p align="center"><i>Figura 2: Tipos de Decomposição das Softgoals</i></p>
 
 <p align="center">
-  <img src="/assets/modelagem/nfr/Derivacao_Softgoals.drawio.png" width="600">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/nfr/docs/assets/nfr/tabela2.png" width="600">
 </p>
 
 <font size="3"><p style="text-align: center"> Fonte: (SILVA, 2019)</p></font>
@@ -73,6 +73,28 @@ Contribuições indicam como um *softgoal* impacta outro. Podem ser:
 - **UNKNOWN (?)**: Contribuição desconhecida.
 - **EQUALS**: Correlação direta entre os níveis de satisfação.
 - **SOME**: A contribuição é conhecida, mas sua intensidade é incerta. <a id="anchor_2" href="#REF2">[2]</a>
+
+## Procedimento de Avaliação no NFR Framework
+
+O **procedimento de avaliação** determina o grau em que os requisitos não funcionais (softgoals) são satisfeitos por um conjunto de decisões. Dessa forma, ele verifica se cada softgoal ou interdependência do Softgoal Interdependency Graph (SIG) foi suficientemente atendido.<a id="anchor_2" href="#REF2">[2]</a>
+
+### Tipos de rótulos usados
+
+- ✓ **Satisfeito**: O requisito não funcional é plenamente satisfeito.
+- 𝒲+ **Fracamente satisfeito**: Satisfação parcial; impacto positivo, mas menos forte que ✓.
+- X **Negado**: O requisito não é satisfeito e pode até contradizer os objetivos do sistema.
+- 𝒲- **Fracamente negado**: Negação parcial; impacto negativo, mas mais brando que X.
+- 🗲 **Conflitante**: Há conflitos entre requisitos; coexistem aspectos positivos e negativos.
+- u **Indeterminado**: Não há dados suficientes para determinar o impacto entre os requisitos.
+
+<p align="center"><i>Figura 3: Tipos de rótulos utilizados pelos softgoals</i></p>
+
+<p align="center">
+  <img src="" width="600">
+</p>
+
+<font size="3"><p style="text-align: center"> Fonte: (SILVA, 2019)</p></font>
+
 
 <p align="center"><b>Tabela</b> — Histórico de Contribuições</p>
 
