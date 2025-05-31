@@ -459,6 +459,12 @@ A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma
 
 <p style="text-align: center"><a href="https://youtu.be/lCb6uHoCcfY" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
+
+| **Autor** | **Usuário Participante** | **Data** | **Hora** |
+|:---------:|:------------------------:|:--------:|:--------:|
+| [Luiza da Silva Pugas](https://github.com/Luizaxx) | Wanjo Christopher | 30/05/2025 | 10:30 |
+
+
 ## Termo de consentimento de imagem 
  Aqui está o termo de consentimento de imagem em pdf, assinado pelo cidadão Wanjo [PDF](docs/assets/termo-de-imagem-hu/Termo_39954923_tce_81319_assinado_assinado_assinado.pdf)
 
