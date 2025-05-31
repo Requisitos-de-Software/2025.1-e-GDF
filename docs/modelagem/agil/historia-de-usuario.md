@@ -2381,7 +2381,11 @@ A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma
 
     ## História de usuário - RF39: Agendar serviços sociais
 
+    ---
+
     ### Título: Agendar serviços sociais
+
+    ---
 
     ### História
 
@@ -2389,19 +2393,27 @@ A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma
     **Eu quero** poder agendar atendimentos de serviços socias,  
     **Para que** eu consiga ter acesso aos serviços públicos do DF de forma simples e organizada.
 
+    ---
+
     ### Critérios de Aceitação
     - <input type="checkbox"> Deve ser possível selecionar local, serviço e horário disponíveis.  
     - <input type="checkbox"> O usuário deve receber confirmação do agendamento.  
     - <input type="checkbox"> O sistema deve validar os dados antes de concluir o agendamento.  
     - <input type="checkbox"> Deve ser possível consultar e cancelar agendamentos realizados.
 
+    ---
+
     ### Subtarefas
     - <input type="checkbox"> Conectar com sistema de agendamentos do GDF.  
     - <input type="checkbox"> Criar interface de seleção de local, serviço e horário.  
     - <input type="checkbox"> Implementar lógica de confirmação e envio de notificação.
 
+    ---
+
     ### Rastreabilidade
     - **Requisito Funcional Relacionado:** RF39
+
+    ---
 
     ### Estimativa de Esforço
     - **Prioridade:** MH
@@ -2410,7 +2422,87 @@ A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma
 
     ---
 
-    
+??? info "🧾 Disponibilizar a emissão de tributos, certidões e outros documentos fiscais." 
+
+    ## História de usuário - RF40: Emitir tributos, certidões e documentos fiscais
+
+    ---
+
+    ### Título: Emitir tributos, certidões e documentos fiscais
+
+    ---
+
+    ### História
+
+    **Como** um cidadão contribuinte do distrito federal,  
+    **Eu quero** poder emitir tributos, certidões e documentos fiscais diretamente no aplicativo,  
+    **Para que** eu possa regularizar minha situação de forma prática e digital.
+
+    ---
+
+    ### Critérios de Aceitação
+    - <input type="checkbox"> O app deve permitir emissão de segunda via de tributos.  
+    - <input type="checkbox"> Deve permitir gerar certidões.  
+    - <input type="checkbox"> Os documentos gerados devem ser salvos em PDF.  
+    - <input type="checkbox"> A funcionalidade deve estar segura e em conformidade com a LGPD.
+
+    ---
+
+    ### Subtarefas
+    - <input type="checkbox"> Integrar API de emissão.  
+    - <input type="checkbox"> Criar visualizasor dos pdfs.
+    - <input type="checkbox"> Criar opção de download dos PDFs.  
+    - <input type="checkbox"> Garantir autenticação do usuário antes da emissão.
+
+    ---
+
+    ### Rastreabilidade
+    - **Requisito Funcional Relacionado:** RF40
+
+    ---
+
+    ### Estimativa de Esforço
+    - **Prioridade:** MH
+
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Lucas Mendonça](https://github.com/lucasarruda9), 2025).</p></font>
+
+    ---
+
+??? info "🎓 O aplicativo implementa funcionalidades adicionais na área educacional, como acompanhamento de pendências para professores e alunos."
+
+    ## História de usuário - RF24: Acompanhar pendências educacionais
+
+    ### Título: Acompanhar pendências educacionais
+
+    ### História
+
+    **Como** um aluno ou professor da rede pública do distrito federal,  
+    **Eu quero** acompanhar pendências escolares,  
+    **Para que** eu possa organizar minhas obrigações de forma mais eficiente.
+
+    ### Critérios de Aceitação
+    - <input type="checkbox"> O sistema deve exibir pendências de tarefas, avaliações e frequência dos alunos.  
+    - <input type="checkbox"> Professores devem visualizar tarefas pendentes para correção.  
+    - <input type="checkbox"> O sistema deve permitir notificar mudanças ou atrasos.  
+    - <input type="checkbox"> A interface deve ser clara e acessível para todos os perfis.
+
+    ### Subtarefas
+    - <input type="checkbox"> Integrar sistema educacional do GDF.  
+    - <input type="checkbox"> Criar telas específicas para alunos e professores.  
+    - <input type="checkbox"> Implementar filtros por disciplina, data e tipo.  
+    - <input type="checkbox"> Desenvolver notificações de alerta para novas pendências.
+
+    ### Rastreabilidade
+    - **Requisito Funcional Relacionado:** RF24
+
+    ### Estimativa de Esforço
+    - **Prioridade:** MH
+
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Lucas Mendonça](https://github.com/lucasarruda9), 2025).</p></font>
+
+    ---
+
+ 
 
 ## Referências Bibliográficas
 
