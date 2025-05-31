@@ -79,37 +79,130 @@ O desenvolvimento do backlog seguiu uma abordagem sistemática e colaborativa, o
 
 [Descrever os principais temas identificados no projeto]
 
-### Tema 1: [Nome do Tema]
+### Tema 1: [Experiência do usuário]
 [Descrição do tema e sua importância no contexto do projeto]
 
-### Tema 2: [Nome do Tema]
+### Tema 2: [Acesso a serviços públicos]
 [Descrição do tema e sua importância no contexto do projeto]
+
+### Tema 3: [Acessibilidade]
+[Descrição do tema e sua importância no contexto do projeto]
+
+### Tema 4: [Comunicação]
+[Descrição do tema e sua importância no contexto do projeto]
+
+### Tema 5: [Mobilidade Urbana]
+[Descrição do tema e sua importância no contexto do projeto]
+
+
 
 ## Épicos
 
-### Épico 1: [Nome do Épico]
+### Épico 1 (tema 1): [Autenticação]  
 **ID:** EP01  
-**Descrição:** [Descrever o épico - narrativa maior, semelhante à história de usuário]
+**Descrição:** Sistema robusto de autenticação, com login rápido e integração com o gov.br, garantindo segurança dos dados pessoais e facilitando o acesso para diferentes tipos de usuários.
 
-### Épico 2: [Nome do Épico]
+### Épico 2 (tema 1): [Interface Personalizável e Intuitiva]  
 **ID:** EP02  
-**Descrição:** [Descrever o épico]
+**Descrição:** Funcionalidades que tornam a navegação mais agradável e acessível, como escolha de idioma, preferências visuais e adaptação da interface conforme o perfil do cidadão.
+
+### Épico 3 (tema 2): [Agendamentos]  
+**ID:** EP03  
+**Descrição:** Funcionalidades sobre agendamentos
+
+### Épico 4 (tema 2): [Consulta de Serviços]  
+**ID:** EP04  
+**Descrição:** Funcionalidade envolvendo consultas de status de processos, documentos e comprovantes, facilitando o acompanhamento do cidadão em seus serviços.
+
+### Épico 5 (tema 3): [Interface Inclusiva]  
+**ID:** EP05  
+**Descrição:** Conjunto de melhorias voltadas para garantir o uso da plataforma por pessoas com deficiência e idosos, como leitores de tela, contraste ajustável e navegação assistida.
+
+### Épico 6 (tema 4): [Canal de Comunicação]  
+**ID:** EP06  
+**Descrição:** Conjunto de funcionalidades envolvendo a comunicação com o cidadão via notificações, alertas de serviços, notícias relevantes e assistente virtual para dúvidas frequentes.
+
+### Épico 7 (tema 5): [Transporte público]  
+**ID:** EP07  
+**Descrição:** Conjunto de funcionalidade voltadas à mobilidade urbana, incluindo informações em tempo real sobre transporte público, planejamento de rotas e integração com cartões de transporte.
+
 
 ## Features
 
-### Feature 1: [Nome da Feature]
+### Feature 1: Autenticação segura 
 **ID:** FT01  
 **Épico:** EP01  
-**Descrição:** [Descrever a funcionalidade específica]
+**Descrição:** Funcionalidades sobre a segurança na autenticação.
 
-### Feature 2: [Nome da Feature]
+### Feature 2: Gerenciamento de senha  
 **ID:** FT02  
 **Épico:** EP01  
-**Descrição:** [Descrever a funcionalidade específica]
+**Descrição:** Permite recuperação de senha via e-mail ou SMS e gestão segura de credenciais.
 
-## Validações com Usuários
+### Feature 3: Ajustes de interface  
+**ID:** FT03  
+**Épico:** EP02  
+**Descrição:** Alterar tamanho de fonte, contraste, modo escuro e idioma para melhor usabilidade.
 
-Esta seção apresenta as gravações das validações realizadas por cada integrante da equipe com usuários reais. Cada validação contém a apresentação dos épicos, features e histórias de usuário elaborados pelo participante, garantindo que as funcionalidades propostas atendam às necessidades reais dos cidadãos do Distrito Federal.
+### Feature 4: Suporte ao usuário  
+**ID:** FT04  
+**Épico:** EP02  
+**Descrição:** Sessão com tutoriais, FAQ e suporte via assistente virtual por voz e texto.
+
+### Feature 5: Agendamento de serviços públicos  
+**ID:** FT05  
+**Épico:** EP03  
+**Descrição:** Interface para agendar, reagendar e cancelar serviços públicos.
+
+### Feature 6: Notificações e lembretes de agendamento  
+**ID:** FT06  
+**Épico:** EP03  
+**Descrição:** Envio de notificações automáticas para lembrar compromissos e atualizações.
+
+### Feature 7: Consulta a histórico e comprovantes  
+**ID:** FT07  
+**Épico:** EP04  
+**Descrição:** Visualização e download de comprovantes, relatórios e histórico de serviços.
+
+### Feature 8: Acompanhamento de status de solicitações  
+**ID:** FT08  
+**Épico:** EP04  
+**Descrição:** Monitoramento do andamento das solicitações e possibilidade de confirmação de resolução.
+
+### Feature 9: Recursos de acessibilidade visual e auditiva  
+**ID:** FT09  
+**Épico:** EP05  
+**Descrição:** Leitores de tela, comandos de voz, legendas e interface simplificada.
+
+### Feature 10: Modos adaptados para idosos  
+**ID:** FT10  
+**Épico:** EP05  
+**Descrição:** Interface com layout simplificado e suporte ao usuário com baixa familiaridade tecnológica.
+
+### Feature 11: Notícias  
+**ID:** FT11  
+**Épico:** EP06  
+**Descrição:** Exibição contínua de notícias, atualizações e comunicados do governo.
+
+### Feature 12: Notificações personalizadas 
+**ID:** FT12  
+**Épico:** EP06  
+**Descrição:** Alertas segmentados por geolocalização e preferências do usuário.
+
+### Feature 13: Assistente virtual com suporte por voz  
+**ID:** FT13  
+**Épico:** EP06  
+**Descrição:** Chatbot para tirar dúvidas, guiar o usuário e facilitar o uso do sistema.
+
+### Feature 14: Localização de transporte  
+**ID:** FT14  
+**Épico:** EP07  
+**Descrição:** Exibição da posição e horário dos ônibus em tempo real.
+
+### Feature 15: Gerenciamento do Cartão Mobilidade  
+**ID:** FT15  
+**Épico:** EP07  
+**Descrição:** Pré-cadastro, renovação e consulta do Cartão Mobilidade para o usuário.
 
 ### Validação 1 - Ana Victória
 
