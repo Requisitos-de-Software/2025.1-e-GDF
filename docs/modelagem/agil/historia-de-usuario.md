@@ -470,7 +470,7 @@ Este documento confirma que o cidadão Wanjo Christopher forneceu seu consentime
 
 O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/assets/termo-de-imagem-hu/Termo_39954923_tce_81319_assinado_assinado_assinado.pdf)
 
-??? info "🌐 O aplicativo permite que o usuário altere o idioma da interface para melhor usabilidade."
+??? info "📋 O aplicativo permite que o usuário altere o idioma da interface para melhor usabilidade."
 
     **História de Usuário — US12: Alteração de Idioma no Aplicativo**
 
@@ -522,7 +522,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), 2025).</p></font>
 
-??? info "⚙️ O aplicativo permite que o usuário personalize suas preferências e perfil para recomendações mais assertivas."
+??? info "📋 O aplicativo permite que o usuário personalize suas preferências e perfil para recomendações mais assertivas."
 
     **História de Usuário — US13: Personalização de Preferências e Perfil**
 
@@ -574,7 +574,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), 2025).</p></font>
 
-??? info "✉️ O aplicativo permite o envio de mensagens curtas para alertar sobre vencimentos e lembretes importantes."
+??? info "📋 O aplicativo permite o envio de mensagens curtas para alertar sobre vencimentos e lembretes importantes."
 
     **História de Usuário — US14: Envio de Mensagens Curtas para Lembretes**
 
@@ -626,7 +626,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), 2025).</p></font>
 
-??? info "🔧 O aplicativo permite ao usuário selecionar o tipo de serviço desejado, como agendamento, limpeza ou reparo."
+??? info "📋 O aplicativo permite ao usuário selecionar o tipo de serviço desejado, como agendamento, limpeza ou reparo."
 
     **História de Usuário — US35: Seleção do Tipo de Serviço**
 
@@ -678,7 +678,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), 2025).</p></font>
 
-??? info "📍 O aplicativo permite ao usuário adicionar descrição textual, imagem e localização GPS da ocorrência."
+??? info "📋 O aplicativo permite ao usuário adicionar descrição textual, imagem e localização GPS da ocorrência."
 
     **História de Usuário — US36: Registro Detalhado da Ocorrência**
 
@@ -730,7 +730,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), 2025).</p></font>
 
-??? info "🚌 O aplicativo oferece acesso a serviços de transporte público, incluindo o pré-cadastro do Cartão Mobilidade."
+??? info "📋 O aplicativo oferece acesso a serviços de transporte público, incluindo o pré-cadastro do Cartão Mobilidade."
 
     **História de Usuário — US38: Acesso a Serviços de Transporte e Pré-cadastro do Cartão Mobilidade**
 
@@ -783,7 +783,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), 2025).</p></font>
 
 
-??? info "📱 O sistema deve ser compatível com múltiplos dispositivos, incluindo Android e iOS."
+??? info "📋 O sistema deve ser compatível com múltiplos dispositivos, incluindo Android e iOS."
 
     **História de Usuário — US-RNF01: Compatibilidade Multiplataforma**
 
