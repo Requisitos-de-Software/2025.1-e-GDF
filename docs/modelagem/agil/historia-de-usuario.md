@@ -453,22 +453,22 @@ A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
 
-**Vídeo 1** - Validação com usuário por Luiza Pugas 
+**Vídeo 1** - Validação e Priorização com usuário por [Luiza da Silva Pugas](https://github.com/Luizaxx)
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/lCb6uHoCcfY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 <p style="text-align: center"><a href="https://youtu.be/lCb6uHoCcfY" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
-
-| **Autor** | **Usuário Participante** | **Data** | **Hora** |
+| **Nome** | **Função** | **Data** | **Hora** |
 |:---------:|:------------------------:|:--------:|:--------:|
-| [Luiza da Silva Pugas](https://github.com/Luizaxx) | Wanjo Christopher | 30/05/2025 | 10:30 |
+| [Luiza da Silva Pugas](https://github.com/Luizaxx) | Elaborador das histórias | 30/05/2025 | 10:30 |
+| Wanjo Christopher | Cidadão | 30/05/2025 | 10:30 |
 
 
 ## Termo de consentimento de imagem 
- Aqui está o termo de consentimento de imagem em pdf, assinado pelo cidadão Wanjo [PDF](docs/assets/termo-de-imagem-hu/Termo_39954923_tce_81319_assinado_assinado_assinado.pdf)
+Este documento confirma que o cidadão Wanjo Christopher forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
 
-
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/assets/termo-de-imagem-hu/Termo_39954923_tce_81319_assinado_assinado_assinado.pdf)
 
 ??? info "🌐 O aplicativo permite que o usuário altere o idioma da interface para melhor usabilidade."
 
@@ -626,27 +626,27 @@ A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), 2025).</p></font>
 
-??? info "🔧 O aplicativo permite ao usuário selecionar o tipo de serviço desejado, como implantação, limpeza ou reparo."
+??? info "🔧 O aplicativo permite ao usuário selecionar o tipo de serviço desejado, como agendamento, limpeza ou reparo."
 
     **História de Usuário — US35: Seleção do Tipo de Serviço**
 
     ---
 
-    #### **Título:** Seleção do Tipo de Serviço (Implantação, Limpeza ou Reparo)
+    #### **Título:** Seleção do Tipo de Serviço (Agendamento, Limpeza ou Reparo)
 
     ---
 
     #### História
 
     **Como** um usuário do aplicativo,  
-    **Eu quero** poder selecionar o tipo de serviço que desejo contratar, seja implantação, limpeza ou reparo,  
+    **Eu quero** poder selecionar o tipo de serviço que desejo contratar, seja agendamento, limpeza ou reparo,  
     **Para que** eu possa receber um atendimento personalizado conforme minha necessidade específica.
 
     ---
 
     #### Critérios de Aceitação
 
-    - <input type="checkbox"> O sistema deve apresentar claramente as opções de serviço (implantação, limpeza, reparo).
+    - <input type="checkbox"> O sistema deve apresentar claramente as opções de serviço (agendamento, limpeza, reparo).
     - <input type="checkbox"> O usuário deve conseguir selecionar apenas um tipo de serviço por solicitação.
     - <input type="checkbox"> A seleção do tipo de serviço deve influenciar nas opções e recomendações exibidas.
     - <input type="checkbox"> O sistema deve confirmar a seleção antes de prosseguir com o atendimento.
@@ -833,6 +833,33 @@ A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), 2025).</p></font>
 
+**Vídeo 2** - Validação e Priorização com os usuário por [João Marcos Moraes](https://github.com/JJOAOMARCOSS)
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/Ph5jpFJNuxY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/Ph5jpFJNuxY" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+## Termo de consentimento de imagem 
+Este documento confirma que o cidadão Arthur Leite forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
+
+**Vídeo 3** - Validação e Priorização com os usuário por [João Marcos Moraes](https://github.com/JJOAOMARCOSS)
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/gRrLrG8Su2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/gRrLrG8Su2A" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+## Termo de consentimento de imagem 
+Este documento confirma que o cidadão Vitor Pereira forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
+
+| **Nome** | **Função** |  **Data**  | **Hora** |
+| :------------------------------------------------: | :----------------------: | :--------: | :------: |
+| [João Marcos Moraes](https://github.com/JJOAOMARCOSS) |    Elaborador das histórias     | 30/05/2025 |  11:00   |
+| Arthur Leite |    Cidadão     | 30/05/2025 |  11:00   |
+| Vitor Pereira |    Cidadão     | 30/05/2025 |  15:30   |
 
 
 ??? info " O usuário deve poder alterar o tamanho da fonte e o contraste de cores"
