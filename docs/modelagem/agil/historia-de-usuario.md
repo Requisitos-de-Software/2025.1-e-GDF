@@ -87,6 +87,13 @@ A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma
 | RF21 | O aplicativo oferece funcionalidades para consulta de informações educacionais | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN03</a>, <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT07</a> | [Artur Mendonça](https://github.com/ArtyMend07) |
 | RF33 | Permitir o registro de ocorrências relacionadas a problemas de infraestrutura urbana | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT01</a> | [Artur Mendonça](https://github.com/ArtyMend07) |
 | RNF20 | As funcionalidades principais devem responder em, no máximo, dois segundos para garantir boa experiência | <a href="../tec_elicitacao/integracao/#anchor_INTT">INT16</a> | [Artur Mendonça](https://github.com/ArtyMend07) |
+| RF39  | Permitir agendamentos em serviços sociais, como centros de assistência social e habitação.                                                     | <a href="../tec_elicitacao/introspeccao/#anchor_INT">INT09</a>                                      | [Lucas Mendonça](https://github.com/lucasarruda9) |
+| RF41  | Fornecer um histórico de interações do usuário com o aplicativo, incluindo solicitações e agendamentos.                                        | <a href="../tec_elicitacao/introspeccao/#anchor_INT">INT11</a>                                      | [Lucas Mendonça](https://github.com/lucasarruda9) |
+| RF42  | Apresentar um feed de notícias atualizadas com informações úteis do Governo do Distrito Federal.                                               | <a href="../tec_elicitacao/introspeccao/#anchor_INT">INT12</a>                                      | [Lucas Mendonça](https://github.com/lucasarruda9) |
+| RF24  | O aplicativo implementa funcionalidades adicionais na área educacional, como acompanhamento de pendências para professores e alunos.          | <a href="../tec_elicitacao/entrevista/#anchor_EN">EN06</a>                                          | [Lucas Mendonça](https://github.com/lucasarruda9) |
+| RF40  | Disponibilizar a emissão de tributos, certidões e outros documentos fiscais.                                                                   | <a href="../tec_elicitacao/introspeccao/#anchor_INT">INT10</a>                                      | [Lucas Mendonça](https://github.com/lucasarruda9) |
+| RF17  | O aplicativo deve permitir notificações por categorias como saúde, educação, transporte                                                        | <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR19</a>                                       | [Lucas Mendonça](https://github.com/lucasarruda9) |
+| RNF23 | Deve funcionar em modo offline para consulta de registros ou informações previamente acessadas.                                                | <a href="../tec_elicitacao/integracao/#anchor_INTT">INT20</a>                                       | [Lucas Mendonça](https://github.com/lucasarruda9) |
 
 
 ??? info "📋 O aplicativo permite autenticação segura através da plataforma gov.br, com opções como reconhecimento facial."
@@ -2292,6 +2299,315 @@ A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Artur Mendonça](https://github.com/ArtyMend07), 2025).</p></font>
 
+    ---
+
+??? info "📜 Fornecer um histórico de interações do usuário com o aplicativo, incluindo solicitações e agendamentos."
+
+    ## História de usuário - RF41: Acompanhar histórico de interações
+
+    ---
+
+    ### Título: Acompanhar histórico de interações
+
+    ---
+
+    ### História
+
+    **Como** um cidadão do Distrito Federal e usuário do aplicativo,  
+    **Eu quero** visualizar meu histórico de interações, solicitações e agendamentos,  
+    **Para que** eu possa acompanhar e revisar tudo o que já realizei no app de forma organizada.
+
+    ---
+
+    ### Critérios de Aceitação
+    - <input type="checkbox"> O histórico deve exibir todas as interações realizadas pelo usuário.  
+    - <input type="checkbox"> Devem estar incluídos agendamentos, solicitações e ações executadas.  
+    - <input type="checkbox"> As informações devem estar organizadas por data.  
+    - <input type="checkbox"> O usuário deve conseguir filtrar por tipo de interação.
+
+    ---
+
+    ### Subtarefas
+    - <input type="checkbox"> Criar modelo de dados para armazenar interações.  
+    - <input type="checkbox"> Desenvolver interface do histórico.  
+    - <input type="checkbox"> Implementar filtros e ordenações por tipo e data.  
+    - <input type="checkbox"> Garantir persistência e segurança dos dados.
+
+    ---
+
+    ### Rastreabilidade
+    - **Requisito Funcional Relacionado:** RF41
+
+    ---
+
+    ### Estimativa de Esforço
+    - **Prioridade:** MH
+
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Lucas Mendonça](https://github.com/lucasarruda9), 2025).</p></font>
+
+    ---
+
+??? info "📰 Apresentar um feed de notícias atualizadas com informações úteis do Governo do Distrito Federal."
+
+    ## História de usuário - RF42: Acesso a notícias oficiais do GDF
+
+    ---
+
+    ### Título: Acesso a notícias oficiais do GDF
+
+    ---
+
+    ### História
+
+    **Como** um cidadão do Distrito Federal e usuário do aplicativo,  
+    **Eu quero** ter acesso a um feed com notícias oficiais e atualizadas do Governo do Distrito Federal,  
+    **Para que** eu possa me manter informado sobre assuntos públicos e decisões governamentais.
+
+    ---
+
+    ### Critérios de Aceitação
+    - <input type="checkbox"> O feed deve ser alimentado com fontes confiáveis do GDF.  
+    - <input type="checkbox"> As notícias devem conter título, resumo, data e link para leitura completa.  
+    - <input type="checkbox"> As atualizações devem ocorrer de forma periódica.  
+    - <input type="checkbox"> Deve ser possível compartilhar notícias via redes sociais.
+
+    ---
+
+    ### Subtarefas
+    - <input type="checkbox"> Integrar API de notícias do GDF.  
+    - <input type="checkbox"> Criar interface de listagem.  
+    - <input type="checkbox"> Exibir alertas para novas notícias.  
+    - <input type="checkbox"> Implementar botão de compartilhamento.
+
+    ---
+
+    ### Rastreabilidade
+    - **Requisito Funcional Relacionado:** RF42
+
+    ---
+
+    ### Estimativa de Esforço
+    - **Prioridade:** SH
+    
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Lucas Mendonça](https://github.com/lucasarruda9), 2025).</p></font>
+
+    ---
+
+??? info "🗓️ Permitir agendamentos em serviços sociais, como centros de assistência social e habitação."
+
+    ## História de usuário - RF39: Agendar serviços sociais
+
+    ---
+
+    ### Título: Agendar serviços sociais
+
+    ---
+
+    ### História
+
+    **Como** um cidadão do Distrito Federal e usuário do aplicativo,  
+    **Eu quero** poder agendar atendimentos de serviços socias,  
+    **Para que** eu consiga ter acesso aos serviços públicos do DF de forma simples e organizada.
+
+    ---
+
+    ### Critérios de Aceitação
+    - <input type="checkbox"> Deve ser possível selecionar local, serviço e horário disponíveis.  
+    - <input type="checkbox"> O usuário deve receber confirmação do agendamento.  
+    - <input type="checkbox"> O sistema deve validar os dados antes de concluir o agendamento.  
+    - <input type="checkbox"> Deve ser possível consultar e cancelar agendamentos realizados.
+
+    ---
+
+    ### Subtarefas
+    - <input type="checkbox"> Conectar com sistema de agendamentos do GDF.  
+    - <input type="checkbox"> Criar interface de seleção de local, serviço e horário.  
+    - <input type="checkbox"> Implementar lógica de confirmação e envio de notificação.
+
+    ---
+
+    ### Rastreabilidade
+    - **Requisito Funcional Relacionado:** RF39
+
+    ---
+
+    ### Estimativa de Esforço
+    - **Prioridade:** MH
+
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Lucas Mendonça](https://github.com/lucasarruda9), 2025).</p></font>
+
+    ---
+
+??? info "🧾 Disponibilizar a emissão de tributos, certidões e outros documentos fiscais." 
+
+    ## História de usuário - RF40: Emitir tributos, certidões e documentos fiscais
+
+    ---
+
+    ### Título: Emitir tributos, certidões e documentos fiscais
+
+    ---
+
+    ### História
+
+    **Como** um cidadão contribuinte do distrito federal,  
+    **Eu quero** poder emitir tributos, certidões e documentos fiscais diretamente no aplicativo,  
+    **Para que** eu possa regularizar minha situação de forma prática e digital.
+
+    ---
+
+    ### Critérios de Aceitação
+    - <input type="checkbox"> O app deve permitir emissão de segunda via de tributos.  
+    - <input type="checkbox"> Deve permitir gerar certidões.  
+    - <input type="checkbox"> Os documentos gerados devem ser salvos em PDF.  
+    - <input type="checkbox"> A funcionalidade deve estar segura e em conformidade com a LGPD.
+
+    ---
+
+    ### Subtarefas
+    - <input type="checkbox"> Integrar API de emissão.  
+    - <input type="checkbox"> Criar visualizasor dos pdfs.
+    - <input type="checkbox"> Criar opção de download dos PDFs.  
+    - <input type="checkbox"> Garantir autenticação do usuário antes da emissão.
+
+    ---
+
+    ### Rastreabilidade
+    - **Requisito Funcional Relacionado:** RF40
+
+    ---
+
+    ### Estimativa de Esforço
+    - **Prioridade:** MH
+
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Lucas Mendonça](https://github.com/lucasarruda9), 2025).</p></font>
+
+    ---
+
+??? info "🎓 O aplicativo implementa funcionalidades adicionais na área educacional, como acompanhamento de pendências para professores e alunos."
+
+    ## História de usuário - RF24: Acompanhar pendências educacionais
+
+    ### Título: Acompanhar pendências educacionais
+
+    ### História
+
+    **Como** um aluno ou professor da rede pública do distrito federal,  
+    **Eu quero** acompanhar pendências escolares,  
+    **Para que** eu possa organizar minhas obrigações de forma mais eficiente.
+
+    ### Critérios de Aceitação
+    - <input type="checkbox"> O sistema deve exibir pendências de tarefas, avaliações e frequência dos alunos.  
+    - <input type="checkbox"> Professores devem visualizar tarefas pendentes para correção.  
+    - <input type="checkbox"> O sistema deve permitir notificar mudanças ou atrasos.  
+    - <input type="checkbox"> A interface deve ser clara e acessível para todos os perfis.
+
+    ### Subtarefas
+    - <input type="checkbox"> Integrar sistema educacional do GDF.  
+    - <input type="checkbox"> Criar telas específicas para alunos e professores.  
+    - <input type="checkbox"> Implementar filtros por disciplina, data e tipo.  
+    - <input type="checkbox"> Desenvolver notificações de alerta para novas pendências.
+
+    ### Rastreabilidade
+    - **Requisito Funcional Relacionado:** RF24
+
+    ### Estimativa de Esforço
+    - **Prioridade:** MH
+
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Lucas Mendonça](https://github.com/lucasarruda9), 2025).</p></font>
+
+    ---
+
+??? info "🔔 O aplicativo deve permitir notificações por categorias como saúde, educação, transporte"
+
+    ## Histórias de usuário - RF17: Receber notificações categorizadas
+
+    ---
+
+    ### Título: Receber notificações categorizadas
+
+    ---
+
+    ### História
+
+    **Como** um cidadão do Distrito Federal e usuário do app,  
+    **Eu quero** receber notificações por categorias como saúde, educação e transporte,  
+    **Para que** eu possa me manter informado sobre assuntos relevantes para mim de forma simples e rápida.
+
+    ---
+
+    ### Critérios de Aceitação
+    - <input type="checkbox"> O app deve permitir que o usuário escolha categorias de interesse.  
+    - <input type="checkbox"> As notificações devem ter estilos visuais diferentes para cada categoria.
+    - <input type="checkbox"> Deve ser possível alterar as categorias a qualquer momento.  
+    - <input type="checkbox"> O conteúdo da notificação deve ser claro e conciso.
+
+    ---
+
+    ### Subtarefas
+    - <input type="checkbox"> Criar sistema de preferências do usuário.  
+    - <input type="checkbox"> Implementar envio segmentado de notificações.  
+    - <input type="checkbox"> Integrar com sistema de push notifications.  
+    - <input type="checkbox"> Criar tela de configurações de notificações.
+
+    ---
+
+    ### Rastreabilidade
+    - **Requisito Funcional Relacionado:** RF17
+
+    ---
+
+    ### Estimativa de Esforço
+    - **Prioridade:** SH
+
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Lucas Mendonça](https://github.com/lucasarruda9), 2025).</p></font>
+
+    ---
+
+??? info "Deve funcionar em modo offline para consulta de registros ou informações previamente acessadas."
+
+    ## História de usuário - RNF23: Consultar registros sem conexão com a internet
+
+    ---
+
+    ### Título: Consultar registros sem conexão com a internet
+
+    ---
+
+    ### História
+
+    **Como** um cidadão do Distrito Federal e com acesso limitado à internet,  
+    **Eu quero** consultar registros ou informações acessadas anteriormente sem precisar de conexão com a internet,  
+    **Para que** eu possa usar o aplicativo mesmo sem conexão com a internet.
+
+    ---
+
+    ### Critérios de Aceitação
+    - <input type="checkbox"> Informações acessadas devem ser salvas localmente no dispositivo.  
+    - <input type="checkbox"> O sistema deve indicar quando está sem acesso à internet.  
+    - <input type="checkbox"> O acesso sem internet deve funcionar para histórico, documentos e notificações.  
+    - <input type="checkbox"> Os dados salvos devem ser atualizados automaticamente quando conectados com a internet.
+
+    ---
+
+    ### Subtarefas
+    - <input type="checkbox"> Implementar armazenamento local.  
+    - <input type="checkbox"> Adicionar mensagem "deconectado" quando não tiver acesso à internet.  
+    - <input type="checkbox"> Sincronizar dados automaticamente quando houver conexão.  
+
+    ---
+
+    ### Rastreabilidade
+    - **Requisito Não Funcional Relacionado:** RNF23
+
+    ---
+
+    ### Estimativa de Esforço
+    - **Prioridade:** MH
+
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Lucas Mendonça](https://github.com/lucasarruda9), 2025).</p></font>
+
+
 ## Referências Bibliográficas
 
 > <a id="FRM1" href="#anchor_1">1.</a>PRESSMAN, Roger S. Engenharia de software: uma abordagem profissional. 8. ed. Porto Alegre: AMGH, 2016.
@@ -2350,3 +2666,10 @@ A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma
 | 1.38  | Criação e elaboração da história de usuário RF21 | [Artur Mendonça](https://github.com/ArtyMend07) | 29/05/2025 | [Luiza Silva](https://github.com/Luizaxx) | 03/06/2025      |
 | 1.39  | Criação e elaboração da história de usuário RF33 | [Artur Mendonça](https://github.com/ArtyMend07) | 29/05/2025 | [Luiza Silva](https://github.com/Luizaxx) | 03/06/2025      |
 | 1.40  | Criação e elaboração da história de usuário RNF20 | [Artur Mendonça](https://github.com/ArtyMend07) | 30/05/2025 | [Luiza Silva](https://github.com/Luizaxx) | 03/06/2025      |
+| 1.41  | Criação e elaboração da história de usuário RF39 | [Lucas Mendonça](https://github.com/lucasarruda9) | 30/05/2025 | [Gabriel Lopes](https://github.com/BrzGab) | 03/06/2025      |
+| 1.42  | Criação e elaboração da história de usuário RF41 | [Lucas Mendonça](https://github.com/lucasarruda9) | 30/05/2025 | [Gabriel Lopes](https://github.com/BrzGab) | 03/06/2025      |
+| 1.43  | Criação e elaboração da história de usuário RF42 | [Lucas Mendonça](https://github.com/lucasarruda9) | 30/05/2025 | [Gabriel Lopes](https://github.com/BrzGab) | 03/06/2025      |
+| 1.44  | Criação e elaboração da história de usuário RF24 | [Lucas Mendonça](https://github.com/lucasarruda9) | 30/05/2025 | [Gabriel Lopes](https://github.com/BrzGab) | 03/06/2025      |
+| 1.45  | Criação e elaboração da história de usuário RF40 | [Lucas Mendonça](https://github.com/lucasarruda9) | 30/05/2025 | [Gabriel Lopes](https://github.com/BrzGab) | 03/06/2025      |
+| 1.46  | Criação e elaboração da história de usuário RF17 | [Lucas Mendonça](https://github.com/lucasarruda9) | 30/05/2025 | [Gabriel Lopes](https://github.com/BrzGab) | 03/06/2025      |
+| 1.47  | Criação e elaboração da história de usuário RNF23 | [Lucas Mendonça](https://github.com/lucasarruda9) | 30/05/2025 | [Gabriel Lopes](https://github.com/BrzGab) | 03/06/2025      |
