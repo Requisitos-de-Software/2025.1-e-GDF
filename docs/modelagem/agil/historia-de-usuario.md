@@ -1219,6 +1219,22 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
 
+**Vídeo 3** - Validação e Priorização com usuário por [Gabriel Lopes](https://github.com/BrzGab)
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/826kOaNpEEc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=826kOaNpEEc" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+| **Nome** | **Função** | **Data** | **Hora** |
+|:---------:|:------------------------:|:--------:|:--------:|
+| [Gabriel Lopes de Amorim](https://github.com/BrzGab) | Elaborador das histórias | 30/05/2025 | 21:00 |
+| Daniel Rodrigues Nascimento | Cidadão | 30/05/2025 | 21:00 |
+
+## Termo de consentimento de imagem 
+Este documento confirma que o cidadão **Daniel Rodrigues Nascimento** forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1EB1p_smwvLfqsPcUb_7nWpKIXuzLOx02/view?usp=sharing)
+
 ## US22 - Centralização das Informações de Agendamento {#us22}
 
 ??? abstract "Tabela 24 - História de Usuário - Acessar informações de agendamento e reagendamento de forma centralizada, promovendo praticidade e transparência ao cidadão"
@@ -2682,4 +2698,5 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 | 1.50  | Adição de validação das histórias de usuário 2 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 03/06/2025 |
 | 1.51  | Organizando histórias de usuário e adicionando tabela do que cada um desenvolveu | [Ana Victória Guedes da Costa](https://github.com/navicg) | 31/05/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 03/06/2025 |
 | 1.52  | Adição de validação das histórias de usuário | [Ana Victória Guedes da Costa](https://github.com/navicg) | 31/05/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 03/06/2025 |
+| 1.53  | Adicionando o link da validação das histórias de usuário | [Gabriel Lopes](https://github.com/BrzGab) | 31/05/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 03/06/2025 |
 
