@@ -2502,7 +2502,95 @@ A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma
 
     ---
 
- 
+??? info "🔔 O aplicativo deve permitir notificações por categorias como saúde, educação, transporte"
+
+    ## Histórias de usuário - RF17: Receber notificações categorizadas
+
+    ---
+
+    ### Título: Receber notificações categorizadas
+
+    ---
+
+    ### História
+
+    **Como** um cidadão do Distrito Federal e usuário do app,  
+    **Eu quero** receber notificações por categorias como saúde, educação e transporte,  
+    **Para que** eu possa me manter informado sobre assuntos relevantes para mim de forma simples e rápida.
+
+    ---
+
+    ### Critérios de Aceitação
+    - <input type="checkbox"> O app deve permitir que o usuário escolha categorias de interesse.  
+    - <input type="checkbox"> As notificações devem ter estilos visuais diferentes para cada categoria.
+    - <input type="checkbox"> Deve ser possível alterar as categorias a qualquer momento.  
+    - <input type="checkbox"> O conteúdo da notificação deve ser claro e conciso.
+
+    ---
+
+    ### Subtarefas
+    - <input type="checkbox"> Criar sistema de preferências do usuário.  
+    - <input type="checkbox"> Implementar envio segmentado de notificações.  
+    - <input type="checkbox"> Integrar com sistema de push notifications.  
+    - <input type="checkbox"> Criar tela de configurações de notificações.
+
+    ---
+
+    ### Rastreabilidade
+    - **Requisito Funcional Relacionado:** RF17
+
+    ---
+
+    ### Estimativa de Esforço
+    - **Prioridade:** SH
+
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Lucas Mendonça](https://github.com/lucasarruda9), 2025).</p></font>
+
+    ---
+
+??? info "Deve funcionar em modo offline para consulta de registros ou informações previamente acessadas."
+
+    ## História de usuário - RNF23: Consultar registros sem conexão com a internet
+
+    ---
+
+    ### Título: Consultar registros sem conexão com a internet
+
+    ---
+
+    ### História
+
+    **Como** um cidadão do Distrito Federal e com acesso limitado à internet,  
+    **Eu quero** consultar registros ou informações acessadas anteriormente sem precisar de conexão com a internet,  
+    **Para que** eu possa usar o aplicativo mesmo sem conexão com a internet.
+
+    ---
+
+    ### Critérios de Aceitação
+    - <input type="checkbox"> Informações acessadas devem ser salvas localmente no dispositivo.  
+    - <input type="checkbox"> O sistema deve indicar quando está sem acesso à internet.  
+    - <input type="checkbox"> O acesso sem internet deve funcionar para histórico, documentos e notificações.  
+    - <input type="checkbox"> Os dados salvos devem ser atualizados automaticamente quando conectados com a internet.
+
+    ---
+
+    ### Subtarefas
+    - <input type="checkbox"> Implementar armazenamento local.  
+    - <input type="checkbox"> Adicionar mensagem "deconectado" quando não tiver acesso à internet.  
+    - <input type="checkbox"> Sincronizar dados automaticamente quando houver conexão.  
+
+    ---
+
+    ### Rastreabilidade
+    - **Requisito Não Funcional Relacionado:** RNF23
+
+    ---
+
+    ### Estimativa de Esforço
+    - **Prioridade:** MH
+
+    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Lucas Mendonça](https://github.com/lucasarruda9), 2025).</p></font>
+
 
 ## Referências Bibliográficas
 
