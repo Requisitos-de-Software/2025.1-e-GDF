@@ -1926,6 +1926,22 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 
     ---
 
+**Vídeo 6** - Validação e Priorização com os usuário por: [Ana Victória](https://github.com/navicg)
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/KnZz2TXLhOI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/KnZz2TXLhOI" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+| **Nome** | **Função** | **Data** | **Hora** |
+|:---------:|:------------------------:|:--------:|:--------:|
+| [Ana Victória](https://github.com/navicg) | Elaborador das histórias | 30/05/2025 | 13:00 |
+| Leonardo Rodrigues | Cidadão | 30/05/2025 | 13:30 |
+
+## Termo de consentimento de imagem 
+Este documento confirma que o cidadão Leonardo Rodrigues forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1x4C8j9SZMFaVtb9Qn5FgTMY8lQrNefc5/view?usp=sharing)
+
 ## US36 - Consulta Centralizada de Agendamentos e Serviços {#us36}
 
 ??? abstract "Tabela 38 - História de Usuário - Consultar agendamentos e serviços em um único local centralizado"
@@ -2665,4 +2681,5 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 | 1.49  | Adição de validação das histórias de usuário 1 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 03/06/2025 |
 | 1.50  | Adição de validação das histórias de usuário 2 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 03/06/2025 |
 | 1.51  | Organizando histórias de usuário e adicionando tabela do que cada um desenvolveu | [Ana Victória Guedes da Costa](https://github.com/navicg) | 31/05/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 03/06/2025 |
+| 1.52  | Adição de validação das histórias de usuário | [Ana Victória Guedes da Costa](https://github.com/navicg) | 31/05/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 03/06/2025 |
 
