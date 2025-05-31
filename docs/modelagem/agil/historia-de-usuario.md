@@ -2707,4 +2707,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 | 1.46  | Criação e elaboração da história de usuário RF17 | [Lucas Mendonça](https://github.com/lucasarruda9) | 30/05/2025 | [Gabriel Lopes](https://github.com/BrzGab) | 03/06/2025      |
 | 1.47  | Criação e elaboração da história de usuário RNF23 | [Lucas Mendonça](https://github.com/lucasarruda9) | 30/05/2025 | [Gabriel Lopes](https://github.com/BrzGab) | 03/06/2025      |
 | 1.48  | Adição de validação das histórias de usuário | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 30/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 03/06/2025 |
+| 1.49  | Adição de validação das histórias de usuário 1 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 03/06/2025 |
+| 1.50  | Adição de validação das histórias de usuário 2 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 30/05/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 03/06/2025 |
 
