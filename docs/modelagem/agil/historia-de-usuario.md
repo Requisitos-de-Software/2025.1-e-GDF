@@ -453,6 +453,15 @@ A criação das histórias de usuário desenvolvidas nesta disciplina seguiu uma
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
 
+**Vídeo 1** - Validação com usuário por Luiza Pugas 
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/lCb6uHoCcfY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/lCb6uHoCcfY" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+## Termo de consentimento de imagem 
+ Aqui está o termo de consentimento de imagem em pdf, assinado pelo cidadão Wanjo [PDF](docs/assets/termo-de-imagem-hu/Termo_39954923_tce_81319_assinado_assinado_assinado.pdf)
+
 
 
 ??? info "🌐 O aplicativo permite que o usuário altere o idioma da interface para melhor usabilidade."
