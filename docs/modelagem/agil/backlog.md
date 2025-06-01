@@ -4,9 +4,10 @@
 
 Este documento apresenta o backlog do produto para o aplicativo e-GDF, uma plataforma digital do Governo do Distrito Federal que centraliza serviços públicos e facilita o acesso do cidadão a diversas funcionalidades governamentais. 
 
-O Backlog do produto é uma lista contendo todas as funcionalidades desejadas para um produto. O conteúdo desta lista é definido pelo Product Owner. O Product Backlog não precisa estar completo no início de um projeto. Pode-se começar com tudo aquilo que é mais óbvio em um primeiro momento. Com o tempo, o Product Backlog cresce e muda à medida que se aprende mais sobre o produto e seus usuários<a id="citacao1" href="#REF1">¹</a>.
+O Backlog do produto é uma lista contendo todas as funcionalidades desejadas para um produto. O conteúdo desta lista é definido pelo Product Owner. O Product Backlog não precisa estar completo no início de um projeto. Pode-se começar com tudo aquilo que é mais óbvio em um primeiro momento. Com o tempo, o Product Backlog cresce e muda à medida que se aprende mais sobre o produto e seus usuários[¹](#ref1){: #citacao1}.
 
-Um backlog bem gerenciado traz diversos benefícios para o projeto, incluindo<a id="citacao2" href="#REF2">²</a>:
+Um backlog bem gerenciado traz diversos benefícios para o projeto, incluindo[²](#ref2){: #citacao2}:
+
 - Priorização aprimorada das tarefas mais críticas
 - Maior eficiência no desenvolvimento
 - Melhor comunicação entre a equipe
@@ -17,12 +18,11 @@ Para este projeto, o backlog foi estruturado seguindo as melhores práticas de d
 
 ## Participantes
 
-<center>
-
 **Tabela 1** - Participantes da elaboração do backlog
 
 | **Participante** | **Função** |
 | :-------------- | :--------- |
+| [Nome do PO] | Product Owner |
 | [Ana Victória Guedes da Costa](https://github.com/navicg) | Desenvolvedor(a) |
 | [Artur Mendonça Arruda](https://github.com/ArtyMend07) | Desenvolvedor |
 | [Gabriel Lopes de Amorim](https://github.com/BrzGab) | Desenvolvedor |
@@ -31,9 +31,7 @@ Para este projeto, o backlog foi estruturado seguindo as melhores práticas de d
 | [Lucas Mendonça Arruda](https://github.com/lucasarruda9) | Desenvolvedor |
 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | Desenvolvedor(a) |
 
-<font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Artur Mendonça Arruda](https://github.com/ArtyMend07) e [Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
-
-</center>
+*Fonte: Elaborado por ([Artur Mendonça Arruda](https://github.com/ArtyMend07) e [Gabriel Lopes](https://github.com/BrzGab), 2025).*
 
 ## Metodologia
 
@@ -47,7 +45,7 @@ O desenvolvimento do backlog seguiu uma abordagem sistemática e colaborativa, o
 
 4. **Elaboração de Histórias de Usuário**: As features foram detalhadas em histórias de usuário no formato padrão "Como... Eu quero... Para que...", garantindo clareza sobre o valor entregue ao usuário final.
 
-5. **Priorização**: Os itens do backlog foram priorizados considerando<a id="citacao3" href="#REF2">²</a>:
+5. **Priorização**: Os itens do backlog foram priorizados considerando[²](#ref2){: #citacao3}:
    - Prioridade do cliente e feedback dos usuários
    - Urgência no recebimento de feedback
    - Dificuldade de implementação relativa
@@ -55,113 +53,85 @@ O desenvolvimento do backlog seguiu uma abordagem sistemática e colaborativa, o
 
 6. **Validação com Usuários**: Cada integrante realizou validação presencial com usuários reais, apresentando os backlogs elaborados e coletando feedback para garantir alinhamento com as necessidades dos cidadãos.
 
-<a id="temas"></a>
-## Temas
+## Temas {: #temas}
 
 Analisando as histórias de usuário, foi possível organizá-las inicialmente em 9 grandes temas:
 
-<a id="tema-1-autenticação"></a>
-### Tema 1: Autenticação
+### Tema 1: Autenticação {: #tema-1-autenticação}
 Sistema de autenticação seguro e integrado, permitindo que os usuários acessem seus dados pessoais e utilizem os serviços governamentais de forma protegida e confiável.
 
-<a id="tema-2-usabilidade"></a>
-### Tema 2: Usabilidade
+### Tema 2: Usabilidade {: #tema-2-usabilidade}
 Interface intuitiva e personalizável para usuários com diferentes níveis de familiaridade com tecnologia, garantindo navegação eficiente e confortável.
 
-<a id="tema-3-serviços-do-cidadão"></a>
-### Tema 3: Serviços do Cidadão
+### Tema 3: Serviços do Cidadão {: #tema-3-serviços-do-cidadão}
 Acesso centralizado aos principais serviços públicos, permitindo resolver demandas de forma prática e digital sem deslocamento físico.
 
-<a id="tema-4-comunicação"></a>
-### Tema 4: Comunicação
+### Tema 4: Comunicação {: #tema-4-comunicação}
 Sistema de notificações e comunicações personalizadas e relevantes, mantendo o cidadão informado sobre assuntos importantes de forma oportuna.
 
-<a id="tema-5-documentos"></a>
-### Tema 5: Documentos
+### Tema 5: Documentos {: #tema-5-documentos}
 Gestão de documentos e comprovantes digitais, permitindo gerar, visualizar e compartilhar documentos com acesso rápido ao histórico de interações.
 
-<a id="tema-6-atendimento"></a>
-### Tema 6: Atendimento
+### Tema 6: Atendimento {: #tema-6-atendimento}
 Canais de suporte e sistemas de registro de ocorrências, permitindo resolver dúvidas e contribuir para a melhoria dos serviços públicos.
 
-<a id="tema-7-mobilidade"></a>
-### Tema 7: Mobilidade
+### Tema 7: Mobilidade {: #tema-7-mobilidade}
 Informações e serviços relacionados ao transporte público do DF, facilitando o planejamento de deslocamentos e gestão de serviços de mobilidade.
 
-<a id="tema-8-privacidade"></a>
-### Tema 8: Privacidade
+### Tema 8: Privacidade {: #tema-8-privacidade}
 Controle sobre informações pessoais e garantias de conformidade legal, assegurando o uso do aplicativo com confiança e segurança.
 
-<a id="tema-9-acessibilidade"></a>
-### Tema 9: Acessibilidade
+### Tema 9: Acessibilidade {: #tema-9-acessibilidade}
 Recursos de apoio visual e auditivo para usuários com necessidades especiais, garantindo navegação sem barreiras.
 
-<a id="epicos"></a>
-## Épicos
+## Épicos {: #epicos}
 
 Após a definição dos temas, eles são "quebrados" em épicos de modo a diminuir ainda mais a abstração das atividades que deverão ser realizadas no projeto.
 
-<a id="épico-1-autenticação-segura"></a>
-### Épico 1: Autenticação Segura (EP01)
+### Épico 1: Autenticação Segura (EP01) {: #épico-1-autenticação-segura}
 Como usuário do aplicativo e-GDF, eu quero ter acesso a um sistema de autenticação seguro e integrado, para que eu possa acessar meus dados pessoais e utilizar os serviços governamentais de forma protegida e confiável.
 
-<a id="épico-2-interface-personalizável"></a>
-### Épico 2: Interface Personalizável (EP02)
+### Épico 2: Interface Personalizável (EP02) {: #épico-2-interface-personalizável}
 Como usuário com diferentes níveis de familiaridade com tecnologia, eu quero ter acesso a uma interface intuitiva e personalizável, para que eu possa utilizar o aplicativo de forma eficiente e confortável, independentemente das minhas limitações ou preferências.
 
-<a id="épico-3-recursos-acessibilidade"></a>
-### Épico 3: Recursos de Acessibilidade (EP03)
+### Épico 3: Recursos de Acessibilidade (EP03) {: #épico-3-recursos-acessibilidade}
 Como usuário com necessidades especiais de acessibilidade, eu quero ter recursos de apoio visual e auditivo, para que eu possa navegar e utilizar todas as funcionalidades do aplicativo sem barreiras.
 
-<a id="épico-4-serviços-centralizados"></a>
-### Épico 4: Serviços Centralizados (EP04)
+### Épico 4: Serviços Centralizados (EP04) {: #épico-4-serviços-centralizados}
 Como cidadão do Distrito Federal, eu quero ter acesso centralizado aos principais serviços públicos, para que eu possa resolver minhas demandas de forma prática e digital sem precisar me deslocar fisicamente.
 
-<a id="épico-5-informações-públicas"></a>
-### Épico 5: Informações Públicas (EP05)
+### Épico 5: Informações Públicas (EP05) {: #épico-5-informações-públicas}
 Como usuário interessado em informações públicas, eu quero ter acesso a notícias e informações oficiais do governo, para que eu possa me manter informado sobre políticas e serviços que me afetam.
 
-<a id="épico-6-agendamentos"></a>
-### Épico 6: Agendamentos (EP06)
+### Épico 6: Agendamentos (EP06) {: #épico-6-agendamentos}
 Como cidadão que utiliza serviços públicos, eu quero poder agendar e acompanhar meus atendimentos, para que eu possa organizar minha agenda e ter controle sobre os serviços solicitados.
 
-<a id="épico-7-comunicações-personalizadas"></a>
-### Épico 7: Comunicações Personalizadas (EP07)
+### Épico 7: Comunicações Personalizadas (EP07) {: #épico-7-comunicações-personalizadas}
 Como usuário do aplicativo, eu quero receber comunicações personalizadas e relevantes, para que eu possa ser notificado sobre assuntos que são importantes para mim de forma oportuna e organizada.
 
-<a id="épico-8-gestão-documentos"></a>
-### Épico 8: Gestão de Documentos (EP08)
+### Épico 8: Gestão de Documentos (EP08) {: #épico-8-gestão-documentos}
 Como cidadão que precisa de documentos e comprovantes, eu quero poder gerar, visualizar e compartilhar meus documentos digitais, para que eu possa ter acesso rápido aos meus comprovantes e histórico de interações com o governo.
 
-<a id="épico-9-canais-suporte"></a>
-### Épico 9: Canais de Suporte (EP09)
+### Épico 9: Canais de Suporte (EP09) {: #épico-9-canais-suporte}
 Como usuário que precisa de ajuda ou tem problemas para relatar, eu quero ter acesso a canais de suporte e sistemas de registro de ocorrências, para que eu possa resolver dúvidas e contribuir para a melhoria dos serviços públicos.
 
-<a id="épico-10-transporte-público"></a>
-### Épico 10: Transporte Público (EP10)
+### Épico 10: Transporte Público (EP10) {: #épico-10-transporte-público}
 Como usuário do transporte público do DF, eu quero ter acesso a informações e serviços relacionados ao transporte, para que eu possa planejar meus deslocamentos e gerenciar meus serviços de mobilidade urbana.
 
-<a id="épico-11-controle-privacidade"></a>
-### Épico 11: Controle de Privacidade (EP11)
+### Épico 11: Controle de Privacidade (EP11) {: #épico-11-controle-privacidade}
 Como usuário preocupado com a privacidade dos meus dados, eu quero ter controle sobre minhas informações pessoais e garantias de conformidade legal, para que eu possa utilizar o aplicativo com confiança e segurança.
 
 ## Estrutura da tabela do Backlog
 
 **Tabela 2** - Estrutura do backlog
 
-<center>
-
 | **Tema** | **Épico (ID)** | **História do Usuário (US)** | **ID** | **Prioridade**  | **Rastreabilidade** |
 |:--|:--|:--|:--|:--|:--|
 |Nome do [Tema](#temas) definido|Nome do [Épico](#epicos) (Identificador do [Épico](#epicos)) |Título da [História de Usuário](./historia-de-usuario.md) (Identificador da [História de Usuário](./historia-de-usuario.md))|Identificador do Requisito referente a [História de usuário](./historia-de-usuario.md)|Prioridade baseada na técnica do [MoSCoW](../../elicitacao/tec_priorizacao/moscow.md) | Rastreabilidade do requisito utilizado    |
 
-<font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Artur Mendonça Arruda](https://github.com/ArtyMend07) e [Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
-
-</center>
+*Fonte: Elaborado por ([Artur Mendonça Arruda](https://github.com/ArtyMend07) e [Gabriel Lopes](https://github.com/BrzGab), 2025).*
 
 ## Backlog
-
-<center>
 
 **Tabela 3** - Backlog completo do produto e-GDF
 
@@ -219,11 +189,9 @@ Como usuário preocupado com a privacidade dos meus dados, eu quero ter controle
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Artur Mendonça Arruda](https://github.com/ArtyMend07) e [Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
 
-</center>
 
 ## Validação
 
-<center>
 
 **Tabela 4** - Estrutura da tabela de validação
 
@@ -233,7 +201,6 @@ Como usuário preocupado com a privacidade dos meus dados, eu quero ter controle
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
 
-</center>
 
 ### Validação 1 - Ana Victória
 
@@ -243,7 +210,6 @@ Como usuário preocupado com a privacidade dos meus dados, eu quero ter controle
 
 **Tabela 4** - Informações da validação 1
 
-<center>
 
 | **Tema** | **Épico (ID)** | **História do Usuário (US)** | **ID** | **Prioridade** | **Status** | **Rastreabilidade** | **Autor** |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -261,11 +227,9 @@ Como usuário preocupado com a privacidade dos meus dados, eu quero ter controle
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Ana Victória](https://github.com/navicg), 2025).</p></font>
 
-</center>
 
 ### Validação 2 - Artur Mendonça
 
-<center>
 
 **Vídeo 2** - Validação com usuário por Artur Mendonça
 
@@ -289,11 +253,9 @@ Como usuário preocupado com a privacidade dos meus dados, eu quero ter controle
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Artur Mendonça](https://github.com/ArtyMend07), 2025).</p></font>
 
-</center>
 
 ### Validação 3 - Gabriel Lopes
 
-<center>
 
 **Vídeo 3** - Validação com usuário por Gabriel Lopes
 
@@ -317,11 +279,9 @@ Como usuário preocupado com a privacidade dos meus dados, eu quero ter controle
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
 
-</center>
 
 ### Validação 4 - João Marcos Moraes
 
-<center>
 
 **Vídeo 4** - Validação com usuário por João Marcos Moraes
 
@@ -345,11 +305,9 @@ Como usuário preocupado com a privacidade dos meus dados, eu quero ter controle
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado por ([João Marcos](https://github.com/JJOAOMARCOSS), 2025).</p></font>
 
-</center>
 
 ### Validação 5 - Karoline Luz
 
-<center>
 
 **Vídeo 5** - Validação com usuário por Karoline Luz
 
@@ -376,13 +334,10 @@ Como usuário preocupado com a privacidade dos meus dados, eu quero ter controle
 Este documento confirma que o cidadão Leonardo Rodrigues Martins forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
 
 O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/17VQcbgpFlHFWAAIlzOhBMqyTFZEsmm3f/view?usp=sharing)
-<font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Karoline Luz](https://github.com/KarolineLuz), 2025).</p></font>
 
-</center>
+<p style="text-align: center"><font size="3">Fonte: Elaborado por (<a href="https://github.com/KarolineLuz">Karoline Luz</a>, 2025).</font></p>
 
 ### Validação 6 - Lucas Mendonça
-
-<center>
 
 **Vídeo 6** - Validação com usuário por Lucas Mendonça
 
@@ -404,13 +359,9 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | :-------- | :---------------------- |
 | [Lucas Mendonça](https://github.com/lucasarruda9) |  |
 
-<font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Lucas Mendonça](https://github.com/lucasarruda9), 2025).</p></font>
-
-</center>
+<p style="text-align: center"><font size="3">Fonte: Elaborado por (<a href="https://github.com/lucasarruda9">Lucas Mendonça</a>, 2025).</font></p>
 
 ### Validação 7 - Luiza Silva
-
-<center>
 
 **Vídeo 7** - Validação com usuário por Luiza Silva
 
@@ -432,9 +383,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | :-------- | :---------------------- |
 | [Luiza Silva](https://github.com/Luizaxx) |  |
 
-<font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Luiza Silva](https://github.com/Luizaxx), 2025).</p></font>
-
-</center>
+<p style="text-align: center"><font size="3">Fonte: Elaborado por (<a href="https://github.com/Luizaxx">Luiza Silva</a>, 2025).</font></p>
 
 ## Referência Bibliográfica
 
@@ -450,7 +399,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 > O QUE É BACKLOG DO PRODUTO SCRUM E COMO FAZER UM. Lucidchart. Disponível em: [Link](https://www.lucidchart.com/blog/pt/como-fazer-um-backlog-do-produto). Acesso em: 28 maio 2025. 
 
-<center>
 <figure id="ref-backlog-fonte1">
     <img src="../../../../assets/agil/backlog/backlog-fonte1.png" alt="Exemplo de Product Backlog" width="500" onerror="this.onerror=null;this.src='../../assets/agil/backlog/backlog-fonte1.png'">
     <figcaption>Fonte: SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 15. Universidade de Brasília, Faculdade do Gama, [s.d.].</figcaption>
@@ -460,7 +408,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     <img src="../../../../assets/agil/backlog/backlog-fonte2.png" alt="Benefícios e Priorização do Product Backlog" width="500" onerror="this.onerror=null;this.src='../../assets/agil/backlog/backlog-fonte2.png'">
     <figcaption>Fonte: RADIGAN, Dan. O backlog do produto: sua lista de tarefas definitiva. Atlassian.</figcaption>
 </figure>
-</center>
 
 ## Histórico de Versões
 
