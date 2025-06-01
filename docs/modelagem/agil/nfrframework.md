@@ -495,30 +495,59 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](../../
 
 ---
 
-
-
 ## NFR03: Acessibilidade
-
 
 Este SIG (Softgoal Interdependency Graph) foi elaborado a partir de requisitos não funcionais relacionados à acessibilidade do sistema. Esses requisitos garantem que o sistema seja acessível em diferentes ambientes.
 
-
 ## Requisitos:
-Requisitos utilizados para desenvolver o SIG da Figura 5:
 
+Requisitos utilizados para desenvolver o SIG da Figura 5:
 
 ### Tabela de Requisitos Relacionados à Acessibilidade
 
-
-| **Código** | **Descrição**                                                                                                                             |
-|------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-| RNF04      | O aplicativo deve permitir acessibilidade para pessoas idosas ou com deficiência visual.  |
-| RNF09      | O sistema deve ter compatibilidade com leitores de tela para atender usuários com deficiência visual.               |
-| RNF17      |    O aplicativo deve fornecer suporte para daltônicos e outros tipos de deficiência visual.                                          |
-
+| *Código* | *Descrição*                                                                                         |
+| ---------- | ----------------------------------------------------------------------------------------------------- |
+| RNF04      | O aplicativo deve permitir acessibilidade para pessoas idosas ou com deficiência visual.              |
+| RNF09      | O sistema deve ter compatibilidade com leitores de tela para atender usuários com deficiência visual. |
+| RNF17      | O aplicativo deve fornecer suporte para daltônicos e outros tipos de deficiência visual.              |
 
 ---
 
+<p align="center"><i>Figura 5: SIG: Acessibilidade </i></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/nfr/docs/assets/modelagem/nfr/nfr_acessibilidade.png" width="600">
+</p>
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
+
+## Propagação dos Impactos
+
+A Tabela X apresenta a análise dos impactos dos requisitos de acessibilidade.
+
+### Tabela X: Tabela de Impactos - Acessibilidade
+
+| NFR                                                          | Impacto | Avaliador                                                                                                              |
+| -------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Acessibilidade                                                 | ✔         | [Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz)  |
+| Acessibilidade para idosos e deficientes visuais               | ⩗/+       | [Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz)  |
+| Compatibilidade com leitores de tela                           | ⩗/+       | [Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz)  |
+| Compatibilidade com TalkBack e VoiceOver                       | ⩗/+       | [Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz)  |
+| Ajuste de fonte e contraste automático                         | ⩗/+       | [Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz)  |
+| Paleta de cores compatível com daltonismo                      | ⩗/+       | [Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz)  |
+| Ícones com formatos diferenciados                              | ⩗/+       | [Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz)  |
+| Entrevistas com usuários que relataram falta de acessibilidade | ⩗/+       | [Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz)  |
+| Inclusão de usuários PCD aumenta alcance do app                | ⩗/+       | [Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz)  |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
+
+## Termo de consentimento de imagem
+
+Este documento confirma que o cidadão João Vitor forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1ByY5FYenlySd8Yn5wnW8HtmIhyFg-c35/view?usp=sharing)
+
+---
 
 
 <p align="center"><b>Tabela 13</b> — Cartão de Especificação 13</p>
@@ -811,3 +840,4 @@ Requisitos utilizados para desenvolver o SIG da Figura 5:
 | 1.12    | Arrumando as tabelas diminuindo com base na taxonomia | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 31/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 03/06/2025      |
 | 1.13    | Adicção do video com o usuario | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 01/06/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 03/06/2025      |
 | 1.14    | Adicção do video com o usuario | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 01/06/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 03/06/2025      |
+| 1.15   | Adicionando draw.io NFR                               | [Karoline Luz da Conceição](https://github.com/KarolineLuz) e [Ana Victória Guedes da Costa](https://github.com/navicg) | 01/06/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)     | 01/06/2025      |
