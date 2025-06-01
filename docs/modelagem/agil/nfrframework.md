@@ -892,14 +892,14 @@ Todos os requisitos de confiabilidade foram classificados como **Must have**, re
 
 **Vídeo 2** - Validação e Priorização de NFR de Confiabilidade com usuário por [Gabriel Lopes](https://github.com/BrzGab)
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/[LINK_DO_VIDEO]" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/2zSk5e3hW_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
-<p style="text-align: center"><a href="https://youtu.be/[LINK_DO_VIDEO]" target="_blank">Clique aqui para assistir no YouTube</a></p>
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=2zSk5e3hW_k" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
 | **Nome** | **Função** | **Data** | **Hora** |
 |:---------:|:------------------------:|:--------:|:--------:|
-| [Gabriel Lopes](https://github.com/BrzGab) | Elaborador dos NFR | 01/06/2025 | 00:00 |
-| Daniel Rodrigues Nascimento | Cidadão | 01/06/2025 | 00:00 |
+| [Gabriel Lopes](https://github.com/BrzGab) | Elaborador dos NFR | 01/06/2025 | 19:30 |
+| Daniel Rodrigues Nascimento | Cidadão | 01/06/2025 | 19:30 |
 
 ## Termo de consentimento de imagem 
 Este documento confirma que a(o) cidadão **Daniel Rodrigues Nascimento** forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
@@ -968,3 +968,4 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | 1.15   | Adicionando draw.io NFR                               | [Karoline Luz da Conceição](https://github.com/KarolineLuz) e [Ana Victória Guedes da Costa](https://github.com/navicg) | 01/06/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)     | 01/06/2025      |
 | 1.16   | Adicionando diagrama NFR                               | [Gabriel Lopes](https://github.com/BrzGab) | 01/06/2025 | [Artur Mendonça](https://github.com/ArtyMend07)     | 01/06/2025      |
 | 1.17   | Adicionando Entrevista NFR                               |[Karoline Luz da Conceição](https://github.com/KarolineLuz) e [Ana Victória Guedes da Costa](https://github.com/navicg) | 01/06/2025 |  [João Marcos Moraes](https://github.com/JJOAOMARCOSS)     | 01/06/2025      |
+| 1.18   | Adicionando validaçaõ NFR                               | [Gabriel Lopes](https://github.com/BrzGab) | 01/06/2025 | [Artur Mendonça](https://github.com/ArtyMend07)     | 01/06/2025      |
