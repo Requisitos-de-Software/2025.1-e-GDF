@@ -1403,8 +1403,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 	---
 
 	#### Estimativa de Esforço
-
-	- **Prioridade:** Alta
    
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox"> Must Have (MH)
@@ -1459,9 +1457,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 	#### Estimativa de Esforço
 
-	- **Prioridade:** Média
-
-   
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox"> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
@@ -1515,9 +1510,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 	---
 
 	#### Estimativa de Esforço
-
-	- **Prioridade:** Alta
-
    
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox"> Must Have (MH)
@@ -1571,9 +1563,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 	---
 
 	#### Estimativa de Esforço
-
-	- **Prioridade:** Alta
-
    
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox"> Must Have (MH)
@@ -1628,9 +1617,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 	#### Estimativa de Esforço
 
-	- **Prioridade:** Alta
 
-   
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox"> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
@@ -1684,9 +1671,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 	---
 
 	#### Estimativa de Esforço
-
-	- **Prioridade:** Alta
-
 	   
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox"> Must Have (MH)
@@ -1741,9 +1725,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 	---
 
 	#### Estimativa de Esforço
-
-	- **Prioridade:** Alta
-
    
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox"> Must Have (MH)
