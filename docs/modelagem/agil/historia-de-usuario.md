@@ -2310,9 +2310,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     ----
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Lucas Mendonça](https://github.com/lucasarruda9), 2025).</p></font>
-
-
-
+    
 ## US47 - Acompanhar pendências educacionais {#us47}
 
 ??? abstract "Tabela 49 - História de Usuário - Implementar funcionalidades adicionais na área educacional, como acompanhamento de pendências para professores e alunos."
@@ -2435,6 +2433,17 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Lucas Mendonça](https://github.com/lucasarruda9), 2025).</p></font>
 
+**Vídeo 7** - Validação e Priorização com usuário por [Lucas Mendonça](https://github.com/lucasarruda9)
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/V2vTp1LULbI?si=xEAsK0MRSV45BRNN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/V2vTp1LULbI?si=xEAsK0MRSV45BRNN" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+| **Nome** | **Função** | **Data** | **Hora** |
+|:---------:|:------------------------:|:--------:|:--------:|
+| [Lucas Mendonça](https://github.com/lucasarruda9) | Elaborador das histórias | 01/06/2025 | 18:30 |
+| Gabriel Lima | Cidadão | 01/06/2025 | 18:30 |
+
 
 ## Referências Bibliográficas
 
@@ -2510,4 +2519,5 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 | 1.54  | Adicionando o link da validação das histórias de usuário | [Gabriel Lopes](https://github.com/BrzGab) | 31/05/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 03/06/2025 |
 | 1.55  | Adicionando metodoliga de moscow | [Karoline Luz](https://github.com/KarolineLuz) | 31/05/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 03/06/2025 |
 | 1.56  | Adicionando Video de entrevista e Termo de Consentimento | [Karoline Luz](https://github.com/KarolineLuz) | 31/05/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 03/06/2025 |
-| 1.57  | Removendo Subtarefas | [Karoline Luz](https://github.com/KarolineLuz) |01/05/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 03/06/2025 |
+| 1.57  | Removendo Subtarefas | [Karoline Luz](https://github.com/KarolineLuz) |01/06/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 03/06/2025 |
+| 1.58  | Adicionando link do vídeo 7 | [Lucas Mendonça](http://github.com/lucasarruda9) |01/06/2025 | [Gabriel Lopes](https://github.com/BrzGab) | 01/06/2025 |
