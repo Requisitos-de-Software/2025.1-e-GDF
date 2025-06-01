@@ -90,7 +90,7 @@ O **procedimento de avaliação** determina o grau em que os requisitos não fun
 <p align="center"><i>Figura 3: Tipos de rótulos utilizados pelos softgoals</i></p>
 
 <p align="center">
-  <img src="" width="600">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/nfr/docs/assets/nfr/tabela3.png" width="600">
 </p>
 
 <font size="3"><p style="text-align: center"> Fonte: (SILVA, 2019)</p></font>
@@ -135,13 +135,15 @@ No contexto deste projeto, a priorização **MoSCoW** será usada para:
 
 Essa priorização também será documentada nas tabelas de especificação, adicionando uma coluna e a anotação que indique a categoria **MoSCoW** de cada requisito.
 
-
 ## Metodologia
 
-1. Definição dos temas (e.g., Confiabilidade, Desempenho, Suportabilidade, Usabilidade).
-2. Introspecção e levantamento de Requisitos Não-Funcionais (Tabela de Especificação).
-3. Construção dos SIGs no Draw.io para cada tema.
-4. Validação com revisão bibliográfica e feedback de equipe.
+1. Definição dos temas principais: Usabilidade, Desempenho, Segurança, Acessibilidade, Confiabilidade.
+2. Modelagem com o NFR Framework, representando os requisitos não funcionais como softgoals.
+3. Construção dos Softgoal Interdependency Graphs (SIGs) no Draw.io para cada tema.
+4. Análise de contribuições e conflitos entre softgoals (por exemplo: trade-offs entre desempenho e segurança).
+5. Aplicação do procedimento de avaliação, atribuindo rótulos como satisfeito, fracamente satisfeito, negado, fracamente negado, conflitante ou indeterminado para cada softgoal.
+6. Validação final com revisão bibliográfica e feedback da equipe, garantindo alinhamento com o estado da arte.
+
 
 ## Tabela de Requisitos Não Funcionais 
 
@@ -182,15 +184,11 @@ A taxonomia é um esquema de classificação que organiza termos e suas relaçõ
 
 | Softgoal            | RNFs Relacionados                        |
 | ------------------- | ---------------------------------------- |
-| *Compatibilidade*   | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF01</a>, <a href="/elicitacao/req_elicitados/#anchor_RF">RNF19</a>                             |
 | *Segurança*         | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF02</a>, <a href="/elicitacao/req_elicitados/#anchor_RF">RNF14</a>, <a href="/elicitacao/req_elicitados/#anchor_RF">RNF22</a>                      |
 | *Usabilidade*       | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF03</a>, <a href="/elicitacao/req_elicitados/#anchor_RF">RNF10</a>, <a href="/elicitacao/req_elicitados/#anchor_RF">RNF11</a>, <a href="/elicitacao/req_elicitados/#anchor_RF">RNF16</a>, <a href="/elicitacao/req_elicitados/#anchor_RF">RNF21</a>        |
 | *Acessibilidade*    | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF04</a>, <a href="/elicitacao/req_elicitados/#anchor_RF">RNF09</a>, <a href="/elicitacao/req_elicitados/#anchor_RF">RNF17</a>                     |
 | *Desempenho*        | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF06</a>, <a href="/elicitacao/req_elicitados/#anchor_RF">RNF07</a>, <a href="/elicitacao/req_elicitados/#anchor_RF">RNF13</a>, <a href="/elicitacao/req_elicitados/#anchor_RF">RNF15</a>, <a href="/elicitacao/req_elicitados/#anchor_RF">RNF20</a>, <a href="/elicitacao/req_elicitados/#anchor_RF">RNF24</a> |
-| *Responsividade*    | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF08</a>                                    |
-| *Confiabilidade*    | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF12</a>                                    |
-| *Autonomia/Offline* | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF23</a>                                    |
-| *Aparência*         | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF18</a>                                    |
+| *Confiabilidade*    | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF01</a>, <a href="/elicitacao/req_elicitados/#anchor_RF">RNF08</a>, <a href="/elicitacao/req_elicitados/#anchor_RF">RNF12</a>, <a href="/elicitacao/req_elicitados/#anchor_RF">RNF18</a>, <a href="/elicitacao/req_elicitados/#anchor_RF">RNF19</a>, <a href="/elicitacao/req_elicitados/#anchor_RF">RNF23</a> |
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ( [João Marcos](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
 
@@ -228,25 +226,6 @@ Os cartões de especificação a seguir, Tabelas de 1 a 10, foram utilizados par
 
 <p align="center"><b>Tabela 2</b> — Cartão de Especificação 2</p>
 
-| *Item*                  | *Descrição*                                                                                                  |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------ |
-| *Nr Requisito*          | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF01</a> / <a href="/elicitacao/req_elicitados/#anchor_RF">RNF19</a>                                                                                                |
-| *Classificação*         | Compatibilidade                                                                                              |
-| *Descrição*             | O sistema deve ser compatível com vários dispositivos, incluindo Android e iOS, e suportar versões recentes. |
-| *Justificativa*         | Garantir que o maior número possível de usuários possa utilizar o sistema independentemente do dispositivo.  |
-| *Origem*                | Análise documental, boas práticas de desenvolvimento multiplataforma.                                        |
-| *Critério de Aceitação* | O sistema deve executar corretamente em dispositivos com Android (10 ou superior) e iOS (13 ou superior).    |
-| *Dependências*          | RNF08 (Responsividade), RNF24 (Otimização de imagens para upload móvel)                                      |
-| *Prioridade*            |  **M** (Must have)                                                                                                            |
-| *Conflitos*             | Pode limitar uso de recursos específicos de cada sistema operacional.                                        |
-| *História*              | Criado em 28/05/2025 – Última modificação em 28/05/2025                                                      |
-
-<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ( [João Marcos](https://github.com/JJOAOMARCOSS), 2025)</p></font>
-
----
-
-<p align="center"><b>Tabela 3</b> — Cartão de Especificação 3</p>
-
 | *Item*                  | *Descrição*                                                                                                 |
 | ----------------------- | ----------------------------------------------------------------------------------------------------------- |
 | *Nr Requisito*          | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF02</a> / <a href="/elicitacao/req_elicitados/#anchor_RF">RNF14</a> / <a href="/elicitacao/req_elicitados/#anchor_RF">RNF22</a>                                                                                       |
@@ -260,11 +239,11 @@ Os cartões de especificação a seguir, Tabelas de 1 a 10, foram utilizados par
 | *Conflitos*             | Pode limitar certas funcionalidades ou aumentar a complexidade de implementação.                            |
 | *História*              | Criado em 28/05/2025 – Última modificação em 28/05/2025                                                     |
 
-<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([João Marcos](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
 
 ---
 
-<p align="center"><b>Tabela 4</b> — Cartão de Especificação 4</p>
+<p align="center"><b>Tabela 3</b> — Cartão de Especificação 3</p>
 
 | *Item*                  | *Descrição*                                                                                                           |
 | ----------------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -283,7 +262,7 @@ Os cartões de especificação a seguir, Tabelas de 1 a 10, foram utilizados par
 
 ------
 
-<p align="center"><b>Tabela 5</b> — Cartão de Especificação 5</p>
+<p align="center"><b>Tabela 4</b> — Cartão de Especificação 4</p>
 
 | *Item*                  | *Descrição*                                                                                                                      |
 | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -298,11 +277,11 @@ Os cartões de especificação a seguir, Tabelas de 1 a 10, foram utilizados par
 | *Conflitos*             | Pode exigir testes especializados e maior atenção no design visual e técnico.                                                    |
 | *História*              | Criado em 28/05/2025 – Última modificação em 28/05/2025                                                                          |
 
-<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Ana Victória Guedes da Costa](https://github.com/navicg), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
 
 -----
 
-<p align="center"><b>Tabela 6</b> — Cartão de Especificação 6</p>
+<p align="center"><b>Tabela 5</b> — Cartão de Especificação 5</p>
 
 | *Item*                  | *Descrição*                                                                                                                              |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -319,33 +298,13 @@ Os cartões de especificação a seguir, Tabelas de 1 a 10, foram utilizados par
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Artur Mendonça Arruda](https://github.com/ArtyMend07), 2025)</p></font>
 
-
 ---
 
-<p align="center"><b>Tabela 7</b> — Cartão de Especificação 7</p>
-
-| *Item*                  | *Descrição*                                                                                                        |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| *Nr Requisito*          | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF08</a>                                                                                                              |
-| *Classificação*         | Responsividade                                                                                                     |
-| *Descrição*             | O layout do sistema deve se adaptar corretamente a diferentes tamanhos de tela (smartphones, tablets, etc.).       |
-| *Justificativa*         | Melhorar a experiência do usuário em qualquer dispositivo, sem distorções visuais ou limitações funcionais.        |
-| *Origem*                | Brainstorming e Integração                                                                                         |
-| *Critério de Aceitação* | A interface deve se ajustar perfeitamente a pelo menos três resoluções distintas de tela sem perda de usabilidade. |
-| *Dependências*          | RNF01 (Compatibilidade), RNF21 (Usabilidade)                                                                       |
-| *Prioridade*            | **M** (Must have)                                                                                                       |
-| *Conflitos*             | Pode requerer maior esforço de desenvolvimento para manter uniformidade visual entre plataformas.                  |
-| *História*              | Criado em 28/05/2025 – Última modificação em 28/05/2025                                                            |
-
-<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Gabriel Lopes](https://github.com/BrzGab), 2025)</p></font>
-
-----
-
-<p align="center"><b>Tabela 8</b> — Cartão de Especificação 8</p>
+<p align="center"><b>Tabela 6</b> — Cartão de Especificação 6</p>
 
 | *Item*                  | *Descrição*                                                                                                   |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------- |
-| *Nr Requisito*          | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF12</a>                                                                                                         |
+| *Nr Requisito*          | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF01</a> / <a href="/elicitacao/req_elicitados/#anchor_RF">RNF08</a> / <a href="/elicitacao/req_elicitados/#anchor_RF">RNF12</a> / <a href="/elicitacao/req_elicitados/#anchor_RF">RNF18</a>  / <a href="/elicitacao/req_elicitados/#anchor_RF">RNF19</a> / <a href="/elicitacao/req_elicitados/#anchor_RF">RNF23</a>                                                                                                     |
 | *Classificação*         | Confiabilidade                                                                                                |
 | *Descrição*             | O aplicativo deve garantir que as informações exibidas estejam atualizadas e reflitam fielmente a realidade.  |
 | *Justificativa*         | Evita decisões erradas baseadas em dados desatualizados, essencial para áreas críticas como saúde e educação. |
@@ -356,47 +315,10 @@ Os cartões de especificação a seguir, Tabelas de 1 a 10, foram utilizados par
 | *Conflitos*             | Necessidade de sincronização frequente pode impactar desempenho em conexões lentas.                           |
 | *História*              | Criado em 28/05/2025 – Última modificação em 28/05/2025                                                       |
 
-<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Gabriel Lopes](https://github.com/BrzGab), 2025)</p></font>
 
 -----
 
-<p align="center"><b>Tabela 9</b> — Cartão de Especificação 9</p>
-
-| *Item*                  | *Descrição*                                                                                                |
-| ----------------------- | ---------------------------------------------------------------------------------------------------------- |
-| *Nr Requisito*          | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF23</a>                                                                                                      |
-| *Classificação*         | Autonomia / Modo Offline                                                                                   |
-| *Descrição*             | O aplicativo deve funcionar parcialmente em modo offline, permitindo a consulta de registros já acessados. |
-| *Justificativa*         | Permitir o uso em locais com conectividade instável, ampliando o alcance e utilidade do sistema.           |
-| *Origem*                | Integração                                                                                                 |
-| *Critério de Aceitação* | O usuário deve conseguir acessar os dados anteriormente consultados sem conexão com a internet.            |
-| *Dependências*          | RNF24 (Desempenho de upload), RNF12 (Confiabilidade)                                                       |
-| *Prioridade*            | **M** (Must have)                                                                                              |
-| *Conflitos*             | Pode exigir armazenamento local, aumentando o tamanho da instalação ou uso de memória.                     |
-| *História*              | Criado em 28/05/2025 – Última modificação em 28/05/2025                                                    |
-
-<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ( [João Marcos](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
-
------
-
-<p align="center"><b>Tabela 10</b> — Cartão de Especificação 10</p>
-
-| *Item*                  | *Descrição*                                                                                                         |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| *Nr Requisito*          | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF18</a>                                                                                                               |
-| *Classificação*         | Aparência                                                                                                           |
-| *Descrição*             | O aplicativo deve ter uma aparência profissional e confiável para transmitir credibilidade ao usuário.              |
-| *Justificativa*         | Aparência visual impacta a confiança e a percepção de segurança do usuário, especialmente em apps públicos.         |
-| *Origem*                | Entrevistas                                                                                                         |
-| *Critério de Aceitação* | A interface deve seguir os guias de estilo do governo e plataformas Android/iOS, com identidade visual padronizada. |
-| *Dependências*          | RNF03 (Interface intuitiva), RNF11 (Linguagem clara)                                                                |
-| *Prioridade*            | **M** (Must have)                                                                                                         |
-| *Conflitos*             | Pode aumentar o tempo de design e exigência de revisão por múltiplas entidades governamentais.                      |
-| *História*              | Criado em 28/05/2025 – Última modificação em 28/05/2025                                                             |
-
-<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ( [João Marcos](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
-
-----------
 ## Diagramas e Análises
 
 
