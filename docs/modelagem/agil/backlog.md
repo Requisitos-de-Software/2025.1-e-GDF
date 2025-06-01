@@ -290,27 +290,34 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 ### Validação 4 - João Marcos Moraes
 
 
-**Vídeo 4** - Validação com usuário por João Marcos Moraes
+**Vídeo 4** - Validação com usuário por [João Marcos Moraes](https://github.com/JJOAOMARCOSS)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_JOAO_MARCOS" title="Validação Backlog - João Marcos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jNa4ZpVfA0M" title="Validação Backlog - João Marcos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p style="text-align: center"><a href="https://youtu.be/jNa4ZpVfA0M" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
 **Tabela 7** - Informações da validação 4
 
 | **Tema** | **Épico (ID)** | **História do Usuário (US)** | **ID** | **Prioridade** | **Status** | **Rastreabilidade** | **Autor** |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| [Usabilidade](#tema-2-usabilidade) | [Interface Personalizável](#épico-2-interface-personalizável) (EP02) | Alteração de idioma no aplicativo ([US08](./historia-de-usuario.md)) | RF12 | CH | em progresso | [BR13](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) | [João Marcos](https://github.com/JJOAOMARCOSS) |
-| [Usabilidade](#tema-2-usabilidade) | [Interface Personalizável](#épico-2-interface-personalizável) (EP02) | Personalização de preferências e perfil ([US09](./historia-de-usuario.md)) | RF13 | CH | em progresso | [BR14](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) | [João Marcos](https://github.com/JJOAOMARCOSS) |
-| [Comunicação](#tema-4-comunicação) | [Comunicações Personalizadas](#épico-7-comunicações-personalizadas) (EP07) | Envio de mensagens curtas para lembretes ([US10](./historia-de-usuario.md)) | RF14 | SH | em progresso | [BR15](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) | [João Marcos](https://github.com/JJOAOMARCOSS) |
-| [Atendimento](#tema-6-atendimento) | [Canais de Suporte](#épico-9-canais-suporte) (EP09) | Seleção do tipo de serviço (implantação, limpeza ou reparo) ([US11](./historia-de-usuario.md)) | RF35 | SH | em progresso | [INT03](../../elicitacao/tec_elicitacao/introspeccao.md#anchor_INT) | [João Marcos](https://github.com/JJOAOMARCOSS) |
-| [Atendimento](#tema-6-atendimento) | [Canais de Suporte](#épico-9-canais-suporte) (EP09) | Registro detalhado da ocorrência ([US12](./historia-de-usuario.md)) | RF36 | SH | em progresso | [INT04](../../elicitacao/tec_elicitacao/introspeccao.md#anchor_INT) | [João Marcos](https://github.com/JJOAOMARCOSS) |
-| [Mobilidade](#tema-7-mobilidade) | [Transporte Público](#épico-10-transporte-público) (EP10) | Acesso a serviços de transporte e pré-cadastro do cartão mobilidade ([US13](./historia-de-usuario.md)) | RF38 | SH | em progresso | [INT08](../../elicitacao/tec_elicitacao/introspeccao.md#anchor_INT) | [João Marcos](https://github.com/JJOAOMARCOSS) |
-| [Usabilidade](#tema-2-usabilidade) | [Interface Personalizável](#épico-2-interface-personalizável) (EP02) | Compatibilidade com Android e iOS ([US14](./historia-de-usuario.md)) | RNF01 | SH | em progresso | [AD09](../../elicitacao/tec_elicitacao/analise_documentos.md#anchor_AD) | [João Marcos](https://github.com/JJOAOMARCOSS) |
+| [Usabilidade](#tema-2-usabilidade) | [Interface Personalizável](#épico-2-interface-personalizável) (EP02) | Alteração de idioma no aplicativo ([US08](./historia-de-usuario.md)) | RF12 | MH | em progresso | [BR13](../../elicitacao/tec_elicitacao/brainstorming.md#anMHor_BS) | [João Marcos](https://github.com/JJOAOMARCOSS) |
+| [Usabilidade](#tema-2-usabilidade) | [Interface Personalizável](#épico-2-interface-personalizável) (EP02) | Personalização de preferências e perfil ([US09](./historia-de-usuario.md)) | RF13 | MH | em progresso | [BR14](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) | [João Marcos](https://github.com/JJOAOMARCOSS) |
+| [Comunicação](#tema-4-comunicação) | [Comunicações Personalizadas](#épico-7-comunicações-personalizadas) (EP07) | Envio de mensagens curtas para lembretes ([US10](./historia-de-usuario.md)) | RF14 | MH | em progresso | [BR15](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) | [João Marcos](https://github.com/JJOAOMARCOSS) |
+| [Atendimento](#tema-6-atendimento) | [Canais de Suporte](#épico-9-canais-suporte) (EP09) | Seleção do tipo de serviço (implantação, limpeza ou reparo) ([US11](./historia-de-usuario.md)) | RF35 | MH | em progresso | [INT03](../../elicitacao/tec_elicitacao/introspeccao.md#anchor_INT) | [João Marcos](https://github.com/JJOAOMARCOSS) |
+| [Atendimento](#tema-6-atendimento) | [Canais de Suporte](#épico-9-canais-suporte) (EP09) | Registro detalhado da ocorrência ([US12](./historia-de-usuario.md)) | RF36 | MH | em progresso | [INT04](../../elicitacao/tec_elicitacao/introspeccao.md#anchor_INT) | [João Marcos](https://github.com/JJOAOMARCOSS) |
+| [Mobilidade](#tema-7-mobilidade) | [Transporte Público](#épico-10-transporte-público) (EP10) | Acesso a serviços de transporte e pré-cadastro do cartão mobilidade ([US13](./historia-de-usuario.md)) | RF38 | MH | em progresso | [INT08](../../elicitacao/tec_elicitacao/introspeccao.md#anchor_INT) | [João Marcos](https://github.com/JJOAOMARCOSS) |
+| [Usabilidade](#tema-2-usabilidade) | [Interface Personalizável](#épico-2-interface-personalizável) (EP02) | Compatibilidade com Android e iOS ([US14](./historia-de-usuario.md)) | RNF01 | MH | em progresso | [AD09](../../elicitacao/tec_elicitacao/analise_documentos.md#anchor_AD) | [João Marcos](https://github.com/JJOAOMARCOSS) |
 
 | **Autor** | **Usuário Participante** |
 | :-------- | :---------------------- |
-| [João Marcos](https://github.com/JJOAOMARCOSS) |  |
+| [João Marcos](https://github.com/JJOAOMARCOSS) | Bianca Regina |
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado por ([João Marcos](https://github.com/JJOAOMARCOSS), 2025).</p></font>
+
+## Termo de consentimento de imagem 
+Este documento confirma que o cidadão Vitor Pereira forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](./assets/backlog-termo/Bianca-termo)
 
 
 ### Validação 5 - Karoline Luz
