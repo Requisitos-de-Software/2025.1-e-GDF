@@ -23,7 +23,6 @@ Para este projeto, o backlog foi estruturado seguindo as melhores práticas de d
 
 | **Participante** | **Função** |
 | :-------------- | :--------- |
-| [Nome do PO] | Product Owner |
 | [Ana Victória Guedes da Costa](https://github.com/navicg) | Desenvolvedor(a) |
 | [Artur Mendonça Arruda](https://github.com/ArtyMend07) | Desenvolvedor |
 | [Gabriel Lopes de Amorim](https://github.com/BrzGab) | Desenvolvedor |
@@ -32,7 +31,7 @@ Para este projeto, o backlog foi estruturado seguindo as melhores práticas de d
 | [Lucas Mendonça Arruda](https://github.com/lucasarruda9) | Desenvolvedor |
 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | Desenvolvedor(a) |
 
-<font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
+<font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Artur Mendonça Arruda](https://github.com/ArtyMend07) e [Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
 
 </center>
 
@@ -156,7 +155,7 @@ Como usuário preocupado com a privacidade dos meus dados, eu quero ter controle
 |:--|:--|:--|:--|:--|:--|
 |Nome do [Tema](#temas) definido|Nome do [Épico](#epicos) (Identificador do [Épico](#epicos)) |Título da [História de Usuário](./historia-de-usuario.md) (Identificador da [História de Usuário](./historia-de-usuario.md))|Identificador do Requisito referente a [História de usuário](./historia-de-usuario.md)|Prioridade baseada na técnica do [MoSCoW](../../elicitacao/tec_priorizacao/moscow.md) | Rastreabilidade do requisito utilizado    |
 
-<font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
+<font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Artur Mendonça Arruda](https://github.com/ArtyMend07) e [Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
 
 </center>
 
@@ -218,7 +217,7 @@ Como usuário preocupado com a privacidade dos meus dados, eu quero ter controle
 | [Comunicação](#tema-4-comunicação) | [Comunicações Personalizadas](#épico-7-comunicações-personalizadas) (EP07) | Receber notificações por categorias ([US48](./historia-de-usuario.md)) | RF17 | CH | [BR19](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) |
 | [Documentos](#tema-5-documentos) | [Gestão de Documentos](#épico-8-gestão-documentos) (EP08) | Consultar informações offline ([US49](./historia-de-usuario.md)) | RNF23 | SH | [INT20](../../elicitacao/tec_elicitacao/introspeccao.md#anchor_INTT) |
 
-<font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
+<font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Artur Mendonça Arruda](https://github.com/ArtyMend07) e [Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
 
 </center>
 
