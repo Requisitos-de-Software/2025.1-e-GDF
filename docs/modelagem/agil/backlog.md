@@ -266,25 +266,31 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 **Vídeo 3** - Validação com usuário por Gabriel Lopes
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_GABRIEL_LOPES" title="Validação Backlog - Gabriel Lopes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GdncDHMK1DQ" title="Validação Backlog - Gabriel Lopes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Tabela 6** - Informações da validação 3
 
 | **Tema** | **Épico (ID)** | **História do Usuário (US)** | **ID** | **Prioridade** | **Status** | **Rastreabilidade** | **Autor** |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| [Acessibilidade](#tema-9-acessibilidade) | [Recursos de Acessibilidade](#épico-3-recursos-acessibilidade) (EP03) | Ajuste de tamanho de fonte e contraste de cores ([US15](./historia-de-usuario.md)) | RF07 | SH | em progresso | [BR07](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS), [EN08](../../elicitacao/tec_elicitacao/entrevista.md#anchor_EN), [AD08](../../elicitacao/tec_elicitacao/analise_documentos.md#anchor_AD) | [Gabriel Lopes](https://github.com/BrzGab) |
-| [Usabilidade](#tema-2-usabilidade) | [Interface Personalizável](#épico-2-interface-personalizável) (EP02) | Ativação do modo escuro ([US16](./historia-de-usuario.md)) | RF08 | CH | em progresso | [BR08](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) | [Gabriel Lopes](https://github.com/BrzGab) |
-| [Documentos](#tema-5-documentos) | [Gestão de Documentos](#épico-8-gestão-documentos) (EP08) | Geração de relatórios e visualização de comprovantes ([US17](./historia-de-usuario.md)) | RF10 | SH | em progresso | [BR11](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) | [Gabriel Lopes](https://github.com/BrzGab) |
-| [Mobilidade](#tema-7-mobilidade) | [Transporte Público](#épico-10-transporte-público) (EP10) | Localização de ônibus em tempo real ([US18](./historia-de-usuario.md)) | RF19 | SH | em progresso | [EN01](../../elicitacao/tec_elicitacao/entrevista.md#anchor_EN) | [Gabriel Lopes](https://github.com/BrzGab) |
-| [Serviços do Cidadão](#tema-3-serviços-do-cidadão) | [Serviços Centralizados](#épico-4-serviços-centralizados) (EP04) | Acesso facilitado a serviços de impostos ([US19](./historia-de-usuario.md)) | RF23 | SH | em progresso | [EN05](../../elicitacao/tec_elicitacao/entrevista.md#anchor_EN) | [Gabriel Lopes](https://github.com/BrzGab) |
-| [Atendimento](#tema-6-atendimento) | [Canais de Suporte](#épico-9-canais-suporte) (EP09) | Categorização de ocorrências ([US20](./historia-de-usuario.md)) | RF34 | SH | em progresso | [INT02](../../elicitacao/tec_elicitacao/introspeccao.md#anchor_INT) | [Gabriel Lopes](https://github.com/BrzGab) |
-| [Privacidade](#tema-8-privacidade) | [Controle de Privacidade](#épico-11-controle-privacidade) (EP11) | Proteção de informações pessoais com criptografia ([US21](./historia-de-usuario.md)) | RNF22 | SH | em progresso | [INT18](../../elicitacao/tec_elicitacao/introspeccao.md#anchor_INTT) | [Gabriel Lopes](https://github.com/BrzGab) |
+| [Acessibilidade](#tema-9-acessibilidade) | [Recursos de Acessibilidade](#épico-3-recursos-acessibilidade) (EP03) | Ajuste de tamanho de fonte e contraste de cores ([US15](./historia-de-usuario.md)) | RF07 | SH | Validado | [BR07](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS), [EN08](../../elicitacao/tec_elicitacao/entrevista.md#anchor_EN), [AD08](../../elicitacao/tec_elicitacao/analise_documentos.md#anchor_AD) | [Gabriel Lopes](https://github.com/BrzGab) |
+| [Usabilidade](#tema-2-usabilidade) | [Interface Personalizável](#épico-2-interface-personalizável) (EP02) | Ativação do modo escuro ([US16](./historia-de-usuario.md)) | RF08 | CH | Validado | [BR08](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) | [Gabriel Lopes](https://github.com/BrzGab) |
+| [Documentos](#tema-5-documentos) | [Gestão de Documentos](#épico-8-gestão-documentos) (EP08) | Geração de relatórios e visualização de comprovantes ([US17](./historia-de-usuario.md)) | RF10 | SH | Validado | [BR11](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) | [Gabriel Lopes](https://github.com/BrzGab) |
+| [Mobilidade](#tema-7-mobilidade) | [Transporte Público](#épico-10-transporte-público) (EP10) | Localização de ônibus em tempo real ([US18](./historia-de-usuario.md)) | RF19 | SH | Validado | [EN01](../../elicitacao/tec_elicitacao/entrevista.md#anchor_EN) | [Gabriel Lopes](https://github.com/BrzGab) |
+| [Serviços do Cidadão](#tema-3-serviços-do-cidadão) | [Serviços Centralizados](#épico-4-serviços-centralizados) (EP04) | Acesso facilitado a serviços de impostos ([US19](./historia-de-usuario.md)) | RF23 | SH | Validado | [EN05](../../elicitacao/tec_elicitacao/entrevista.md#anchor_EN) | [Gabriel Lopes](https://github.com/BrzGab) |
+| [Atendimento](#tema-6-atendimento) | [Canais de Suporte](#épico-9-canais-suporte) (EP09) | Categorização de ocorrências ([US20](./historia-de-usuario.md)) | RF34 | SH | Validado | [INT02](../../elicitacao/tec_elicitacao/introspeccao.md#anchor_INT) | [Gabriel Lopes](https://github.com/BrzGab) |
+| [Privacidade](#tema-8-privacidade) | [Controle de Privacidade](#épico-11-controle-privacidade) (EP11) | Proteção de informações pessoais com criptografia ([US21](./historia-de-usuario.md)) | RNF22 | MH | Validado | [INT18](../../elicitacao/tec_elicitacao/introspeccao.md#anchor_INTT) | [Gabriel Lopes](https://github.com/BrzGab) |
 
 | **Autor** | **Usuário Participante** |
 | :-------- | :---------------------- |
-| [Gabriel Lopes](https://github.com/BrzGab) | |
+| [Gabriel Lopes](https://github.com/BrzGab) | Daniel Rodrigues Nascimento |
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
+
+## Termo de consentimento de imagem 
+Este documento confirma que o cidadão **Daniel Rodrigues Nascimento** forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1EB1p_smwvLfqsPcUb_7nWpKIXuzLOx02/view?usp=sharing)
+
 
 
 ### Validação 4 - João Marcos Moraes
