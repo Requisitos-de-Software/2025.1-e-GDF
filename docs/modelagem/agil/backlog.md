@@ -423,3 +423,4 @@ A tabela 2 é um template da tabela de backlog que foi elaborada.
 | 1.7    | Criação de tabelas de Product Backlog RF01, RF02, RF03, RF09, RF15, RF20, RNF13 | [Ana Victória](https://github.com/navicg)      | 30/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)            | 30/05/2025      |
 | 1.8    | Criação de tabelas de Product Backlog RF07, RF08, RF10, RF19, RF23, RF34, RNF22 | [Gabriel Lopes](https://github.com/BrzGab)     | 30/05/2025 | [Karoline Luz](https://github.com/KarolineLuz)             | 30/05/2025      |
 | 1.9    | Criação de tabelas de Product Backlog US46, US43, US49, US47, US45, US44, US48 | [Lucas Mendonça](https://github.com/lucasarruda9)   | 31/05/2025 | [Gabriel Lopes](https://github.com/BrzGab)            | 31/05/2025      |
+| 2.0    | Criação dos temas, épicos e das tabelas | [Gabriel Lopes](https://github.com/BrzGab)   | 31/05/2025 | [Artur Mendonça](https://github.com/ArtyMend07)  | 31/05/2025      |
