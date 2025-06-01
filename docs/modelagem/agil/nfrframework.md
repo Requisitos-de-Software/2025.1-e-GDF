@@ -281,6 +281,72 @@ Os cartões de especificação a seguir, Tabelas de 1 a 10, foram utilizados par
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([João Marcos](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
 
+## NFR01: Segurança
+
+Este SIG (Softgoal Interdependency Graph) foi elaborado a partir de requisitos não funcionais relacionados à portabilidade do sistema. Esses requisitos garantem que o sistema seja acessível em diferentes ambientes.
+
+## Requisitos: 
+Requisitos utilizados para desenvolver o SIG da Figura 1:
+
+### Tabela de Requisitos Relacionados à LGPD
+
+| **Código** | **Descrição**                                                                                                                             |
+|------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| RNF02      | O sistema deve estar em conformidade com a Lei Geral de Proteção de Dados (LGPD).                                                         |
+| RNF14      | O aplicativo deve garantir proteção de dados pessoais, reforçando a confiança do usuário quanto à privacidade e segurança.               |
+| RNF22      | O sistema deve proteger as informações pessoais com criptografia de dados e autenticação segura.                                          |
+
+<p align="center"><i>Figura 4: SIG: Segurança </i></p>
+
+<p align="center">
+  <img src="https://i.ibb.co/Hf9MwG4L/image.png" width="600">
+</p>
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([João Marcos](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
+
+### Propagação dos Impactos
+
+A Tabela X, apresentada a seguir, mostra a avaliação da propagação dos impactos representados na imagem acima.
+
+### Tabela X: Tabela de Impactos
+
+| **NFR**                                | **Impacto** | **Avaliador**     |
+|----------------------------------------|-------------|-------------------|
+| Portabilidade                          | ✔           | [Luiza da Silva Pugas](https://github.com/Luizaxx) e [João Marcos](https://github.com/JJOAOMARCOSS)    |
+| Manter as mesmas funcionalidades       | ⩗/+         | [Luiza da Silva Pugas](https://github.com/Luizaxx) e [João Marcos](https://github.com/JJOAOMARCOSS)     |
+| Disponibilidade em outras plataformas  | ⩗/+         | [Luiza da Silva Pugas](https://github.com/Luizaxx) e [João Marcos](https://github.com/JJOAOMARCOSS)    |
+
+
+
+### Tabela X: Tabela de Impactos - Segurança
+
+| *NFR*                        | *Impacto* | *Avaliador*           |
+|-----------------------------|-----------|------------------------|
+| Conformidade com a LGPD     | ✔         | [Luiza da Silva Pugas](https://github.com/Luizaxx) e [João Marcos](https://github.com/JJOAOMARCOSS)    |
+| Proteção de dados           | ⩗/+       | [Luiza da Silva Pugas](https://github.com/Luizaxx) e [João Marcos](https://github.com/JJOAOMARCOSS)    |
+| Autenticar de forma segura  | ⩗/+       | [Luiza da Silva Pugas](https://github.com/Luizaxx) e [João Marcos](https://github.com/JJOAOMARCOSS)     |
+| Criptografar dados          | ⩗/+       | [Luiza da Silva Pugas](https://github.com/Luizaxx) e [João Marcos](https://github.com/JJOAOMARCOSS)     |
+| Satisfação do usuário       | ⩗/+       | [Luiza da Silva Pugas](https://github.com/Luizaxx) e [João Marcos](https://github.com/JJOAOMARCOSS)    |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([João Marcos](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
+
+
+**Vídeo 1** - Validação e Priorização de NFR com usuário por [Luiza da Silva Pugas](https://github.com/Luizaxx)
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/xOqd3H6dOds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/xOqd3H6dOds" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+| **Nome** | **Função** | **Data** | **Hora** |
+|:---------:|:------------------------:|:--------:|:--------:|
+| [Luiza da Silva Pugas](https://github.com/Luizaxx) | Elaborador dos NFR | 01/06/2025 | 14:30 |
+| Nívea Cecília | Cidadã | 01/06/2025 | 14:30 |
+
+
+## Termo de consentimento de imagem 
+Este documento confirma que a cidadã Nívea Cecília forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/assets/termo-img/Assinatura Nivea .pdf)
 ---
 
 <p align="center"><b>Tabela 5</b> — Cartão de Especificação 5</p>
