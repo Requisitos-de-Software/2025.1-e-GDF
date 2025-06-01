@@ -372,3 +372,4 @@ Os cartões de especificação a seguir, Tabelas de 1 a 10, foram utilizados par
 | 1.9    | Adição de tabela Confiabilidade | [Karoline Luz da Conceição](https://github.com/KarolineLuz) | 28/05/2025 | [Gabriel Lopes](https://github.com/BrzGab) | 03/06/2025      |
 | 1.10    | Adição de tabela Autonomia/Offline | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 28/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 03/06/2025      |
 | 1.11    | Adição de tabela Aparência | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 28/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 03/06/2025      |
+| 1.12    | Arruamndo as tabelas diminuindo com base na taxonomia | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 31/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 31/06/2025      |
