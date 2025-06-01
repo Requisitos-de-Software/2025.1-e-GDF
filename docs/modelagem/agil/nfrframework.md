@@ -226,18 +226,58 @@ Os cartões de especificação a seguir, Tabelas de 1 a 10, foram utilizados par
 
 <p align="center"><b>Tabela 2</b> — Cartão de Especificação 2</p>
 
+| *Item*                  | *Descrição*                                                                                  |
+| ----------------------- | -------------------------------------------------------------------------------------------- |
+| *Nr Requisito*          | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF02</a>                                    |
+| *Classificação*         | Segurança                                                                                    |
+| *Descrição*             | O sistema deve estar em conformidade com a Lei Geral de Proteção de Dados (LGPD).            |
+| *Justificativa*         | Garantir a proteção legal dos dados pessoais dos usuários e evitar penalidades legais.       |
+| *Origem*                | Análise documental, revisão da legislação brasileira.                                        |
+| *Critério de Aceitação* | O sistema deve demonstrar conformidade com os princípios e obrigações da LGPD em auditorias. |
+| *Dependências*          | RNF14 (Proteção de dados), RNF22 (Autenticação segura).                                      |
+| *Prioridade*            | **M** (Must have)                                                                            |
+| *Conflitos*             | Pode exigir ajustes em funcionalidades para reduzir coleta ou armazenamento de dados.        |
+| *História*              | Criado em 28/05/2025 – Última modificação em 31/05/2025                                      |
+
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([João Marcos](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
+
+----
+
+<p align="center"><b>Tabela 3</b> — Cartão de Especificação 3</p>
+
 | *Item*                  | *Descrição*                                                                                                 |
 | ----------------------- | ----------------------------------------------------------------------------------------------------------- |
-| *Nr Requisito*          | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF02</a> / <a href="/elicitacao/req_elicitados/#anchor_RF">RNF14</a> / <a href="/elicitacao/req_elicitados/#anchor_RF">RNF22</a>                                                                                       |
+| *Nr Requisito*          | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF14</a>                                                   |
 | *Classificação*         | Segurança                                                                                                   |
-| *Descrição*             | O sistema deve proteger os dados dos usuários, estar em conformidade com a LGPD e usar autenticação segura. |
-| *Justificativa*         | É essencial garantir a privacidade, segurança e confiança do usuário na utilização do aplicativo.           |
-| *Origem*                | Análise documental, entrevista com stakeholders, boas práticas de segurança digital.                        |
-| *Critério de Aceitação* | Assegurar criptografia de dados, autenticação via gov.br e conformidade com a LGPD.                         |
-| *Dependências*          | RNF15 (Performance de login), RNF23 (Modo offline pode impactar segurança)                                  |
-| *Prioridade*            |  **M** (Must have)                                                                                                |
-| *Conflitos*             | Pode limitar certas funcionalidades ou aumentar a complexidade de implementação.                            |
-| *História*              | Criado em 28/05/2025 – Última modificação em 28/05/2025                                                     |
+| *Descrição*             | O sistema deve garantir proteção de dados pessoais, reforçando a confiança do usuário quanto à privacidade. |
+| *Justificativa*         | A proteção de dados é essencial para manter a confiança dos usuários e evitar vazamentos ou ataques.        |
+| *Origem*                | Entrevistas com stakeholders, análise documental.                                                           |
+| *Critério de Aceitação* | Implementação de criptografia em repouso e em trânsito, políticas de acesso restrito e logs de auditoria.   |
+| *Dependências*          | RNF02 (Conformidade LGPD), RNF22 (Autenticação segura), RNF15 (Performance de login).                       |
+| *Prioridade*            | **M** (Must have)                                                                                           |
+| *Conflitos*             | Pode impactar a performance do sistema, especialmente no processo de login e acesso a dados sensíveis.      |
+| *História*              | Criado em 28/05/2025 – Última modificação em 31/05/2025                                                     |
+
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([João Marcos](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
+
+---
+
+<p align="center"><b>Tabela 4</b> — Cartão de Especificação 4</p>
+
+| *Item*                  | *Descrição*                                                                                                  |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------ |
+| *Nr Requisito*          | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF22</a>                                                    |
+| *Classificação*         | Segurança                                                                                                    |
+| *Descrição*             | O sistema deve usar autenticação segura, preferencialmente integrada ao gov.br, para proteger o acesso.      |
+| *Justificativa*         | Autenticação robusta é necessária para evitar acessos não autorizados e fraudes.                             |
+| *Origem*                | Entrevistas com stakeholders, boas práticas de segurança digital.                                            |
+| *Critério de Aceitação* | Implementação de autenticação integrada ao gov.br, uso de protocolos seguros (OAuth, SAML) e logs de acesso. |
+| *Dependências*          | RNF14 (Proteção de dados), RNF15 (Performance de login).                                                     |
+| *Prioridade*            | **M** (Must have)                                                                                            |
+| *Conflitos*             | Pode aumentar a complexidade de implementação e gerar impacto na experiência do usuário (tempo de login).    |
+| *História*              | Criado em 28/05/2025 – Última modificação em 31/05/2025                                                      |
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([João Marcos](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
 
@@ -262,62 +302,299 @@ Os cartões de especificação a seguir, Tabelas de 1 a 10, foram utilizados par
 
 ------
 
-<p align="center"><b>Tabela 4</b> — Cartão de Especificação 4</p>
+<p align="center"><b>Tabela 10</b> — Cartão de Especificação 10</p>
 
-| *Item*                  | *Descrição*                                                                                                                      |
-| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| *Nr Requisito*          | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF04</a> / <a href="/elicitacao/req_elicitados/#anchor_RF">RNF09</a> / <a href="/elicitacao/req_elicitados/#anchor_RF">RNF17</a>                                                                                                            |
-| *Classificação*         | Acessibilidade                                                                                                                   |
-| *Descrição*             | O sistema deve oferecer suporte a leitores de tela, acessibilidade visual e opções de uso para idosos e pessoas com deficiência. |
-| *Justificativa*         | Garante que o sistema seja inclusivo, atendendo usuários com diferentes capacidades.                                             |
-| *Origem*                | Brainstorming, entrevistas e boas práticas de acessibilidade digital.                                                            |
-| *Critério de Aceitação* | Funcionalidades compatíveis com leitores de tela, layout adaptado e recursos para daltônicos ou baixa visão.                     |
-| *Dependências*          | RNF03 (Interface intuitiva), RNF11 (Linguagem acessível)                                                                         |
-| *Prioridade*            |  **M** (Must have)                                                                                                                     |
-| *Conflitos*             | Pode exigir testes especializados e maior atenção no design visual e técnico.                                                    |
-| *História*              | Criado em 28/05/2025 – Última modificação em 28/05/2025                                                                          |
+| *Item*                  | *Descrição*                                                                                                                  |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| *Nr Requisito*          | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF04</a>                                                                    |
+| *Classificação*         | Acessibilidade                                                                                                               |
+| *Descrição*             | O aplicativo deve permitir acessibilidade para pessoas idosas ou com deficiência visual.                                     |
+| *Justificativa*         | Garante que o sistema seja inclusivo para públicos com diferentes necessidades e limitações físicas.                         |
+| *Origem*                | Brainstorming, entrevistas, boas práticas de acessibilidade digital.                                                         |
+| *Critério de Aceitação* | Testes mostrando compatibilidade com recursos de acessibilidade do sistema operacional, como ajustes de tamanho e contraste. |
+| *Dependências*          | RNF03 (Interface intuitiva), RNF11 (Linguagem acessível).                                                                    |
+| *Prioridade*            | **M** (Must have)                                                                                                            |
+| *Conflitos*             | Pode exigir ajustes adicionais no design visual e maior atenção em testes especializados.                                    |
+| *História*              | Criado em 28/05/2025 – Última modificação em 31/05/2025                                                                      |
+
+
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
 
------
+---
 
-<p align="center"><b>Tabela 5</b> — Cartão de Especificação 5</p>
+<p align="center"><b>Tabela 11</b> — Cartão de Especificação 11</p>
 
-| *Item*                  | *Descrição*                                                                                                                              |
-| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| *Nr Requisito*          | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF06</a> / <a href="/elicitacao/req_elicitados/#anchor_RF">RNF07</a> / <a href="/elicitacao/req_elicitados/#anchor_RF">RNF13</a> / <a href="/elicitacao/req_elicitados/#anchor_RF">RNF15</a> / <a href="/elicitacao/req_elicitados/#anchor_RF">RNF20</a> / <a href="/elicitacao/req_elicitados/#anchor_RF">RNF24</a>                                                                                            |
-| *Classificação*         | Desempenho                                                                                                                               |
-| *Descrição*             | O sistema deve garantir fluidez na navegação, carregamento rápido, estabilidade e tempo de resposta adequado, mesmo em conexões móveis.  |
-| *Justificativa*         | Garante uma experiência eficiente e satisfatória para o usuário, especialmente em contextos com recursos limitados.                      |
-| *Origem*                | Brainstorming, entrevistas e critérios técnicos de desempenho.                                                                           |
-| *Critério de Aceitação* | O tempo de resposta das ações deve ser inferior a dois segundos; o sistema não deve travar em redes móveis ou em dispositivos limitados. |
-| *Dependências*          | RNF08 (Responsividade), RNF01 (Compatibilidade)                                                                                          |
-| *Prioridade*            | **S** (Should have)                                                                                                                            |
-| *Conflitos*             | Pode aumentar o esforço de desenvolvimento e exigir otimizações específicas por plataforma.                                              |
-| *História*              | Criado em 28/05/2025 – Última modificação em 28/05/2025                                                                                  |
+| *Item*                  | *Descrição*                                                                                                               |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| *Nr Requisito*          | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF09</a>                                                                 |
+| *Classificação*         | Acessibilidade                                                                                                            |
+| *Descrição*             | O sistema deve ter compatibilidade com leitores de tela para atender usuários com deficiência visual.                     |
+| *Justificativa*         | Permite o uso do sistema por usuários cegos ou com baixa visão, garantindo acesso à informação.                           |
+| *Origem*                | Brainstorming, entrevistas, boas práticas de acessibilidade digital.                                                      |
+| *Critério de Aceitação* | Testes com leitores de tela como TalkBack (Android) e VoiceOver (iOS), garantindo leitura correta dos elementos e fluxos. |
+| *Dependências*          | RNF03 (Interface intuitiva), RNF11 (Linguagem acessível).                                                                 |
+| *Prioridade*            | **M** (Must have)                                                                                                         |
+| *Conflitos*             | Pode limitar certas escolhas visuais, exigindo atenção na marcação semântica e descrição de imagens.                      |
+| *História*              | Criado em 28/05/2025 – Última modificação em 31/05/2025                                                                   |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
+
+---
+
+<p align="center"><b>Tabela 12</b> — Cartão de Especificação 12</p>
+
+| *Item*                  | *Descrição*                                                                                                                |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| *Nr Requisito*          | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF17</a>                                                                  |
+| *Classificação*         | Acessibilidade                                                                                                             |
+| *Descrição*             | O aplicativo deve fornecer suporte para daltônicos e outros tipos de deficiência visual.                                   |
+| *Justificativa*         | Assegura que os elementos visuais sejam acessíveis a diferentes tipos de deficiência, ampliando o público-alvo do sistema. |
+| *Origem*                | Brainstorming, entrevistas, boas práticas de acessibilidade digital.                                                       |
+| *Critério de Aceitação* | Testes de contraste, inclusão de ícones não baseados apenas em cor, e modos de exibição adaptados.                         |
+| *Dependências*          | RNF03 (Interface intuitiva), RNF11 (Linguagem acessível).                                                                  |
+| *Prioridade*            | **M** (Must have)                                                                                                          |
+| *Conflitos*             | Pode exigir ajustes detalhados no design de cores, contrastes e elementos gráficos.                                        |
+| *História*              | Criado em 28/05/2025 – Última modificação em 31/05/2025                                                                    |
+
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
+
+---
+
+<p align="center"><b>Tabela 13</b> — Cartão de Especificação 13</p>
+
+| *Item*                  | *Descrição*                                                                                               |
+| ----------------------- | --------------------------------------------------------------------------------------------------------- |
+| *Nr Requisito*          | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF06</a>                                                 |
+| *Classificação*         | Desempenho                                                                                                |
+| *Descrição*             | A navegação deve ser rápida e fluida entre telas, sem necessidade de redirecionamentos excessivos.        |
+| *Justificativa*         | Garante que os usuários tenham uma experiência ágil e sem interrupções ao usar o sistema.                 |
+| *Origem*                | Brainstorming, entrevistas, critérios técnicos.                                                           |
+| *Critério de Aceitação* | O tempo de transição entre telas deve ser inferior a dois segundos, sem redirecionamentos desnecessários. |
+| *Dependências*          | RNF08 (Responsividade), RNF01 (Compatibilidade).                                                          |
+| *Prioridade*            | **S** (Should have)                                                                                       |
+| *Conflitos*             | Pode exigir otimizações e adaptações específicas para diferentes dispositivos ou plataformas.             |
+| *História*              | Criado em 28/05/2025 – Última modificação em 31/05/2025                                                   |
+
+
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Artur Mendonça Arruda](https://github.com/ArtyMend07), 2025)</p></font>
 
 ---
 
-<p align="center"><b>Tabela 6</b> — Cartão de Especificação 6</p>
+<p align="center"><b>Tabela 14</b> — Cartão de Especificação 14</p>
 
-| *Item*                  | *Descrição*                                                                                                   |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------- |
-| *Nr Requisito*          | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF01</a> / <a href="/elicitacao/req_elicitados/#anchor_RF">RNF08</a> / <a href="/elicitacao/req_elicitados/#anchor_RF">RNF12</a> / <a href="/elicitacao/req_elicitados/#anchor_RF">RNF18</a>  / <a href="/elicitacao/req_elicitados/#anchor_RF">RNF19</a> / <a href="/elicitacao/req_elicitados/#anchor_RF">RNF23</a>                                                                                                     |
-| *Classificação*         | Confiabilidade                                                                                                |
-| *Descrição*             | O aplicativo deve garantir que as informações exibidas estejam atualizadas e reflitam fielmente a realidade.  |
-| *Justificativa*         | Evita decisões erradas baseadas em dados desatualizados, essencial para áreas críticas como saúde e educação. |
-| *Origem*                | Entrevistas                                                                                                   |
-| *Critério de Aceitação* | Os dados sensíveis devem ser atualizados automaticamente de fontes confiáveis a cada 24h.                     |
-| *Dependências*          | RNF13 (Estabilidade), RNF22 (Segurança)                                                                       |
-| *Prioridade*            | **M** (Must have)                                                                                                  |
-| *Conflitos*             | Necessidade de sincronização frequente pode impactar desempenho em conexões lentas.                           |
-| *História*              | Criado em 28/05/2025 – Última modificação em 28/05/2025                                                       |
+| *Item*                  | *Descrição*                                                                                                 |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------- |
+| *Nr Requisito*          | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF07</a>                                                   |
+| *Classificação*         | Desempenho                                                                                                  |
+| *Descrição*             | O sistema deve carregar as informações de forma otimizada, reduzindo o tempo de resposta.                   |
+| *Justificativa*         | Minimiza o tempo de espera do usuário, tornando a interação mais eficiente.                                 |
+| *Origem*                | Brainstorming, entrevistas, critérios técnicos.                                                             |
+| *Critério de Aceitação* | As principais informações devem ser carregadas em até dois segundos, mesmo sob condições de rede moderadas. |
+| *Dependências*          | RNF06 (Navegação fluida), RNF08 (Responsividade).                                                           |
+| *Prioridade*            | **S** (Should have)                                                                                         |
+| *Conflitos*             | Otimizações de carregamento podem impactar o consumo de recursos do dispositivo.                            |
+| *História*              | Criado em 28/05/2025 – Última modificação em 31/05/2025                                                     |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Artur Mendonça Arruda](https://github.com/ArtyMend07), 2025)</p></font>
+
+---
+
+<p align="center"><b>Tabela 15</b> — Cartão de Especificação 15</p>
+
+| *Item*                  | *Descrição*                                                                                                               |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| *Nr Requisito*          | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF13</a>                                                                 |
+| *Classificação*         | Desempenho                                                                                                                |
+| *Descrição*             | O aplicativo deve apresentar estabilidade, evitando travamentos ou falhas de carregamento, especialmente em redes móveis. |
+| *Justificativa*         | Garante que o sistema funcione bem mesmo em condições adversas de conexão, evitando perda de confiança do usuário.        |
+| *Origem*                | Entrevistas, brainstorming, critérios técnicos.                                                                           |
+| *Critério de Aceitação* | Testes de estabilidade mostrando menos de 1% de falhas em redes móveis durante sessões prolongadas.                       |
+| *Dependências*          | RNF05 (Baixo hardware), RNF20 (Tempo de resposta rápido).                                                                 |
+| *Prioridade*            | **S** (Should have)                                                                                                       |
+| *Conflitos*             | Requer testes detalhados e ajustes específicos para diferentes condições de rede.                                         |
+| *História*              | Criado em 28/05/2025 – Última modificação em 31/05/2025                                                                   |
+
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Artur Mendonça Arruda](https://github.com/ArtyMend07), 2025)</p></font>
+
+---
+
+<p align="center"><b>Tabela 16</b> — Cartão de Especificação 16</p>
+
+| *Item*                  | *Descrição*                                                                                                        |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| *Nr Requisito*          | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF15</a>                                                          |
+| *Classificação*         | Desempenho                                                                                                         |
+| *Descrição*             | O aplicativo deve melhorar a performance do processo de login, permitindo uma experiência mais fluida.             |
+| *Justificativa*         | O login é um ponto crítico da experiência, e sua eficiência impacta diretamente a satisfação do usuário.           |
+| *Origem*                | Entrevistas, boas práticas de design.                                                                              |
+| *Critério de Aceitação* | O login deve ser concluído em menos de três segundos em 90% das tentativas, considerando diferentes tipos de rede. |
+| *Dependências*          | RNF22 (Autenticação segura), RNF14 (Proteção de dados).                                                            |
+| *Prioridade*            | **S** (Should have)                                                                                                |
+| *Conflitos*             | Melhorar performance pode limitar certos mecanismos de segurança mais robustos.                                    |
+| *História*              | Criado em 28/05/2025 – Última modificação em 31/05/2025                                                            |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Artur Mendonça Arruda](https://github.com/ArtyMend07), 2025)</p></font>
+
+---
+
+<p align="center"><b>Tabela 17/b> — Cartão de Especificação 17</p>
+
+| *Item*                  | *Descrição*                                                                                               |
+| ----------------------- | --------------------------------------------------------------------------------------------------------- |
+| *Nr Requisito*          | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF20</a>                                                 |
+| *Classificação*         | Desempenho                                                                                                |
+| *Descrição*             | As funcionalidades principais devem responder em, no máximo, dois segundos para garantir boa experiência. |
+| *Justificativa*         | A resposta rápida mantém o usuário engajado e reduz a sensação de lentidão no uso do aplicativo.          |
+| *Origem*                | Entrevistas, critérios técnicos, benchmarks.                                                              |
+| *Critério de Aceitação* | Medição de tempo de resposta com limite de dois segundos para as funções críticas.                        |
+| *Dependências*          | RNF07 (Carregamento otimizado), RNF06 (Navegação fluida).                                                 |
+| *Prioridade*            | **S** (Should have)                                                                                       |
+| *Conflitos*             | Pode demandar otimizações agressivas, impactando legibilidade ou modularidade do código.                  |
+| *História*              | Criado em 28/05/2025 – Última modificação em 31/05/2025                                                   |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Artur Mendonça Arruda](https://github.com/ArtyMend07), 2025)</p></font>
+
+---
+
+<p align="center"><b>Tabela 18</b> — Cartão de Especificação 18</p>
+
+| *Item*                  | *Descrição*                                                                                           |
+| ----------------------- | ----------------------------------------------------------------------------------------------------- |
+| *Nr Requisito*          | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF24</a>                                             |
+| *Classificação*         | Desempenho                                                                                            |
+| *Descrição*             | As imagens capturadas pelo usuário devem ser otimizadas para upload rápido, mesmo em conexões móveis. |
+| *Justificativa*         | Reduzir tempo de upload e evitar frustração, especialmente em regiões com internet limitada.          |
+| *Origem*                | Entrevistas, brainstorming, análise técnica.                                                          |
+| *Critério de Aceitação* | Upload concluído em menos de cinco segundos para imagens até 5MB em redes móveis padrão.              |
+| *Dependências*          | RNF13 (Estabilidade), RNF05 (Baixo hardware).                                                         |
+| *Prioridade*            | **S** (Should have)                                                                                   |
+| *Conflitos*             | Compressão agressiva pode impactar a qualidade visual das imagens.                                    |
+| *História*              | Criado em 28/05/2025 – Última modificação em 31/05/2025                                               |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Artur Mendonça Arruda](https://github.com/ArtyMend07), 2025)</p></font>
+
+---
+
+<p align="center"><b>Tabela 19</b> — Cartão de Especificação 19</p>
+
+| *Item*                  | *Descrição*                                                                                                         |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| *Nr Requisito*          | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF01</a>                                                           |
+| *Classificação*         | Confiabilidade                                                                                                      |
+| *Descrição*             | O sistema deve ser compatível com vários dispositivos, como Android e iOS.                                          |
+| *Justificativa*         | Garante que o sistema funcione corretamente em diferentes ambientes, aumentando seu alcance e robustez.             |
+| *Origem*                | Análise documental, entrevistas.                                                                                    |
+| *Critério de Aceitação* | Funcionalidade completa testada e validada em pelo menos 95% dos dispositivos Android e iOS mais usados no mercado. |
+| *Dependências*          | RNF08 (Responsividade), RNF19 (Compatibilidade com versões).                                                        |
+| *Prioridade*            | **M** (Must have)                                                                                                   |
+| *Conflitos*             | Pode aumentar a complexidade de testes e a necessidade de manutenção contínua.                                      |
+| *História*              | Criado em 28/05/2025 – Última modificação em 31/05/2025                                                             |
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Gabriel Lopes](https://github.com/BrzGab), 2025)</p></font>
 
------
+---
+
+<p align="center"><b>Tabela 20</b> — Cartão de Especificação 20</p>
+
+| *Item*                  | *Descrição*                                                                                                   |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------- |
+| *Nr Requisito*          | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF08</a>                                                     |
+| *Classificação*         | Confiabilidade                                                                                                |
+| *Descrição*             | O layout deve ser responsivo para diferentes tamanhos de tela.                                                |
+| *Justificativa*         | Assegura uma boa experiência em dispositivos variados, prevenindo falhas de visualização e uso.               |
+| *Origem*                | Brainstorming, entrevistas, análise técnica.                                                                  |
+| *Critério de Aceitação* | Interface validada em telas de diferentes tamanhos (smartphones, tablets, desktops) com 100% de legibilidade. |
+| *Dependências*          | RNF01 (Compatibilidade), RNF19 (Versões Android/iOS).                                                         |
+| *Prioridade*            | **M** (Must have)                                                                                             |
+| *Conflitos*             | Pode exigir adaptações específicas por plataforma e aumentar o esforço de design.                             |
+| *História*              | Criado em 28/05/2025 – Última modificação em 31/05/2025                                                       |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Gabriel Lopes](https://github.com/BrzGab), 2025)</p></font>
+
+---
+
+<p align="center"><b>Tabela 21</b> — Cartão de Especificação 21</p>
+
+| *Item*                  | *Descrição*                                                                                                   |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------- |
+| *Nr Requisito*          | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF12</a>                                                     |
+| *Classificação*         | Confiabilidade                                                                                                |
+| *Descrição*             | O aplicativo deve garantir que as informações exibidas estejam atualizadas e reflitam fielmente a realidade.  |
+| *Justificativa*         | Evita decisões erradas baseadas em dados desatualizados, essencial para áreas críticas como saúde e educação. |
+| *Origem*                | Entrevistas.                                                                                                  |
+| *Critério de Aceitação* | Os dados sensíveis devem ser atualizados automaticamente de fontes confiáveis a cada 24h.                     |
+| *Dependências*          | RNF13 (Estabilidade), RNF22 (Segurança).                                                                      |
+| *Prioridade*            | **M** (Must have)                                                                                             |
+| *Conflitos*             | Necessidade de sincronização frequente pode impactar desempenho em conexões lentas.                           |
+| *História*              | Criado em 28/05/2025 – Última modificação em 31/05/2025                                                       |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Gabriel Lopes](https://github.com/BrzGab), 2025)</p></font>
+
+---
+
+<p align="center"><b>Tabela 22</b> — Cartão de Especificação 22</p>
+
+| *Item*                  | *Descrição*                                                                                                     |
+| ----------------------- | --------------------------------------------------------------------------------------------------------------- |
+| *Nr Requisito*          | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF18</a>                                                       |
+| *Classificação*         | Confiabilidade                                                                                                  |
+| *Descrição*             | O aplicativo deve ter uma aparência profissional e confiável para transmitir segurança aos usuários.            |
+| *Justificativa*         | A aparência impacta a percepção de qualidade e credibilidade, essencial para aceitação do sistema.              |
+| *Origem*                | Entrevistas, análise documental.                                                                                |
+| *Critério de Aceitação* | Testes de percepção com usuários mostrando pelo menos 85% de avaliação positiva quanto à confiabilidade visual. |
+| *Dependências*          | RNF03 (Interface intuitiva), RNF21 (Design acessível).                                                          |
+| *Prioridade*            | **M** (Must have)                                                                                               |
+| *Conflitos*             | Pode aumentar custos de design e refinamento visual.                                                            |
+| *História*              | Criado em 28/05/2025 – Última modificação em 31/05/2025                                                         |
+
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Gabriel Lopes](https://github.com/BrzGab), 2025)</p></font>
+
+---
+
+<p align="center"><b>Tabela 23</b> — Cartão de Especificação 23</p>
+
+| *Item*                  | *Descrição*                                                                                       |
+| ----------------------- | ------------------------------------------------------------------------------------------------- |
+| *Nr Requisito*          | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF19</a>                                         |
+| *Classificação*         | Confiabilidade                                                                                    |
+| *Descrição*             | O aplicativo deve ser compatível com as versões mais recentes dos sistemas Android e iOS.         |
+| *Justificativa*         | Garante que o sistema esteja atualizado e funcione corretamente nos dispositivos mais usados.     |
+| *Origem*                | Análise documental, entrevistas.                                                                  |
+| *Critério de Aceitação* | Testes confirmando funcionamento total nas três versões mais recentes dos sistemas Android e iOS. |
+| *Dependências*          | RNF01 (Compatibilidade), RNF08 (Responsividade).                                                  |
+| *Prioridade*            | **M** (Must have)                                                                                 |
+| *Conflitos*             | Pode exigir atualizações frequentes e adaptações rápidas a mudanças de sistema operacional.       |
+| *História*              | Criado em 28/05/2025 – Última modificação em 31/05/2025                                           |
+
+
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Gabriel Lopes](https://github.com/BrzGab), 2025)</p></font>
+
+---
+
+<p align="center"><b>Tabela 24</b> — Cartão de Especificação 24</p>
+
+| *Item*                  | *Descrição*                                                                                                       |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| *Nr Requisito*          | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF23</a>                                                         |
+| *Classificação*         | Confiabilidade                                                                                                    |
+| *Descrição*             | O aplicativo deve funcionar em modo offline para consulta de registros ou informações previamente acessadas.      |
+| *Justificativa*         | Permite uso contínuo mesmo em condições de rede instáveis, aumentando a confiabilidade do sistema.                |
+| *Origem*                | Entrevistas, brainstorming.                                                                                       |
+| *Critério de Aceitação* | As principais funcionalidades devem permanecer acessíveis offline, com sincronização automática ao voltar online. |
+| *Dependências*          | RNF12 (Dados atualizados), RNF13 (Estabilidade).                                                                  |
+| *Prioridade*            | **M** (Must have)                                                                                                 |
+| *Conflitos*             | Sincronização offline pode gerar desafios técnicos e de consistência de dados.                                    |
+| *História*              | Criado em 28/05/2025 – Última modificação em 31/05/2025                                                           |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Gabriel Lopes](https://github.com/BrzGab), 2025)</p></font>
+
+---
 
 ## Diagramas e Análises
 
