@@ -530,14 +530,14 @@ A Tabela X apresenta a análise dos impactos dos requisitos de acessibilidade.
 | NFR                                                          | Impacto | Avaliador                                                                                                              |
 | -------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ |
 | Acessibilidade                                                 | ✔         | [Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz)  |
-| Acessibilidade para idosos e deficientes visuais               | ⩗/+       | [Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz)  |
-| Compatibilidade com leitores de tela                           | ⩗/+       | [Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz)  |
-| Compatibilidade com TalkBack e VoiceOver                       | ⩗/+       | [Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz)  |
-| Ajuste de fonte e contraste automático                         | ⩗/+       | [Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz)  |
-| Paleta de cores compatível com daltonismo                      | ⩗/+       | [Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz)  |
-| Ícones com formatos diferenciados                              | ⩗/+       | [Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz)  |
-| Entrevistas com usuários que relataram falta de acessibilidade | ⩗/+       | [Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz)  |
-| Inclusão de usuários PCD aumenta alcance do app                | ⩗/+       | [Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz)  |
+| Acessibilidade para idosos e deficientes visuais               | 𝒲+      | [Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz)  |
+| Compatibilidade com leitores de tela                           | 𝒲+     | [Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz)  |
+| Compatibilidade com TalkBack e VoiceOver                       | 𝒲+      | [Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz)  |
+| Ajuste de fonte e contraste automático                         | 𝒲+     | [Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz)  |
+| Paleta de cores compatível com daltonismo                      |𝒲+      | [Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz)  |
+| Ícones com formatos diferenciados                              | 𝒲+     | [Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz)  |
+| Entrevistas com usuários que relataram falta de acessibilidade | 𝒲+      | [Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz)  |
+| Inclusão de usuários PCD aumenta alcance do app                |𝒲+     | [Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz)  |
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
 
