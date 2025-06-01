@@ -166,7 +166,12 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
     #### Estimativa de Esforço
 
     - **Prioridade:** Médio
-  
+        
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
     ----
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
@@ -216,6 +221,13 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
     #### Estimativa de Esforço
 
     - **Prioridade:** Média
+        
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
+    ----
     
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
     
@@ -265,6 +277,13 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
     #### Estimativa de Esforço
 
     - **Prioridade:** Média
+        
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
+    ----
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
 
@@ -314,6 +333,13 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
     #### Estimativa de Esforço
 
     - **Prioridade:** Média
+        
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
+    ----
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
 
@@ -363,6 +389,13 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
     #### Estimativa de Esforço
 
     - **Prioridade:** Média
+        
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
+    ----
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
 
@@ -411,6 +444,13 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
     #### Estimativa de Esforço
 
     - **Prioridade:** Média
+        
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
+    ----
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
 
@@ -459,7 +499,12 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
     #### Estimativa de Esforço
 
     - **Prioridade:** Alta
-
+        
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
     ----
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
@@ -526,7 +571,12 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     #### Estimativa de Esforço
 
     - **Prioridade:** Médio
-
+    
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
     ----
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), 2025).</p></font>
@@ -577,7 +627,12 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     #### Estimativa de Esforço
 
     - **Prioridade:** Médio
-
+    
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
     ----
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), 2025).</p></font>
@@ -627,7 +682,12 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     #### Estimativa de Esforço
 
     - **Prioridade:** Médio
-
+    
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
     ----
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), 2025).</p></font>
@@ -678,6 +738,12 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     - **Prioridade:** Médio
 
+      
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
     ----
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), 2025).</p></font>
@@ -728,6 +794,12 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     - **Prioridade:** Médio
 
+    
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
     ----
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), 2025).</p></font>
@@ -778,6 +850,12 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     - **Prioridade:** Médio
 
+      
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
     ----
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), 2025).</p></font>
@@ -826,6 +904,12 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     - **Prioridade:** Alta
 
+      
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
     ----
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), 2025).</p></font>
@@ -904,6 +988,12 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 
     - **Prioridade:** Alta
 
+    
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
     ----
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
@@ -955,6 +1045,12 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 
     - **Prioridade:** Média
 
+       
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
     ----
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
@@ -1007,6 +1103,12 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 
     - **Prioridade:** Alta
 
+    
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
     ----
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
@@ -1058,6 +1160,12 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 
     - **Prioridade:** Alta
 
+    
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
     ----
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
@@ -1109,8 +1217,13 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 
     - **Prioridade:** Alta
 
+    
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
     ----
-
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
 
 ## US20 - Categorização de Ocorrências {#us20}
@@ -1159,6 +1272,12 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 
     - **Prioridade:** Alta
 
+    
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
     ----
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
@@ -1215,11 +1334,17 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 
     - **Prioridade:** Crítica
 
+    
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
     ----
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
 
-**Vídeo 3** - Validação e Priorização com usuário por [Gabriel Lopes](https://github.com/BrzGab)
+**Vídeo 4** - Validação e Priorização com usuário por [Gabriel Lopes](https://github.com/BrzGab)
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/826kOaNpEEc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
@@ -1280,8 +1405,13 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 	#### Estimativa de Esforço
 
 	- **Prioridade:** Alta
-
-	---
+   
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
+    ----
 
 	<font size="3"><p style="text-align: center">Elaborado pelo autor: ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025).</p></font>
 
@@ -1331,7 +1461,13 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 	- **Prioridade:** Média
 
-	---
+   
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
+    ----
 
 	<font size="3"><p style="text-align: center">Elaborado pelo autor: ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025).</p></font>
 
@@ -1382,7 +1518,13 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 	- **Prioridade:** Alta
 
-	---
+   
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
+    ----
 
 	<font size="3"><p style="text-align: center">Elaborado pelo autor: ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025).</p></font>
 
@@ -1432,7 +1574,13 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 	- **Prioridade:** Alta
 
-	---
+   
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
+    ----
 
 	<font size="3"><p style="text-align: center">Elaborado pelo autor: ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025).</p></font>
 
@@ -1482,7 +1630,13 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 	- **Prioridade:** Alta
 
-	---
+   
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
+    ----
 
 	<font size="3"><p style="text-align: center">Elaborado pelo autor: ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025).</p></font>
 
@@ -1533,7 +1687,13 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 	- **Prioridade:** Alta
 
-	---
+	   
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
+    ----
 
 	<font size="3"><p style="text-align: center">Elaborado pelo autor: ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025).</p></font>
 
@@ -1584,9 +1744,34 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 	- **Prioridade:** Alta
 
-	---
+   
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
+    ----
 
 	<font size="3"><p style="text-align: center">Elaborado pelo autor: ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025).</p></font>
+
+
+**Vídeo 5** - Validação e Priorização com usuário por [Karoline Luz da Conceição](https://github.com/KarolineLuz)
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/gzX2Ucv4jaw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=gzX2Ucv4jaw" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+| **Nome** | **Função** | **Data** | **Hora** |
+|:---------:|:------------------------:|:--------:|:--------:|
+| [Karoline Luz da Conceição](https://github.com/KarolineLuz) | Elaborador das histórias | 30/05/2025 | 14:00 |
+| Luis Felipe | Cidadão | 30/05/2025 | 14:20 |
+
+## Termo de consentimento de imagem 
+Este documento confirma que o cidadão **Luis Felipe** forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1H7Dfstb_DuL6bARuRGX9iviqqT8HXvhD/view?usp=sharing)
+
+
 
 ## US29 - Login Simples e Rápido {#us29}
 
@@ -1635,9 +1820,16 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
     - **Prioridade:** Alta
 
+       
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
+    ----
+
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Ana Victória Guedes da Costa](https://github.com/navicg), 2025).</p></font>
 
-    ---
 
 ## US30 - Acessibilidade para Usuários com Pouca Familiaridade Tecnológica {#us30}
 
@@ -1685,10 +1877,16 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     #### Estimativa de Esforço
 
     - **Prioridade:** Alta
+    
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
+    ----
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Ana Victória Guedes da Costa](https://github.com/navicg), 2025).</p></font>
 
-    ---
 
 ## US31 - Notificações Personalizadas por Localização {#us31}
 
@@ -1736,9 +1934,16 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
     - **Prioridade:** Médio
 
+       
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
+    ----
+
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Ana Victória Guedes da Costa](https://github.com/navicg), 2025).</p></font>
 
-    ---
 
 ## US32 - Acesso e Visualização de Notícias Relevantes {#us32}
 
@@ -1786,9 +1991,17 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
     - **Prioridade:** Baixa
 
+       
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
+    ----
+
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Ana Victória Guedes da Costa](https://github.com/navicg), 2025).</p></font>
 
-    ---
+ 
 
 ## US33 - Menu Principal na Tela Inicial {#us33}
 
@@ -1837,9 +2050,16 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
     - **Prioridade:** Baixa
 
+       
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
+    ----
+
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Ana Victória Guedes da Costa](https://github.com/navicg), 2025).</p></font>
 
-    ---
 
 ## US34 - Links para Serviços Externos com Explicações Claras {#us34}
 
@@ -1886,10 +2106,18 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     #### Estimativa de Esforço
 
     - **Prioridade:** Alta
+    
+      
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
+    ----
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Ana Victória Guedes da Costa](https://github.com/navicg), 2025).</p></font>
 
-    ---
+
 
 ## US35 - Estabilidade em Redes Móveis {#us35}
 
@@ -1938,9 +2166,17 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
     - **Prioridade:** Alta
 
+          
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
+    ----
+
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Ana Victória Guedes da Costa](https://github.com/navicg), 2025).</p></font>
 
-    ---
+ 
 
 **Vídeo 6** - Validação e Priorização com os usuário por: [Ana Victória](https://github.com/navicg)
 
@@ -2003,10 +2239,16 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     #### Estimativa de Esforço
 
     - **Prioridade:** Alta
+          
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
+    ----
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Artur Mendonça](https://github.com/ArtyMend07), 2025).</p></font>
 
-    ---
 
 ## US37 - Compartilhamento e Salvamento de Informações Importantes {#us37}
 
@@ -2054,10 +2296,16 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     #### Estimativa de Esforço
 
     - **Prioridade:** Baixa
+          
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
+    ----
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Artur Mendonça](https://github.com/ArtyMend07), 2025).</p></font>
 
-    ---
 
 ## US38 - Tutoriais Passo a Passo {#us38}
 
@@ -2105,10 +2353,17 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     #### Estimativa de Esforço
 
     - **Prioridade:** Alta
+          
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
+    ----
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Artur Mendonça](https://github.com/ArtyMend07), 2025).</p></font>
 
-    ---
+
 
 ## US39 - Integração com Serviços Essenciais {#us39}
 
@@ -2156,10 +2411,17 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     #### Estimativa de Esforço
 
     - **Prioridade:** Média
+          
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
+    ----
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Artur Mendonça](https://github.com/ArtyMend07), 2025).</p></font>
     
-    ---
+ 
 
 ## US40 - Consulta de Informações Educacionais {#us40}
 
@@ -2207,10 +2469,17 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     #### Estimativa de Esforço
 
     - **Prioridade:** Média
+          
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
+    ----
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Artur Mendonça](https://github.com/ArtyMend07), 2025).</p></font>
 
-    ---
+  
 
 ## US41 - Registro de Ocorrências de Infraestrutura {#us41}
 
@@ -2257,10 +2526,16 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     #### Estimativa de Esforço
 
     - **Prioridade:** Alta
+          
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
+    ----
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Artur Mendonça](https://github.com/ArtyMend07), 2025).</p></font>
 
-    ---
 
 ## US42 - Performance das Funcionalidades Principais {#us42}
 
@@ -2307,10 +2582,17 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     #### Estimativa de Esforço
 
     - **Prioridade:** Média
+          
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
+    ----
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Artur Mendonça](https://github.com/ArtyMend07), 2025).</p></font>
 
-    ---
+
 
 **Vídeo 6** - Validação e Priorização com usuário por [Artur Mendonça](https://github.com/ArtyMend07)
 
@@ -2370,9 +2652,17 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     ### Estimativa de Esforço
     - **Prioridade:** MH
 
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
+    ----
+
+
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Lucas Mendonça](https://github.com/lucasarruda9), 2025).</p></font>
 
-    ---
+   
 
 ## US44 - cesso a notícias oficiais do GDF {#us44}
 
@@ -2414,10 +2704,18 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     ### Estimativa de Esforço
     - **Prioridade:** SH
+
+    
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
+    ----
     
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Lucas Mendonça](https://github.com/lucasarruda9), 2025).</p></font>
 
-    ---
+
 
 ## US45 - Agendar serviços sociais {#us45}
 
@@ -2459,9 +2757,17 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     ### Estimativa de Esforço
     - **Prioridade:** MH
 
+    
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
+    ----
+
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Lucas Mendonça](https://github.com/lucasarruda9), 2025).</p></font>
 
-    ---
+
 
 ## US46 - Emitir tributos, certidões e documentos fiscais {#us46}
 
@@ -2503,9 +2809,17 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     ### Estimativa de Esforço
     - **Prioridade:** MH
 
+    
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
+    ----
+
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Lucas Mendonça](https://github.com/lucasarruda9), 2025).</p></font>
 
-    ---
+
 
 ## US47 - Acompanhar pendências educacionais {#us47}
 
@@ -2537,9 +2851,17 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     ### Estimativa de Esforço
     - **Prioridade:** MH
 
+    
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
+    ----
+
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Lucas Mendonça](https://github.com/lucasarruda9), 2025).</p></font>
 
-    ---
+
 
 ## US48 - Receber notificações categorizadas {#us48}
 
@@ -2582,9 +2904,16 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     ### Estimativa de Esforço
     - **Prioridade:** SH
 
+    
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
+    ----
+
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Lucas Mendonça](https://github.com/lucasarruda9), 2025).</p></font>
 
-    ---
 
 ## US49 - Consultar registros sem conexão com a internet {#us49}
 
@@ -2624,6 +2953,14 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     ### Estimativa de Esforço
     - **Prioridade:** MH
+
+    
+    #### Priorização (Técnica MoSCoW)    
+    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox"> Won't Have (WH)
+    ----
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Lucas Mendonça](https://github.com/lucasarruda9), 2025).</p></font>
 
@@ -2700,3 +3037,5 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 | 1.52  | Adição de validação das histórias de usuário | [Ana Victória Guedes da Costa](https://github.com/navicg) | 31/05/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 03/06/2025 |
 | 1.53  | Adição do Termo de Consentimento e vídeo da entrevista | [Artur Mendonça](https://github.com/ArtyMend07) | 31/05/2025 | [Luiza Silva](https://github.com/Luizaxx) | 03/06/2025      |
 | 1.54  | Adicionando o link da validação das histórias de usuário | [Gabriel Lopes](https://github.com/BrzGab) | 31/05/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 03/06/2025 |
+| 1.55  | Adicionando metodoliga de moscow | [Karoline Luz](https://github.com/KarolineLuz) | 31/05/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 03/06/2025 |
+| 1.56  | Adicionando Video de entrevista e Termo de Consentimento | [Karoline Luz](https://github.com/KarolineLuz) | 31/05/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 03/06/2025 |
