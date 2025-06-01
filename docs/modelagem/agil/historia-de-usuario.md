@@ -147,16 +147,6 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
 
     ---
 
-    #### Subtarefas
-
-    - <input type="checkbox"> Integrar SDK/API do gov.br ao backend do app.
-    - <input type="checkbox"> Implementar interface de redirecionamento para o login gov.br.
-    - <input type="checkbox"> Tratar respostas da autenticação (sucesso, falha, erro de rede).
-    - <input type="checkbox"> Criar alertas e mensagens de erro amigáveis.
-    - <input type="checkbox"> Validar conformidade de dados com a LGPD.
-
-    ---
-
     #### Rastreabilidade
 
     - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF22</a>
@@ -164,8 +154,6 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
     ---
 
     #### Estimativa de Esforço
-
-    - **Prioridade:** Médio
         
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox"> Must Have (MH)
@@ -202,16 +190,6 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
 
     ---
 
-    #### Subtarefas
-
-    - <input type="checkbox"> Criar componente de geração de comprovantes em PDF.
-    - <input type="checkbox"> Implementar botão de "Salvar comprovante" com feedback visual.
-    - <input type="checkbox"> Integrar opções de compartilhamento nativas do sistema operacional (iOS/Android).
-    - <input type="checkbox"> Validar compatibilidade com diferentes tipos de arquivos gerados.
-    - <input type="checkbox"> Testar fluxo offline para salvamento local.
-
-    ---
-
     #### Rastreabilidade
 
     - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF18</a>
@@ -219,8 +197,6 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
     ---
 
     #### Estimativa de Esforço
-
-    - **Prioridade:** Média
         
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox"> Must Have (MH)
@@ -258,16 +234,6 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
 
     ---
 
-    #### Subtarefas
-
-    - <input type="checkbox"> Criar layout da seção de suporte com estrutura de navegação clara.
-    - <input type="checkbox"> Redigir e revisar textos explicativos das funcionalidades.
-    - <input type="checkbox"> Adicionar imagens ou ilustrações nas instruções.
-    - <input type="checkbox"> Implementar campo de busca dentro da seção de suporte.
-    - <input type="checkbox"> Garantir acesso ao suporte mesmo para usuários não autenticados.
-
-    ---
-
     #### Rastreabilidade
 
     - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF27</a>
@@ -276,8 +242,6 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
 
     #### Estimativa de Esforço
 
-    - **Prioridade:** Média
-        
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox"> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
@@ -314,16 +278,6 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
 
     ---
 
-    #### Subtarefas
-
-    - <input type="checkbox"> Implementar backend para consulta de status por usuário autenticado.
-    - <input type="checkbox"> Criar interface com lista e detalhes das solicitações.
-    - <input type="checkbox"> Integrar com o sistema interno de processamento para atualizar status em tempo real.
-    - <input type="checkbox"> Desenvolver mecanismo de notificação de mudanças de status.
-    - <input type="checkbox"> Testar a consistência dos dados apresentados ao usuário.
-
-    ---
-
     #### Rastreabilidade
 
     - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF30</a>
@@ -331,8 +285,6 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
     ---
 
     #### Estimativa de Esforço
-
-    - **Prioridade:** Média
         
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox"> Must Have (MH)
@@ -370,16 +322,6 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
 
     ---
 
-    #### Subtarefas
-
-    - <input type="checkbox"> Criar interface de listagem de problemas relatados.
-    - <input type="checkbox"> Adicionar botão “Confirmar resolução” com controle de disponibilidade por status.
-    - <input type="checkbox"> Implementar registro da confirmação no banco de dados.
-    - <input type="checkbox"> Exibir feedback visual após confirmação.
-    - <input type="checkbox"> Testar regras de bloqueio de edição após confirmação.
-
-    ---
-
     #### Rastreabilidade
 
     - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF31</a>
@@ -387,8 +329,6 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
     ---
 
     #### Estimativa de Esforço
-
-    - **Prioridade:** Média
         
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox"> Must Have (MH)
@@ -425,16 +365,6 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
 
     ---
 
-    #### Subtarefas
-
-    - <input type="checkbox"> Criar interface de gerenciamento de conta com botão “Excluir conta”.
-    - <input type="checkbox"> Desenvolver tela de confirmação com informações claras ao usuário.
-    - <input type="checkbox"> Implementar lógica backend para remoção de dados e encerramento de sessão.
-    - <input type="checkbox"> Garantir que a exclusão atenda aos critérios da LGPD.
-    - <input type="checkbox"> Registrar a operação para fins de rastreabilidade legal (sem violar privacidade).
-
-    ---
-
     #### Rastreabilidade
 
     - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF32</a>
@@ -442,8 +372,6 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
     ---
 
     #### Estimativa de Esforço
-
-    - **Prioridade:** Média
         
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox"> Must Have (MH)
@@ -480,16 +408,6 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
 
     ---
 
-    #### Subtarefas
-
-    - <input type="checkbox"> Revisar políticas e práticas de coleta de dados.
-    - <input type="checkbox"> Implementar fluxos de consentimento explícito.
-    - <input type="checkbox"> Criar ferramentas para gerenciamento de dados pelo usuário.
-    - <input type="checkbox"> Garantir armazenamento seguro e monitoramento de acessos.
-    - <input type="checkbox"> Realizar auditorias para verificar conformidade.
-
-    ---
-
     #### Rastreabilidade
 
     - **Requisito Não Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RNF02</a>
@@ -497,8 +415,6 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
     ---
 
     #### Estimativa de Esforço
-
-    - **Prioridade:** Alta
         
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox" checked > Must Have (MH)
@@ -552,16 +468,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     ---
 
-    #### Subtarefas
-
-    - <input type="checkbox"> Implementar componente para seleção de idioma na interface.
-    - <input type="checkbox"> Integrar mecanismo de internacionalização (i18n) no app.
-    - <input type="checkbox"> Armazenar preferência do idioma no perfil do usuário ou localmente.
-    - <input type="checkbox"> Traduzir textos e mensagens para os idiomas suportados.
-    - <input type="checkbox"> Testar mudança de idioma em diferentes telas e fluxos.
-
-    ---
-
     #### Rastreabilidade
 
     - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF12</a>
@@ -569,8 +475,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     ---
 
     #### Estimativa de Esforço
-
-    - **Prioridade:** Alta
     
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox" checked> Must Have (MH)
@@ -608,16 +512,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     ---
 
-    #### Subtarefas
-
-    - <input type="checkbox"> Criar interface para edição do perfil e preferências.
-    - <input type="checkbox"> Desenvolver backend para armazenar e gerenciar as preferências do usuário.
-    - <input type="checkbox"> Implementar mecanismo de recomendação baseado nas preferências do usuário.
-    - <input type="checkbox"> Testar persistência e atualização das preferências.
-    - <input type="checkbox"> Garantir feedback visual claro ao salvar preferências.
-
-    ---
-
     #### Rastreabilidade
 
     - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF13</a>
@@ -625,8 +519,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     ---
 
     #### Estimativa de Esforço
-
-    - **Prioridade:** Alta
     
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox" checked> Must Have (MH)
@@ -663,16 +555,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     ---
 
-    #### Subtarefas
-
-    - <input type="checkbox"> Implementar sistema de notificações para vencimentos e lembretes.
-    - <input type="checkbox"> Criar interface para configuração das preferências de mensagens.
-    - <input type="checkbox"> Desenvolver mecanismo para agendamento e envio das mensagens.
-    - <input type="checkbox"> Testar o envio das mensagens em diferentes cenários.
-    - <input type="checkbox"> Garantir conformidade com políticas de privacidade e comunicação.
-
-    ---
-
     #### Rastreabilidade
 
     - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF14</a>
@@ -680,8 +562,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     ---
 
     #### Estimativa de Esforço
-
-    - **Prioridade:** Alta
     
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox" checked> Must Have (MH)
@@ -718,16 +598,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     ---
 
-    #### Subtarefas
-
-    - <input type="checkbox"> Criar componente de interface para seleção do tipo de serviço.
-    - <input type="checkbox"> Integrar a seleção com o fluxo de atendimento do aplicativo.
-    - <input type="checkbox"> Implementar validação para garantir seleção única por solicitação.
-    - <input type="checkbox"> Testar impacto da seleção na exibição das opções e recomendações.
-    - <input type="checkbox"> Desenvolver mensagens de confirmação e possibilidade de alteração.
-
-    ---
-
     #### Rastreabilidade
 
     - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF35</a>
@@ -735,9 +605,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     ---
 
     #### Estimativa de Esforço
-
-    - **Prioridade:** Alta
-
       
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox" checked> Must Have (MH)
@@ -774,16 +641,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     ---
 
-    #### Subtarefas
-
-    - <input type="checkbox"> Implementar campo de texto para descrição da ocorrência.
-    - <input type="checkbox"> Desenvolver funcionalidade para upload e visualização de imagens.
-    - <input type="checkbox"> Integrar captura ou envio manual da localização GPS.
-    - <input type="checkbox"> Garantir armazenamento e associação dos dados ao registro da ocorrência.
-    - <input type="checkbox"> Criar feedback visual para confirmação do envio.
-
-    ---
-
     #### Rastreabilidade
 
     - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF36</a>
@@ -791,9 +648,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     ---
 
     #### Estimativa de Esforço
-
-    - **Prioridade:** Alta
-
     
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox" checked> Must Have (MH)
@@ -830,16 +684,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     ---
 
-    #### Subtarefas
-
-    - <input type="checkbox"> Criar interface para acesso às informações e serviços de transporte público.
-    - <input type="checkbox"> Desenvolver formulário para pré-cadastro do Cartão Mobilidade.
-    - <input type="checkbox"> Implementar validação dos dados de pré-cadastro.
-    - <input type="checkbox"> Integrar sistema de confirmação e orientações pós-cadastro.
-    - <input type="checkbox"> Garantir conformidade com normas de segurança e privacidade.
-
-    ---
-
     #### Rastreabilidade
 
     - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF38</a>
@@ -847,9 +691,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     ---
 
     #### Estimativa de Esforço
-
-    - **Prioridade:** Alta 
-
       
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox" checked> Must Have (MH)
@@ -885,15 +726,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     ---
 
-    #### Subtarefas
-
-    - <input type="checkbox"> Realizar testes em dispositivos Android e iOS.
-    - <input type="checkbox"> Corrigir inconsistências de interface e comportamento entre plataformas.
-    - <input type="checkbox"> Garantir compatibilidade com APIs específicas de cada sistema operacional.
-    - <input type="checkbox"> Monitorar e otimizar o desempenho nas duas plataformas.
-
-    ---
-
     #### Rastreabilidade
 
     - **Requisito Não Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RNF02</a>
@@ -901,8 +733,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     ---
 
     #### Estimativa de Esforço
-
-    - **Prioridade:** Alta
 
       
     #### Priorização (Técnica MoSCoW)    
