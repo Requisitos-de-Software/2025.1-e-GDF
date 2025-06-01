@@ -283,20 +283,79 @@ Os cartões de especificação a seguir, Tabelas de 1 a 10, foram utilizados par
 
 ---
 
-<p align="center"><b>Tabela 3</b> — Cartão de Especificação 3</p>
+<p align="center"><b>Tabela 5</b> — Cartão de Especificação 5</p>
 
 | *Item*                  | *Descrição*                                                                                                           |
 | ----------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| *Nr Requisito*          | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF03</a> / <a href="/elicitacao/req_elicitados/#anchor_RF">RNF10</a> / <a href="/elicitacao/req_elicitados/#anchor_RF">RNF11</a> / <a href="/elicitacao/req_elicitados/#anchor_RF">RNF16</a> / <a href="/elicitacao/req_elicitados/#anchor_RF">RNF21</a>                                                                                |
+| *Nr Requisito*          | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF03< a>                                                                                |
 | *Classificação*         | Usabilidade                                                                                                           |
-| *Descrição*             | O sistema deve ser intuitivo, acessível, com linguagem clara e apropriada a diferentes perfis de usuários.            |
-| *Justificativa*         | Uma boa usabilidade aumenta a adesão ao aplicativo e reduz a curva de aprendizado dos usuários.                       |
-| *Origem*                | Análise documental, brainstorming e entrevistas com usuários.                                                         |
-| *Critério de Aceitação* | Interface limpa e clara, compatível com leitores de tela, linguagem acessível, responsividade, e navegação intuitiva. |
-| *Dependências*          | RNF08 (Responsividade), RNF17 (Acessibilidade)                                                                        |
+| *Descrição*             | O sistema deve possuir uma interface simples, limpa e com ícones ilustrativos.            |
+| *Justificativa*         | Reduzir a carga visual, facilitando a identificação de funcionalidades e melhorando a experiência do usuário.
+| *Origem*                | brainstorming.                                                         |
+| *Critério de Aceitação* | Pelo menos 90% dos usuários, com no mínimo 10 participantes, devem conseguir localizar as funcionalidades desejadas sem ajuda externa, e num período de 20 segundos por tarefa. 
+| *Dependências*          |  RNF08 (layout responsivo), RNF10 (linguagem clara), RNF11 (navegação intuitiva), RNF21 (interface objetiva e acessível).
 | *Prioridade*            |  **M** (Must have)                                                                                                           |
-| *Conflitos*             | Pode exigir mais tempo de design e testes com usuários reais.                                                         |
-| *História*              | Criado em 28/05/2025 – Última modificação em 28/05/2025                                                               |
+| *Conflitos*             | Risco de omitir informações importantes, tornando a interface minimalista demais.
+| *História*              | Criado em 28/05/2025 – Última modificação em 31/05/2025                                                               |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
+
+---
+
+
+
+<p align="center"><b>Tabela 6</b> — Cartão de Especificação 7</p>
+
+| *Item*                  | *Descrição*                                                                                                           |
+| ----------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| *Nr Requisito*          | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF11</a>                     |
+| *Classificação*         | Usabilidade                                                                                                           |
+| *Descrição*             | O aplicativo deve ser mais autoexplicativo, com uma navegação intuitiva e menos dependência de redirecionamentos externos.
+| *Justificativa*         | Facilita o uso do sistema por usuários com diferentes níveis de familiaridade tecnológica.
+| *Origem*                | Análise de documentos e entrevista.                                                         |
+| *Critério de Aceitação* | Uso da heurística de Nielsen "Consistência e padronização". Testes serão feitos com no mínimo 5 usuários. Se forem identificados mais que 3 desvios dessa heurística que causem confusão, o requisito não está atendido. 
+| *Dependências*          |  RNF06 (navegação rápida)
+| *Prioridade*            |  **M** (Must have)                                                                                                           |
+| *Conflitos*             | Reduzir redirecionamentos vai fazer com que possa ter sobrecarga de informações em uma tela.
+| *História*              | Criado em 28/05/2025 – Última modificação em 31/05/2025                                                               |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
+
+---
+
+<p align="center"><b>Tabela 7</b> — Cartão de Especificação 8</p>
+
+| *Item*                  | *Descrição*                                                                                                           |
+| ----------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| *Nr Requisito*          | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF16</a>                     |
+| *Classificação*         | Usabilidade                                                                                                           |
+| *Descrição*             | O aplicativo deve considerar a usabilidade para usuários idosos, garantindo que o design e as funcionalidades sejam acessíveis.
+| *Justificativa*         | Promove inclusão digital e amplia o alcance do sistema, facilitando o uso para uma parcela significativa da população
+| *Origem*                | Entrevista.                                                         |
+| *Critério de Aceitação* | Avaliação com grupo de usuários idosos, buscando pelo menos 80% de aprovação em testes de usabilidade focados em legibilidade, navegação e tamanho de elementos. 
+| *Dependências*          |  RNF03 (interface simples e limpa), RNF08 (layout responsivo), RNF09 (compatibilidade com leitores de tela), RNF21 (interface objetiva e acessível).
+| *Prioridade*            |  **M** (Must have)                                                                                                           |
+| *Conflitos*             | Reduzir redirecionamentos vai fazer com que possa ter sobrecarga de informações em uma tela.
+| *História*              | Criado em 28/05/2025 – Última modificação em 31/05/2025                                                               |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
+
+---
+
+<p align="center"><b>Tabela 8</b> — Cartão de Especificação 9</p>
+
+| *Item*                  | *Descrição*                                                                                                           |
+| ----------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| *Nr Requisito*          | <a href="/elicitacao/req_elicitados/#anchor_RF">RNF21</a>                     |
+| *Classificação*         | Usabilidade                                                                                                           |
+| *Descrição*             | A interface deve ser simples, objetiva e utilizar linguagem acessível a usuários com diferentes níveis de escolaridade.
+| *Justificativa*         | Facilita a compreensão das funcionalidades, reduzindo a curva de aprendizado e o risco de abandono por parte dos usuários.
+| *Origem*                | Introspecção.                                                         |
+| *Critério de Aceitação* | Em teste com usuários, pelo menos 90% devem conseguir realizar tarefas básicas (ex: cadastro, consulta, envio de dados) sem ajuda externa ou leitura de instruções externas.
+| *Dependências*          |  RNF10 (linguagem clara), RNF11 (navegação intuitiva), RNF16 (acessibilidade para idosos).
+| *Prioridade*            |  **M** (Must have)                                                                                                           |
+| *Conflitos*             | Dados podem exigir terminologia mais complexa
+| *História*              | Criado em 28/05/2025 – Última modificação em 31/05/2025                                                               |
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
 
