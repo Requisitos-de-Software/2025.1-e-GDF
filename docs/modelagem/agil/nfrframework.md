@@ -487,6 +487,32 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
 ---
 
+
+
+## NFR03: Acessibilidade
+
+
+Este SIG (Softgoal Interdependency Graph) foi elaborado a partir de requisitos não funcionais relacionados à acessibilidade do sistema. Esses requisitos garantem que o sistema seja acessível em diferentes ambientes.
+
+
+## Requisitos:
+Requisitos utilizados para desenvolver o SIG da Figura 5:
+
+
+### Tabela de Requisitos Relacionados à Acessibilidade
+
+
+| **Código** | **Descrição**                                                                                                                             |
+|------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| RNF04      | O aplicativo deve permitir acessibilidade para pessoas idosas ou com deficiência visual.  |
+| RNF09      | O sistema deve ter compatibilidade com leitores de tela para atender usuários com deficiência visual.               |
+| RNF17      |    O aplicativo deve fornecer suporte para daltônicos e outros tipos de deficiência visual.                                          |
+
+
+---
+
+
+
 <p align="center"><b>Tabela 13</b> — Cartão de Especificação 13</p>
 
 | *Item*                  | *Descrição*                                                                                               |
