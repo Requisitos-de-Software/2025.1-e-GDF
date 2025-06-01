@@ -354,24 +354,29 @@ Como usuário preocupado com a privacidade dos meus dados, eu quero ter controle
 
 **Vídeo 5** - Validação com usuário por Karoline Luz
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_KAROLINE_LUZ" title="Validação Backlog - Karoline Luz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E0MSih6ABqg" title="Validação Backlog - Karoline Luz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Tabela 8** - Informações da validação 5
 
 | **Tema** | **Épico (ID)** | **História do Usuário (US)** | **ID** | **Prioridade** | **Status** | **Rastreabilidade** | **Autor** |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| [Serviços do Cidadão](#tema-3-serviços-do-cidadão) | [Agendamentos](#épico-6-agendamentos) (EP06) | Acessar informações de agendamento e reagendamento ([US22](./historia-de-usuario.md)) | RF16 | SH | em progresso | [BR17](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) | [Karoline Luz](https://github.com/KarolineLuz) |
-| [Atendimento](#tema-6-atendimento) | [Canais de Suporte](#épico-9-canais-suporte) (EP09) | Reportar problemas da cidade via mapa interativo ([US23](./historia-de-usuario.md)) | RF25 | SH | em progresso | [EN09](../../elicitacao/tec_elicitacao/entrevista.md#anchor_EN) | [Karoline Luz](https://github.com/KarolineLuz) |
+| [Serviços do Cidadão](#tema-3-serviços-do-cidadão) | [Agendamentos](#épico-6-agendamentos) (EP06) | Acessar informações de agendamento e reagendamento ([US22](./historia-de-usuario.md)) | RF16 | MH | em progresso | [BR17](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) | [Karoline Luz](https://github.com/KarolineLuz) |
+| [Atendimento](#tema-6-atendimento) | [Canais de Suporte](#épico-9-canais-suporte) (EP09) | Reportar problemas da cidade via mapa interativo ([US23](./historia-de-usuario.md)) | RF25 | MH | em progresso | [EN09](../../elicitacao/tec_elicitacao/entrevista.md#anchor_EN) | [Karoline Luz](https://github.com/KarolineLuz) |
 | [Atendimento](#tema-6-atendimento) | [Canais de Suporte](#épico-9-canais-suporte) (EP09) | Acessar números de serviços de emergência ([US24](./historia-de-usuario.md)) | RF26 | SH | em progresso | [EN10](../../elicitacao/tec_elicitacao/entrevista.md#anchor_EN), [INT05](../../elicitacao/tec_elicitacao/introspeccao.md#anchor_INT) | [Karoline Luz](https://github.com/KarolineLuz) |
-| [Atendimento](#tema-6-atendimento) | [Canais de Suporte](#épico-9-canais-suporte) (EP09) | Solicitar serviços como coleta de lixo e reparos ([US25](./historia-de-usuario.md)) | RF28 | SH | em progresso | [AD02](../../elicitacao/tec_elicitacao/analise_documentos.md#anchor_AD) | [Karoline Luz](https://github.com/KarolineLuz) |
-| [Atendimento](#tema-6-atendimento) | [Canais de Suporte](#épico-9-canais-suporte) (EP09) | Localizar solicitações no mapa ([US26](./historia-de-usuario.md)) | RF29 | SH | em progresso | [AD03](../../elicitacao/tec_elicitacao/analise_documentos.md#anchor_AD) | [Karoline Luz](https://github.com/KarolineLuz) |
+| [Atendimento](#tema-6-atendimento) | [Canais de Suporte](#épico-9-canais-suporte) (EP09) | Solicitar serviços como coleta de lixo e reparos ([US25](./historia-de-usuario.md)) | RF28 | MH | em progresso | [AD02](../../elicitacao/tec_elicitacao/analise_documentos.md#anchor_AD) | [Karoline Luz](https://github.com/KarolineLuz) |
+| [Atendimento](#tema-6-atendimento) | [Canais de Suporte](#épico-9-canais-suporte) (EP09) | Localizar solicitações no mapa ([US26](./historia-de-usuario.md)) | RF29 | CH | em progresso | [AD03](../../elicitacao/tec_elicitacao/analise_documentos.md#anchor_AD) | [Karoline Luz](https://github.com/KarolineLuz) |
 | [Serviços do Cidadão](#tema-3-serviços-do-cidadão) | [Serviços Centralizados](#épico-4-serviços-centralizados) (EP04) | Emitir tributos, certidões e documentos fiscais ([US27](./historia-de-usuario.md)) | RF43 | SH | em progresso | [INT13](../../elicitacao/tec_elicitacao/introspeccao.md#anchor_INT), [BR18](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) | [Karoline Luz](https://github.com/KarolineLuz) |
 | [Acessibilidade](#tema-9-acessibilidade) | [Recursos de Acessibilidade](#épico-3-recursos-acessibilidade) (EP03) | Interface acessível para idosos ([US28](./historia-de-usuario.md)) | RNF16 | SH | em progresso | [EN06](../../elicitacao/tec_elicitacao/entrevista.md#anchor_EN) | [Karoline Luz](https://github.com/KarolineLuz) |
 
 | **Autor** | **Usuário Participante** |
 | :-------- | :---------------------- |
-| [Karoline Luz](https://github.com/KarolineLuz) |  |
+| [Karoline Luz](https://github.com/KarolineLuz) |  Leonardo Rodrigues Martins|
 
+
+## Termo de consentimento de imagem 
+Este documento confirma que o cidadão Leonardo Rodrigues Martins forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/17VQcbgpFlHFWAAIlzOhBMqyTFZEsmm3f/view?usp=sharing)
 <font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Karoline Luz](https://github.com/KarolineLuz), 2025).</p></font>
 
 </center>
@@ -473,3 +478,4 @@ Como usuário preocupado com a privacidade dos meus dados, eu quero ter controle
 | 1.8 | Criação de tabelas de Product Backlog RF07, RF08, RF10, RF19, RF23, RF34, RNF22 | [Gabriel Lopes](https://github.com/BrzGab) | 30/05/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 30/05/2025 |
 | 1.9 | Criação de tabelas de Product Backlog US46, US43, US49, US47, US45, US44, US48 | [Lucas Mendonça](https://github.com/lucasarruda9) | 31/05/2025 | [Gabriel Lopes](https://github.com/BrzGab) | 31/05/2025 |
 | 2.0 | Criação dos temas, épicos e das tabelas | [Gabriel Lopes](https://github.com/BrzGab) | 31/05/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 31/05/2025 |
+| 2.1 | Adicionando Entrevista e Termo de consentimento  | [Karoline Luz](https://github.com/KarolineLuz) | 01/05/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 01/05/2025 |
