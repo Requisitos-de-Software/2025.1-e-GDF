@@ -363,7 +363,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](../../
 | *Justificativa*         | Reduzir a carga visual, facilitando a identificação de funcionalidades e melhorando a experiência do usuário.
 | *Origem*                | brainstorming.                                                         |
 | *Critério de Aceitação* | Pelo menos 90% dos usuários, com no mínimo 10 participantes, devem conseguir localizar as funcionalidades desejadas sem ajuda externa, e num período de 20 segundos por tarefa. 
-| *Dependências*          |  RNF08 (layout responsivo), RNF10 (linguagem clara), RNF11 (navegação intuitiva), RNF21 (interface objetiva e acessível).
+| *Dependências*          |  RNF10 (linguagem clara), RNF11 (navegação intuitiva).
 | *Prioridade*            |  **M** (Must have)                                                                                                           |
 | *Conflitos*             | Risco de omitir informações importantes, tornando a interface minimalista demais.
 | *História*              | Criado em 28/05/2025 – Última modificação em 31/05/2025                                                               |
@@ -403,7 +403,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](../../
 | *Justificativa*         | Promove inclusão digital e amplia o alcance do sistema, facilitando o uso para uma parcela significativa da população
 | *Origem*                | Entrevista.                                                         |
 | *Critério de Aceitação* | Avaliação com grupo de usuários idosos, buscando pelo menos 80% de aprovação em testes de usabilidade focados em legibilidade, navegação e tamanho de elementos. 
-| *Dependências*          |  RNF03 (interface simples e limpa), RNF08 (layout responsivo), RNF09 (compatibilidade com leitores de tela), RNF21 (interface objetiva e acessível).
+| *Dependências*          |  RNF03 (interface simples e limpa)
 | *Prioridade*            |  **M** (Must have)                                                                                                           |
 | *Conflitos*             | Reduzir redirecionamentos vai fazer com que possa ter sobrecarga de informações em uma tela.
 | *História*              | Criado em 28/05/2025 – Última modificação em 31/05/2025                                                               |
@@ -422,12 +422,16 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](../../
 | *Justificativa*         | Facilita a compreensão das funcionalidades, reduzindo a curva de aprendizado e o risco de abandono por parte dos usuários.
 | *Origem*                | Introspecção.                                                         |
 | *Critério de Aceitação* | Em teste com usuários, pelo menos 90% devem conseguir realizar tarefas básicas (ex: cadastro, consulta, envio de dados) sem ajuda externa ou leitura de instruções externas.
-| *Dependências*          |  RNF10 (linguagem clara), RNF11 (navegação intuitiva), RNF16 (acessibilidade para idosos).
+| *Dependências*          |  RNF11 (navegação intuitiva).
 | *Prioridade*            |  **M** (Must have)                                                                                                           |
 | *Conflitos*             | Dados podem exigir terminologia mais complexa
 | *História*              | Criado em 28/05/2025 – Última modificação em 31/05/2025                                                               |
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
+
+<p align="center">
+  <img src="/docs/assets/nfr/Usabilidade.drawio.png="600">
+</p>
 
 ------
 
@@ -490,6 +494,32 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](../../
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
 
 ---
+
+
+
+## NFR03: Acessibilidade
+
+
+Este SIG (Softgoal Interdependency Graph) foi elaborado a partir de requisitos não funcionais relacionados à acessibilidade do sistema. Esses requisitos garantem que o sistema seja acessível em diferentes ambientes.
+
+
+## Requisitos:
+Requisitos utilizados para desenvolver o SIG da Figura 5:
+
+
+### Tabela de Requisitos Relacionados à Acessibilidade
+
+
+| **Código** | **Descrição**                                                                                                                             |
+|------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| RNF04      | O aplicativo deve permitir acessibilidade para pessoas idosas ou com deficiência visual.  |
+| RNF09      | O sistema deve ter compatibilidade com leitores de tela para atender usuários com deficiência visual.               |
+| RNF17      |    O aplicativo deve fornecer suporte para daltônicos e outros tipos de deficiência visual.                                          |
+
+
+---
+
+
 
 <p align="center"><b>Tabela 13</b> — Cartão de Especificação 13</p>
 
