@@ -41,7 +41,6 @@ As técnicas de elicitação aplicadas foram:
 | **Eu quero**                | Descreve a ação ou funcionalidade desejada pelo usuário. |
 | **Para que**                | Indica o objetivo ou benefício que o usuário deseja alcançar com a funcionalidade. |
 | **Critérios de Aceitação**  | Conjunto de condições que determinam quando a história será considerada concluída e aceita. |
-| **Subtarefas**              | Lista de atividades técnicas e operacionais necessárias para implementar a funcionalidade descrita. |
 | **Rastreabilidade**         | Referência ao requisito ou artefato relacionado, garantindo o vínculo entre a história de usuário e o requisito formal. |
 | **Prioridade**   | Avaliação da complexidade ou prioridade da implementação da funcionalidade. |
 
