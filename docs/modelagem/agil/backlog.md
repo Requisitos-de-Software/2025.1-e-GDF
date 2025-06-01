@@ -240,7 +240,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 **Vídeo 2** - Validação com usuário por Artur Mendonça
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ARTUR_MENDONCA" title="Validação Backlog - Artur Mendonça" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1U298AC6rZ8" title="Validação Backlog - Artur Mendonça" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Tabela 5** - Informações da validação 2
 
@@ -260,6 +260,12 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Artur Mendonça](https://github.com/ArtyMend07), 2025).</p></font>
 
+## Termo de consentimento de imagem 
+Este documento confirma que a cidadã Ana Geralda Xavier forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/195qwdk-np0_d4IMXCRbUWCllJCcPYC15/view?usp=sharing)
+
+<p style="text-align: center"><font size="3">Fonte: Elaborado por (<a href="https://github.com/ArtyMend07">Artur Mendonça</a>, 2025).</font></p>
 
 ### Validação 3 - Gabriel Lopes
 
@@ -449,3 +455,4 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | 2.3 | Correção das prioridades dos requisitos RF16, RF25, RF26, RF28, RF29, RF43, RNF16  | [Artur Mendonça](https://github.com/ArtyMend07) | 01/06/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 01/06/2025 |
 | 2.4 | Validação do Product Backlog  RF01, RF02, RF03, RF09, RF15, RF20, RNF13 com usuário real | [Ana Victória](https://github.com/navicg) | 01/06/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 01/06/2025 |
 | 2.5 | Validaçaõ do Product Backlog com usuario real RF07, RF08, RF10, RF19, RF23, RF34, RNF22 | [Gabriel Lopes](https://github.com/BrzGab) | 01/06/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 30/05/2025 |
+| 2.6 | Validação do Product Backlog RF16, RF25, RF26, RF28, RF29, RF43, RNF16 | [Artur Mendonça](https://github.com/ArtyMend07) | 01/06/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 01/06/2025 | | 01/06/2025 |
