@@ -102,15 +102,11 @@ O **procedimento de avaliação** determina o grau em que os requisitos não fun
 | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- | --------------- |
 | Adição das tabela modelo de RNF                  | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 28/05/2025      |
 | Adição das tabela modelo Cartão de Especificação | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 28/05/2025      |
-| Adição de tabela Compatibilidade                 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)                                                      | 28/05/2025      |
-| Adição de tabela Segurança                       | [Luiza da Silva Pugas](https://github.com/Luizaxx)                                                         | 28/05/2025      |
+| Adição de tabela Segurança                       | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx)                                                         | 28/05/2025      |
 | Adição de tabela Usabilidade                     | [Lucas Mendonça](https://github.com/lucasarruda9)                                                          | 28/05/2025      |
-| Adição de tabela Acessibilidade                  | [Ana Victória Guedes da Costa](https://github.com/navicg)                                                  | 28/05/2025      |
 | Adição de tabela Desempenho                      | [Artur Mendonça Arruda](https://github.com/ArtyMend07)                                                     | 28/05/2025      |
 | Adição de tabela Responsividade                  | [Gabriel Lopes](https://github.com/BrzGab)                                                                 | 28/05/2025      |
-| Adição de tabela Confiabilidade                  | [Karoline Luz da Conceição](https://github.com/KarolineLuz)                                                | 28/05/2025      |
-| Adição de tabela Autonomia/Offline               | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 28/05/2025      |
-| Adição de tabela Aparência                       | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 28/05/2025      |
+| Adição de tabela Confiabilidade                  | [Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz)                                                | 28/05/2025      |
 
 <font size="3"><p style="text-align: center">Fonte: Elaborado pelos autores ([João Marcos](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
 
@@ -195,10 +191,12 @@ A taxonomia é um esquema de classificação que organiza termos e suas relaçõ
 A taxonomia apresentada nesta tabela organiza os Softgoals (objetivos de qualidade não-funcionais) do sistema e relaciona cada um com os Requisitos Não-Funcionais correspondentes. Essa classificação ajuda a estruturar os critérios que devem ser atendidos para garantir aspectos importantes do software, como compatibilidade, segurança, usabilidade, acessibilidade, desempenho, entre outros.
 A Figura 3 ilustra a representação visual dessa taxonomia, facilitando a compreensão das relações entre os Softgoals e seus respectivos Requisitos não funcionais.
 
+<p align="center"><i>Figura 4: Taxonomia</i></p>
 <p align="center">
   <img src="/assets/modelagem/nfr/Taxonomia.drawio.png" width="600">
 </p>
-<p align="center"><i>Figura 3: Taxonomia</i></p>
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ( [Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
 
 ## Cartões de Especificação
 
@@ -306,30 +304,21 @@ Requisitos utilizados para desenvolver o SIG da Figura 1:
 
 ### Propagação dos Impactos
 
-A Tabela X, apresentada a seguir, mostra a avaliação da propagação dos impactos representados na imagem acima.
+A Tabela 1, apresentada a seguir, mostra a avaliação da propagação dos impactos representados na imagem acima.
 
-### Tabela X: Tabela de Impactos
-
-| **NFR**                                | **Impacto** | **Avaliador**     |
-|----------------------------------------|-------------|-------------------|
-| Portabilidade                          | ✔           | [Luiza da Silva Pugas](https://github.com/Luizaxx) e [João Marcos](https://github.com/JJOAOMARCOSS)    |
-| Manter as mesmas funcionalidades       | ⩗/+         | [Luiza da Silva Pugas](https://github.com/Luizaxx) e [João Marcos](https://github.com/JJOAOMARCOSS)     |
-| Disponibilidade em outras plataformas  | ⩗/+         | [Luiza da Silva Pugas](https://github.com/Luizaxx) e [João Marcos](https://github.com/JJOAOMARCOSS)    |
-
-
-
-### Tabela X: Tabela de Impactos - Segurança
+### Tabela 1: Tabela de Impactos - Segurança
 
 | *NFR*                        | *Impacto* | *Avaliador*           |
 |-----------------------------|-----------|------------------------|
 | Conformidade com a LGPD     | ✔         | [Luiza da Silva Pugas](https://github.com/Luizaxx) e [João Marcos](https://github.com/JJOAOMARCOSS)    |
-| Proteção de dados           | ⩗/+       | [Luiza da Silva Pugas](https://github.com/Luizaxx) e [João Marcos](https://github.com/JJOAOMARCOSS)    |
-| Autenticar de forma segura  | ⩗/+       | [Luiza da Silva Pugas](https://github.com/Luizaxx) e [João Marcos](https://github.com/JJOAOMARCOSS)     |
-| Criptografar dados          | ⩗/+       | [Luiza da Silva Pugas](https://github.com/Luizaxx) e [João Marcos](https://github.com/JJOAOMARCOSS)     |
-| Satisfação do usuário       | ⩗/+       | [Luiza da Silva Pugas](https://github.com/Luizaxx) e [João Marcos](https://github.com/JJOAOMARCOSS)    |
+| Proteção de dados           | 𝒲+       | [Luiza da Silva Pugas](https://github.com/Luizaxx) e [João Marcos](https://github.com/JJOAOMARCOSS)    |
+| Autenticar de forma segura  | 𝒲+       | [Luiza da Silva Pugas](https://github.com/Luizaxx) e [João Marcos](https://github.com/JJOAOMARCOSS)     |
+| Criptografar dados          | 𝒲+       | [Luiza da Silva Pugas](https://github.com/Luizaxx) e [João Marcos](https://github.com/JJOAOMARCOSS)     |
+| Satisfação do usuário       | 𝒲+       | [Luiza da Silva Pugas](https://github.com/Luizaxx) e [João Marcos](https://github.com/JJOAOMARCOSS)    |
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([João Marcos](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
 
+---
 
 **Vídeo 1** - Validação e Priorização de NFR com usuário por [Luiza da Silva Pugas](https://github.com/Luizaxx)
 
@@ -337,16 +326,31 @@ A Tabela X, apresentada a seguir, mostra a avaliação da propagação dos impac
 
 <p style="text-align: center"><a href="https://youtu.be/xOqd3H6dOds" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
-| **Nome** | **Função** | **Data** | **Hora** |
-|:---------:|:------------------------:|:--------:|:--------:|
-| [Luiza da Silva Pugas](https://github.com/Luizaxx) | Elaborador dos NFR | 01/06/2025 | 14:30 |
-| Nívea Cecília | Cidadã | 01/06/2025 | 14:30 |
-
-
 ## Termo de consentimento de imagem 
 Este documento confirma que a cidadã Nívea Cecília forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
 
-O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/assets/termo-img/Assinatura Nivea .pdf)
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](../../assets/termo-img/Assinatura%20Nivea%20.pdf)
+
+---
+
+**Vídeo 2** - Validação e Priorização de NFR com usuário por [João Marcos Moraes](https://github.com/JJOAOMARCOSS)
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/yuTljJG5Xr8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/yuTljJG5Xr8" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+## Termo de consentimento de imagem 
+Este documento confirma que o cidadão Gabriel Souza forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](../../assets/termo-img/Termo-Gabriel-Souza.pdf)
+
+| **Nome** | **Função** | **Data** | **Hora** |
+|:---------:|:------------------------:|:--------:|:--------:|
+| [Luiza da Silva Pugas](https://github.com/Luizaxx) | Elaborador dos NFR | 01/06/2025 | 14:30 |
+| [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | Elaborador dos NFR | 01/06/2025 | 12:30 |
+| Nívea Cecília | Cidadã | 01/06/2025 | 14:30 |
+| Gabriel Souza | Cidadão | 01/06/2025 | 12:30 |
+
 ---
 
 <p align="center"><b>Tabela 5</b> — Cartão de Especificação 5</p>
