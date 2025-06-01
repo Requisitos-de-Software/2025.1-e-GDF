@@ -170,7 +170,7 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox"> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
-    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox" checked> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
     ----
 
@@ -225,7 +225,7 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox"> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
-    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox" checked> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
     ----
     
@@ -281,7 +281,7 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox"> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
-    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox" checked> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
     ----
 
@@ -337,7 +337,7 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox"> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
-    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox" checked> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
     ----
 
@@ -393,7 +393,7 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox"> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
-    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox" checked> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
     ----
 
@@ -448,7 +448,7 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox"> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
-    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox" checked > Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
     ----
 
@@ -501,7 +501,7 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
     - **Prioridade:** Alta
         
     #### Priorização (Técnica MoSCoW)    
-    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox" checked > Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
