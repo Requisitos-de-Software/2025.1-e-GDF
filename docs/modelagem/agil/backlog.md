@@ -206,27 +206,34 @@ Como usuário preocupado com a privacidade dos meus dados, eu quero ter controle
 
 **Vídeo 1** - Validação com usuário por Ana Victória
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ANA_VICTORIA" title="Validação Backlog - Ana Victória" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube/embed/yfFuc19aF20" title="Validação Backlog - Ana Victória" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 **Tabela 4** - Informações da validação 1
 
 
 | **Tema** | **Épico (ID)** | **História do Usuário (US)** | **ID** | **Prioridade** | **Status** | **Rastreabilidade** | **Autor** |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| [Autenticação](#tema-1-autenticação) | [Autenticação Segura](#épico-1-autenticação-segura) (EP01) | Realizar login com acesso unificado do GOV.br ([US29](./historia-de-usuario.md)) | RF01 | MH | em progresso | [BR01](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS), [AD01](../../elicitacao/tec_elicitacao/analise_documentos.md#anchor_AD) | [Ana Victória](https://github.com/navicg) |
-| [Usabilidade](#tema-2-usabilidade) | [Interface Personalizável](#épico-2-interface-personalizável) (EP02) | Interface acessível para usuários com pouca familiaridade tecnológica ([US30](./historia-de-usuario.md)) | RF02 | SH | em progresso | [BR02](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) | [Ana Victória](https://github.com/navicg) |
-| [Comunicação](#tema-4-comunicação) | [Comunicações Personalizadas](#épico-7-comunicações-personalizadas) (EP07) | Receber notificações personalizadas baseadas em localização ([US31](./historia-de-usuario.md)) | RF03 | CH | em progresso | [BR03](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) | [Ana Victória](https://github.com/navicg) |
-| [Serviços do Cidadão](#tema-3-serviços-do-cidadão) | [Informações Públicas](#épico-5-informações-públicas) (EP05) | Acessar e visualizar notícias relevantes ([US32](./historia-de-usuario.md)) | RF09 | CH | em progresso | [BR10](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) | [Ana Victória](https://github.com/navicg) |
-| [Usabilidade](#tema-2-usabilidade) | [Interface Personalizável](#épico-2-interface-personalizável) (EP02) | Menu com principais funções na tela inicial ([US33](./historia-de-usuario.md)) | RF15 | CH | em progresso | [BR16](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) | [Ana Victória](https://github.com/navicg) |
-| [Serviços do Cidadão](#tema-3-serviços-do-cidadão) | [Serviços Centralizados](#épico-4-serviços-centralizados) (EP04) | Links para serviços externos com explicações claras ([US34](./historia-de-usuario.md)) | RF20 | CH | em progresso | [EN02](../../elicitacao/tec_elicitacao/entrevista.md#anchor_EN) | [Ana Victória](https://github.com/navicg) |
-| [Autenticação](#tema-1-autenticação) | [Autenticação Segura](#épico-1-autenticação-segura) (EP01) | Estabilidade e desempenho em redes móveis ([US35](./historia-de-usuario.md)) | RNF13 | SH | em progresso | [EN03](../../elicitacao/tec_elicitacao/entrevista.md#anchor_EN) | [Ana Victória](https://github.com/navicg) |
+| [Autenticação](#tema-1-autenticação) | [Autenticação Segura](#épico-1-autenticação-segura) (EP01) | Realizar login com acesso unificado do GOV.br ([US29](./historia-de-usuario.md)) | RF01 | MH | Validado | [BR01](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS), [AD01](../../elicitacao/tec_elicitacao/analise_documentos.md#anchor_AD) | [Ana Victória](https://github.com/navicg) |
+| [Usabilidade](#tema-2-usabilidade) | [Interface Personalizável](#épico-2-interface-personalizável) (EP02) | Interface acessível para usuários com pouca familiaridade tecnológica ([US30](./historia-de-usuario.md)) | RF02 | MH | Validado | [BR02](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) | [Ana Victória](https://github.com/navicg) |
+| [Comunicação](#tema-4-comunicação) | [Comunicações Personalizadas](#épico-7-comunicações-personalizadas) (EP07) | Receber notificações personalizadas baseadas em localização ([US31](./historia-de-usuario.md)) | RF03 | SH | Validado | [BR03](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) | [Ana Victória](https://github.com/navicg) |
+| [Serviços do Cidadão](#tema-3-serviços-do-cidadão) | [Informações Públicas](#épico-5-informações-públicas) (EP05) | Acessar e visualizar notícias relevantes ([US32](./historia-de-usuario.md)) | RF09 | CH | Validado | [BR10](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) | [Ana Victória](https://github.com/navicg) |
+| [Usabilidade](#tema-2-usabilidade) | [Interface Personalizável](#épico-2-interface-personalizável) (EP02) | Menu com principais funções na tela inicial ([US33](./historia-de-usuario.md)) | RF15 | MH | Validado | [BR16](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) | [Ana Victória](https://github.com/navicg) |
+| [Serviços do Cidadão](#tema-3-serviços-do-cidadão) | [Serviços Centralizados](#épico-4-serviços-centralizados) (EP04) | Links para serviços externos com explicações claras ([US34](./historia-de-usuario.md)) | RF20 | MH | Validado | [EN02](../../elicitacao/tec_elicitacao/entrevista.md#anchor_EN) | [Ana Victória](https://github.com/navicg) |
+| [Autenticação](#tema-1-autenticação) | [Autenticação Segura](#épico-1-autenticação-segura) (EP01) | Estabilidade e desempenho em redes móveis ([US35](./historia-de-usuario.md)) | RNF13 | SH | Validado | [EN03](../../elicitacao/tec_elicitacao/entrevista.md#anchor_EN) | [Ana Victória](https://github.com/navicg) |
 
 | **Autor** | **Usuário Participante** |
 | :-------- | :---------------------- |
-| [Ana Victória](https://github.com/navicg) | |
+| [Ana Victória](https://github.com/navicg) | Ana Geralda Xavier |
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Ana Victória](https://github.com/navicg), 2025).</p></font>
 
+## Termo de consentimento de imagem 
+Este documento confirma que a cidadã Ana Geralda Xavier forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1xYrhXi9XEChbp37phZao5D57Tu_ZPrM6/view?usp=sharing)
+
+<p style="text-align: center"><font size="3">Fonte: Elaborado por (<a href="https://github.com/navicg">Ana Victória</a>, 2025).</font></p>
 
 ### Validação 2 - Artur Mendonça
 
@@ -427,3 +434,4 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | 2.1 | Ajuste dos temas e épicos, e adição de rastreabilidade (hyperlinks)  | [Artur Mendonça](https://github.com/ArtyMend07) e [Gabriel Lopes](https://github.com/BrzGab) | 01/06/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 01/06/2025 | 
 | 2.2 | Adicionando Entrevista e Termo de consentimento  | [Karoline Luz](https://github.com/KarolineLuz) | 01/06/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 01/06/2025 |
 | 2.3 | Correção das prioridades dos requisitos RF16, RF25, RF26, RF28, RF29, RF43, RNF16  | [Artur Mendonça](https://github.com/ArtyMend07) | 01/06/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 01/06/2025 |
+| 2.4 | Validação do Product Backlog RF01, RF02, RF03, RF09, RF15, RF20, RNF13 | [Ana Victória](https://github.com/navicg) | 01/06/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 01/06/2025 |
