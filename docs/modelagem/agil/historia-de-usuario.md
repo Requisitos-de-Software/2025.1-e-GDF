@@ -62,7 +62,7 @@ As técnicas de elicitação aplicadas foram:
   - **INT**: Introspecção  
 
 
-| História de Usuário | Autor | Requisito Realcionado | Rastreabilidade do Requisito |
+| História de Usuário | Autor | Requisito Relacionado | Rastreabilidade do Requisito |
 | --- | --- | --- | --- |
 | [US01](#us01) | [Luiza da Silva Pugas](https://github.com/Luizaxx) | RF22 | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN04</a> |
 | [US02](#us02) | [Luiza da Silva Pugas](https://github.com/Luizaxx) | RF18 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR20</a> |
@@ -798,16 +798,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     ---
 
-    #### Subtarefas
-
-    - <input type="checkbox"> Implementar controles deslizantes ou botões para ajuste de fonte.
-    - <input type="checkbox"> Criar temas de alto contraste seguindo diretrizes de acessibilidade.
-    - <input type="checkbox"> Aplicar mudanças dinamicamente em todos os componentes.
-    - <input type="checkbox"> Persistir preferências de acessibilidade no perfil do usuário.
-    - <input type="checkbox"> Testar conformidade com WCAG 2.1 nível AA.
-
-    ---
-
     #### Rastreabilidade
 
     - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF07</a>
@@ -852,16 +842,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     - <input type="checkbox"> Todos os elementos da interface devem se adaptar corretamente ao tema escuro.
     - <input type="checkbox"> A escolha do usuário deve ser salva e aplicada automaticamente em acessos futuros.
     - <input type="checkbox"> O contraste no modo escuro deve atender aos padrões de acessibilidade.
-
-    ---
-
-    #### Subtarefas
-
-    - <input type="checkbox"> Criar paleta de cores para o tema escuro.
-    - <input type="checkbox"> Implementar toggle switch para alternar entre temas.
-    - <input type="checkbox"> Adaptar todos os componentes visuais para o modo escuro.
-    - <input type="checkbox"> Salvar preferência de tema no armazenamento local/perfil.
-    - <input type="checkbox"> Validar contraste e legibilidade no modo escuro.
 
     ---
 
@@ -913,16 +893,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     ---
 
-    #### Subtarefas
-
-    - <input type="checkbox"> Desenvolver templates para relatórios e comprovantes.
-    - <input type="checkbox"> Implementar gerador de PDF com dados do agendamento.
-    - <input type="checkbox"> Criar sistema de filtros para busca de agendamentos.
-    - <input type="checkbox"> Adicionar código de verificação/QR Code aos comprovantes.
-    - <input type="checkbox"> Integrar opções de compartilhamento e download.
-
-    ---
-
     #### Rastreabilidade
 
     - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF10</a>
@@ -967,16 +937,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     - <input type="checkbox"> O usuário deve poder visualizar a rota completa da linha no mapa.
     - <input type="checkbox"> Deve ser possível buscar linhas por número ou destino.
     - <input type="checkbox"> O sistema deve indicar claramente quando não há dados disponíveis para uma linha.
-
-    ---
-
-    #### Subtarefas
-
-    - <input type="checkbox"> Integrar API de rastreamento de transporte público.
-    - <input type="checkbox"> Implementar mapa interativo com marcadores de ônibus.
-    - <input type="checkbox"> Desenvolver algoritmo de previsão de chegada.
-    - <input type="checkbox"> Criar sistema de busca e filtro de linhas.
-    - <input type="checkbox"> Implementar atualização automática da posição dos veículos.
 
     ---
 
@@ -1027,16 +987,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     ---
 
-    #### Subtarefas
-
-    - <input type="checkbox"> Criar interface organizada para serviços de impostos.
-    - <input type="checkbox"> Desenvolver guias passo a passo para cada tipo de imposto.
-    - <input type="checkbox"> Integrar com sistemas de geração de boletos fiscais.
-    - <input type="checkbox"> Implementar calendário de vencimentos e alertas.
-    - <input type="checkbox"> Adicionar recursos visuais explicativos (imagens, vídeos).
-
-    ---
-
     #### Rastreabilidade
 
     - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF23</a>
@@ -1079,16 +1029,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     - <input type="checkbox"> Deve haver subcategorias para refinamento da classificação.
     - <input type="checkbox"> O usuário deve poder selecionar apenas uma categoria principal por ocorrência.
     - <input type="checkbox"> A interface deve sugerir a categoria mais adequada baseada em palavras-chave.
-
-    ---
-
-    #### Subtarefas
-
-    - <input type="checkbox"> Definir taxonomia de categorias com órgãos responsáveis.
-    - <input type="checkbox"> Criar interface de seleção hierárquica de categorias.
-    - <input type="checkbox"> Implementar sistema de sugestão baseado em palavras-chave.
-    - <input type="checkbox"> Mapear categorias com órgãos e departamentos responsáveis.
-    - <input type="checkbox"> Adicionar tooltips explicativos para categorias ambíguas.
 
     ---
 
@@ -1138,18 +1078,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     - <input type="checkbox"> Logs de acesso devem ser criptografados e auditáveis.
     - <input type="checkbox"> Dados sensíveis em trânsito devem ter criptografia fim-a-fim.
     - <input type="checkbox"> O sistema deve detectar e alertar sobre tentativas de acesso suspeitas.
-
-    ---
-
-    #### Subtarefas
-
-    - <input type="checkbox"> Implementar camada de criptografia para banco de dados.
-    - <input type="checkbox"> Configurar certificados SSL/TLS atualizados automaticamente.
-    - <input type="checkbox"> Desenvolver sistema de hash seguro para senhas.
-    - <input type="checkbox"> Integrar serviços de autenticação multifator (SMS, app authenticator).
-    - <input type="checkbox"> Criar sistema de monitoramento e alertas de segurança.
-    - <input type="checkbox"> Implementar políticas de rotação de chaves criptográficas.
-    - <input type="checkbox"> Realizar testes de penetração e auditoria de segurança.
 
     ---
 
@@ -1216,16 +1144,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 	---
 
-	#### Subtarefas
-
-	- <input type="checkbox"> Mapear os serviços do GDF que exigem agendamento.
-	- <input type="checkbox"> Criar interface para exibição consolidada de agendamentos.
-	- <input type="checkbox"> Integrar sistema com as APIs dos serviços para obtenção dos dados.
-	- <input type="checkbox"> Implementar filtros e ordenações por tipo de serviço e data.
-	- <input type="checkbox"> Garantir acessibilidade da interface (WCAG).
-
-	---
-
 	#### Rastreabilidade
 
 	- **Requisito Funcional Relacionado:** <a href="../tec_elicitacao/brainstorming/#anchor_BS">BR17</a>
@@ -1266,16 +1184,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 	- <input type="checkbox"> Deve ser possível anexar uma descrição e foto ao ponto marcado.
 	- <input type="checkbox"> O sistema deve registrar a coordenada geográfica do ponto selecionado.
 	- <input type="checkbox"> O mapa deve permitir busca por endereço para facilitar a localização.
-
-	---
-
-	#### Subtarefas
-
-	- <input type="checkbox"> Integrar API de mapa interativo (ex: Google Maps ou OpenStreetMap).
-	- <input type="checkbox"> Criar interface para seleção e marcação do local da ocorrência.
-	- <input type="checkbox"> Implementar campos para descrição e upload de imagem.
-	- <input type="checkbox"> Validar dados geográficos e armazenar com o reporte.
-	- <input type="checkbox"> Adicionar busca de endereços com sugestão automática.
 
 	---
 
@@ -1323,16 +1231,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 	---
 
-	#### Subtarefas
-
-	- <input type="checkbox"> Identificar os serviços de emergência relevantes para exibir.
-	- <input type="checkbox"> Criar componente visual destacado para número da polícia.
-	- <input type="checkbox"> Implementar funcionalidade de chamada direta.
-	- <input type="checkbox"> Garantir visibilidade do recurso mesmo sem autenticação.
-	- <input type="checkbox"> Testar responsividade e acessibilidade do botão.
-
-	---
-
 	#### Rastreabilidade
 
 	- **Requisitos Funcionais Relacionados:** <a href="../tec_elicitacao/entrevista/#anchor_EN10">EN10</a>, <a href="../tec_elicitacao/entrevista/#anchor_INT05">INT05</a>
@@ -1375,17 +1273,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 	- <input type="checkbox"> O sistema deve gerar um protocolo para acompanhamento da solicitação.
 
 	---
-
-	#### Subtarefas
-
-	- <input type="checkbox"> Definir os serviços públicos que poderão ser solicitados via aplicativo.
-	- <input type="checkbox"> Criar interface de seleção e detalhamento da solicitação.
-	- <input type="checkbox"> Integrar módulo de geolocalização para marcação do local.
-	- <input type="checkbox"> Implementar envio de imagens junto à solicitação.
-	- <input type="checkbox"> Desenvolver sistema de protocolo e acompanhamento.
-
-	---
-
 	#### Rastreabilidade
 
 	- **Requisito Funcional Relacionado:** <a href="../tec_elicitacao/analisededocumentos/#anchor_AD02">AD02</a>
@@ -1426,16 +1313,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 	- <input type="checkbox"> O mapa deve permitir filtragem por tipo de serviço e status da solicitação.
 	- <input type="checkbox"> A interface deve permitir zoom e movimentação do mapa.
 	- <input type="checkbox"> As informações devem ser atualizadas em tempo real.
-
-	---
-
-	#### Subtarefas
-
-	- <input type="checkbox"> Integrar API de mapas com capacidade de marcação dinâmica.
-	- <input type="checkbox"> Mapear dados das solicitações com coordenadas geográficas.
-	- <input type="checkbox"> Criar marcadores customizados por tipo/status de serviço.
-	- <input type="checkbox"> Implementar sistema de filtros por categoria e status.
-	- <input type="checkbox"> Garantir responsividade e desempenho da visualização no mapa.
 
 	---
 
@@ -1484,16 +1361,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 	---
 
-	#### Subtarefas
-
-	- <input type="checkbox"> Definir as dúvidas frequentes e respostas padrão.
-	- <input type="checkbox"> Integrar API ou serviço de chatbot com o aplicativo.
-	- <input type="checkbox"> Criar interface de chat com histórico de conversas.
-	- <input type="checkbox"> Implementar fallback para atendimento humano quando necessário.
-	- <input type="checkbox"> Realizar testes de usabilidade com interações reais.
-
-	---
-
 	#### Rastreabilidade
 
 	- **Requisito Funcional Relacionado:** RF43
@@ -1535,16 +1402,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 	- <input type="checkbox"> As funcionalidades devem estar organizadas de forma intuitiva e com linguagem clara.
 	- <input type="checkbox"> O aplicativo deve ser compatível com leitores de tela.
 	- <input type="checkbox"> Deve haver possibilidade de ativar um modo de acessibilidade com alto contraste.
-
-	---
-
-	#### Subtarefas
-
-	- <input type="checkbox"> Implementar diretrizes de design inclusivo voltado para idosos.
-	- <input type="checkbox"> Testar o aplicativo com usuários reais da terceira idade.
-	- <input type="checkbox"> Criar modo de acessibilidade configurável.
-	- <input type="checkbox"> Garantir compatibilidade com ferramentas de apoio, como leitores de tela.
-	- <input type="checkbox"> Reescrever textos com linguagem simples e direta.
 
 	---
 
@@ -1611,16 +1468,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
     ---
 
-    #### Subtarefas
-
-    - <input type="checkbox"> Desenvolver interface de login com campos de usuário e senha.
-    - <input type="checkbox"> Implementar mecanismo de autenticação rápida.
-    - <input type="checkbox"> Criar mensagens de erro para diferentes falhas.
-    - <input type="checkbox"> Testar o tempo médio de resposta do login.
-    - <input type="checkbox"> Implementar fluxo de recuperação de senha.
-
-    ---
-
     #### Rastreabilidade
 
     - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF01</a>
@@ -1666,16 +1513,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     - <input type="checkbox"> Deve haver um tutorial opcional na primeira utilização.
     - <input type="checkbox"> As fontes e botões devem ter tamanho adequado para facilitar a leitura e interação.
     - <input type="checkbox"> O sistema deve possuir suporte a leitura por voz.
-
-    ---
-
-    #### Subtarefas
-
-    - <input type="checkbox"> Projetar uma interface limpa e intuitiva.
-    - <input type="checkbox"> Criar tutorial guiado de apresentação das funções.
-    - <input type="checkbox"> Implementar validações de acessibilidade.
-    - <input type="checkbox"> Realizar testes com usuários não familiarizados com tecnologia.
-    - <input type="checkbox"> Adicionar suporte a leitores de tela.
 
     ---
 
@@ -1725,16 +1562,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
     ---
 
-    #### Subtarefas
-
-    - <input type="checkbox"> Implementar serviço de geolocalização.
-    - <input type="checkbox"> Criar lógica de disparo de notificações baseada em localização.
-    - <input type="checkbox"> Desenvolver painel de configurações para ativar/desativar notificações.
-    - <input type="checkbox"> Validar segurança no tratamento de dados de localização.
-    - <input type="checkbox"> Testar atualização dinâmica das notificações conforme localização.
-
-    ---
-
     #### Rastreabilidade
 
     - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF03</a>
@@ -1779,16 +1606,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     - <input type="checkbox"> As notícias devem ser classificadas por relevância ou data.
     - <input type="checkbox"> O carregamento das notícias deve ser rápido e sem travamentos.
     - <input type="checkbox"> O sistema deve permitir favoritar notícias para leitura posterior.
-
-    ---
-
-    #### Subtarefas
-
-    - <input type="checkbox"> Integrar API de notícias.
-    - <input type="checkbox"> Desenvolver interface para exibição das notícias.
-    - <input type="checkbox"> Criar filtros por categoria e data.
-    - <input type="checkbox"> Implementar cache para otimizar carregamento.
-    - <input type="checkbox"> Desenvolver funcionalidade de favoritar notícias.
 
     ---
 
@@ -1841,16 +1658,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
     ---
 
-    #### Subtarefas
-
-    - <input type="checkbox"> Projetar interface do menu principal.
-    - <input type="checkbox"> Implementar navegação entre as funcionalidades.
-    - <input type="checkbox"> Garantir responsividade do layout.
-    - <input type="checkbox"> Realizar testes de usabilidade do menu.
-    - <input type="checkbox"> Implementar funcionalidade de personalização do menu.
-
-    ---
-
     #### Rastreabilidade
 
     - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF15</a>
@@ -1895,16 +1702,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     - <input type="checkbox"> O sistema deve garantir que os links estejam sempre atualizados.
     - <input type="checkbox"> Os textos explicativos devem ser simples e objetivos.
     - <input type="checkbox"> O sistema deve permitir ao usuário avaliar a utilidade do link acessado.
-
-    ---
-
-    #### Subtarefas
-
-    - <input type="checkbox"> Desenvolver componente de exibição de links com descrição.
-    - <input type="checkbox"> Implementar abertura segura de links externos.
-    - <input type="checkbox"> Criar rotina de validação periódica dos links.
-    - <input type="checkbox"> Revisar textos explicativos para garantir clareza.
-    - <input type="checkbox"> Implementar sistema de avaliação de utilidade dos links.
 
     ---
 
@@ -1954,16 +1751,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     - <input type="checkbox"> O sistema deve exibir mensagens informativas em caso de falhas temporárias.
     - <input type="checkbox"> O carregamento de dados deve ser otimizado para minimizar o consumo de banda.
     - <input type="checkbox"> O sistema deve retomar automaticamente a conexão após falhas temporárias.
-
-    ---
-
-    #### Subtarefas
-
-    - <input type="checkbox"> Implementar sistema de monitoramento de estabilidade.
-    - <input type="checkbox"> Otimizar chamadas de rede e processos de carregamento.
-    - <input type="checkbox"> Desenvolver tratamento de exceções para falhas de rede.
-    - <input type="checkbox"> Realizar testes de estresse e estabilidade.
-    - <input type="checkbox"> Implementar reconexão automática após perda de rede.
 
     ---
 
@@ -2031,16 +1818,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
     ---
 
-    #### Subtarefas
-
-    - <input type="checkbox"> Desenvolver interface de visualização centralizada.
-    - <input type="checkbox"> Implementar sistema de filtros e ordenação.
-    - <input type="checkbox"> Criar mecanismo de atualização automática.
-    - <input type="checkbox"> Integrar com diferentes serviços do sistema.
-    - <input type="checkbox"> Implementar cache para acesso offline aos dados.
-
-    ---
-
     #### Rastreabilidade
 
     - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF04</a>
@@ -2085,16 +1862,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     - <input type="checkbox"> Deve haver suporte para diferentes sotaques e variações linguísticas.
     - <input type="checkbox"> O assistente deve funcionar mesmo com ruído ambiente moderado.
     - <input type="checkbox"> O usuário deve poder ativar/desativar o assistente facilmente.
-
-    ---
-
-    #### Subtarefas
-
-    - <input type="checkbox"> Implementar sistema de reconhecimento de voz.
-    - <input type="checkbox"> Desenvolver engine de processamento de linguagem natural.
-    - <input type="checkbox"> Criar interface de ativação/desativação do assistente.
-    - <input type="checkbox"> Integrar sistema de síntese de voz para respostas.
-    - <input type="checkbox"> Realizar testes de usabilidade com diferentes perfis de usuário.
 
     ---
 
@@ -2144,17 +1911,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     - <input type="checkbox"> Os tutoriais devem ser acessíveis offline após primeiro acesso.
 
     ---
-
-    #### Subtarefas
-
-    - <input type="checkbox"> Criar estrutura de navegação dos tutoriais.
-    - <input type="checkbox"> Desenvolver conteúdo instrucional com imagens.
-    - <input type="checkbox"> Implementar sistema de marcação de progresso.
-    - <input type="checkbox"> Adicionar cache para acesso offline.
-    - <input type="checkbox"> Testar clareza e efetividade dos tutoriais.
-
-    ---
-
     #### Rastreabilidade
 
     - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF06</a>
@@ -2200,16 +1956,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     - <input type="checkbox"> A integração com serviços de mobilidade deve ser em tempo real.
     - <input type="checkbox"> O usuário deve poder alternar entre os serviços facilmente.
     - <input type="checkbox"> As informações devem ser sincronizadas periodicamente.
-
-    ---
-
-    #### Subtarefas
-
-    - <input type="checkbox"> Implementar APIs de integração com cada serviço.
-    - <input type="checkbox"> Criar interfaces unificadas para acesso aos serviços.
-    - <input type="checkbox"> Desenvolver sistema de sincronização de dados.
-    - <input type="checkbox"> Implementar mecanismos de segurança para dados sensíveis.
-    - <input type="checkbox"> Realizar testes de integração com cada sistema.
 
     ---
 
@@ -2260,17 +2006,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     - <input type="checkbox"> Deve haver notificações sobre atualizações importantes.
 
     ---
-
-    #### Subtarefas
-
-    - <input type="checkbox"> Criar interface de visualização do calendário letivo.
-    - <input type="checkbox"> Implementar sistema de consulta de vagas.
-    - <input type="checkbox"> Desenvolver filtros de busca por região/escola.
-    - <input type="checkbox"> Integrar sistema de notificações.
-    - <input type="checkbox"> Realizar testes de atualização de dados.
-
-    ---
-
     #### Rastreabilidade
 
     - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF21</a>
@@ -2317,17 +2052,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     - <input type="checkbox"> O usuário deve receber atualizações sobre o status da ocorrência.
 
     ---
-
-    #### Subtarefas
-
-    - <input type="checkbox"> Criar formulário de registro de ocorrências.
-    - <input type="checkbox"> Implementar upload de imagens.
-    - <input type="checkbox"> Integrar sistema de geolocalização.
-    - <input type="checkbox"> Desenvolver geração de protocolos.
-    - <input type="checkbox"> Implementar sistema de notificações de status.
-
-    ---
-
     #### Rastreabilidade
 
     - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF33</a>
@@ -2371,16 +2095,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     - <input type="checkbox"> O aplicativo deve otimizar o carregamento de dados e imagens.
     - <input type="checkbox"> O sistema deve implementar cache para melhorar o tempo de resposta.
     - <input type="checkbox"> Deve haver monitoramento contínuo do tempo de resposta.
-
-    ---
-
-    #### Subtarefas
-
-    - <input type="checkbox"> Implementar sistema de monitoramento de performance.
-    - <input type="checkbox"> Otimizar consultas ao banco de dados.
-    - <input type="checkbox"> Criar sistema de cache para dados frequentemente acessados.
-    - <input type="checkbox"> Implementar lazy loading para imagens e conteúdo pesado.
-    - <input type="checkbox"> Desenvolver indicadores visuais de carregamento.
 
     ---
 
@@ -2444,15 +2158,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     - <input type="checkbox"> Devem estar incluídos agendamentos, solicitações e ações executadas.  
     - <input type="checkbox"> As informações devem estar organizadas por data.  
     - <input type="checkbox"> O usuário deve conseguir filtrar por tipo de interação.
-
-    ---
-
-    ### Subtarefas
-    - <input type="checkbox"> Criar modelo de dados para armazenar interações.  
-    - <input type="checkbox"> Desenvolver interface do histórico.  
-    - <input type="checkbox"> Implementar filtros e ordenações por tipo e data.  
-    - <input type="checkbox"> Garantir persistência e segurança dos dados.
-
     ---
 
     ### Rastreabilidade
@@ -2497,14 +2202,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     - <input type="checkbox"> As notícias devem conter título, resumo, data e link para leitura completa.  
     - <input type="checkbox"> As atualizações devem ocorrer de forma periódica.  
     - <input type="checkbox"> Deve ser possível compartilhar notícias via redes sociais.
-
-    ---
-
-    ### Subtarefas
-    - <input type="checkbox"> Integrar API de notícias do GDF.  
-    - <input type="checkbox"> Criar interface de listagem.  
-    - <input type="checkbox"> Exibir alertas para novas notícias.  
-    - <input type="checkbox"> Implementar botão de compartilhamento.
 
     ---
 
@@ -2553,13 +2250,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     ---
 
-    ### Subtarefas
-    - <input type="checkbox"> Conectar com sistema de agendamentos do GDF.  
-    - <input type="checkbox"> Criar interface de seleção de local, serviço e horário.  
-    - <input type="checkbox"> Implementar lógica de confirmação e envio de notificação.
-
-    ---
-
     ### Rastreabilidade
     - **Requisito Funcional Relacionado:** RF39
 
@@ -2603,15 +2293,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     - <input type="checkbox"> A funcionalidade deve estar segura e em conformidade com a LGPD.
 
     ---
-
-    ### Subtarefas
-    - <input type="checkbox"> Integrar API de emissão.  
-    - <input type="checkbox"> Criar visualizasor dos pdfs.
-    - <input type="checkbox"> Criar opção de download dos PDFs.  
-    - <input type="checkbox"> Garantir autenticação do usuário antes da emissão.
-
-    ---
-
     ### Rastreabilidade
     - **Requisito Funcional Relacionado:** RF40
 
@@ -2650,11 +2331,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     - <input type="checkbox"> O sistema deve permitir notificar mudanças ou atrasos.  
     - <input type="checkbox"> A interface deve ser clara e acessível para todos os perfis.
 
-    ### Subtarefas
-    - <input type="checkbox"> Integrar sistema educacional do GDF.  
-    - <input type="checkbox"> Criar telas específicas para alunos e professores.  
-    - <input type="checkbox"> Implementar filtros por disciplina, data e tipo.  
-    - <input type="checkbox"> Desenvolver notificações de alerta para novas pendências.
+    ---
 
     ### Rastreabilidade
     - **Requisito Funcional Relacionado:** RF24
@@ -2698,15 +2375,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     - <input type="checkbox"> O conteúdo da notificação deve ser claro e conciso.
 
     ---
-
-    ### Subtarefas
-    - <input type="checkbox"> Criar sistema de preferências do usuário.  
-    - <input type="checkbox"> Implementar envio segmentado de notificações.  
-    - <input type="checkbox"> Integrar com sistema de push notifications.  
-    - <input type="checkbox"> Criar tela de configurações de notificações.
-
-    ---
-
     ### Rastreabilidade
     - **Requisito Funcional Relacionado:** RF17
 
@@ -2749,14 +2417,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     - <input type="checkbox"> Os dados salvos devem ser atualizados automaticamente quando conectados com a internet.
 
     ---
-
-    ### Subtarefas
-    - <input type="checkbox"> Implementar armazenamento local.  
-    - <input type="checkbox"> Adicionar mensagem "deconectado" quando não tiver acesso à internet.  
-    - <input type="checkbox"> Sincronizar dados automaticamente quando houver conexão.  
-
-    ---
-
     ### Rastreabilidade
     - **Requisito Não Funcional Relacionado:** RNF23
 
@@ -2850,3 +2510,4 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 | 1.54  | Adicionando o link da validação das histórias de usuário | [Gabriel Lopes](https://github.com/BrzGab) | 31/05/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 03/06/2025 |
 | 1.55  | Adicionando metodoliga de moscow | [Karoline Luz](https://github.com/KarolineLuz) | 31/05/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 03/06/2025 |
 | 1.56  | Adicionando Video de entrevista e Termo de Consentimento | [Karoline Luz](https://github.com/KarolineLuz) | 31/05/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 03/06/2025 |
+| 1.57  | Removendo Subtarefas | [Karoline Luz](https://github.com/KarolineLuz) |01/05/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 03/06/2025 |
