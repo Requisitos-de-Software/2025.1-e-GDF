@@ -448,3 +448,4 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | 2.2 | Adicionando Entrevista e Termo de consentimento  | [Karoline Luz](https://github.com/KarolineLuz) | 01/06/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 01/06/2025 |
 | 2.3 | Correção das prioridades dos requisitos RF16, RF25, RF26, RF28, RF29, RF43, RNF16  | [Artur Mendonça](https://github.com/ArtyMend07) | 01/06/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 01/06/2025 |
 | 2.4 | Validação do Product Backlog RF01, RF02, RF03, RF09, RF15, RF20, RNF13 | [Ana Victória](https://github.com/navicg) | 01/06/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 01/06/2025 |
+| 2.5 | Validaçaõ do Product Backlog com usuario real RF07, RF08, RF10, RF19, RF23, RF34, RNF22 | [Gabriel Lopes](https://github.com/BrzGab) | 01/06/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 30/05/2025 |
