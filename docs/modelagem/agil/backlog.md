@@ -317,7 +317,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 ## Termo de consentimento de imagem 
 Este documento confirma que o cidadão Vitor Pereira forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
 
-O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](./assets/backlog-termo/Bianca-termo)
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](/docs/assets/backlog-termo/Bianca-termo%20de%20Consentimento%20.pdf)
 
 
 ### Validação 5 - Karoline Luz
