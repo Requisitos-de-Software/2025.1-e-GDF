@@ -544,11 +544,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     #### Critérios de Aceitação
 
-    - <input type="checkbox"> O sistema deve disponibilizar uma lista com os idiomas suportados para seleção.
-    - <input type="checkbox"> A alteração de idioma deve refletir imediatamente na interface do usuário.
-    - <input type="checkbox"> A preferência de idioma do usuário deve ser salva para futuras sessões.
-    - <input type="checkbox"> O sistema deve manter a consistência da interface após a mudança de idioma.
-    - <input type="checkbox"> Caso o idioma selecionado não seja suportado, deve-se exibir mensagem apropriada.
+    - <input type="checkbox" checked> O sistema deve disponibilizar uma lista com os idiomas suportados para seleção.
+    - <input type="checkbox" checked> A alteração de idioma deve refletir imediatamente na interface do usuário.
+    - <input type="checkbox" checked> A preferência de idioma do usuário deve ser salva para futuras sessões.
+    - <input type="checkbox" checked> O sistema deve manter a consistência da interface após a mudança de idioma.
+    - <input type="checkbox" checked> Caso o idioma selecionado não seja suportado, deve-se exibir mensagem apropriada.
 
     ---
 
@@ -570,10 +570,10 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     #### Estimativa de Esforço
 
-    - **Prioridade:** Médio
+    - **Prioridade:** Alta
     
     #### Priorização (Técnica MoSCoW)    
-    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox" checked> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
@@ -600,11 +600,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     #### Critérios de Aceitação
 
-    - <input type="checkbox"> O sistema deve permitir que o usuário edite informações do seu perfil (ex: interesses, preferências, localização).
-    - <input type="checkbox"> O usuário deve conseguir selecionar categorias ou tipos de serviços de interesse.
-    - <input type="checkbox"> As preferências personalizadas devem ser salvas e usadas para ajustar as recomendações.
-    - <input type="checkbox"> O sistema deve apresentar sugestões baseadas no perfil e preferências configuradas.
-    - <input type="checkbox"> O usuário deve poder alterar suas preferências a qualquer momento.
+    - <input type="checkbox" checked> O sistema deve permitir que o usuário edite informações do seu perfil (ex: interesses, preferências, localização).
+    - <input type="checkbox" checked> O usuário deve conseguir selecionar categorias ou tipos de serviços de interesse.
+    - <input type="checkbox" checked> As preferências personalizadas devem ser salvas e usadas para ajustar as recomendações.
+    - <input type="checkbox" checked> O sistema deve apresentar sugestões baseadas no perfil e preferências configuradas.
+    - <input type="checkbox" checked> O usuário deve poder alterar suas preferências a qualquer momento.
 
     ---
 
@@ -626,10 +626,10 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     #### Estimativa de Esforço
 
-    - **Prioridade:** Médio
+    - **Prioridade:** Alta
     
     #### Priorização (Técnica MoSCoW)    
-    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox" checked> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
@@ -655,11 +655,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     #### Critérios de Aceitação
 
-    - <input type="checkbox"> O sistema deve enviar notificações ou mensagens curtas para alertar sobre vencimentos próximos.
-    - <input type="checkbox"> O usuário deve poder configurar quais tipos de lembretes deseja receber.
-    - <input type="checkbox"> As mensagens devem ser claras, objetivas e conter informações relevantes.
-    - <input type="checkbox"> O sistema deve garantir o envio das mensagens dentro do prazo configurado.
-    - <input type="checkbox"> O usuário deve poder ativar ou desativar essas notificações a qualquer momento.
+    - <input type="checkbox" checked> O sistema deve enviar notificações ou mensagens curtas para alertar sobre vencimentos próximos.
+    - <input type="checkbox" checked> O usuário deve poder configurar quais tipos de lembretes deseja receber.
+    - <input type="checkbox" checked> As mensagens devem ser claras, objetivas e conter informações relevantes.
+    - <input type="checkbox" checked> O sistema deve garantir o envio das mensagens dentro do prazo configurado.
+    - <input type="checkbox" checked> O usuário deve poder ativar ou desativar essas notificações a qualquer momento.
 
     ---
 
@@ -681,10 +681,10 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     #### Estimativa de Esforço
 
-    - **Prioridade:** Médio
+    - **Prioridade:** Alta
     
     #### Priorização (Técnica MoSCoW)    
-    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox" checked> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
@@ -710,11 +710,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     #### Critérios de Aceitação
 
-    - <input type="checkbox"> O sistema deve apresentar claramente as opções de serviço (agendamento, limpeza, reparo).
-    - <input type="checkbox"> O usuário deve conseguir selecionar apenas um tipo de serviço por solicitação.
-    - <input type="checkbox"> A seleção do tipo de serviço deve influenciar nas opções e recomendações exibidas.
-    - <input type="checkbox"> O sistema deve confirmar a seleção antes de prosseguir com o atendimento.
-    - <input type="checkbox"> O usuário pode alterar a seleção antes da confirmação final.
+    - <input type="checkbox" checked> O sistema deve apresentar claramente as opções de serviço (agendamento, limpeza, reparo).
+    - <input type="checkbox" checked> O usuário deve conseguir selecionar apenas um tipo de serviço por solicitação.
+    - <input type="checkbox" checked> A seleção do tipo de serviço deve influenciar nas opções e recomendações exibidas.
+    - <input type="checkbox" checked> O sistema deve confirmar a seleção antes de prosseguir com o atendimento.
+    - <input type="checkbox" checked> O usuário pode alterar a seleção antes da confirmação final.
 
     ---
 
@@ -736,11 +736,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     #### Estimativa de Esforço
 
-    - **Prioridade:** Médio
+    - **Prioridade:** Alta
 
       
     #### Priorização (Técnica MoSCoW)    
-    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox" checked> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
@@ -766,11 +766,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     #### Critérios de Aceitação
 
-    - <input type="checkbox"> O sistema deve permitir a inserção de texto descritivo livre sobre a ocorrência.
-    - <input type="checkbox"> O usuário deve conseguir anexar uma ou mais imagens relacionadas à ocorrência.
-    - <input type="checkbox"> O sistema deve capturar ou permitir o envio da localização GPS do usuário ou da ocorrência.
-    - <input type="checkbox"> As informações adicionadas devem ser salvas corretamente e associadas à ocorrência.
-    - <input type="checkbox"> O usuário deve receber confirmação do sucesso no registro dos dados.
+    - <input type="checkbox" checked> O sistema deve permitir a inserção de texto descritivo livre sobre a ocorrência.
+    - <input type="checkbox" checked> O usuário deve conseguir anexar uma ou mais imagens relacionadas à ocorrência.
+    - <input type="checkbox" checked> O sistema deve capturar ou permitir o envio da localização GPS do usuário ou da ocorrência.
+    - <input type="checkbox" checked> As informações adicionadas devem ser salvas corretamente e associadas à ocorrência.
+    - <input type="checkbox" checked> O usuário deve receber confirmação do sucesso no registro dos dados.
 
     ---
 
@@ -792,11 +792,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     #### Estimativa de Esforço
 
-    - **Prioridade:** Médio
+    - **Prioridade:** Alta
 
     
     #### Priorização (Técnica MoSCoW)    
-    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox" checked> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
@@ -822,11 +822,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     #### Critérios de Aceitação
 
-    - <input type="checkbox"> O sistema deve disponibilizar informações sobre os serviços de transporte público disponíveis.
-    - <input type="checkbox"> O usuário deve poder iniciar o pré-cadastro do Cartão Mobilidade pelo aplicativo.
-    - <input type="checkbox"> O sistema deve validar os dados fornecidos no pré-cadastro.
-    - <input type="checkbox"> O usuário deve receber confirmação e orientações sobre os próximos passos após o pré-cadastro.
-    - <input type="checkbox"> O sistema deve garantir a segurança e privacidade dos dados pessoais durante o processo.
+    - <input type="checkbox" checked> O sistema deve disponibilizar informações sobre os serviços de transporte público disponíveis.
+    - <input type="checkbox" checked> O usuário deve poder iniciar o pré-cadastro do Cartão Mobilidade pelo aplicativo.
+    - <input type="checkbox" checked> O sistema deve validar os dados fornecidos no pré-cadastro.
+    - <input type="checkbox" checked> O usuário deve receber confirmação e orientações sobre os próximos passos após o pré-cadastro.
+    - <input type="checkbox" checked> O sistema deve garantir a segurança e privacidade dos dados pessoais durante o processo.
 
     ---
 
@@ -848,11 +848,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     #### Estimativa de Esforço
 
-    - **Prioridade:** Médio
+    - **Prioridade:** Alta 
 
       
     #### Priorização (Técnica MoSCoW)    
-    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox" checked> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
@@ -878,10 +878,10 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     #### Critérios de Aceitação
 
-    - <input type="checkbox"> O aplicativo deve ser testado e validado em versões recentes do Android e iOS.
-    - <input type="checkbox"> Todas as funcionalidades principais devem ter comportamento consistente em ambas as plataformas.
-    - <input type="checkbox"> O layout e a interface devem se adaptar adequadamente a diferentes tamanhos de tela.
-    - <input type="checkbox"> O desempenho do aplicativo deve ser equivalente nas duas plataformas.
+    - <input type="checkbox" checked> O aplicativo deve ser testado e validado em versões recentes do Android e iOS.
+    - <input type="checkbox" checked> Todas as funcionalidades principais devem ter comportamento consistente em ambas as plataformas.
+    - <input type="checkbox" checked> O layout e a interface devem se adaptar adequadamente a diferentes tamanhos de tela.
+    - <input type="checkbox" checked> O desempenho do aplicativo deve ser equivalente nas duas plataformas.
 
     ---
 
@@ -906,7 +906,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
       
     #### Priorização (Técnica MoSCoW)    
-    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox" checked> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
@@ -923,7 +923,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 ## Termo de consentimento de imagem 
 Este documento confirma que o cidadão Arthur Leite forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
 
-O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/assets/termo-de-imagem-hu/Termo_Consentimento_eGDF_ABNT__JOAO_assinado-Artur.pdf)
 
 **Vídeo 3** - Validação e Priorização com os usuário por [João Marcos Moraes](https://github.com/JJOAOMARCOSS)
 
@@ -934,7 +934,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 ## Termo de consentimento de imagem 
 Este documento confirma que o cidadão Vitor Pereira forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
 
-O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/assets/termo-de-imagem-hu/Termo_Consentimento_eGDF_ABNT_-JOAO_assinado_Victor.pdf)
 
 | **Nome** | **Função** |  **Data**  | **Hora** |
 | :------------------------------------------------: | :----------------------: | :--------: | :------: |
