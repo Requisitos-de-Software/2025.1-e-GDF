@@ -782,6 +782,125 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Gabriel Lopes](https://github.com/BrzGab), 2025)</p></font>
 
+## NFR05: Confiabilidade
+
+Este SIG (Softgoal Interdependency Graph) foi elaborado a partir de requisitos não funcionais relacionados à confiabilidade do sistema. Esses requisitos garantem que o sistema seja robusto, estável e funcione corretamente em diferentes situações e dispositivos.
+
+## Requisitos:
+Requisitos utilizados para desenvolver o SIG da Figura 5:
+
+### Tabela de Requisitos Relacionados à Confiabilidade
+
+| **Código** | **Descrição**                                                                                                                             |
+|------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| RNF01      | O sistema deve ser compatível com vários dispositivos, como Android e iOS.                                                                |
+| RNF08      | O layout deve ser responsivo para diferentes tamanhos de tela.                                                                            |
+| RNF12      | O aplicativo deve garantir que as informações exibidas estejam atualizadas e reflitam fielmente a realidade.                              |
+| RNF18      | O aplicativo deve ter uma aparência profissional e confiável para transmitir segurança aos usuários.                                      |
+| RNF19      | O aplicativo deve ser compatível com as versões mais recentes dos sistemas Android e iOS.                                                 |
+| RNF23      | O aplicativo deve funcionar em modo offline para consulta de registros ou informações previamente acessadas.                              |
+
+<p align="center"><i>Figura 5: SIG: Confiabilidade</i></p>
+
+<p align="center">
+  <img src="https://i.ibb.co/q3Wmb7Fb/confiabilidade.png" width="800">
+</p>
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Gabriel Lopes](https://github.com/BrzGab), 2025)</p></font>
+
+### Análise do SIG
+
+O diagrama de Confiabilidade foi estruturado utilizando decomposição **AND**, indicando que todos os sub-softgoals devem ser satisfeitos para alcançar o objetivo principal de confiabilidade do sistema.
+
+#### Softgoals identificados:
+1. **Compatibilidade de Plataforma** (RNF01)
+2. **Responsividade** (RNF08) 
+3. **Dados Atualizados** (RNF12)
+4. **Aparência Profissional** (RNF18)
+5. **Compatibilidade de Versões** (RNF19)
+6. **Funcionamento Offline** (RNF23)
+
+#### Operacionalizações:
+- **Para Compatibilidade de Plataforma**: "Testes em 95% dos dispositivos Android/iOS" [MAKE (++)]
+- **Para Compatibilidade de Versões**: "Suporte às 3 versões mais recentes" [MAKE (++)]
+- **Para Responsividade**: "Validação em múltiplos tamanhos de tela" [MAKE (++)] e "100% legibilidade garantida" [MAKE (++)]
+- **Para Aparência Profissional**: "85% aprovação em testes de percepção" [MAKE (++)]
+- **Para Dados Atualizados**: "Sincronização automática a cada 24h" [MAKE (++)]
+- **Para Funcionamento Offline**: "Cache local de dados" [MAKE (++)]
+
+#### Contribuições entre softgoals:
+- **Compatibilidade de Versões** → **Compatibilidade de Plataforma**: MAKE (++)
+- **Responsividade** → **Compatibilidade de Plataforma**: HELP (+)
+- **Aparência Profissional** → **Responsividade**: HELP (+)
+- **Funcionamento Offline** → **Dados Atualizados**: HURT (-)
+
+### Propagação dos Impactos
+
+A Tabela 25, apresentada a seguir, mostra a avaliação da propagação dos impactos no SIG de Confiabilidade.
+
+<p align="center"><b>Tabela 25</b> — Tabela de Impactos - Confiabilidade</p>
+
+| **NFR**                          | **Impacto** | **Avaliador**                                    |
+|----------------------------------|-------------|--------------------------------------------------|
+| Confiabilidade                   | ✓           | [Gabriel Lopes](https://github.com/BrzGab)       |
+| Compatibilidade de Plataforma    | ✓           | [Gabriel Lopes](https://github.com/BrzGab)       |
+| Compatibilidade de Versões       | ✓           | [Gabriel Lopes](https://github.com/BrzGab)       |
+| Responsividade                   | ✓           | [Gabriel Lopes](https://github.com/BrzGab)       |
+| Aparência Profissional           | 𝒲+          | [Gabriel Lopes](https://github.com/BrzGab)       |
+| Dados Atualizados                | 𝒲+          | [Gabriel Lopes](https://github.com/BrzGab)       |
+| Funcionamento Offline            | ✓           | [Gabriel Lopes](https://github.com/BrzGab)       |
+| Testes em 95% dos dispositivos   | ✓           | [Gabriel Lopes](https://github.com/BrzGab)       |
+| Suporte 3 versões recentes       | ✓           | [Gabriel Lopes](https://github.com/BrzGab)       |
+| Validação múltiplos tamanhos     | ✓           | [Gabriel Lopes](https://github.com/BrzGab)       |
+| 100% legibilidade garantida      | ✓           | [Gabriel Lopes](https://github.com/BrzGab)       |
+| 85% aprovação em testes          | 𝒲+          | [Gabriel Lopes](https://github.com/BrzGab)       |
+| Sincronização a cada 24h         | 𝒲+          | [Gabriel Lopes](https://github.com/BrzGab)       |
+| Cache local de dados             | ✓           | [Gabriel Lopes](https://github.com/BrzGab)       |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Gabriel Lopes](https://github.com/BrzGab), 2025)</p></font>
+
+### Análise dos Resultados
+
+A análise da propagação mostra que:
+- Os requisitos de **compatibilidade** e **responsividade** foram plenamente satisfeitos (✓)
+- **Aparência Profissional** e **Dados Atualizados** foram fracamente satisfeitos (𝒲+), indicando necessidade de melhorias
+- Os requisitos de **funcionamento offline** e **compatibilidade de versões** foram plenamente satisfeitos (✓)
+- As operacionalizações relacionadas a testes e validações técnicas obtiveram satisfação plena
+
+### Priorização MoSCoW
+
+Aplicando a técnica MoSCoW aos requisitos de confiabilidade:
+
+| **Requisito** | **Prioridade** | **Justificativa**                                                                                           |
+|---------------|----------------|-------------------------------------------------------------------------------------------------------------|
+| RNF01         | **M** (Must)   | Compatibilidade multi-plataforma é essencial para alcançar todos os usuários                               |
+| RNF08         | **M** (Must)   | Responsividade é crítica para experiência do usuário em diferentes dispositivos                            |
+| RNF12         | **M** (Must)   | Dados atualizados são fundamentais para a credibilidade do sistema                                         |
+| RNF18         | **M** (Must)   | Aparência profissional impacta diretamente na confiança dos usuários                                       |
+| RNF19         | **M** (Must)   | Compatibilidade com versões recentes garante funcionamento nos dispositivos atuais                         |
+| RNF23         | **M** (Must)   | Funcionamento offline é essencial para áreas com conectividade limitada                                    |
+
+Todos os requisitos de confiabilidade foram classificados como **Must have**, refletindo sua importância crítica para o sucesso do sistema.
+
+### Validação com Usuário
+
+**Vídeo 2** - Validação e Priorização de NFR de Confiabilidade com usuário por [Gabriel Lopes](https://github.com/BrzGab)
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/[LINK_DO_VIDEO]" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/[LINK_DO_VIDEO]" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+| **Nome** | **Função** | **Data** | **Hora** |
+|:---------:|:------------------------:|:--------:|:--------:|
+| [Gabriel Lopes](https://github.com/BrzGab) | Elaborador dos NFR | 01/06/2025 | 00:00 |
+| Daniel Rodrigues Nascimento | Cidadão | 01/06/2025 | 00:00 |
+
+## Termo de consentimento de imagem 
+Este documento confirma que a(o) cidadão **Daniel Rodrigues Nascimento** forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1EB1p_smwvLfqsPcUb_7nWpKIXuzLOx02/view)
+
+
 ---
 
 ## Diagramas e Análises
@@ -841,3 +960,4 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | 1.13    | Adicção do video com o usuario | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 01/06/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 03/06/2025      |
 | 1.14    | Adicção do video com o usuario | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 01/06/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 03/06/2025      |
 | 1.15   | Adicionando draw.io NFR                               | [Karoline Luz da Conceição](https://github.com/KarolineLuz) e [Ana Victória Guedes da Costa](https://github.com/navicg) | 01/06/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)     | 01/06/2025      |
+| 1.16   | Adicionando diagrama NFR                               | [Gabriel Lopes](https://github.com/BrzGab) | 01/06/2025 | [Artur Mendonça](https://github.com/ArtyMend07)     | 01/06/2025      |
