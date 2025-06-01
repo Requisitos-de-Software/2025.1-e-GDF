@@ -139,11 +139,11 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
 
     #### Critérios de Aceitação
 
-    - <input type="checkbox"> O sistema deve redirecionar o usuário para a tela oficial de login do gov.br.
-    - <input type="checkbox"> Devem ser aceitas formas de autenticação oferecidas pelo gov.br (ex: senha, reconhecimento facial).
-    - <input type="checkbox"> Após login bem-sucedido, o sistema deve retornar o usuário ao app com sessão iniciada.
-    - <input type="checkbox"> Se o login falhar, uma mensagem clara deve ser exibida e o usuário poderá tentar novamente.
-    - <input type="checkbox"> O sistema deve estar em conformidade com a LGPD no tratamento de dados do usuário.
+    - <input type="checkbox" checked> O sistema deve redirecionar o usuário para a tela oficial de login do gov.br.
+    - <input type="checkbox"checked> Devem ser aceitas formas de autenticação oferecidas pelo gov.br (ex: senha, reconhecimento facial).
+    - <input type="checkbox"checked> Após login bem-sucedido, o sistema deve retornar o usuário ao app com sessão iniciada.
+    - <input type="checkbox"checked> Se o login falhar, uma mensagem clara deve ser exibida e o usuário poderá tentar novamente.
+    - <input type="checkbox"checked> O sistema deve estar em conformidade com a LGPD no tratamento de dados do usuário.
 
     ---
 
@@ -170,7 +170,7 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox"> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
-    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox" checked> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
     ----
 
@@ -194,11 +194,11 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
 
     #### Critérios de Aceitação
 
-    - <input type="checkbox"> O aplicativo deve permitir ao usuário salvar protocolos ou comprovantes em formato PDF ou imagem.
-    - <input type="checkbox"> O sistema deve oferecer a opção de compartilhamento via e-mail, WhatsApp ou outros aplicativos instalados.
-    - <input type="checkbox"> As opções de compartilhamento devem estar disponíveis após a conclusão de um serviço ou solicitação.
-    - <input type="checkbox"> O usuário deve receber uma confirmação visual de que o arquivo foi salvo ou compartilhado com sucesso.
-    - <input type="checkbox"> O recurso deve estar disponível mesmo em dispositivos com acesso restrito à internet (no caso de salvamento local).
+    - <input type="checkbox"checked> O aplicativo deve permitir ao usuário salvar protocolos ou comprovantes em formato PDF ou imagem.
+    - <input type="checkbox"checked> O sistema deve oferecer a opção de compartilhamento via e-mail, WhatsApp ou outros aplicativos instalados.
+    - <input type="checkbox"checked> As opções de compartilhamento devem estar disponíveis após a conclusão de um serviço ou solicitação.
+    - <input type="checkbox"checked> O usuário deve receber uma confirmação visual de que o arquivo foi salvo ou compartilhado com sucesso.
+    - <input type="checkbox"checked> O recurso deve estar disponível mesmo em dispositivos com acesso restrito à internet (no caso de salvamento local).
 
     ---
 
@@ -225,7 +225,7 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox"> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
-    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox" checked> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
     ----
     
@@ -250,11 +250,11 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
 
     #### Critérios de Aceitação
 
-    - <input type="checkbox"> O aplicativo deve disponibilizar um botão ou aba de "Ajuda" ou "Suporte" visível no menu principal.
-    - <input type="checkbox"> A seção de suporte deve conter instruções de uso organizadas por temas ou funcionalidades.
-    - <input type="checkbox"> As instruções devem conter texto claro, com possibilidade de incluir imagens ilustrativas.
-    - <input type="checkbox"> O suporte deve estar disponível sem necessidade de login no aplicativo.
-    - <input type="checkbox"> Deve haver um campo de busca para facilitar a localização de tópicos de ajuda.
+    - <input type="checkbox"checked> O aplicativo deve disponibilizar um botão ou aba de "Ajuda" ou "Suporte" visível no menu principal.
+    - <input type="checkbox"checked> A seção de suporte deve conter instruções de uso organizadas por temas ou funcionalidades.
+    - <input type="checkbox"checked> As instruções devem conter texto claro, com possibilidade de incluir imagens ilustrativas.
+    - <input type="checkbox"checked> O suporte deve estar disponível sem necessidade de login no aplicativo.
+    - <input type="checkbox"checked> Deve haver um campo de busca para facilitar a localização de tópicos de ajuda.
 
     ---
 
@@ -281,7 +281,7 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox"> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
-    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox" checked> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
     ----
 
@@ -306,11 +306,11 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
 
     #### Critérios de Aceitação
 
-    - <input type="checkbox"> O sistema deve exibir uma lista com todas as solicitações realizadas pelo usuário.
-    - <input type="checkbox"> Cada item da lista deve mostrar claramente o status atual (ex: recebido, em análise, concluído).
-    - <input type="checkbox"> O sistema deve permitir visualizar os detalhes de cada solicitação individualmente.
-    - <input type="checkbox"> O status deve ser atualizado automaticamente conforme a movimentação no sistema.
-    - <input type="checkbox"> O usuário deve ser notificado quando houver mudança no status da solicitação.
+    - <input type="checkbox"checked> O sistema deve exibir uma lista com todas as solicitações realizadas pelo usuário.
+    - <input type="checkbox"checked> Cada item da lista deve mostrar claramente o status atual (ex: recebido, em análise, concluído).
+    - <input type="checkbox"checked> O sistema deve permitir visualizar os detalhes de cada solicitação individualmente.
+    - <input type="checkbox"checked> O status deve ser atualizado automaticamente conforme a movimentação no sistema.
+    - <input type="checkbox"checked> O usuário deve ser notificado quando houver mudança no status da solicitação.
 
     ---
 
@@ -337,7 +337,7 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox"> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
-    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox" checked> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
     ----
 
@@ -362,11 +362,11 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
 
     #### Critérios de Aceitação
 
-    - <input type="checkbox"> O sistema deve permitir que o usuário visualize os problemas que ele relatou.
-    - <input type="checkbox"> Cada problema deve ter a opção de “Confirmar resolução” disponível após resposta da equipe.
-    - <input type="checkbox"> Após a confirmação, o problema deve ser marcado como “Resolvido pelo usuário”.
-    - <input type="checkbox"> O sistema deve registrar data e hora da confirmação feita pelo usuário.
-    - <input type="checkbox"> O usuário não deve conseguir modificar a confirmação após enviada.
+    - <input type="checkbox"checked> O sistema deve permitir que o usuário visualize os problemas que ele relatou.
+    - <input type="checkbox"checked> Cada problema deve ter a opção de “Confirmar resolução” disponível após resposta da equipe.
+    - <input type="checkbox"checked> Após a confirmação, o problema deve ser marcado como “Resolvido pelo usuário”.
+    - <input type="checkbox"checked> O sistema deve registrar data e hora da confirmação feita pelo usuário.
+    - <input type="checkbox"checked> O usuário não deve conseguir modificar a confirmação após enviada.
 
     ---
 
@@ -393,7 +393,7 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox"> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
-    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox" checked> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
     ----
 
@@ -417,11 +417,11 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
 
     #### Critérios de Aceitação
 
-    - <input type="checkbox"> O sistema deve disponibilizar uma opção clara de exclusão de conta nas configurações do usuário.
-    - <input type="checkbox"> Antes da exclusão, o sistema deve apresentar uma mensagem de confirmação e consequências da ação.
-    - <input type="checkbox"> A exclusão deve remover todos os dados pessoais do usuário dos bancos ativos, conforme LGPD.
-    - <input type="checkbox"> Após a exclusão, o usuário não poderá mais acessar sua conta.
-    - <input type="checkbox"> O sistema deve registrar a solicitação e data de exclusão para fins de auditoria legal.
+    - <input type="checkbox"checked> O sistema deve disponibilizar uma opção clara de exclusão de conta nas configurações do usuário.
+    - <input type="checkbox"checked> Antes da exclusão, o sistema deve apresentar uma mensagem de confirmação e consequências da ação.
+    - <input type="checkbox"checked> A exclusão deve remover todos os dados pessoais do usuário dos bancos ativos, conforme LGPD.
+    - <input type="checkbox"checked> Após a exclusão, o usuário não poderá mais acessar sua conta.
+    - <input type="checkbox"checked> O sistema deve registrar a solicitação e data de exclusão para fins de auditoria legal.
 
     ---
 
@@ -448,7 +448,7 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox"> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
-    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox" checked > Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
     ----
 
@@ -472,11 +472,11 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
 
     #### Critérios de Aceitação
 
-    - <input type="checkbox"> O sistema deve informar claramente quais dados estão sendo coletados e para quais finalidades.
-    - <input type="checkbox"> O usuário deve poder consentir explicitamente com a coleta e uso de seus dados.
-    - <input type="checkbox"> O sistema deve permitir que o usuário visualize, edite e exclua seus dados pessoais.
-    - <input type="checkbox"> As políticas de privacidade devem estar acessíveis e atualizadas.
-    - <input type="checkbox"> Os dados devem ser armazenados e processados de forma segura, seguindo os princípios da LGPD.
+    - <input type="checkbox"checked> O sistema deve informar claramente quais dados estão sendo coletados e para quais finalidades.
+    - <input type="checkbox"checked> O usuário deve poder consentir explicitamente com a coleta e uso de seus dados.
+    - <input type="checkbox"checked> O sistema deve permitir que o usuário visualize, edite e exclua seus dados pessoais.
+    - <input type="checkbox"checked> As políticas de privacidade devem estar acessíveis e atualizadas.
+    - <input type="checkbox"checked> Os dados devem ser armazenados e processados de forma segura, seguindo os princípios da LGPD.
 
     ---
 
@@ -501,7 +501,7 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
     - **Prioridade:** Alta
         
     #### Priorização (Técnica MoSCoW)    
-    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox" checked > Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
