@@ -226,7 +226,7 @@ Como usuário preocupado com a privacidade dos meus dados, eu quero ter controle
 
 <center>
 
-**Tabela X** - Estrutura da tabela de validação
+**Tabela 4** - Estrutura da tabela de validação
 
 | **Tema** | **Épico (ID)** | **História do Usuário (US)** | **ID** | **Prioridade** | **Status** | **Rastreabilidade** | **Autor** |
 |:--|:--|:--|:--|:--|:--|:--|:--|
