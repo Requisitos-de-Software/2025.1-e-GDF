@@ -541,6 +541,12 @@ A Tabela X apresenta a análise dos impactos dos requisitos de acessibilidade.
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
 
+**Vídeo 3** - Validação e Priorização de NFR com usuário por [Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz)
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/Izlb7lYmxLk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/Izlb7lYmxLk" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
 ## Termo de consentimento de imagem
 
 Este documento confirma que o cidadão João Vitor forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
@@ -961,3 +967,4 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | 1.14    | Adicção do video com o usuario | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 01/06/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 03/06/2025      |
 | 1.15   | Adicionando draw.io NFR                               | [Karoline Luz da Conceição](https://github.com/KarolineLuz) e [Ana Victória Guedes da Costa](https://github.com/navicg) | 01/06/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)     | 01/06/2025      |
 | 1.16   | Adicionando diagrama NFR                               | [Gabriel Lopes](https://github.com/BrzGab) | 01/06/2025 | [Artur Mendonça](https://github.com/ArtyMend07)     | 01/06/2025      |
+| 1.17   | Adicionando Entrevista NFR                               |[Karoline Luz da Conceição](https://github.com/KarolineLuz) e [Ana Victória Guedes da Costa](https://github.com/navicg) | 01/06/2025 |  [João Marcos Moraes](https://github.com/JJOAOMARCOSS)     | 01/06/2025      |
