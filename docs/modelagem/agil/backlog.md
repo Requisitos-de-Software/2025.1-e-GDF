@@ -314,13 +314,13 @@ A tabela 2 é um template da tabela de backlog que foi elaborada.
 
 | Tema | Épico | Histórias de Usuário | ID US | Prioridade | Rastreabilidade | Autor |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| Serviços do Cidadão | Épico 3.3 | Acessar informações de agendamento e reagendamento | [US22](./historia-de-usuario.md) | SH | [RF16](../../elicitacao/req_elicitados.md) | [Karoline Luz](https://github.com/KarolineLuz) |
-| Atendimento e Suporte | Épico 6.1 | Reportar problemas da cidade via mapa interativo | [US23](./historia-de-usuario.md) | SH | [RF25](../../elicitacao/req_elicitados.md) | [Karoline Luz](https://github.com/KarolineLuz) |
-| Atendimento e Suporte | Épico 6.1 | Acessar números de serviços de emergência | [US24](./historia-de-usuario.md) | SH | [RF26](../../elicitacao/req_elicitados.md) | [Karoline Luz](https://github.com/KarolineLuz) |
-| Atendimento e Suporte | Épico 6.1 | Solicitar serviços como coleta de lixo e reparos | [US25](./historia-de-usuario.md) | SH | [RF28](../../elicitacao/req_elicitados.md) | [Karoline Luz](https://github.com/KarolineLuz) |
-| Atendimento e Suporte | Épico 6.1 | Localizar solicitações no mapa | [US26](./historia-de-usuario.md) | SH | [RF29](../../elicitacao/req_elicitados.md) | [Karoline Luz](https://github.com/KarolineLuz) |
-| Serviços do Cidadão | Épico 3.1 | Emitir tributos, certidões e documentos fiscais | [US27](./historia-de-usuario.md) | SH | [RF43](../../elicitacao/req_elicitados.md) | [Karoline Luz](https://github.com/KarolineLuz) |
-| Usabilidade e Acessibilidade | Épico 2.2 | Interface acessível para idosos | [US28](./historia-de-usuario.md) | SH | [RNF16](../../elicitacao/req_elicitados.md) | [Karoline Luz](https://github.com/KarolineLuz) |
+| Serviços do Cidadão | Épico 3.3 | Acessar informações de agendamento e reagendamento | [US22](./historia-de-usuario.md) |  | [RF16](../../elicitacao/req_elicitados.md) | [Karoline Luz](https://github.com/KarolineLuz) |
+| Atendimento e Suporte | Épico 6.1 | Reportar problemas da cidade via mapa interativo | [US23](./historia-de-usuario.md) |  | [RF25](../../elicitacao/req_elicitados.md) | [Karoline Luz](https://github.com/KarolineLuz) |
+| Atendimento e Suporte | Épico 6.1 | Acessar números de serviços de emergência | [US24](./historia-de-usuario.md) |  | [RF26](../../elicitacao/req_elicitados.md) | [Karoline Luz](https://github.com/KarolineLuz) |
+| Atendimento e Suporte | Épico 6.1 | Solicitar serviços como coleta de lixo e reparos | [US25](./historia-de-usuario.md) |  | [RF28](../../elicitacao/req_elicitados.md) | [Karoline Luz](https://github.com/KarolineLuz) |
+| Atendimento e Suporte | Épico 6.1 | Localizar solicitações no mapa | [US26](./historia-de-usuario.md) |  | [RF29](../../elicitacao/req_elicitados.md) | [Karoline Luz](https://github.com/KarolineLuz) |
+| Serviços do Cidadão | Épico 3.1 | Emitir tributos, certidões e documentos fiscais | [US27](./historia-de-usuario.md) |  | [RF43](../../elicitacao/req_elicitados.md) | [Karoline Luz](https://github.com/KarolineLuz) |
+| Usabilidade e Acessibilidade | Épico 2.2 | Interface acessível para idosos | [US28](./historia-de-usuario.md) | | [RNF16](../../elicitacao/req_elicitados.md) | [Karoline Luz](https://github.com/KarolineLuz) |
 
 | **Autor** | **Usuário Participante** |
 | :-------- | :---------------------- |
