@@ -2421,7 +2421,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 | **Nome** | **Função** | **Data** | **Hora** |
 |:---------:|:------------------------:|:--------:|:--------:|
 | [Lucas Mendonça](https://github.com/lucasarruda9) | Elaborador das histórias | 01/06/2025 | 18:30 |
-| Gabriel Lima | Cidadão | 01/06/2025 | 18:30 |
+| Ryan | Cidadão | 01/06/2025 | 18:30 |
 
 
 ## Referências Bibliográficas
