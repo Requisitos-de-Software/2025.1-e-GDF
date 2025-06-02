@@ -97,6 +97,8 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - pymdownx.blocks.caption
+  - admonition
+  - pymdownx.details
 
 plugins:
   - glightbox:
