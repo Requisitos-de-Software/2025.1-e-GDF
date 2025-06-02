@@ -284,7 +284,7 @@ Os cartões de especificação a seguir, Tabelas de 1 a 10, foram utilizados par
 Este SIG (Softgoal Interdependency Graph) foi elaborado a partir de requisitos não funcionais relacionados à portabilidade do sistema. Esses requisitos garantem que o sistema seja acessível em diferentes ambientes.
 
 ## Requisitos: 
-Requisitos utilizados para desenvolver o SIG da Figura 1:
+Requisitos utilizados para desenvolver o SIG da Figura 4:
 
 ### Tabela de Requisitos Relacionados à LGPD
 
@@ -374,7 +374,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](../../
 
 
 
-<p align="center"><b>Tabela 6</b> — Cartão de Especificação 7</p>
+<p align="center"><b>Tabela 6</b> — Cartão de Especificação 6</p>
 
 | *Item*                  | *Descrição*                                                                                                           |
 | ----------------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -393,7 +393,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](../../
 
 ---
 
-<p align="center"><b>Tabela 7</b> — Cartão de Especificação 8</p>
+<p align="center"><b>Tabela 7</b> — Cartão de Especificação 7</p>
 
 | *Item*                  | *Descrição*                                                                                                           |
 | ----------------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -412,7 +412,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](../../
 
 ---
 
-<p align="center"><b>Tabela 8</b> — Cartão de Especificação 9</p>
+<p align="center"><b>Tabela 8</b> — Cartão de Especificação 8</p>
 
 | *Item*                  | *Descrição*                                                                                                           |
 | ----------------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -429,9 +429,59 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](../../
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
 
+---
+
+## NFR02: Usabilidade
+
+Este SIG (Softgoal Interdependency Graph) foi elaborado a partir de requisitos não funcionais relacionados à usabilidade do sistema. Esses requisitos garantem que o sistema seja acessível em diferentes ambientes.
+
+## Requisitos: 
+Requisitos utilizados para desenvolver o SIG da Figura 5:
+
+### Tabela de Requisitos Relacionados à Usabilidade
+
+| **Código** | **Descrição**                                                                                                                                          |
+|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| RNF03      | O sistema deve possuir uma interface simples, limpa e com ícones ilustrativos.                                                                          |
+| RNF11      | O aplicativo deve ser mais autoexplicativo, com uma navegação intuitiva e menos dependência de redirecionamentos externos.                             |
+| RNF16      | O aplicativo deve considerar a usabilidade para usuários idosos, garantindo que o design e as funcionalidades sejam acessíveis.                         |
+| RNF21      | A interface deve ser simples, objetiva e utilizar linguagem acessível a usuários com diferentes níveis de escolaridade.                                 |
+
+
+<p align="center"><i>Figura 5: SIG: Usabilidade </i></p>
+
+
 <p align="center">
   <img src="/docs/assets/nfr/Usabilidade.drawio.png="600">
 </p>
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
+
+### Propagação dos Impactos
+
+A Tabela 2, apresentada a seguir, mostra a avaliação da propagação dos impactos representados na imagem acima.
+
+### Tabela 2: Tabela de Impactos - Usabilidade
+
+| *NFR*                        | *Impacto* | *Avaliador*           |
+|-----------------------------|-----------|------------------------|
+| Interface limpa     | ✔         |   [Lucas Mendonça](https://github.com/lucasarruda9)  |
+| Usar linguagem acessível          | ✔       |   [Lucas Mendonça](https://github.com/lucasarruda9)  |
+| Implementar design simples | ✔       |   [Lucas Mendonça](https://github.com/lucasarruda9)   |
+| Acessibilidade         | ✔      |   [Lucas Mendonça](https://github.com/lucasarruda9)  |
+| Navegação      |  𝒲+      |   [Lucas Mendonça](https://github.com/lucasarruda9) |
+| Navegação intuitiva          | ✔       |   [Lucas Mendonça](https://github.com/lucasarruda9)  |
+| Redirecionamento externos | 𝒲       |   [Lucas Mendonça](https://github.com/lucasarruda9)   |
+| Interface intuitiva         | ✔       |   [Lucas Mendonça](https://github.com/lucasarruda9)  |
+| Usabilidade     | ✔       |   [Lucas Mendonça](https://github.com/lucasarruda9) |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
+
+**Vídeo 3** - Validação e Priorização de NFR com usuário por [Lucas Mendonça](https://github.com/lucasarruda9)
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/wxBJ2hGhygs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtube.com/wxBJ2hGhygs" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
 ------
 
@@ -955,7 +1005,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | 1.2    | Adição das tabela modelo Cartão de Especificação | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 28/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 03/06/2025      |
 | 1.3    | Adição de tabela Compatibilidade | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 28/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 03/06/2025      |
 | 1.4    | Adição de tabela Segurança | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 28/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 03/06/2025      |
-| 1.5    | Adição de tabela Usabilidade | [Lucas Mendonça](https://github.com/lucasarruda9) | 28/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 03/06/2025      |
+| 1.5    | Adição dos cartões de especificação 5, 6, 7 e 8 sobre Usabilidade | [Lucas Mendonça](https://github.com/lucasarruda9) | 28/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 03/06/2025      |
 | 1.6    | Adição de tabela Acessibilidade | [Ana Victória Guedes da Costa](https://github.com/navicg) | 28/05/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 03/06/2025      |
 | 1.7    | Adição de tabela Desempenho | [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 28/05/2025 | [Ana Victória Guedes da Costa](https://github.com/navicg) | 03/06/2025      |
 | 1.8    | Adição de tabela Responsividade | [Gabriel Lopes](https://github.com/BrzGab) | 28/05/2025 | [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 03/06/2025      |
@@ -969,3 +1019,4 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | 1.16   | Adicionando diagrama NFR                               | [Gabriel Lopes](https://github.com/BrzGab) | 01/06/2025 | [Artur Mendonça](https://github.com/ArtyMend07)     | 01/06/2025      |
 | 1.17   | Adicionando Entrevista NFR                               |[Karoline Luz da Conceição](https://github.com/KarolineLuz) e [Ana Victória Guedes da Costa](https://github.com/navicg) | 01/06/2025 |  [João Marcos Moraes](https://github.com/JJOAOMARCOSS)     | 01/06/2025      |
 | 1.18   | Adicionando validaçaõ NFR                               | [Gabriel Lopes](https://github.com/BrzGab) | 01/06/2025 | [Artur Mendonça](https://github.com/ArtyMend07)     | 01/06/2025      |
+| 1.19    | Adição do video, diagrama e validação do diagrama| [Lucas Mendonça](https://github.com/lucasarruda9) | 01/06/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 03/06/2025      |
