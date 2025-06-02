@@ -153,7 +153,7 @@ Legenda da Tabela:
 
 - FIRST things first: Setting requirement priorities. In: WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. [S. l.]: Microsoft Press, 2013. cap. 16, p. 313-329. ISBN 0735679665. Disponível em: https://www.processimpact.com/articles/prioritizing.pdf Acesso em 4 de março de 2025.
 
-![](https://uploaddeimagens.com.br/images/004/897/882/original/Captura_de_tela_2025-05-11_213759.png?1747010303) 
+![](https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/nfr/docs/assets/tabela_Elicitacao.jpeg) 
 
 ## Histórico de Versões
 
