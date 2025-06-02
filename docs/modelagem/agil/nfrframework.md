@@ -104,7 +104,7 @@ O **procedimento de avaliação** determina o grau em que os requisitos não fun
 | Adição das tabela modelo Cartão de Especificação | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 28/05/2025      |
 | Adição de tabela Segurança                       | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx)                                                         | 28/05/2025      |
 | Adição de tabela Usabilidade                     | [Lucas Mendonça](https://github.com/lucasarruda9)                                                          | 28/05/2025      |
-| Adição de tabela Desempenho                      | [Artur Mendonça Arruda](https://github.com/ArtyMend07)                                                     | 28/05/2025      |
+| Adição de tabela Desempenho                      | [Artur Mendonça](https://github.com/ArtyMend07)                                                     | 28/05/2025      |
 | Adição de tabela Responsividade                  | [Gabriel Lopes](https://github.com/BrzGab)                                                                 | 28/05/2025      |
 | Adição de tabela Confiabilidade                  | [Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz)                                                | 28/05/2025      |
 
@@ -596,7 +596,7 @@ A Tabela X apresenta a análise dos impactos dos requisitos de acessibilidade.
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
 
-**Vídeo 3** - Validação e Priorização de NFR com usuário por [Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz)
+**Vídeo 4** - Validação e Priorização de NFR com usuário por [Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz)
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/Izlb7lYmxLk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
@@ -628,7 +628,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 
 
-<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Artur Mendonça Arruda](https://github.com/ArtyMend07), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Artur Mendonça](https://github.com/ArtyMend07), 2025)</p></font>
 
 ---
 
@@ -647,7 +647,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | *Conflitos*             | Otimizações de carregamento podem impactar o consumo de recursos do dispositivo.                            |
 | *História*              | Criado em 28/05/2025 – Última modificação em 31/05/2025                                                     |
 
-<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Artur Mendonça Arruda](https://github.com/ArtyMend07), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Artur Mendonça](https://github.com/ArtyMend07), 2025)</p></font>
 
 ---
 
@@ -667,7 +667,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | *História*              | Criado em 28/05/2025 – Última modificação em 31/05/2025                                                                   |
 
 
-<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Artur Mendonça Arruda](https://github.com/ArtyMend07), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Artur Mendonça](https://github.com/ArtyMend07), 2025)</p></font>
 
 ---
 
@@ -686,7 +686,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | *Conflitos*             | Melhorar performance pode limitar certos mecanismos de segurança mais robustos.                                    |
 | *História*              | Criado em 28/05/2025 – Última modificação em 31/05/2025                                                            |
 
-<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Artur Mendonça Arruda](https://github.com/ArtyMend07), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Artur Mendonça](https://github.com/ArtyMend07), 2025)</p></font>
 
 ---
 
@@ -705,7 +705,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | *Conflitos*             | Pode demandar otimizações agressivas, impactando legibilidade ou modularidade do código.                  |
 | *História*              | Criado em 28/05/2025 – Última modificação em 31/05/2025                                                   |
 
-<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Artur Mendonça Arruda](https://github.com/ArtyMend07), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Artur Mendonça](https://github.com/ArtyMend07), 2025)</p></font>
 
 ---
 
@@ -724,7 +724,47 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | *Conflitos*             | Compressão agressiva pode impactar a qualidade visual das imagens.                                    |
 | *História*              | Criado em 28/05/2025 – Última modificação em 31/05/2025                                               |
 
-<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Artur Mendonça Arruda](https://github.com/ArtyMend07), 2025)</p></font>
+
+<p align="center"><i>Figura 6: SIG: Desempenho </i></p>
+
+
+<p align="center">
+  <img src="/docs/assets/nfr/nrf_desempenho.png="600">
+</p>
+
+### Propagação dos Impactos
+
+A Tabela, apresentada a seguir, mostra a avaliação da propagação dos impactos representados na imagem acima.
+
+### Tabela de Impactos - Desempenho
+
+| *NFR*                        | *Impacto* | *Avaliador*           |
+|-----------------------------|-----------|------------------------|
+| Navegação flúida     | ✔         |   [Artur Mendonça](https://github.com/ArtyMend07)  |
+| Carregar informações otimizadas          | ✔       |   [Artur Mendonça](https://github.com/ArtyMend07)  |
+| Estabilidade em redes móveis | ✔       |   [Artur Mendonça](https://github.com/ArtyMend07)   |
+| Autenticação rápida         | ✔      |   [Artur Mendonça](https://github.com/ArtyMend07)  |
+| Funcionalidades principais otimizadas      |  ✔       |   [Artur Mendonça](https://github.com/ArtyMend07)
+| Otimização de envio de imagens          | ✔       |   [Artur Mendonça](https://github.com/ArtyMend07)  |
+| Desempenho | ✔        |   [Artur Mendonça](https://github.com/ArtyMend07)   |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Artur Mendonça](https://github.com/ArtyMend07), 2025)</p></font>
+
+**Vídeo 5** - Validação e Priorização de NFR com usuário por [Artur Mendonça](https://github.com/ArtyMend07)
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/ry4nA8fRX_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/ry4nA8fRX_4" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+| **Nome** | **Função** | **Data** | **Hora** |
+|:---------:|:------------------------:|:--------:|:--------:|
+| [Artur Mendonça](https://github.com/ArtyMend07) | Elaborador dos NFR | 01/06/2025 | 19:30 |
+| Vitor Guilherme | Usuário | 01/06/2025 | 19:30 |
+
+## Termo de consentimento de imagem 
+Este documento confirma que a(o) cidadão **Vitor Guilherme** forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1qYeorZ4h1cOOnnTkN-RvqZnSo8YIGk71/view?usp=sharing)
 
 ---
 
@@ -964,9 +1004,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 ---
 
-## Diagramas e Análises
+## Diagrama compilado
 
-
+<div style="text-align: center">
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/nfr/docs/assets/nfr/nfrchung.png" >
+</div>
 
 
 
@@ -1012,8 +1054,8 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | 1.4    | Adição de tabela Segurança | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 28/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 03/06/2025      |
 | 1.5    | Adição dos cartões de especificação 5, 6, 7 e 8 sobre Usabilidade | [Lucas Mendonça](https://github.com/lucasarruda9) | 28/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 03/06/2025      |
 | 1.6    | Adição de tabela Acessibilidade | [Ana Victória Guedes da Costa](https://github.com/navicg) | 28/05/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 03/06/2025      |
-| 1.7    | Adição de tabela Desempenho | [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 28/05/2025 | [Ana Victória Guedes da Costa](https://github.com/navicg) | 03/06/2025      |
-| 1.8    | Adição de tabela Responsividade | [Gabriel Lopes](https://github.com/BrzGab) | 28/05/2025 | [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 03/06/2025      |
+| 1.7    | Adição de tabela Desempenho | [Artur Mendonça](https://github.com/ArtyMend07) | 28/05/2025 | [Ana Victória Guedes da Costa](https://github.com/navicg) | 03/06/2025      |
+| 1.8    | Adição de tabela Responsividade | [Gabriel Lopes](https://github.com/BrzGab) | 28/05/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 03/06/2025      |
 | 1.9    | Adição de tabela Confiabilidade | [Karoline Luz da Conceição](https://github.com/KarolineLuz) | 28/05/2025 | [Gabriel Lopes](https://github.com/BrzGab) | 03/06/2025      |
 | 1.10    | Adição de tabela Autonomia/Offline | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 28/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 03/06/2025      |
 | 1.11    | Adição de tabela Aparência | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 28/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 03/06/2025      |
@@ -1023,5 +1065,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | 1.15   | Adicionando draw.io NFR                               | [Karoline Luz da Conceição](https://github.com/KarolineLuz) e [Ana Victória Guedes da Costa](https://github.com/navicg) | 01/06/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)     | 01/06/2025      |
 | 1.16   | Adicionando diagrama NFR                               | [Gabriel Lopes](https://github.com/BrzGab) | 01/06/2025 | [Artur Mendonça](https://github.com/ArtyMend07)     | 01/06/2025      |
 | 1.17   | Adicionando Entrevista NFR                               |[Karoline Luz da Conceição](https://github.com/KarolineLuz) e [Ana Victória Guedes da Costa](https://github.com/navicg) | 01/06/2025 |  [João Marcos Moraes](https://github.com/JJOAOMARCOSS)     | 01/06/2025      |
-| 1.18   | Adicionando validaçaõ NFR                               | [Gabriel Lopes](https://github.com/BrzGab) | 01/06/2025 | [Artur Mendonça](https://github.com/ArtyMend07)     | 01/06/2025      |
+| 1.18   | Adicionando validação NFR                               | [Gabriel Lopes](https://github.com/BrzGab) | 01/06/2025 | [Artur Mendonça](https://github.com/ArtyMend07)     | 01/06/2025      |
 | 1.19    | Adição do video, diagrama e validação do diagrama| [Lucas Mendonça](https://github.com/lucasarruda9) | 01/06/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 03/06/2025      |
+| 1.20   | Adicionando entrevista, imagem, termo de consentimento, e validação do NFR| [Artur Mendonça](https://github.com/ArtyMend07) | 01/06/2025 | [Gabriel Lopes](https://github.com/BrzGab)     | 01/06/2025      |
