@@ -75,7 +75,7 @@ Fonte: [Gabriel Lopes](https://github.com/BrzGab), 2025.
 
 ## Ponto de controle 4
 
-A tabela 4 mostra as atividades programadas durante a fase de modelagem de requisitos I.
+A tabela 4 mostra as atividades programadas durante a fase de modelagem de requisitos II.
 
 | Atividade                                              | Desenvolvimento da atividade                        | Autores                    | Revisores                | Período de revisão da atividade                    |
 |--------------------------------------------------------|-----------------------------------------------------|----------------------------|--------------------------|---------------------------------------|
