@@ -151,3 +151,4 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 | ------ | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------- | -------------------------------------------------- | --------------- 
 | 1.0    | Adicionando tabelas da lista de inspeção da entrega 4 do eGDF| [Ana Victória](https://github.com/navicg) | 01/06/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 01/06/2025  |
 | 1.1    | Adicionando os prints | [Gabriel Lopes](https://github.com/BrzGab) | 01/06/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 01/06/2025  |
+| 1.2   | Adicionando link da reunião e status do item de verificação | [Ana Victória](https://github.com/navicg) | 01/06/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 01/06/2025  |
