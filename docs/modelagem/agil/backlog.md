@@ -38,19 +38,17 @@ O desenvolvimento do backlog seguiu uma abordagem sistemática e colaborativa, o
 
 1. **Análise e Agrupamento**: Os requisitos funcionais foram analisados e agrupados em temas relacionados, considerando as principais áreas de serviço do aplicativo e-GDF.
 
-2. **Criação de Épicos**: A partir dos temas identificados, foram elaborados épicos que representam grandes narrativas de funcionalidades, agrupando features relacionadas.
+2. **Criação de Épicos**: A partir dos temas identificados, foram elaborados épicos que representam grandes narrativas de funcionalidades.
 
-3. **Definição de Features**: Cada épico foi decomposto em features específicas que representam funcionalidades concretas do sistema.
+3. **Elaboração de Histórias de Usuário**: Os épicos foram detalhados em histórias de usuário no formato padrão "Como... Eu quero... Para que...", garantindo clareza sobre o valor entregue ao usuário final.
 
-4. **Elaboração de Histórias de Usuário**: As features foram detalhadas em histórias de usuário no formato padrão "Como... Eu quero... Para que...", garantindo clareza sobre o valor entregue ao usuário final.
-
-5. **Priorização**: Os itens do backlog foram priorizados considerando[²](#ref2){: #citacao3}:
+4. **Priorização**: Os itens do backlog foram priorizados considerando[²](#ref2){: #citacao3}:
    - Prioridade do cliente e feedback dos usuários
    - Urgência no recebimento de feedback
    - Dificuldade de implementação relativa
    - Relações e dependências entre itens de trabalho
 
-6. **Validação com Usuários**: Cada integrante realizou validação presencial com usuários reais, apresentando os backlogs elaborados e coletando feedback para garantir alinhamento com as necessidades dos cidadãos.
+5. **Validação com Usuários**: Cada integrante realizou validação presencial com usuários reais, apresentando os backlogs elaborados e coletando feedback para garantir alinhamento com as necessidades dos cidadãos.
 
 ## Temas {: #temas}
 
