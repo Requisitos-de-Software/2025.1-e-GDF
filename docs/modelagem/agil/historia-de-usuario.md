@@ -1789,11 +1789,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
     #### Critérios de Aceitação
 
-    - <input type="checkbox"> O sistema deve exibir uma lista consolidada de todos os agendamentos e serviços do usuário.
-    - <input type="checkbox"> Os agendamentos devem ser organizados por data e categoria.
-    - <input type="checkbox"> O usuário deve poder filtrar os agendamentos por tipo de serviço.
-    - <input type="checkbox"> Cada item deve mostrar informações essenciais como data, hora e tipo de serviço.
-    - <input type="checkbox"> O sistema deve atualizar a lista automaticamente quando houver mudanças.
+    - <input type="checkbox" checked> O sistema deve exibir uma lista consolidada de todos os agendamentos e serviços do usuário.
+    - <input type="checkbox" checked> Os agendamentos devem ser organizados por data e categoria.
+    - <input type="checkbox" checked> O usuário deve poder filtrar os agendamentos por tipo de serviço.
+    - <input type="checkbox" checked> Cada item deve mostrar informações essenciais como data, hora e tipo de serviço.
+    - <input type="checkbox" checked> O sistema deve atualizar a lista automaticamente quando houver mudanças.
 
     ---
 
@@ -1808,7 +1808,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     - **Prioridade:** Alta
           
     #### Priorização (Técnica MoSCoW)    
-    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox" checked> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
@@ -1836,11 +1836,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
     #### Critérios de Aceitação
 
-    - <input type="checkbox"> O sistema deve reconhecer e processar comandos de voz com precisão.
-    - <input type="checkbox"> O assistente deve responder através de áudio de forma clara e compreensível.
-    - <input type="checkbox"> Deve haver suporte para diferentes sotaques e variações linguísticas.
-    - <input type="checkbox"> O assistente deve funcionar mesmo com ruído ambiente moderado.
-    - <input type="checkbox"> O usuário deve poder ativar/desativar o assistente facilmente.
+    - <input type="checkbox" checked> O sistema deve reconhecer e processar comandos de voz com precisão.
+    - <input type="checkbox" checked> O assistente deve responder através de áudio de forma clara e compreensível.
+    - <input type="checkbox" checked> Deve haver suporte para diferentes sotaques e variações linguísticas.
+    - <input type="checkbox" checked> O assistente deve funcionar mesmo com ruído ambiente moderado.
+    - <input type="checkbox" checked> O usuário deve poder ativar/desativar o assistente facilmente.
 
     ---
 
@@ -1855,7 +1855,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     - **Prioridade:** Baixa
           
     #### Priorização (Técnica MoSCoW)    
-    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox" checked> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
@@ -1883,11 +1883,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
     #### Critérios de Aceitação
 
-    - <input type="checkbox"> Os tutoriais devem estar organizados por categorias de funcionalidades.
-    - <input type="checkbox"> Cada tutorial deve ter instruções claras e objetivas.
-    - <input type="checkbox"> Deve haver imagens ou vídeos ilustrativos quando necessário.
-    - <input type="checkbox"> O usuário deve poder marcar tutoriais como concluídos.
-    - <input type="checkbox"> Os tutoriais devem ser acessíveis offline após primeiro acesso.
+    - <input type="checkbox" checked> Os tutoriais devem estar organizados por categorias de funcionalidades.
+    - <input type="checkbox" checked> Cada tutorial deve ter instruções claras e objetivas.
+    - <input type="checkbox" checked> Deve haver imagens ou vídeos ilustrativos quando necessário.
+    - <input type="checkbox" checked> O usuário deve poder marcar tutoriais como concluídos.
+    - <input type="checkbox" checked> Os tutoriais devem ser acessíveis offline após primeiro acesso.
 
     ---
     #### Rastreabilidade
@@ -1902,7 +1902,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
           
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox"> Must Have (MH)
-    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox" checked> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
     ----
@@ -1930,11 +1930,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
     #### Critérios de Aceitação
 
-    - <input type="checkbox"> O sistema deve integrar-se com os sistemas de saúde pública.
-    - <input type="checkbox"> Deve haver acesso às informações educacionais da rede pública.
-    - <input type="checkbox"> A integração com serviços de mobilidade deve ser em tempo real.
-    - <input type="checkbox"> O usuário deve poder alternar entre os serviços facilmente.
-    - <input type="checkbox"> As informações devem ser sincronizadas periodicamente.
+    - <input type="checkbox" checked> O sistema deve integrar-se com os sistemas de saúde pública.
+    - <input type="checkbox" checked> Deve haver acesso às informações educacionais da rede pública.
+    - <input type="checkbox" checked> A integração com serviços de mobilidade deve ser em tempo real.
+    - <input type="checkbox" checked> O usuário deve poder alternar entre os serviços facilmente.
+    - <input type="checkbox" checked> As informações devem ser sincronizadas periodicamente.
 
     ---
 
@@ -1949,7 +1949,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     - **Prioridade:** Média
           
     #### Priorização (Técnica MoSCoW)    
-    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox" checked> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
@@ -1978,11 +1978,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
     #### Critérios de Aceitação
 
-    - <input type="checkbox"> O sistema deve exibir o calendário letivo atualizado.
-    - <input type="checkbox"> Deve ser possível consultar vagas disponíveis nas instituições.
-    - <input type="checkbox"> As informações devem ser atualizadas em tempo real.
-    - <input type="checkbox"> O usuário deve poder filtrar informações por região ou escola.
-    - <input type="checkbox"> Deve haver notificações sobre atualizações importantes.
+    - <input type="checkbox" checked> O sistema deve exibir o calendário letivo atualizado.
+    - <input type="checkbox" checked> Deve ser possível consultar vagas disponíveis nas instituições.
+    - <input type="checkbox" checked> As informações devem ser atualizadas em tempo real.
+    - <input type="checkbox" checked> O usuário deve poder filtrar informações por região ou escola.
+    - <input type="checkbox" checked> Deve haver notificações sobre atualizações importantes.
 
     ---
     #### Rastreabilidade
@@ -1996,7 +1996,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     - **Prioridade:** Média
           
     #### Priorização (Técnica MoSCoW)    
-    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox" checked> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
@@ -2024,11 +2024,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
     #### Critérios de Aceitação
 
-    - <input type="checkbox"> O sistema deve permitir o registro detalhado da ocorrência.
-    - <input type="checkbox"> Deve ser possível anexar fotos do problema.
-    - <input type="checkbox"> O usuário deve poder marcar a localização exata no mapa.
-    - <input type="checkbox"> O sistema deve gerar um número de protocolo para acompanhamento.
-    - <input type="checkbox"> O usuário deve receber atualizações sobre o status da ocorrência.
+    - <input type="checkbox" checked> O sistema deve permitir o registro detalhado da ocorrência.
+    - <input type="checkbox" checked> Deve ser possível anexar fotos do problema.
+    - <input type="checkbox" checked> O usuário deve poder marcar a localização exata no mapa.
+    - <input type="checkbox" checked> O sistema deve gerar um número de protocolo para acompanhamento.
+    - <input type="checkbox" checked> O usuário deve receber atualizações sobre o status da ocorrência.
 
     ---
     #### Rastreabilidade
@@ -2043,7 +2043,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
           
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox"> Must Have (MH)
-    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox" checked> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
     ----
@@ -2069,11 +2069,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
     #### Critérios de Aceitação
 
-    - <input type="checkbox"> Todas as funcionalidades principais devem responder em até 2 segundos.
-    - <input type="checkbox"> O sistema deve mostrar indicadores de carregamento para operações mais longas.
-    - <input type="checkbox"> O aplicativo deve otimizar o carregamento de dados e imagens.
-    - <input type="checkbox"> O sistema deve implementar cache para melhorar o tempo de resposta.
-    - <input type="checkbox"> Deve haver monitoramento contínuo do tempo de resposta.
+    - <input type="checkbox" checked> Todas as funcionalidades principais devem responder em até 2 segundos.
+    - <input type="checkbox" checked> O sistema deve mostrar indicadores de carregamento para operações mais longas.
+    - <input type="checkbox" checked> O aplicativo deve otimizar o carregamento de dados e imagens.
+    - <input type="checkbox" checked> O sistema deve implementar cache para melhorar o tempo de resposta.
+    - <input type="checkbox" checked> Deve haver monitoramento contínuo do tempo de resposta.
 
     ---
 
@@ -2088,7 +2088,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     - **Prioridade:** Média
           
     #### Priorização (Técnica MoSCoW)    
-    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox" checked> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
@@ -2133,10 +2133,10 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     ---
 
     ### Critérios de Aceitação
-    - <input type="checkbox"> O histórico deve exibir todas as interações realizadas pelo usuário.  
-    - <input type="checkbox"> Devem estar incluídos agendamentos, solicitações e ações executadas.  
-    - <input type="checkbox"> As informações devem estar organizadas por data.  
-    - <input type="checkbox"> O usuário deve conseguir filtrar por tipo de interação.
+    - <input type="checkbox" checked> O histórico deve exibir todas as interações realizadas pelo usuário.  
+    - <input type="checkbox" checked> Devem estar incluídos agendamentos, solicitações e ações executadas.  
+    - <input type="checkbox" checked> As informações devem estar organizadas por data.  
+    - <input type="checkbox" checked> O usuário deve conseguir filtrar por tipo de interação.
     ---
 
     ### Rastreabilidade
@@ -2148,7 +2148,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     - **Prioridade:** MH
 
     #### Priorização (Técnica MoSCoW)    
-    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox" checked> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
@@ -2159,7 +2159,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
    
 
-## US44 - cesso a notícias oficiais do GDF {#us44}
+## US44 - Acesso a notícias oficiais do GDF {#us44}
 
 ??? abstract "Tabela 46 - História de Usuário - Apresentar um feed de notícias atualizadas com informações úteis do Governo do Distrito Federal."
 
@@ -2177,10 +2177,10 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     ---
 
     ### Critérios de Aceitação
-    - <input type="checkbox"> O feed deve ser alimentado com fontes confiáveis do GDF.  
-    - <input type="checkbox"> As notícias devem conter título, resumo, data e link para leitura completa.  
-    - <input type="checkbox"> As atualizações devem ocorrer de forma periódica.  
-    - <input type="checkbox"> Deve ser possível compartilhar notícias via redes sociais.
+    - <input type="checkbox" checked> O feed deve ser alimentado com fontes confiáveis do GDF.  
+    - <input type="checkbox" checked> As notícias devem conter título, resumo, data e link para leitura completa.  
+    - <input type="checkbox" checked> As atualizações devem ocorrer de forma periódica.  
+    - <input type="checkbox" checked> Deve ser possível compartilhar notícias via redes sociais.
 
     ---
 
@@ -2195,7 +2195,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox"> Must Have (MH)
-    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox" checked> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
     ----
@@ -2222,10 +2222,10 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     ---
 
     ### Critérios de Aceitação
-    - <input type="checkbox"> Deve ser possível selecionar local, serviço e horário disponíveis.  
-    - <input type="checkbox"> O usuário deve receber confirmação do agendamento.  
-    - <input type="checkbox"> O sistema deve validar os dados antes de concluir o agendamento.  
-    - <input type="checkbox"> Deve ser possível consultar e cancelar agendamentos realizados.
+    - <input type="checkbox" checked> Deve ser possível selecionar local, serviço e horário disponíveis.  
+    - <input type="checkbox" checked> O usuário deve receber confirmação do agendamento.  
+    - <input type="checkbox" checked> O sistema deve validar os dados antes de concluir o agendamento.  
+    - <input type="checkbox" checked> Deve ser possível consultar e cancelar agendamentos realizados.
 
     ---
 
@@ -2239,7 +2239,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     
     #### Priorização (Técnica MoSCoW)    
-    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox" checked> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
@@ -2266,10 +2266,10 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     ---
 
     ### Critérios de Aceitação
-    - <input type="checkbox"> O app deve permitir emissão de segunda via de tributos.  
-    - <input type="checkbox"> Deve permitir gerar certidões.  
-    - <input type="checkbox"> Os documentos gerados devem ser salvos em PDF.  
-    - <input type="checkbox"> A funcionalidade deve estar segura e em conformidade com a LGPD.
+    - <input type="checkbox" checked> O app deve permitir emissão de segunda via de tributos.  
+    - <input type="checkbox" checked> Deve permitir gerar certidões.  
+    - <input type="checkbox" checked> Os documentos gerados devem ser salvos em PDF.  
+    - <input type="checkbox" checked> A funcionalidade deve estar segura e em conformidade com a LGPD.
 
     ---
     ### Rastreabilidade
@@ -2278,13 +2278,13 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     ---
 
     ### Estimativa de Esforço
-    - **Prioridade:** MH
+    - **Prioridade:** CH
 
     
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox"> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
-    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox" checked> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
     ----
 
@@ -2303,10 +2303,10 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     **Para que** eu possa organizar minhas obrigações de forma mais eficiente.
 
     ### Critérios de Aceitação
-    - <input type="checkbox"> O sistema deve exibir pendências de tarefas, avaliações e frequência dos alunos.  
-    - <input type="checkbox"> Professores devem visualizar tarefas pendentes para correção.  
-    - <input type="checkbox"> O sistema deve permitir notificar mudanças ou atrasos.  
-    - <input type="checkbox"> A interface deve ser clara e acessível para todos os perfis.
+    - <input type="checkbox" checked> O sistema deve exibir pendências de tarefas, avaliações e frequência dos alunos.  
+    - <input type="checkbox" checked> Professores devem visualizar tarefas pendentes para correção.  
+    - <input type="checkbox" checked> O sistema deve permitir notificar mudanças ou atrasos.  
+    - <input type="checkbox" checked> A interface deve ser clara e acessível para todos os perfis.
 
     ---
 
@@ -2314,12 +2314,12 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     - **Requisito Funcional Relacionado:** RF24
 
     ### Estimativa de Esforço
-    - **Prioridade:** MH
+    - **Prioridade:** SH
 
     
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox"> Must Have (MH)
-    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox" checked> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
     ----
@@ -2346,10 +2346,10 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     ---
 
     ### Critérios de Aceitação
-    - <input type="checkbox"> O app deve permitir que o usuário escolha categorias de interesse.  
-    - <input type="checkbox"> As notificações devem ter estilos visuais diferentes para cada categoria.
-    - <input type="checkbox"> Deve ser possível alterar as categorias a qualquer momento.  
-    - <input type="checkbox"> O conteúdo da notificação deve ser claro e conciso.
+    - <input type="checkbox" checked> O app deve permitir que o usuário escolha categorias de interesse.  
+    - <input type="checkbox" checked> As notificações devem ter estilos visuais diferentes para cada categoria.
+    - <input type="checkbox" checked> Deve ser possível alterar as categorias a qualquer momento.  
+    - <input type="checkbox" checked> O conteúdo da notificação deve ser claro e conciso.
 
     ---
     ### Rastreabilidade
@@ -2363,7 +2363,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox"> Must Have (MH)
-    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox" checked> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
     ----
@@ -2388,10 +2388,10 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     ---
 
     ### Critérios de Aceitação
-    - <input type="checkbox"> Informações acessadas devem ser salvas localmente no dispositivo.  
-    - <input type="checkbox"> O sistema deve indicar quando está sem acesso à internet.  
-    - <input type="checkbox"> O acesso sem internet deve funcionar para histórico, documentos e notificações.  
-    - <input type="checkbox"> Os dados salvos devem ser atualizados automaticamente quando conectados com a internet.
+    - <input type="checkbox" checked> Informações acessadas devem ser salvas localmente no dispositivo.  
+    - <input type="checkbox" checked> O sistema deve indicar quando está sem acesso à internet.  
+    - <input type="checkbox" checked> O acesso sem internet deve funcionar para histórico, documentos e notificações.  
+    - <input type="checkbox" checked> Os dados salvos devem ser atualizados automaticamente quando conectados com a internet.
 
     ---
     ### Rastreabilidade
@@ -2404,7 +2404,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     
     #### Priorização (Técnica MoSCoW)    
-    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox" checked> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
@@ -2421,7 +2421,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 | **Nome** | **Função** | **Data** | **Hora** |
 |:---------:|:------------------------:|:--------:|:--------:|
 | [Lucas Mendonça](https://github.com/lucasarruda9) | Elaborador das histórias | 01/06/2025 | 18:30 |
-| Gabriel Lima | Cidadão | 01/06/2025 | 18:30 |
+| Ryan | Cidadão | 01/06/2025 | 18:30 |
 
 
 ## Referências Bibliográficas
