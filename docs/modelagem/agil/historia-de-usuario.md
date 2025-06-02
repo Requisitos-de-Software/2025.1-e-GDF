@@ -41,7 +41,6 @@ As técnicas de elicitação aplicadas foram:
 | **Eu quero**                | Descreve a ação ou funcionalidade desejada pelo usuário. |
 | **Para que**                | Indica o objetivo ou benefício que o usuário deseja alcançar com a funcionalidade. |
 | **Critérios de Aceitação**  | Conjunto de condições que determinam quando a história será considerada concluída e aceita. |
-| **Subtarefas**              | Lista de atividades técnicas e operacionais necessárias para implementar a funcionalidade descrita. |
 | **Rastreabilidade**         | Referência ao requisito ou artefato relacionado, garantindo o vínculo entre a história de usuário e o requisito formal. |
 | **Prioridade**   | Avaliação da complexidade ou prioridade da implementação da funcionalidade. |
 
@@ -62,7 +61,7 @@ As técnicas de elicitação aplicadas foram:
   - **INT**: Introspecção  
 
 
-| História de Usuário | Autor | Requisito Realcionado | Rastreabilidade do Requisito |
+| História de Usuário | Autor | Requisito Relacionado | Rastreabilidade do Requisito |
 | --- | --- | --- | --- |
 | [US01](#us01) | [Luiza da Silva Pugas](https://github.com/Luizaxx) | RF22 | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN04</a> |
 | [US02](#us02) | [Luiza da Silva Pugas](https://github.com/Luizaxx) | RF18 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR20</a> |
@@ -147,16 +146,6 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
 
     ---
 
-    #### Subtarefas
-
-    - <input type="checkbox"> Integrar SDK/API do gov.br ao backend do app.
-    - <input type="checkbox"> Implementar interface de redirecionamento para o login gov.br.
-    - <input type="checkbox"> Tratar respostas da autenticação (sucesso, falha, erro de rede).
-    - <input type="checkbox"> Criar alertas e mensagens de erro amigáveis.
-    - <input type="checkbox"> Validar conformidade de dados com a LGPD.
-
-    ---
-
     #### Rastreabilidade
 
     - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF22</a>
@@ -164,8 +153,6 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
     ---
 
     #### Estimativa de Esforço
-
-    - **Prioridade:** Médio
         
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox"> Must Have (MH)
@@ -202,16 +189,6 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
 
     ---
 
-    #### Subtarefas
-
-    - <input type="checkbox"> Criar componente de geração de comprovantes em PDF.
-    - <input type="checkbox"> Implementar botão de "Salvar comprovante" com feedback visual.
-    - <input type="checkbox"> Integrar opções de compartilhamento nativas do sistema operacional (iOS/Android).
-    - <input type="checkbox"> Validar compatibilidade com diferentes tipos de arquivos gerados.
-    - <input type="checkbox"> Testar fluxo offline para salvamento local.
-
-    ---
-
     #### Rastreabilidade
 
     - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF18</a>
@@ -219,8 +196,6 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
     ---
 
     #### Estimativa de Esforço
-
-    - **Prioridade:** Média
         
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox"> Must Have (MH)
@@ -258,16 +233,6 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
 
     ---
 
-    #### Subtarefas
-
-    - <input type="checkbox"> Criar layout da seção de suporte com estrutura de navegação clara.
-    - <input type="checkbox"> Redigir e revisar textos explicativos das funcionalidades.
-    - <input type="checkbox"> Adicionar imagens ou ilustrações nas instruções.
-    - <input type="checkbox"> Implementar campo de busca dentro da seção de suporte.
-    - <input type="checkbox"> Garantir acesso ao suporte mesmo para usuários não autenticados.
-
-    ---
-
     #### Rastreabilidade
 
     - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF27</a>
@@ -276,8 +241,6 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
 
     #### Estimativa de Esforço
 
-    - **Prioridade:** Média
-        
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox"> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
@@ -314,16 +277,6 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
 
     ---
 
-    #### Subtarefas
-
-    - <input type="checkbox"> Implementar backend para consulta de status por usuário autenticado.
-    - <input type="checkbox"> Criar interface com lista e detalhes das solicitações.
-    - <input type="checkbox"> Integrar com o sistema interno de processamento para atualizar status em tempo real.
-    - <input type="checkbox"> Desenvolver mecanismo de notificação de mudanças de status.
-    - <input type="checkbox"> Testar a consistência dos dados apresentados ao usuário.
-
-    ---
-
     #### Rastreabilidade
 
     - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF30</a>
@@ -331,8 +284,6 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
     ---
 
     #### Estimativa de Esforço
-
-    - **Prioridade:** Média
         
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox"> Must Have (MH)
@@ -370,16 +321,6 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
 
     ---
 
-    #### Subtarefas
-
-    - <input type="checkbox"> Criar interface de listagem de problemas relatados.
-    - <input type="checkbox"> Adicionar botão “Confirmar resolução” com controle de disponibilidade por status.
-    - <input type="checkbox"> Implementar registro da confirmação no banco de dados.
-    - <input type="checkbox"> Exibir feedback visual após confirmação.
-    - <input type="checkbox"> Testar regras de bloqueio de edição após confirmação.
-
-    ---
-
     #### Rastreabilidade
 
     - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF31</a>
@@ -387,8 +328,6 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
     ---
 
     #### Estimativa de Esforço
-
-    - **Prioridade:** Média
         
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox"> Must Have (MH)
@@ -425,16 +364,6 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
 
     ---
 
-    #### Subtarefas
-
-    - <input type="checkbox"> Criar interface de gerenciamento de conta com botão “Excluir conta”.
-    - <input type="checkbox"> Desenvolver tela de confirmação com informações claras ao usuário.
-    - <input type="checkbox"> Implementar lógica backend para remoção de dados e encerramento de sessão.
-    - <input type="checkbox"> Garantir que a exclusão atenda aos critérios da LGPD.
-    - <input type="checkbox"> Registrar a operação para fins de rastreabilidade legal (sem violar privacidade).
-
-    ---
-
     #### Rastreabilidade
 
     - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF32</a>
@@ -442,8 +371,6 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
     ---
 
     #### Estimativa de Esforço
-
-    - **Prioridade:** Média
         
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox"> Must Have (MH)
@@ -480,16 +407,6 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
 
     ---
 
-    #### Subtarefas
-
-    - <input type="checkbox"> Revisar políticas e práticas de coleta de dados.
-    - <input type="checkbox"> Implementar fluxos de consentimento explícito.
-    - <input type="checkbox"> Criar ferramentas para gerenciamento de dados pelo usuário.
-    - <input type="checkbox"> Garantir armazenamento seguro e monitoramento de acessos.
-    - <input type="checkbox"> Realizar auditorias para verificar conformidade.
-
-    ---
-
     #### Rastreabilidade
 
     - **Requisito Não Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RNF02</a>
@@ -497,8 +414,6 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
     ---
 
     #### Estimativa de Esforço
-
-    - **Prioridade:** Alta
         
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox" checked > Must Have (MH)
@@ -544,21 +459,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](/home/
 
     #### Critérios de Aceitação
 
-    - <input type="checkbox"> O sistema deve disponibilizar uma lista com os idiomas suportados para seleção.
-    - <input type="checkbox"> A alteração de idioma deve refletir imediatamente na interface do usuário.
-    - <input type="checkbox"> A preferência de idioma do usuário deve ser salva para futuras sessões.
-    - <input type="checkbox"> O sistema deve manter a consistência da interface após a mudança de idioma.
-    - <input type="checkbox"> Caso o idioma selecionado não seja suportado, deve-se exibir mensagem apropriada.
-
-    ---
-
-    #### Subtarefas
-
-    - <input type="checkbox"> Implementar componente para seleção de idioma na interface.
-    - <input type="checkbox"> Integrar mecanismo de internacionalização (i18n) no app.
-    - <input type="checkbox"> Armazenar preferência do idioma no perfil do usuário ou localmente.
-    - <input type="checkbox"> Traduzir textos e mensagens para os idiomas suportados.
-    - <input type="checkbox"> Testar mudança de idioma em diferentes telas e fluxos.
+    - <input type="checkbox" checked> O sistema deve disponibilizar uma lista com os idiomas suportados para seleção.
+    - <input type="checkbox" checked> A alteração de idioma deve refletir imediatamente na interface do usuário.
+    - <input type="checkbox" checked> A preferência de idioma do usuário deve ser salva para futuras sessões.
+    - <input type="checkbox" checked> O sistema deve manter a consistência da interface após a mudança de idioma.
+    - <input type="checkbox" checked> Caso o idioma selecionado não seja suportado, deve-se exibir mensagem apropriada.
 
     ---
 
@@ -569,11 +474,9 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](/home/
     ---
 
     #### Estimativa de Esforço
-
-    - **Prioridade:** Médio
     
     #### Priorização (Técnica MoSCoW)    
-    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox" checked> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
@@ -600,21 +503,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](/home/
 
     #### Critérios de Aceitação
 
-    - <input type="checkbox"> O sistema deve permitir que o usuário edite informações do seu perfil (ex: interesses, preferências, localização).
-    - <input type="checkbox"> O usuário deve conseguir selecionar categorias ou tipos de serviços de interesse.
-    - <input type="checkbox"> As preferências personalizadas devem ser salvas e usadas para ajustar as recomendações.
-    - <input type="checkbox"> O sistema deve apresentar sugestões baseadas no perfil e preferências configuradas.
-    - <input type="checkbox"> O usuário deve poder alterar suas preferências a qualquer momento.
-
-    ---
-
-    #### Subtarefas
-
-    - <input type="checkbox"> Criar interface para edição do perfil e preferências.
-    - <input type="checkbox"> Desenvolver backend para armazenar e gerenciar as preferências do usuário.
-    - <input type="checkbox"> Implementar mecanismo de recomendação baseado nas preferências do usuário.
-    - <input type="checkbox"> Testar persistência e atualização das preferências.
-    - <input type="checkbox"> Garantir feedback visual claro ao salvar preferências.
+    - <input type="checkbox" checked> O sistema deve permitir que o usuário edite informações do seu perfil (ex: interesses, preferências, localização).
+    - <input type="checkbox" checked> O usuário deve conseguir selecionar categorias ou tipos de serviços de interesse.
+    - <input type="checkbox" checked> As preferências personalizadas devem ser salvas e usadas para ajustar as recomendações.
+    - <input type="checkbox" checked> O sistema deve apresentar sugestões baseadas no perfil e preferências configuradas.
+    - <input type="checkbox" checked> O usuário deve poder alterar suas preferências a qualquer momento.
 
     ---
 
@@ -625,11 +518,9 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](/home/
     ---
 
     #### Estimativa de Esforço
-
-    - **Prioridade:** Médio
     
     #### Priorização (Técnica MoSCoW)    
-    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox" checked> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
@@ -655,21 +546,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](/home/
 
     #### Critérios de Aceitação
 
-    - <input type="checkbox"> O sistema deve enviar notificações ou mensagens curtas para alertar sobre vencimentos próximos.
-    - <input type="checkbox"> O usuário deve poder configurar quais tipos de lembretes deseja receber.
-    - <input type="checkbox"> As mensagens devem ser claras, objetivas e conter informações relevantes.
-    - <input type="checkbox"> O sistema deve garantir o envio das mensagens dentro do prazo configurado.
-    - <input type="checkbox"> O usuário deve poder ativar ou desativar essas notificações a qualquer momento.
-
-    ---
-
-    #### Subtarefas
-
-    - <input type="checkbox"> Implementar sistema de notificações para vencimentos e lembretes.
-    - <input type="checkbox"> Criar interface para configuração das preferências de mensagens.
-    - <input type="checkbox"> Desenvolver mecanismo para agendamento e envio das mensagens.
-    - <input type="checkbox"> Testar o envio das mensagens em diferentes cenários.
-    - <input type="checkbox"> Garantir conformidade com políticas de privacidade e comunicação.
+    - <input type="checkbox" checked> O sistema deve enviar notificações ou mensagens curtas para alertar sobre vencimentos próximos.
+    - <input type="checkbox" checked> O usuário deve poder configurar quais tipos de lembretes deseja receber.
+    - <input type="checkbox" checked> As mensagens devem ser claras, objetivas e conter informações relevantes.
+    - <input type="checkbox" checked> O sistema deve garantir o envio das mensagens dentro do prazo configurado.
+    - <input type="checkbox" checked> O usuário deve poder ativar ou desativar essas notificações a qualquer momento.
 
     ---
 
@@ -680,11 +561,9 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](/home/
     ---
 
     #### Estimativa de Esforço
-
-    - **Prioridade:** Médio
     
     #### Priorização (Técnica MoSCoW)    
-    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox" checked> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
@@ -710,21 +589,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](/home/
 
     #### Critérios de Aceitação
 
-    - <input type="checkbox"> O sistema deve apresentar claramente as opções de serviço (agendamento, limpeza, reparo).
-    - <input type="checkbox"> O usuário deve conseguir selecionar apenas um tipo de serviço por solicitação.
-    - <input type="checkbox"> A seleção do tipo de serviço deve influenciar nas opções e recomendações exibidas.
-    - <input type="checkbox"> O sistema deve confirmar a seleção antes de prosseguir com o atendimento.
-    - <input type="checkbox"> O usuário pode alterar a seleção antes da confirmação final.
-
-    ---
-
-    #### Subtarefas
-
-    - <input type="checkbox"> Criar componente de interface para seleção do tipo de serviço.
-    - <input type="checkbox"> Integrar a seleção com o fluxo de atendimento do aplicativo.
-    - <input type="checkbox"> Implementar validação para garantir seleção única por solicitação.
-    - <input type="checkbox"> Testar impacto da seleção na exibição das opções e recomendações.
-    - <input type="checkbox"> Desenvolver mensagens de confirmação e possibilidade de alteração.
+    - <input type="checkbox" checked> O sistema deve apresentar claramente as opções de serviço (agendamento, limpeza, reparo).
+    - <input type="checkbox" checked> O usuário deve conseguir selecionar apenas um tipo de serviço por solicitação.
+    - <input type="checkbox" checked> A seleção do tipo de serviço deve influenciar nas opções e recomendações exibidas.
+    - <input type="checkbox" checked> O sistema deve confirmar a seleção antes de prosseguir com o atendimento.
+    - <input type="checkbox" checked> O usuário pode alterar a seleção antes da confirmação final.
 
     ---
 
@@ -735,12 +604,9 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](/home/
     ---
 
     #### Estimativa de Esforço
-
-    - **Prioridade:** Médio
-
       
     #### Priorização (Técnica MoSCoW)    
-    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox" checked> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
@@ -766,21 +632,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](/home/
 
     #### Critérios de Aceitação
 
-    - <input type="checkbox"> O sistema deve permitir a inserção de texto descritivo livre sobre a ocorrência.
-    - <input type="checkbox"> O usuário deve conseguir anexar uma ou mais imagens relacionadas à ocorrência.
-    - <input type="checkbox"> O sistema deve capturar ou permitir o envio da localização GPS do usuário ou da ocorrência.
-    - <input type="checkbox"> As informações adicionadas devem ser salvas corretamente e associadas à ocorrência.
-    - <input type="checkbox"> O usuário deve receber confirmação do sucesso no registro dos dados.
-
-    ---
-
-    #### Subtarefas
-
-    - <input type="checkbox"> Implementar campo de texto para descrição da ocorrência.
-    - <input type="checkbox"> Desenvolver funcionalidade para upload e visualização de imagens.
-    - <input type="checkbox"> Integrar captura ou envio manual da localização GPS.
-    - <input type="checkbox"> Garantir armazenamento e associação dos dados ao registro da ocorrência.
-    - <input type="checkbox"> Criar feedback visual para confirmação do envio.
+    - <input type="checkbox" checked> O sistema deve permitir a inserção de texto descritivo livre sobre a ocorrência.
+    - <input type="checkbox" checked> O usuário deve conseguir anexar uma ou mais imagens relacionadas à ocorrência.
+    - <input type="checkbox" checked> O sistema deve capturar ou permitir o envio da localização GPS do usuário ou da ocorrência.
+    - <input type="checkbox" checked> As informações adicionadas devem ser salvas corretamente e associadas à ocorrência.
+    - <input type="checkbox" checked> O usuário deve receber confirmação do sucesso no registro dos dados.
 
     ---
 
@@ -791,12 +647,9 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](/home/
     ---
 
     #### Estimativa de Esforço
-
-    - **Prioridade:** Médio
-
     
     #### Priorização (Técnica MoSCoW)    
-    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox" checked> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
@@ -822,21 +675,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](/home/
 
     #### Critérios de Aceitação
 
-    - <input type="checkbox"> O sistema deve disponibilizar informações sobre os serviços de transporte público disponíveis.
-    - <input type="checkbox"> O usuário deve poder iniciar o pré-cadastro do Cartão Mobilidade pelo aplicativo.
-    - <input type="checkbox"> O sistema deve validar os dados fornecidos no pré-cadastro.
-    - <input type="checkbox"> O usuário deve receber confirmação e orientações sobre os próximos passos após o pré-cadastro.
-    - <input type="checkbox"> O sistema deve garantir a segurança e privacidade dos dados pessoais durante o processo.
-
-    ---
-
-    #### Subtarefas
-
-    - <input type="checkbox"> Criar interface para acesso às informações e serviços de transporte público.
-    - <input type="checkbox"> Desenvolver formulário para pré-cadastro do Cartão Mobilidade.
-    - <input type="checkbox"> Implementar validação dos dados de pré-cadastro.
-    - <input type="checkbox"> Integrar sistema de confirmação e orientações pós-cadastro.
-    - <input type="checkbox"> Garantir conformidade com normas de segurança e privacidade.
+    - <input type="checkbox" checked> O sistema deve disponibilizar informações sobre os serviços de transporte público disponíveis.
+    - <input type="checkbox" checked> O usuário deve poder iniciar o pré-cadastro do Cartão Mobilidade pelo aplicativo.
+    - <input type="checkbox" checked> O sistema deve validar os dados fornecidos no pré-cadastro.
+    - <input type="checkbox" checked> O usuário deve receber confirmação e orientações sobre os próximos passos após o pré-cadastro.
+    - <input type="checkbox" checked> O sistema deve garantir a segurança e privacidade dos dados pessoais durante o processo.
 
     ---
 
@@ -847,12 +690,9 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](/home/
     ---
 
     #### Estimativa de Esforço
-
-    - **Prioridade:** Médio
-
       
     #### Priorização (Técnica MoSCoW)    
-    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox" checked> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
@@ -878,19 +718,10 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](/home/
 
     #### Critérios de Aceitação
 
-    - <input type="checkbox"> O aplicativo deve ser testado e validado em versões recentes do Android e iOS.
-    - <input type="checkbox"> Todas as funcionalidades principais devem ter comportamento consistente em ambas as plataformas.
-    - <input type="checkbox"> O layout e a interface devem se adaptar adequadamente a diferentes tamanhos de tela.
-    - <input type="checkbox"> O desempenho do aplicativo deve ser equivalente nas duas plataformas.
-
-    ---
-
-    #### Subtarefas
-
-    - <input type="checkbox"> Realizar testes em dispositivos Android e iOS.
-    - <input type="checkbox"> Corrigir inconsistências de interface e comportamento entre plataformas.
-    - <input type="checkbox"> Garantir compatibilidade com APIs específicas de cada sistema operacional.
-    - <input type="checkbox"> Monitorar e otimizar o desempenho nas duas plataformas.
+    - <input type="checkbox" checked> O aplicativo deve ser testado e validado em versões recentes do Android e iOS.
+    - <input type="checkbox" checked> Todas as funcionalidades principais devem ter comportamento consistente em ambas as plataformas.
+    - <input type="checkbox" checked> O layout e a interface devem se adaptar adequadamente a diferentes tamanhos de tela.
+    - <input type="checkbox" checked> O desempenho do aplicativo deve ser equivalente nas duas plataformas.
 
     ---
 
@@ -902,11 +733,9 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](/home/
 
     #### Estimativa de Esforço
 
-    - **Prioridade:** Alta
-
       
     #### Priorização (Técnica MoSCoW)    
-    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox" checked> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
@@ -923,7 +752,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](/home/
 ## Termo de consentimento de imagem 
 Este documento confirma que o cidadão Arthur Leite forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
 
-O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/assets/termo-de-imagem-hu/Termo_Consentimento_eGDF_ABNT__JOAO_assinado-Artur.pdf)
 
 **Vídeo 3** - Validação e Priorização com os usuário por [João Marcos Moraes](https://github.com/JJOAOMARCOSS)
 
@@ -934,7 +763,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 ## Termo de consentimento de imagem 
 Este documento confirma que o cidadão Vitor Pereira forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
 
-O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/assets/termo-de-imagem-hu/Termo_Consentimento_eGDF_ABNT_-JOAO_assinado_Victor.pdf)
 
 | **Nome** | **Função** |  **Data**  | **Hora** |
 | :------------------------------------------------: | :----------------------: | :--------: | :------: |
@@ -965,16 +794,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
     - <input type="checkbox"> As alterações devem ser aplicadas imediatamente em toda a interface.
     - <input type="checkbox"> As preferências do usuário devem ser salvas para sessões futuras.
     - <input type="checkbox"> Deve haver um botão de "Restaurar padrão" para voltar às configurações originais.
-
-    ---
-
-    #### Subtarefas
-
-    - <input type="checkbox"> Implementar controles deslizantes ou botões para ajuste de fonte.
-    - <input type="checkbox"> Criar temas de alto contraste seguindo diretrizes de acessibilidade.
-    - <input type="checkbox"> Aplicar mudanças dinamicamente em todos os componentes.
-    - <input type="checkbox"> Persistir preferências de acessibilidade no perfil do usuário.
-    - <input type="checkbox"> Testar conformidade com WCAG 2.1 nível AA.
 
     ---
 
@@ -1022,16 +841,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
     - <input type="checkbox"> Todos os elementos da interface devem se adaptar corretamente ao tema escuro.
     - <input type="checkbox"> A escolha do usuário deve ser salva e aplicada automaticamente em acessos futuros.
     - <input type="checkbox"> O contraste no modo escuro deve atender aos padrões de acessibilidade.
-
-    ---
-
-    #### Subtarefas
-
-    - <input type="checkbox"> Criar paleta de cores para o tema escuro.
-    - <input type="checkbox"> Implementar toggle switch para alternar entre temas.
-    - <input type="checkbox"> Adaptar todos os componentes visuais para o modo escuro.
-    - <input type="checkbox"> Salvar preferência de tema no armazenamento local/perfil.
-    - <input type="checkbox"> Validar contraste e legibilidade no modo escuro.
 
     ---
 
@@ -1083,16 +892,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 
     ---
 
-    #### Subtarefas
-
-    - <input type="checkbox"> Desenvolver templates para relatórios e comprovantes.
-    - <input type="checkbox"> Implementar gerador de PDF com dados do agendamento.
-    - <input type="checkbox"> Criar sistema de filtros para busca de agendamentos.
-    - <input type="checkbox"> Adicionar código de verificação/QR Code aos comprovantes.
-    - <input type="checkbox"> Integrar opções de compartilhamento e download.
-
-    ---
-
     #### Rastreabilidade
 
     - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF10</a>
@@ -1137,16 +936,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
     - <input type="checkbox"> O usuário deve poder visualizar a rota completa da linha no mapa.
     - <input type="checkbox"> Deve ser possível buscar linhas por número ou destino.
     - <input type="checkbox"> O sistema deve indicar claramente quando não há dados disponíveis para uma linha.
-
-    ---
-
-    #### Subtarefas
-
-    - <input type="checkbox"> Integrar API de rastreamento de transporte público.
-    - <input type="checkbox"> Implementar mapa interativo com marcadores de ônibus.
-    - <input type="checkbox"> Desenvolver algoritmo de previsão de chegada.
-    - <input type="checkbox"> Criar sistema de busca e filtro de linhas.
-    - <input type="checkbox"> Implementar atualização automática da posição dos veículos.
 
     ---
 
@@ -1197,16 +986,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 
     ---
 
-    #### Subtarefas
-
-    - <input type="checkbox"> Criar interface organizada para serviços de impostos.
-    - <input type="checkbox"> Desenvolver guias passo a passo para cada tipo de imposto.
-    - <input type="checkbox"> Integrar com sistemas de geração de boletos fiscais.
-    - <input type="checkbox"> Implementar calendário de vencimentos e alertas.
-    - <input type="checkbox"> Adicionar recursos visuais explicativos (imagens, vídeos).
-
-    ---
-
     #### Rastreabilidade
 
     - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF23</a>
@@ -1249,16 +1028,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
     - <input type="checkbox"> Deve haver subcategorias para refinamento da classificação.
     - <input type="checkbox"> O usuário deve poder selecionar apenas uma categoria principal por ocorrência.
     - <input type="checkbox"> A interface deve sugerir a categoria mais adequada baseada em palavras-chave.
-
-    ---
-
-    #### Subtarefas
-
-    - <input type="checkbox"> Definir taxonomia de categorias com órgãos responsáveis.
-    - <input type="checkbox"> Criar interface de seleção hierárquica de categorias.
-    - <input type="checkbox"> Implementar sistema de sugestão baseado em palavras-chave.
-    - <input type="checkbox"> Mapear categorias com órgãos e departamentos responsáveis.
-    - <input type="checkbox"> Adicionar tooltips explicativos para categorias ambíguas.
 
     ---
 
@@ -1308,18 +1077,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
     - <input type="checkbox"> Logs de acesso devem ser criptografados e auditáveis.
     - <input type="checkbox"> Dados sensíveis em trânsito devem ter criptografia fim-a-fim.
     - <input type="checkbox"> O sistema deve detectar e alertar sobre tentativas de acesso suspeitas.
-
-    ---
-
-    #### Subtarefas
-
-    - <input type="checkbox"> Implementar camada de criptografia para banco de dados.
-    - <input type="checkbox"> Configurar certificados SSL/TLS atualizados automaticamente.
-    - <input type="checkbox"> Desenvolver sistema de hash seguro para senhas.
-    - <input type="checkbox"> Integrar serviços de autenticação multifator (SMS, app authenticator).
-    - <input type="checkbox"> Criar sistema de monitoramento e alertas de segurança.
-    - <input type="checkbox"> Implementar políticas de rotação de chaves criptográficas.
-    - <input type="checkbox"> Realizar testes de penetração e auditoria de segurança.
 
     ---
 
@@ -1378,21 +1135,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 	#### Critérios de Aceitação
 
-	- <input type="checkbox"> O sistema deve exibir uma área unificada com os agendamentos e reagendamentos realizados.
-	- <input type="checkbox"> As informações devem estar atualizadas em tempo real.
-	- <input type="checkbox"> Deve ser possível visualizar detalhes como data, horário, local e serviço.
-	- <input type="checkbox"> O sistema deve permitir filtrar por tipo de serviço ou data.
-	- <input type="checkbox"> A interface deve ser responsiva e acessível em diferentes dispositivos.
-
-	---
-
-	#### Subtarefas
-
-	- <input type="checkbox"> Mapear os serviços do GDF que exigem agendamento.
-	- <input type="checkbox"> Criar interface para exibição consolidada de agendamentos.
-	- <input type="checkbox"> Integrar sistema com as APIs dos serviços para obtenção dos dados.
-	- <input type="checkbox"> Implementar filtros e ordenações por tipo de serviço e data.
-	- <input type="checkbox"> Garantir acessibilidade da interface (WCAG).
+	- <input type="checkbox" checked> O sistema deve exibir uma área unificada com os agendamentos e reagendamentos realizados.
+	- <input type="checkbox" checked> As informações devem estar atualizadas em tempo real.
+	- <input type="checkbox" checked> Deve ser possível visualizar detalhes como data, horário, local e serviço.
+	- <input type="checkbox" checked> O sistema deve permitir filtrar por tipo de serviço ou data.
+	- <input type="checkbox" checked> A interface deve ser responsiva e acessível em diferentes dispositivos.
 
 	---
 
@@ -1405,7 +1152,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 	#### Estimativa de Esforço
    
     #### Priorização (Técnica MoSCoW)    
-    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox" checked> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
@@ -1431,21 +1178,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 	#### Critérios de Aceitação
 
-	- <input type="checkbox"> O sistema deve disponibilizar um mapa interativo com zoom e movimentação.
-	- <input type="checkbox"> O usuário deve poder clicar no mapa para marcar o local do problema.
-	- <input type="checkbox"> Deve ser possível anexar uma descrição e foto ao ponto marcado.
-	- <input type="checkbox"> O sistema deve registrar a coordenada geográfica do ponto selecionado.
-	- <input type="checkbox"> O mapa deve permitir busca por endereço para facilitar a localização.
-
-	---
-
-	#### Subtarefas
-
-	- <input type="checkbox"> Integrar API de mapa interativo (ex: Google Maps ou OpenStreetMap).
-	- <input type="checkbox"> Criar interface para seleção e marcação do local da ocorrência.
-	- <input type="checkbox"> Implementar campos para descrição e upload de imagem.
-	- <input type="checkbox"> Validar dados geográficos e armazenar com o reporte.
-	- <input type="checkbox"> Adicionar busca de endereços com sugestão automática.
+	- <input type="checkbox" checked> O sistema deve disponibilizar um mapa interativo com zoom e movimentação.
+	- <input type="checkbox" checked> O usuário deve poder clicar no mapa para marcar o local do problema.
+	- <input type="checkbox" checked> Deve ser possível anexar uma descrição e foto ao ponto marcado.
+	- <input type="checkbox" checked> O sistema deve registrar a coordenada geográfica do ponto selecionado.
+	- <input type="checkbox" checked> O mapa deve permitir busca por endereço para facilitar a localização.
 
 	---
 
@@ -1458,7 +1195,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 	#### Estimativa de Esforço
 
     #### Priorização (Técnica MoSCoW)    
-    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox" checked> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
@@ -1485,21 +1222,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 	#### Critérios de Aceitação
 
-	- <input type="checkbox"> O sistema deve exibir claramente o número da polícia em uma área de fácil acesso.
-	- <input type="checkbox"> O número deve estar disponível mesmo sem login no aplicativo.
-	- <input type="checkbox"> Deve haver botão de chamada direta ao número de emergência.
-	- <input type="checkbox"> O sistema deve permitir acesso rápido a partir da tela inicial.
-	- <input type="checkbox"> A interface deve seguir padrões de acessibilidade.
-
-	---
-
-	#### Subtarefas
-
-	- <input type="checkbox"> Identificar os serviços de emergência relevantes para exibir.
-	- <input type="checkbox"> Criar componente visual destacado para número da polícia.
-	- <input type="checkbox"> Implementar funcionalidade de chamada direta.
-	- <input type="checkbox"> Garantir visibilidade do recurso mesmo sem autenticação.
-	- <input type="checkbox"> Testar responsividade e acessibilidade do botão.
+	- <input type="checkbox" checked> O sistema deve exibir claramente o número da polícia em uma área de fácil acesso.
+	- <input type="checkbox" checked> O número deve estar disponível mesmo sem login no aplicativo.
+	- <input type="checkbox" checked> Deve haver botão de chamada direta ao número de emergência.
+	- <input type="checkbox" checked> O sistema deve permitir acesso rápido a partir da tela inicial.
+	- <input type="checkbox" checked> A interface deve seguir padrões de acessibilidade.
 
 	---
 
@@ -1512,7 +1239,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 	#### Estimativa de Esforço
    
     #### Priorização (Técnica MoSCoW)    
-    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox" checked> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
@@ -1538,24 +1265,13 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 	#### Critérios de Aceitação
 
-	- <input type="checkbox"> O sistema deve apresentar uma lista de serviços públicos disponíveis para solicitação.
-	- <input type="checkbox"> O usuário deve poder selecionar o serviço desejado e descrever o problema.
-	- <input type="checkbox"> O sistema deve permitir a marcação da localização da solicitação.
-	- <input type="checkbox"> O usuário deve poder anexar imagens da situação ao enviar a solicitação.
-	- <input type="checkbox"> O sistema deve gerar um protocolo para acompanhamento da solicitação.
+	- <input type="checkbox" checked> O sistema deve apresentar uma lista de serviços públicos disponíveis para solicitação.
+	- <input type="checkbox" checked> O usuário deve poder selecionar o serviço desejado e descrever o problema.
+	- <input type="checkbox" checked>O sistema deve permitir a marcação da localização da solicitação.
+	- <input type="checkbox" checked> O usuário deve poder anexar imagens da situação ao enviar a solicitação.
+	- <input type="checkbox" checked> O sistema deve gerar um protocolo para acompanhamento da solicitação.
 
 	---
-
-	#### Subtarefas
-
-	- <input type="checkbox"> Definir os serviços públicos que poderão ser solicitados via aplicativo.
-	- <input type="checkbox"> Criar interface de seleção e detalhamento da solicitação.
-	- <input type="checkbox"> Integrar módulo de geolocalização para marcação do local.
-	- <input type="checkbox"> Implementar envio de imagens junto à solicitação.
-	- <input type="checkbox"> Desenvolver sistema de protocolo e acompanhamento.
-
-	---
-
 	#### Rastreabilidade
 
 	- **Requisito Funcional Relacionado:** <a href="../tec_elicitacao/analisededocumentos/#anchor_AD02">AD02</a>
@@ -1567,7 +1283,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox"> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
-    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox" checked> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
     ----
 
@@ -1591,21 +1307,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 	#### Critérios de Aceitação
 
-	- <input type="checkbox"> O sistema deve exibir um mapa com marcadores indicando os pontos de solicitação de serviços.
-	- <input type="checkbox"> Cada marcador deve apresentar informações básicas da solicitação.
-	- <input type="checkbox"> O mapa deve permitir filtragem por tipo de serviço e status da solicitação.
-	- <input type="checkbox"> A interface deve permitir zoom e movimentação do mapa.
-	- <input type="checkbox"> As informações devem ser atualizadas em tempo real.
-
-	---
-
-	#### Subtarefas
-
-	- <input type="checkbox"> Integrar API de mapas com capacidade de marcação dinâmica.
-	- <input type="checkbox"> Mapear dados das solicitações com coordenadas geográficas.
-	- <input type="checkbox"> Criar marcadores customizados por tipo/status de serviço.
-	- <input type="checkbox"> Implementar sistema de filtros por categoria e status.
-	- <input type="checkbox"> Garantir responsividade e desempenho da visualização no mapa.
+	- <input type="checkbox" checked> O sistema deve exibir um mapa com marcadores indicando os pontos de solicitação de serviços.
+	- <input type="checkbox" checked> Cada marcador deve apresentar informações básicas da solicitação.
+	- <input type="checkbox" checked> O mapa deve permitir filtragem por tipo de serviço e status da solicitação.
+	- <input type="checkbox" checked> A interface deve permitir zoom e movimentação do mapa.
+	- <input type="checkbox" checked> As informações devem ser atualizadas em tempo real.
 
 	---
 
@@ -1621,7 +1327,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox"> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
-    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox" checked> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
     ----
 
@@ -1646,21 +1352,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 	#### Critérios de Aceitação
 
-	- <input type="checkbox"> O sistema deve disponibilizar um chatbot acessível a partir da tela inicial.
-	- <input type="checkbox"> O assistente virtual deve responder perguntas comuns sobre uso do aplicativo e serviços oferecidos.
-	- <input type="checkbox"> O chatbot deve reconhecer palavras-chave e apresentar respostas coerentes.
-	- <input type="checkbox"> Deve haver opção de redirecionamento para atendimento humano em casos mais complexos.
-	- <input type="checkbox"> As respostas do chatbot devem ser claras, objetivas e acessíveis.
-
-	---
-
-	#### Subtarefas
-
-	- <input type="checkbox"> Definir as dúvidas frequentes e respostas padrão.
-	- <input type="checkbox"> Integrar API ou serviço de chatbot com o aplicativo.
-	- <input type="checkbox"> Criar interface de chat com histórico de conversas.
-	- <input type="checkbox"> Implementar fallback para atendimento humano quando necessário.
-	- <input type="checkbox"> Realizar testes de usabilidade com interações reais.
+	- <input type="checkbox" checked> O sistema deve disponibilizar um chatbot acessível a partir da tela inicial.
+	- <input type="checkbox" checked> O assistente virtual deve responder perguntas comuns sobre uso do aplicativo e serviços oferecidos.
+	- <input type="checkbox" checked> O chatbot deve reconhecer palavras-chave e apresentar respostas coerentes.
+	- <input type="checkbox" checked> Deve haver opção de redirecionamento para atendimento humano em casos mais complexos.
+	- <input type="checkbox" checked> As respostas do chatbot devem ser claras, objetivas e acessíveis.
 
 	---
 
@@ -1676,7 +1372,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     - <input type="checkbox"> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
-    - <input type="checkbox"> Won't Have (WH)
+    - <input type="checkbox" checked> Won't Have (WH)
     ----
 
 	<font size="3"><p style="text-align: center">Elaborado pelo autor: ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025).</p></font>
@@ -1700,21 +1396,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 	#### Critérios de Aceitação
 
-	- <input type="checkbox"> O sistema deve apresentar fontes ampliadas e legíveis por padrão.
-	- <input type="checkbox"> Os botões e elementos interativos devem ter tamanho adequado para toque.
-	- <input type="checkbox"> As funcionalidades devem estar organizadas de forma intuitiva e com linguagem clara.
-	- <input type="checkbox"> O aplicativo deve ser compatível com leitores de tela.
-	- <input type="checkbox"> Deve haver possibilidade de ativar um modo de acessibilidade com alto contraste.
-
-	---
-
-	#### Subtarefas
-
-	- <input type="checkbox"> Implementar diretrizes de design inclusivo voltado para idosos.
-	- <input type="checkbox"> Testar o aplicativo com usuários reais da terceira idade.
-	- <input type="checkbox"> Criar modo de acessibilidade configurável.
-	- <input type="checkbox"> Garantir compatibilidade com ferramentas de apoio, como leitores de tela.
-	- <input type="checkbox"> Reescrever textos com linguagem simples e direta.
+	- <input type="checkbox" checked> O sistema deve apresentar fontes ampliadas e legíveis por padrão.
+	- <input type="checkbox" checked> Os botões e elementos interativos devem ter tamanho adequado para toque.
+	- <input type="checkbox" checked> As funcionalidades devem estar organizadas de forma intuitiva e com linguagem clara.
+	- <input type="checkbox" checked> O aplicativo deve ser compatível com leitores de tela.
+	- <input type="checkbox" checked> Deve haver possibilidade de ativar um modo de acessibilidade com alto contraste.
 
 	---
 
@@ -1727,7 +1413,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 	#### Estimativa de Esforço
    
     #### Priorização (Técnica MoSCoW)    
-    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox" checked> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
@@ -1773,21 +1459,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
     #### Critérios de Aceitação
 
-    - <input type="checkbox"> O sistema deve apresentar uma tela de login objetiva e intuitiva.
-    - <input type="checkbox"> O login deve ser processado em até 5 segundos.
-    - <input type="checkbox"> Deve haver feedback visual (carregamento) durante a autenticação.
-    - <input type="checkbox"> Se o login falhar, uma mensagem clara e objetiva deve ser exibida.
-    - <input type="checkbox"> O sistema deve permitir a recuperação de senha de forma intuitiva.
-
-    ---
-
-    #### Subtarefas
-
-    - <input type="checkbox"> Desenvolver interface de login com campos de usuário e senha.
-    - <input type="checkbox"> Implementar mecanismo de autenticação rápida.
-    - <input type="checkbox"> Criar mensagens de erro para diferentes falhas.
-    - <input type="checkbox"> Testar o tempo médio de resposta do login.
-    - <input type="checkbox"> Implementar fluxo de recuperação de senha.
+    - <input type="checkbox" checked> O sistema deve apresentar uma tela de login objetiva e intuitiva.
+    - <input type="checkbox" checked> O login deve ser processado em até 5 segundos.
+    - <input type="checkbox" checked> Deve haver feedback visual (carregamento) durante a autenticação.
+    - <input type="checkbox" checked> Se o login falhar, uma mensagem clara e objetiva deve ser exibida.
+    - <input type="checkbox" checked> O sistema deve permitir a recuperação de senha de forma intuitiva.
 
     ---
 
@@ -1799,11 +1475,8 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
     #### Estimativa de Esforço
 
-    - **Prioridade:** Alta
-
-       
     #### Priorização (Técnica MoSCoW)    
-    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox" checked> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
@@ -1832,20 +1505,10 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     #### Critérios de Aceitação
 
     - <input type="checkbox"> As principais funcionalidades devem ser acessíveis em no máximo dois cliques.
-    - <input type="checkbox"> O app deve utilizar ícones e textos autoexplicativos.
-    - <input type="checkbox"> Deve haver um tutorial opcional na primeira utilização.
-    - <input type="checkbox"> As fontes e botões devem ter tamanho adequado para facilitar a leitura e interação.
-    - <input type="checkbox"> O sistema deve possuir suporte a leitura por voz.
-
-    ---
-
-    #### Subtarefas
-
-    - <input type="checkbox"> Projetar uma interface limpa e intuitiva.
-    - <input type="checkbox"> Criar tutorial guiado de apresentação das funções.
-    - <input type="checkbox"> Implementar validações de acessibilidade.
-    - <input type="checkbox"> Realizar testes com usuários não familiarizados com tecnologia.
-    - <input type="checkbox"> Adicionar suporte a leitores de tela.
+    - <input type="checkbox" checked> O app deve utilizar ícones e textos autoexplicativos.
+    - <input type="checkbox" checked> Deve haver um tutorial opcional na primeira utilização.
+    - <input type="checkbox" checked> As fontes e botões devem ter tamanho adequado para facilitar a leitura e interação.
+    - <input type="checkbox" checked> O sistema deve possuir suporte a leitura por voz.
 
     ---
 
@@ -1856,11 +1519,9 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     ---
 
     #### Estimativa de Esforço
-
-    - **Prioridade:** Alta
     
     #### Priorização (Técnica MoSCoW)    
-    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox" checked> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
@@ -1887,21 +1548,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
     #### Critérios de Aceitação
 
-    - <input type="checkbox"> O sistema deve solicitar permissão para acessar a localização do usuário.
-    - <input type="checkbox"> As notificações devem ser enviadas apenas quando relevantes à região do usuário.
-    - <input type="checkbox"> O usuário pode ativar ou desativar esse tipo de notificação nas configurações.
-    - <input type="checkbox"> A privacidade dos dados de localização deve ser garantida conforme LGPD.
-    - <input type="checkbox"> O sistema deve atualizar as notificações conforme a mudança de localização do usuário.
-
-    ---
-
-    #### Subtarefas
-
-    - <input type="checkbox"> Implementar serviço de geolocalização.
-    - <input type="checkbox"> Criar lógica de disparo de notificações baseada em localização.
-    - <input type="checkbox"> Desenvolver painel de configurações para ativar/desativar notificações.
-    - <input type="checkbox"> Validar segurança no tratamento de dados de localização.
-    - <input type="checkbox"> Testar atualização dinâmica das notificações conforme localização.
+    - <input type="checkbox" checked> O sistema deve solicitar permissão para acessar a localização do usuário.
+    - <input type="checkbox" checked> As notificações devem ser enviadas apenas quando relevantes à região do usuário.
+    - <input type="checkbox" checked> O usuário pode ativar ou desativar esse tipo de notificação nas configurações.
+    - <input type="checkbox" checked> A privacidade dos dados de localização deve ser garantida conforme LGPD.
+    - <input type="checkbox" checked> O sistema deve atualizar as notificações conforme a mudança de localização do usuário.
 
     ---
 
@@ -1912,14 +1563,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     ---
 
     #### Estimativa de Esforço
-
-    - **Prioridade:** Médio
-
        
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox"> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
-    - <input type="checkbox"> Could Have (CH)
+    - <input type="checkbox" checked> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
     ----
 
@@ -1945,20 +1593,10 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     #### Critérios de Aceitação
 
     - <input type="checkbox"> O sistema deve exibir uma lista atualizada de notícias na tela inicial ou seção dedicada.
-    - <input type="checkbox"> Cada notícia deve conter título, resumo e link para conteúdo completo.
-    - <input type="checkbox"> As notícias devem ser classificadas por relevância ou data.
-    - <input type="checkbox"> O carregamento das notícias deve ser rápido e sem travamentos.
+    - <input type="checkbox" checked> Cada notícia deve conter título, resumo e link para conteúdo completo.
+    - <input type="checkbox" checked> As notícias devem ser classificadas por relevância ou data.
+    - <input type="checkbox" checked> O carregamento das notícias deve ser rápido e sem travamentos.
     - <input type="checkbox"> O sistema deve permitir favoritar notícias para leitura posterior.
-
-    ---
-
-    #### Subtarefas
-
-    - <input type="checkbox"> Integrar API de notícias.
-    - <input type="checkbox"> Desenvolver interface para exibição das notícias.
-    - <input type="checkbox"> Criar filtros por categoria e data.
-    - <input type="checkbox"> Implementar cache para otimizar carregamento.
-    - <input type="checkbox"> Desenvolver funcionalidade de favoritar notícias.
 
     ---
 
@@ -1970,14 +1608,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
     #### Estimativa de Esforço
 
-    - **Prioridade:** Baixa
-
-       
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox"> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
-    - <input type="checkbox"> Won't Have (WH)
+    - <input type="checkbox" checked> Won't Have (WH)
     ----
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Ana Victória Guedes da Costa](https://github.com/navicg), 2025).</p></font>
@@ -2003,21 +1638,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
     #### Critérios de Aceitação
 
-    - <input type="checkbox"> O menu deve estar visível na tela inicial, com ícones e descrições claras.
-    - <input type="checkbox"> Cada item do menu deve redirecionar corretamente para sua respectiva funcionalidade.
-    - <input type="checkbox"> O menu deve ser responsivo e adaptado a diferentes tamanhos de tela.
-    - <input type="checkbox"> O design deve seguir o padrão visual do aplicativo.
-    - <input type="checkbox"> O menu deve permitir personalização da ordem dos itens pelo usuário.
-
-    ---
-
-    #### Subtarefas
-
-    - <input type="checkbox"> Projetar interface do menu principal.
-    - <input type="checkbox"> Implementar navegação entre as funcionalidades.
-    - <input type="checkbox"> Garantir responsividade do layout.
-    - <input type="checkbox"> Realizar testes de usabilidade do menu.
-    - <input type="checkbox"> Implementar funcionalidade de personalização do menu.
+    - <input type="checkbox" checked> O menu deve estar visível na tela inicial, com ícones e descrições claras.
+    - <input type="checkbox" checked> Cada item do menu deve redirecionar corretamente para sua respectiva funcionalidade.
+    - <input type="checkbox" checked> O menu deve ser responsivo e adaptado a diferentes tamanhos de tela.
+    - <input type="checkbox" checked> O design deve seguir o padrão visual do aplicativo.
+    - <input type="checkbox" checked> O menu deve permitir personalização da ordem dos itens pelo usuário.
 
     ---
 
@@ -2029,14 +1654,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
     #### Estimativa de Esforço
 
-    - **Prioridade:** Baixa
-
-       
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox"> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
-    - <input type="checkbox"> Won't Have (WH)
+    - <input type="checkbox" checked> Won't Have (WH)
     ----
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Ana Victória Guedes da Costa](https://github.com/navicg), 2025).</p></font>
@@ -2060,21 +1682,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
     #### Critérios de Aceitação
 
-    - <input type="checkbox"> Antes de acessar o serviço externo, uma explicação clara deve ser exibida.
-    - <input type="checkbox"> O link deve abrir em uma nova janela ou aba para não interromper a navegação.
-    - <input type="checkbox"> O sistema deve garantir que os links estejam sempre atualizados.
-    - <input type="checkbox"> Os textos explicativos devem ser simples e objetivos.
-    - <input type="checkbox"> O sistema deve permitir ao usuário avaliar a utilidade do link acessado.
-
-    ---
-
-    #### Subtarefas
-
-    - <input type="checkbox"> Desenvolver componente de exibição de links com descrição.
-    - <input type="checkbox"> Implementar abertura segura de links externos.
-    - <input type="checkbox"> Criar rotina de validação periódica dos links.
-    - <input type="checkbox"> Revisar textos explicativos para garantir clareza.
-    - <input type="checkbox"> Implementar sistema de avaliação de utilidade dos links.
+    - <input type="checkbox" checked> Antes de acessar o serviço externo, uma explicação clara deve ser exibida.
+    - <input type="checkbox" checked> O link deve abrir em uma nova janela ou aba para não interromper a navegação.
+    - <input type="checkbox" checked> O sistema deve garantir que os links estejam sempre atualizados.
+    - <input type="checkbox" checked> Os textos explicativos devem ser simples e objetivos.
+    - <input type="checkbox" checked> O sistema deve permitir ao usuário avaliar a utilidade do link acessado.
 
     ---
 
@@ -2086,11 +1698,8 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
     #### Estimativa de Esforço
 
-    - **Prioridade:** Alta
-    
-      
     #### Priorização (Técnica MoSCoW)    
-    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox" checked> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
@@ -2119,21 +1728,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
     #### Critérios de Aceitação
 
-    - <input type="checkbox"> O aplicativo deve ser testado em diversas condições de rede (3G, 4G, 5G).
-    - <input type="checkbox"> Deve haver tratamento adequado de erros de conexão.
-    - <input type="checkbox"> O sistema deve exibir mensagens informativas em caso de falhas temporárias.
-    - <input type="checkbox"> O carregamento de dados deve ser otimizado para minimizar o consumo de banda.
-    - <input type="checkbox"> O sistema deve retomar automaticamente a conexão após falhas temporárias.
-
-    ---
-
-    #### Subtarefas
-
-    - <input type="checkbox"> Implementar sistema de monitoramento de estabilidade.
-    - <input type="checkbox"> Otimizar chamadas de rede e processos de carregamento.
-    - <input type="checkbox"> Desenvolver tratamento de exceções para falhas de rede.
-    - <input type="checkbox"> Realizar testes de estresse e estabilidade.
-    - <input type="checkbox"> Implementar reconexão automática após perda de rede.
+    - <input type="checkbox" checked> O aplicativo deve ser testado em diversas condições de rede (3G, 4G, 5G).
+    - <input type="checkbox" checked> Deve haver tratamento adequado de erros de conexão.
+    - <input type="checkbox" checked> O sistema deve exibir mensagens informativas em caso de falhas temporárias.
+    - <input type="checkbox" checked> O carregamento de dados deve ser otimizado para minimizar o consumo de banda.
+    - <input type="checkbox" checked> O sistema deve retomar automaticamente a conexão após falhas temporárias.
 
     ---
 
@@ -2145,11 +1744,8 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
     #### Estimativa de Esforço
 
-    - **Prioridade:** Alta
-
-          
     #### Priorização (Técnica MoSCoW)    
-    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox" checked> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
@@ -2201,16 +1797,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
     ---
 
-    #### Subtarefas
-
-    - <input type="checkbox"> Desenvolver interface de visualização centralizada.
-    - <input type="checkbox"> Implementar sistema de filtros e ordenação.
-    - <input type="checkbox"> Criar mecanismo de atualização automática.
-    - <input type="checkbox"> Integrar com diferentes serviços do sistema.
-    - <input type="checkbox"> Implementar cache para acesso offline aos dados.
-
-    ---
-
     #### Rastreabilidade
 
     - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF04</a>
@@ -2255,16 +1841,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     - <input type="checkbox"> Deve haver suporte para diferentes sotaques e variações linguísticas.
     - <input type="checkbox"> O assistente deve funcionar mesmo com ruído ambiente moderado.
     - <input type="checkbox"> O usuário deve poder ativar/desativar o assistente facilmente.
-
-    ---
-
-    #### Subtarefas
-
-    - <input type="checkbox"> Implementar sistema de reconhecimento de voz.
-    - <input type="checkbox"> Desenvolver engine de processamento de linguagem natural.
-    - <input type="checkbox"> Criar interface de ativação/desativação do assistente.
-    - <input type="checkbox"> Integrar sistema de síntese de voz para respostas.
-    - <input type="checkbox"> Realizar testes de usabilidade com diferentes perfis de usuário.
 
     ---
 
@@ -2314,17 +1890,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     - <input type="checkbox"> Os tutoriais devem ser acessíveis offline após primeiro acesso.
 
     ---
-
-    #### Subtarefas
-
-    - <input type="checkbox"> Criar estrutura de navegação dos tutoriais.
-    - <input type="checkbox"> Desenvolver conteúdo instrucional com imagens.
-    - <input type="checkbox"> Implementar sistema de marcação de progresso.
-    - <input type="checkbox"> Adicionar cache para acesso offline.
-    - <input type="checkbox"> Testar clareza e efetividade dos tutoriais.
-
-    ---
-
     #### Rastreabilidade
 
     - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF06</a>
@@ -2370,16 +1935,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     - <input type="checkbox"> A integração com serviços de mobilidade deve ser em tempo real.
     - <input type="checkbox"> O usuário deve poder alternar entre os serviços facilmente.
     - <input type="checkbox"> As informações devem ser sincronizadas periodicamente.
-
-    ---
-
-    #### Subtarefas
-
-    - <input type="checkbox"> Implementar APIs de integração com cada serviço.
-    - <input type="checkbox"> Criar interfaces unificadas para acesso aos serviços.
-    - <input type="checkbox"> Desenvolver sistema de sincronização de dados.
-    - <input type="checkbox"> Implementar mecanismos de segurança para dados sensíveis.
-    - <input type="checkbox"> Realizar testes de integração com cada sistema.
 
     ---
 
@@ -2430,17 +1985,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     - <input type="checkbox"> Deve haver notificações sobre atualizações importantes.
 
     ---
-
-    #### Subtarefas
-
-    - <input type="checkbox"> Criar interface de visualização do calendário letivo.
-    - <input type="checkbox"> Implementar sistema de consulta de vagas.
-    - <input type="checkbox"> Desenvolver filtros de busca por região/escola.
-    - <input type="checkbox"> Integrar sistema de notificações.
-    - <input type="checkbox"> Realizar testes de atualização de dados.
-
-    ---
-
     #### Rastreabilidade
 
     - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF21</a>
@@ -2487,17 +2031,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     - <input type="checkbox"> O usuário deve receber atualizações sobre o status da ocorrência.
 
     ---
-
-    #### Subtarefas
-
-    - <input type="checkbox"> Criar formulário de registro de ocorrências.
-    - <input type="checkbox"> Implementar upload de imagens.
-    - <input type="checkbox"> Integrar sistema de geolocalização.
-    - <input type="checkbox"> Desenvolver geração de protocolos.
-    - <input type="checkbox"> Implementar sistema de notificações de status.
-
-    ---
-
     #### Rastreabilidade
 
     - **Requisito Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RF33</a>
@@ -2541,16 +2074,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     - <input type="checkbox"> O aplicativo deve otimizar o carregamento de dados e imagens.
     - <input type="checkbox"> O sistema deve implementar cache para melhorar o tempo de resposta.
     - <input type="checkbox"> Deve haver monitoramento contínuo do tempo de resposta.
-
-    ---
-
-    #### Subtarefas
-
-    - <input type="checkbox"> Implementar sistema de monitoramento de performance.
-    - <input type="checkbox"> Otimizar consultas ao banco de dados.
-    - <input type="checkbox"> Criar sistema de cache para dados frequentemente acessados.
-    - <input type="checkbox"> Implementar lazy loading para imagens e conteúdo pesado.
-    - <input type="checkbox"> Desenvolver indicadores visuais de carregamento.
 
     ---
 
@@ -2614,15 +2137,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     - <input type="checkbox"> Devem estar incluídos agendamentos, solicitações e ações executadas.  
     - <input type="checkbox"> As informações devem estar organizadas por data.  
     - <input type="checkbox"> O usuário deve conseguir filtrar por tipo de interação.
-
-    ---
-
-    ### Subtarefas
-    - <input type="checkbox"> Criar modelo de dados para armazenar interações.  
-    - <input type="checkbox"> Desenvolver interface do histórico.  
-    - <input type="checkbox"> Implementar filtros e ordenações por tipo e data.  
-    - <input type="checkbox"> Garantir persistência e segurança dos dados.
-
     ---
 
     ### Rastreabilidade
@@ -2667,14 +2181,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     - <input type="checkbox"> As notícias devem conter título, resumo, data e link para leitura completa.  
     - <input type="checkbox"> As atualizações devem ocorrer de forma periódica.  
     - <input type="checkbox"> Deve ser possível compartilhar notícias via redes sociais.
-
-    ---
-
-    ### Subtarefas
-    - <input type="checkbox"> Integrar API de notícias do GDF.  
-    - <input type="checkbox"> Criar interface de listagem.  
-    - <input type="checkbox"> Exibir alertas para novas notícias.  
-    - <input type="checkbox"> Implementar botão de compartilhamento.
 
     ---
 
@@ -2723,13 +2229,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     ---
 
-    ### Subtarefas
-    - <input type="checkbox"> Conectar com sistema de agendamentos do GDF.  
-    - <input type="checkbox"> Criar interface de seleção de local, serviço e horário.  
-    - <input type="checkbox"> Implementar lógica de confirmação e envio de notificação.
-
-    ---
-
     ### Rastreabilidade
     - **Requisito Funcional Relacionado:** RF39
 
@@ -2773,15 +2272,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     - <input type="checkbox"> A funcionalidade deve estar segura e em conformidade com a LGPD.
 
     ---
-
-    ### Subtarefas
-    - <input type="checkbox"> Integrar API de emissão.  
-    - <input type="checkbox"> Criar visualizasor dos pdfs.
-    - <input type="checkbox"> Criar opção de download dos PDFs.  
-    - <input type="checkbox"> Garantir autenticação do usuário antes da emissão.
-
-    ---
-
     ### Rastreabilidade
     - **Requisito Funcional Relacionado:** RF40
 
@@ -2799,9 +2289,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     ----
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Lucas Mendonça](https://github.com/lucasarruda9), 2025).</p></font>
-
-
-
+    
 ## US47 - Acompanhar pendências educacionais {#us47}
 
 ??? abstract "Tabela 49 - História de Usuário - Implementar funcionalidades adicionais na área educacional, como acompanhamento de pendências para professores e alunos."
@@ -2820,11 +2308,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     - <input type="checkbox"> O sistema deve permitir notificar mudanças ou atrasos.  
     - <input type="checkbox"> A interface deve ser clara e acessível para todos os perfis.
 
-    ### Subtarefas
-    - <input type="checkbox"> Integrar sistema educacional do GDF.  
-    - <input type="checkbox"> Criar telas específicas para alunos e professores.  
-    - <input type="checkbox"> Implementar filtros por disciplina, data e tipo.  
-    - <input type="checkbox"> Desenvolver notificações de alerta para novas pendências.
+    ---
 
     ### Rastreabilidade
     - **Requisito Funcional Relacionado:** RF24
@@ -2868,15 +2352,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     - <input type="checkbox"> O conteúdo da notificação deve ser claro e conciso.
 
     ---
-
-    ### Subtarefas
-    - <input type="checkbox"> Criar sistema de preferências do usuário.  
-    - <input type="checkbox"> Implementar envio segmentado de notificações.  
-    - <input type="checkbox"> Integrar com sistema de push notifications.  
-    - <input type="checkbox"> Criar tela de configurações de notificações.
-
-    ---
-
     ### Rastreabilidade
     - **Requisito Funcional Relacionado:** RF17
 
@@ -2919,14 +2394,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     - <input type="checkbox"> Os dados salvos devem ser atualizados automaticamente quando conectados com a internet.
 
     ---
-
-    ### Subtarefas
-    - <input type="checkbox"> Implementar armazenamento local.  
-    - <input type="checkbox"> Adicionar mensagem "deconectado" quando não tiver acesso à internet.  
-    - <input type="checkbox"> Sincronizar dados automaticamente quando houver conexão.  
-
-    ---
-
     ### Rastreabilidade
     - **Requisito Não Funcional Relacionado:** RNF23
 
@@ -2944,6 +2411,17 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     ----
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Lucas Mendonça](https://github.com/lucasarruda9), 2025).</p></font>
+
+**Vídeo 7** - Validação e Priorização com usuário por [Lucas Mendonça](https://github.com/lucasarruda9)
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/V2vTp1LULbI?si=xEAsK0MRSV45BRNN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/V2vTp1LULbI?si=xEAsK0MRSV45BRNN" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+| **Nome** | **Função** | **Data** | **Hora** |
+|:---------:|:------------------------:|:--------:|:--------:|
+| [Lucas Mendonça](https://github.com/lucasarruda9) | Elaborador das histórias | 01/06/2025 | 18:30 |
+| Gabriel Lima | Cidadão | 01/06/2025 | 18:30 |
 
 
 ## Referências Bibliográficas
@@ -3020,3 +2498,5 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 | 1.54  | Adicionando o link da validação das histórias de usuário | [Gabriel Lopes](https://github.com/BrzGab) | 31/05/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 03/06/2025 |
 | 1.55  | Adicionando metodoliga de moscow | [Karoline Luz](https://github.com/KarolineLuz) | 31/05/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 03/06/2025 |
 | 1.56  | Adicionando Video de entrevista e Termo de Consentimento | [Karoline Luz](https://github.com/KarolineLuz) | 31/05/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 03/06/2025 |
+| 1.57  | Removendo Subtarefas | [Karoline Luz](https://github.com/KarolineLuz) |01/06/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 03/06/2025 |
+| 1.58  | Adicionando link do vídeo 7 | [Lucas Mendonça](http://github.com/lucasarruda9) |01/06/2025 | [Gabriel Lopes](https://github.com/BrzGab) | 01/06/2025 |
