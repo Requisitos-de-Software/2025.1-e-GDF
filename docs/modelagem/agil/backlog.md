@@ -268,6 +268,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_GABRIEL_LOPES" title="Validação Backlog - Gabriel Lopes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
 **Tabela 6** - Informações da validação 3
 
 | **Tema** | **Épico (ID)** | **História do Usuário (US)** | **ID** | **Prioridade** | **Status** | **Rastreabilidade** | **Autor** |
@@ -327,6 +328,8 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](/docs/
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E0MSih6ABqg" title="Validação Backlog - Karoline Luz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
+
 **Tabela 8** - Informações da validação 5
 
 | **Tema** | **Épico (ID)** | **História do Usuário (US)** | **ID** | **Prioridade** | **Status** | **Rastreabilidade** | **Autor** |
@@ -355,7 +358,9 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 **Vídeo 6** - Validação com usuário por Lucas Mendonça
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_LUCAS_MENDONCA" title="Validação Backlog - Lucas Mendonça" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/R7kMTJI2olg?si=4KrjLObnLS1_vVUL" title="Validação Backlog - Lucas Mendonça" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p style="text-align: center"><a href="https://youtube.com/R7kMTJI2olg?si=4KrjLObnLS1_vVUL" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
 **Tabela 9** - Informações da validação 6
 
@@ -371,9 +376,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 | **Autor** | **Usuário Participante** |
 | :-------- | :---------------------- |
-| [Lucas Mendonça](https://github.com/lucasarruda9) |  |
+| [Lucas Mendonça](https://github.com/lucasarruda9) | Vitor Lustosa |
 
 <p style="text-align: center"><font size="3">Fonte: Elaborado por (<a href="https://github.com/lucasarruda9">Lucas Mendonça</a>, 2025).</font></p>
+
+
 
 ### Validação 7 - Luiza Silva
 
