@@ -483,6 +483,11 @@ A Tabela 2, apresentada a seguir, mostra a avaliação da propagação dos impac
 
 <p style="text-align: center"><a href="https://youtube.com/wxBJ2hGhygs" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
+| **Nome** | **Função** | **Data** | **Hora** |
+|:---------:|:------------------------:|:--------:|:--------:|
+| [Lucas Mendonça](https://github.com/lucasarruda9) | Elaborador dos NFR | 01/06/2025 | 18:30 |
+| Gabriel Lima | Usuário | 01/06/2025 | 18:30 |
+
 ------
 
 <p align="center"><b>Tabela 10</b> — Cartão de Especificação 10</p>
