@@ -434,12 +434,12 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 > O QUE É BACKLOG DO PRODUTO SCRUM E COMO FAZER UM. Lucidchart. Disponível em: [Link](https://www.lucidchart.com/blog/pt/como-fazer-um-backlog-do-produto). Acesso em: 28 maio 2025. 
 
 <figure id="ref-backlog-fonte1">
-    <img src="../../../../assets/agil/backlog/backlog-fonte1.png" alt="Exemplo de Product Backlog" width="500" onerror="this.onerror=null;this.src='../../assets/agil/backlog/backlog-fonte1.png'">
+    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/fix/ultimos-ajustes/docs/assets/font1-backlog.png" alt="Exemplo de Product Backlog" width="500" onerror="this.onerror=null;this.src='../../assets/agil/backlog/backlog-fonte1.png'">
     <figcaption>Fonte: SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 15. Universidade de Brasília, Faculdade do Gama, [s.d.].</figcaption>
 </figure>
 
 <figure id="ref-backlog-fonte2">
-    <img src="../../../../assets/agil/backlog/backlog-fonte2.png" alt="Benefícios e Priorização do Product Backlog" width="500" onerror="this.onerror=null;this.src='../../assets/agil/backlog/backlog-fonte2.png'">
+    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/fix/ultimos-ajustes/docs/assets/font2-backlog.png" alt="Benefícios e Priorização do Product Backlog" width="500" onerror="this.onerror=null;this.src='../../assets/agil/backlog/backlog-fonte2.png'">
     <figcaption>Fonte: RADIGAN, Dan. O backlog do produto: sua lista de tarefas definitiva. Atlassian.</figcaption>
 </figure>
 

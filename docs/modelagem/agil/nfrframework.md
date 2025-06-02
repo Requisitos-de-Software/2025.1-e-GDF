@@ -189,7 +189,6 @@ A taxonomia é um esquema de classificação que organiza termos e suas relaçõ
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ( [João Marcos](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
 
 A taxonomia apresentada nesta tabela organiza os Softgoals (objetivos de qualidade não-funcionais) do sistema e relaciona cada um com os Requisitos Não-Funcionais correspondentes. Essa classificação ajuda a estruturar os critérios que devem ser atendidos para garantir aspectos importantes do software, como compatibilidade, segurança, usabilidade, acessibilidade, desempenho, entre outros.
-A Figura 3 ilustra a representação visual dessa taxonomia, facilitando a compreensão das relações entre os Softgoals e seus respectivos Requisitos não funcionais.
 
 ---
 
@@ -573,9 +572,9 @@ Requisitos utilizados para desenvolver o SIG da Figura 5:
 
 ## Propagação dos Impactos
 
-A Tabela X apresenta a análise dos impactos dos requisitos de acessibilidade.
+A Tabela 3 apresenta a análise dos impactos dos requisitos de acessibilidade.
 
-### Tabela X: Tabela de Impactos - Acessibilidade
+### Tabela 3: Tabela de Impactos - Acessibilidade
 
 | NFR                                                          | Impacto | Avaliador                                                                                                              |
 | -------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------ |
@@ -729,9 +728,9 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 ### Propagação dos Impactos
 
-A Tabela, apresentada a seguir, mostra a avaliação da propagação dos impactos representados na imagem acima.
+A Tabela 4, apresentada a seguir, mostra a avaliação da propagação dos impactos representados na imagem acima.
 
-### Tabela de Impactos - Desempenho
+### Tabela 4: Tabela de Impactos - Desempenho
 
 | *NFR*                        | *Impacto* | *Avaliador*           |
 |-----------------------------|-----------|------------------------|
@@ -932,9 +931,9 @@ O diagrama de Confiabilidade foi estruturado utilizando decomposição **AND**, 
 
 ### Propagação dos Impactos
 
-A Tabela 25, apresentada a seguir, mostra a avaliação da propagação dos impactos no SIG de Confiabilidade.
+A Tabela 5, apresentada a seguir, mostra a avaliação da propagação dos impactos no SIG de Confiabilidade.
 
-<p align="center"><b>Tabela 25</b> — Tabela de Impactos - Confiabilidade</p>
+<p align="center"><b>Tabela 5</b> — Tabela de Impactos - Confiabilidade</p>
 
 | **NFR**                          | **Impacto** | **Avaliador**                                    |
 |----------------------------------|-------------|--------------------------------------------------|
