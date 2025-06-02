@@ -22,7 +22,6 @@ Para este projeto, o backlog foi estruturado seguindo as melhores práticas de d
 
 | **Participante** | **Função** |
 | :-------------- | :--------- |
-| [Nome do PO] | Product Owner |
 | [Ana Victória Guedes da Costa](https://github.com/navicg) | Desenvolvedor(a) |
 | [Artur Mendonça Arruda](https://github.com/ArtyMend07) | Desenvolvedor |
 | [Gabriel Lopes de Amorim](https://github.com/BrzGab) | Desenvolvedor |
