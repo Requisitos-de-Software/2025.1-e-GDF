@@ -809,7 +809,7 @@ Requisitos utilizados para desenvolver o SIG da Figura 5:
 <p align="center"><i>Figura 5: SIG: Confiabilidade</i></p>
 
 <p align="center">
-  <img src="https://i.ibb.co/q3Wmb7Fb/confiabilidade.png" width="800">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/nfr/docs/assets/modelagem/nfr/confiabilidade.png" width="800">
 </p>
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Gabriel Lopes](https://github.com/BrzGab), 2025)</p></font>
