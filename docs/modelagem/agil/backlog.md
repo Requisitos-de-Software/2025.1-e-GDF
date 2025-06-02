@@ -199,14 +199,14 @@ Como usuário preocupado com a privacidade dos meus dados, eu quero ter controle
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Nome do [Tema](#temas) definido|Nome do [Épico](#epicos) (Identificador do [Épico](#epicos)) |Título da [História de Usuário](./historia-de-usuario.md) (Identificador da [História de Usuário](./historia-de-usuario.md))|Identificador do Requisito referente a [História de usuário](./historia-de-usuario.md)|Prioridade baseada na técnica do [MoSCoW](../../elicitacao/tec_priorizacao/moscow.md)| Status de conclusão da validação | Rastreabilidade do requisito utilizado  | [Autor](#autores)      |
 
-<font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
+<font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Artur Mendonça Arruda](https://github.com/ArtyMend07) e [Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
 
 
 ### Validação 1 - Ana Victória
 
 **Vídeo 1** - Validação com usuário por Ana Victória
 
-<iframe width="560" height="315" src="https://www.youtube/embed/yfFuc19aF20" title="Validação Backlog - Ana Victória" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yfFuc19aF20" title="Validação Backlog - Ana Victória" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 **Tabela 4** - Informações da validação 1
@@ -240,7 +240,9 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 **Vídeo 2** - Validação com usuário por Artur Mendonça
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ARTUR_MENDONCA" title="Validação Backlog - Artur Mendonça" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1U298AC6rZ8" title="Validação Backlog - Artur Mendonça" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p style="text-align: center"><a href="https://youtu.be/1U298AC6rZ8" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
 **Tabela 5** - Informações da validação 2
 
@@ -251,41 +253,53 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | [Atendimento](#tema-6-atendimento) | [Canais de Suporte](#épico-9-canais-suporte) (EP09) | Tutoriais passo a passo do aplicativo ([US38](./historia-de-usuario.md)) | RF06 | SH | em progresso | [BR06](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) | [Artur Mendonça](https://github.com/ArtyMend07) |
 | [Serviços do Cidadão](#tema-3-serviços-do-cidadão) | [Serviços Centralizados](#épico-4-serviços-centralizados) (EP04) | Integração com serviços de saúde, educação e mobilidade ([US39](./historia-de-usuario.md)) | RF11 | MH | em progresso | [BR12](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) | [Artur Mendonça](https://github.com/ArtyMend07) |
 | [Serviços do Cidadão](#tema-3-serviços-do-cidadão) | [Serviços Centralizados](#épico-4-serviços-centralizados) (EP04) | Consulta de informações educacionais ([US40](./historia-de-usuario.md)) | RF21 | MH | em progresso | [EN03](../../elicitacao/tec_elicitacao/entrevista.md#anchor_EN), [INT07](../../elicitacao/tec_elicitacao/introspeccao.md#anchor_INT) | [Artur Mendonça](https://github.com/ArtyMend07) |
-| [Atendimento](#tema-6-atendimento) | [Canais de Suporte](#épico-9-canais-suporte) (EP09) | Registro de ocorrências de infraestrutura ([US41](./historia-de-usuario.md)) | RF33 | MH | em progresso | [INT01](../../elicitacao/tec_elicitacao/introspeccao.md#anchor_INT) | [Artur Mendonça](https://github.com/ArtyMend07) |
+| [Atendimento](#tema-6-atendimento) | [Canais de Suporte](#épico-9-canais-suporte) (EP09) | Registro de ocorrências de infraestrutura ([US41](./historia-de-usuario.md)) | RF33 | SH | em progresso | [INT01](../../elicitacao/tec_elicitacao/introspeccao.md#anchor_INT) | [Artur Mendonça](https://github.com/ArtyMend07) |
 | [Serviços do Cidadão](#tema-3-serviços-do-cidadão) | [Serviços Centralizados](#épico-4-serviços-centralizados) (EP04) | Performance das funcionalidades principais ([US42](./historia-de-usuario.md)) | RNF20 | MH | em progresso | [INT16](../../elicitacao/tec_elicitacao/introspeccao.md#anchor_INTT) | [Artur Mendonça](https://github.com/ArtyMend07) |
 
 | **Autor** | **Usuário Participante** |
 | :-------- | :---------------------- |
-| [Artur Mendonça](https://github.com/ArtyMend07) |  |
+| [Artur Mendonça](https://github.com/ArtyMend07) |Mateus Bastos dos Santos  |
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Artur Mendonça](https://github.com/ArtyMend07), 2025).</p></font>
 
+## Termo de consentimento de imagem 
+Este documento confirma que a cidadã Ana Geralda Xavier forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/195qwdk-np0_d4IMXCRbUWCllJCcPYC15/view?usp=sharing)
+
+<p style="text-align: center"><font size="3">Fonte: Elaborado por (<a href="https://github.com/ArtyMend07">Artur Mendonça</a>, 2025).</font></p>
 
 ### Validação 3 - Gabriel Lopes
 
 
 **Vídeo 3** - Validação com usuário por Gabriel Lopes
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_GABRIEL_LOPES" title="Validação Backlog - Gabriel Lopes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GdncDHMK1DQ" title="Validação Backlog - Gabriel Lopes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 **Tabela 6** - Informações da validação 3
 
 | **Tema** | **Épico (ID)** | **História do Usuário (US)** | **ID** | **Prioridade** | **Status** | **Rastreabilidade** | **Autor** |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| [Acessibilidade](#tema-9-acessibilidade) | [Recursos de Acessibilidade](#épico-3-recursos-acessibilidade) (EP03) | Ajuste de tamanho de fonte e contraste de cores ([US15](./historia-de-usuario.md)) | RF07 | SH | em progresso | [BR07](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS), [EN08](../../elicitacao/tec_elicitacao/entrevista.md#anchor_EN), [AD08](../../elicitacao/tec_elicitacao/analise_documentos.md#anchor_AD) | [Gabriel Lopes](https://github.com/BrzGab) |
-| [Usabilidade](#tema-2-usabilidade) | [Interface Personalizável](#épico-2-interface-personalizável) (EP02) | Ativação do modo escuro ([US16](./historia-de-usuario.md)) | RF08 | CH | em progresso | [BR08](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) | [Gabriel Lopes](https://github.com/BrzGab) |
-| [Documentos](#tema-5-documentos) | [Gestão de Documentos](#épico-8-gestão-documentos) (EP08) | Geração de relatórios e visualização de comprovantes ([US17](./historia-de-usuario.md)) | RF10 | SH | em progresso | [BR11](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) | [Gabriel Lopes](https://github.com/BrzGab) |
-| [Mobilidade](#tema-7-mobilidade) | [Transporte Público](#épico-10-transporte-público) (EP10) | Localização de ônibus em tempo real ([US18](./historia-de-usuario.md)) | RF19 | SH | em progresso | [EN01](../../elicitacao/tec_elicitacao/entrevista.md#anchor_EN) | [Gabriel Lopes](https://github.com/BrzGab) |
-| [Serviços do Cidadão](#tema-3-serviços-do-cidadão) | [Serviços Centralizados](#épico-4-serviços-centralizados) (EP04) | Acesso facilitado a serviços de impostos ([US19](./historia-de-usuario.md)) | RF23 | SH | em progresso | [EN05](../../elicitacao/tec_elicitacao/entrevista.md#anchor_EN) | [Gabriel Lopes](https://github.com/BrzGab) |
-| [Atendimento](#tema-6-atendimento) | [Canais de Suporte](#épico-9-canais-suporte) (EP09) | Categorização de ocorrências ([US20](./historia-de-usuario.md)) | RF34 | SH | em progresso | [INT02](../../elicitacao/tec_elicitacao/introspeccao.md#anchor_INT) | [Gabriel Lopes](https://github.com/BrzGab) |
-| [Privacidade](#tema-8-privacidade) | [Controle de Privacidade](#épico-11-controle-privacidade) (EP11) | Proteção de informações pessoais com criptografia ([US21](./historia-de-usuario.md)) | RNF22 | SH | em progresso | [INT18](../../elicitacao/tec_elicitacao/introspeccao.md#anchor_INTT) | [Gabriel Lopes](https://github.com/BrzGab) |
+| [Acessibilidade](#tema-9-acessibilidade) | [Recursos de Acessibilidade](#épico-3-recursos-acessibilidade) (EP03) | Ajuste de tamanho de fonte e contraste de cores ([US15](./historia-de-usuario.md)) | RF07 | SH | Validado | [BR07](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS), [EN08](../../elicitacao/tec_elicitacao/entrevista.md#anchor_EN), [AD08](../../elicitacao/tec_elicitacao/analise_documentos.md#anchor_AD) | [Gabriel Lopes](https://github.com/BrzGab) |
+| [Usabilidade](#tema-2-usabilidade) | [Interface Personalizável](#épico-2-interface-personalizável) (EP02) | Ativação do modo escuro ([US16](./historia-de-usuario.md)) | RF08 | CH | Validado | [BR08](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) | [Gabriel Lopes](https://github.com/BrzGab) |
+| [Documentos](#tema-5-documentos) | [Gestão de Documentos](#épico-8-gestão-documentos) (EP08) | Geração de relatórios e visualização de comprovantes ([US17](./historia-de-usuario.md)) | RF10 | SH | Validado | [BR11](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) | [Gabriel Lopes](https://github.com/BrzGab) |
+| [Mobilidade](#tema-7-mobilidade) | [Transporte Público](#épico-10-transporte-público) (EP10) | Localização de ônibus em tempo real ([US18](./historia-de-usuario.md)) | RF19 | SH | Validado | [EN01](../../elicitacao/tec_elicitacao/entrevista.md#anchor_EN) | [Gabriel Lopes](https://github.com/BrzGab) |
+| [Serviços do Cidadão](#tema-3-serviços-do-cidadão) | [Serviços Centralizados](#épico-4-serviços-centralizados) (EP04) | Acesso facilitado a serviços de impostos ([US19](./historia-de-usuario.md)) | RF23 | SH | Validado | [EN05](../../elicitacao/tec_elicitacao/entrevista.md#anchor_EN) | [Gabriel Lopes](https://github.com/BrzGab) |
+| [Atendimento](#tema-6-atendimento) | [Canais de Suporte](#épico-9-canais-suporte) (EP09) | Categorização de ocorrências ([US20](./historia-de-usuario.md)) | RF34 | SH | Validado | [INT02](../../elicitacao/tec_elicitacao/introspeccao.md#anchor_INT) | [Gabriel Lopes](https://github.com/BrzGab) |
+| [Privacidade](#tema-8-privacidade) | [Controle de Privacidade](#épico-11-controle-privacidade) (EP11) | Proteção de informações pessoais com criptografia ([US21](./historia-de-usuario.md)) | RNF22 | MH | Validado | [INT18](../../elicitacao/tec_elicitacao/introspeccao.md#anchor_INTT) | [Gabriel Lopes](https://github.com/BrzGab) |
 
 | **Autor** | **Usuário Participante** |
 | :-------- | :---------------------- |
-| [Gabriel Lopes](https://github.com/BrzGab) | |
+| [Gabriel Lopes](https://github.com/BrzGab) | Daniel Rodrigues Nascimento |
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
+
+## Termo de consentimento de imagem 
+Este documento confirma que o cidadão **Daniel Rodrigues Nascimento** forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1EB1p_smwvLfqsPcUb_7nWpKIXuzLOx02/view?usp=sharing)
+
 
 
 ### Validação 4 - João Marcos Moraes
@@ -350,7 +364,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](/docs/
 ## Termo de consentimento de imagem 
 Este documento confirma que o cidadão Leonardo Rodrigues Martins forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
 
-O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/17VQcbgpFlHFWAAIlzOhBMqyTFZEsmm3f/view?usp=sharing)
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1K8P5RS7xYEd8k3xGEkLp9QrjuAOqB51s/view?usp=sharing)
 
 <p style="text-align: center"><font size="3">Fonte: Elaborado por (<a href="https://github.com/KarolineLuz">Karoline Luz</a>, 2025).</font></p>
 
@@ -447,5 +461,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | 2.0 | Criação dos temas, épicos e das tabelas | [Gabriel Lopes](https://github.com/BrzGab) | 31/05/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 31/05/2025 |
 | 2.1 | Ajuste dos temas e épicos, e adição de rastreabilidade (hyperlinks)  | [Artur Mendonça](https://github.com/ArtyMend07) e [Gabriel Lopes](https://github.com/BrzGab) | 01/06/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 01/06/2025 | 
 | 2.2 | Adicionando Entrevista e Termo de consentimento  | [Karoline Luz](https://github.com/KarolineLuz) | 01/06/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 01/06/2025 |
-| 2.3 | Correção das prioridades dos requisitos RF16, RF25, RF26, RF28, RF29, RF43, RNF16  | [Artur Mendonça](https://github.com/ArtyMend07) | 01/06/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 01/06/2025 |
-| 2.4 | Validação do Product Backlog RF01, RF02, RF03, RF09, RF15, RF20, RNF13 | [Ana Victória](https://github.com/navicg) | 01/06/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 01/06/2025 |
+| 2.3 | Correção das prioridades dos requisitos RF04, RF05, RF06, RF11, RF21, RF33, RNF20  | [Artur Mendonça](https://github.com/ArtyMend07) | 01/06/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 01/06/2025 |
+| 2.4 | Validação do Product Backlog  RF01, RF02, RF03, RF09, RF15, RF20, RNF13 com usuário real | [Ana Victória](https://github.com/navicg) | 01/06/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 01/06/2025 |
+| 2.5 | Validaçaõ do Product Backlog com usuario real RF07, RF08, RF10, RF19, RF23, RF34, RNF22 | [Gabriel Lopes](https://github.com/BrzGab) | 01/06/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 30/05/2025 |
+| 2.6 | Validação do Product Backlog RF04, RF05, RF06, RF11, RF21, RF33, RNF20 | [Artur Mendonça](https://github.com/ArtyMend07) | 01/06/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 01/06/2025 | | 01/06/2025 |
