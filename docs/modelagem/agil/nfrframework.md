@@ -191,12 +191,7 @@ A taxonomia é um esquema de classificação que organiza termos e suas relaçõ
 A taxonomia apresentada nesta tabela organiza os Softgoals (objetivos de qualidade não-funcionais) do sistema e relaciona cada um com os Requisitos Não-Funcionais correspondentes. Essa classificação ajuda a estruturar os critérios que devem ser atendidos para garantir aspectos importantes do software, como compatibilidade, segurança, usabilidade, acessibilidade, desempenho, entre outros.
 A Figura 3 ilustra a representação visual dessa taxonomia, facilitando a compreensão das relações entre os Softgoals e seus respectivos Requisitos não funcionais.
 
-<p align="center"><i>Figura 4: Taxonomia</i></p>
-<p align="center">
-  <img src="/assets/modelagem/nfr/Taxonomia.drawio.png" width="600">
-</p>
-
-<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ( [Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
+---
 
 ## Cartões de Especificação
 
@@ -281,7 +276,7 @@ Os cartões de especificação a seguir, Tabelas de 1 a 10, foram utilizados par
 
 ## NFR01: Segurança
 
-Este SIG (Softgoal Interdependency Graph) foi elaborado a partir de requisitos não funcionais relacionados à portabilidade do sistema. Esses requisitos garantem que o sistema seja acessível em diferentes ambientes.
+Este SIG (Softgoal Interdependency Graph) foi elaborado com base nos requisitos não funcionais relacionados à segurança do sistema no que tange ao dados. A segurança é responsável por garantir que os dados do usuário e de todas as partes envolvidas no uso do sistema tenham uma camada de proteção contra a exposição indesejada das suas informações.
 
 ## Requisitos: 
 Requisitos utilizados para desenvolver o SIG da Figura 4:
@@ -433,7 +428,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](../../
 
 ## NFR02: Usabilidade
 
-Este SIG (Softgoal Interdependency Graph) foi elaborado a partir de requisitos não funcionais relacionados à usabilidade do sistema. Esses requisitos garantem que o sistema seja acessível em diferentes ambientes.
+Este Softgoal Interdependency Graph (SIG) foi elaborado para representar visualmente os aspectos relacionados à usabilidade no sistema FGTS. Ele demonstra como certos requisitos não funcionais influenciam positivamente ou negativamente esse atributo de qualidade.
 
 ## Requisitos: 
 Requisitos utilizados para desenvolver o SIG da Figura 5:
@@ -490,7 +485,7 @@ A Tabela 2, apresentada a seguir, mostra a avaliação da propagação dos impac
 
 ------
 
-<p align="center"><b>Tabela 10</b> — Cartão de Especificação 10</p>
+<p align="center"><b>Tabela 9</b> — Cartão de Especificação 9</p>
 
 | *Item*                  | *Descrição*                                                                                                                  |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -511,7 +506,7 @@ A Tabela 2, apresentada a seguir, mostra a avaliação da propagação dos impac
 
 ---
 
-<p align="center"><b>Tabela 11</b> — Cartão de Especificação 11</p>
+<p align="center"><b>Tabela 10</b> — Cartão de Especificação 10</p>
 
 | *Item*                  | *Descrição*                                                                                                               |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------- |
@@ -530,7 +525,7 @@ A Tabela 2, apresentada a seguir, mostra a avaliação da propagação dos impac
 
 ---
 
-<p align="center"><b>Tabela 12</b> — Cartão de Especificação 12</p>
+<p align="center"><b>Tabela 11</b> — Cartão de Especificação 11</p>
 
 | *Item*                  | *Descrição*                                                                                                                |
 | ----------------------- | -------------------------------------------------------------------------------------------------------------------------- |
@@ -552,7 +547,7 @@ A Tabela 2, apresentada a seguir, mostra a avaliação da propagação dos impac
 
 ## NFR03: Acessibilidade
 
-Este SIG (Softgoal Interdependency Graph) foi elaborado a partir de requisitos não funcionais relacionados à acessibilidade do sistema. Esses requisitos garantem que o sistema seja acessível em diferentes ambientes.
+Este SIG (Softgoal Interdependency Graph) foi elaborado a partir de requisitos não funcionais relacionados à acessibilidade do sistema. Esses requisitos garantem que o aplicativo seja inclusivo e acessível a todos os usuários, incluindo aqueles com deficiências visuais, auditivas ou motoras.
 
 ## Requisitos:
 
@@ -611,7 +606,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 ---
 
 
-<p align="center"><b>Tabela 13</b> — Cartão de Especificação 13</p>
+<p align="center"><b>Tabela 12</b> — Cartão de Especificação 12</p>
 
 | *Item*                  | *Descrição*                                                                                               |
 | ----------------------- | --------------------------------------------------------------------------------------------------------- |
@@ -632,7 +627,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 ---
 
-<p align="center"><b>Tabela 14</b> — Cartão de Especificação 14</p>
+<p align="center"><b>Tabela 13</b> — Cartão de Especificação 13</p>
 
 | *Item*                  | *Descrição*                                                                                                 |
 | ----------------------- | ----------------------------------------------------------------------------------------------------------- |
@@ -651,7 +646,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 ---
 
-<p align="center"><b>Tabela 15</b> — Cartão de Especificação 15</p>
+<p align="center"><b>Tabela 14</b> — Cartão de Especificação 14</p>
 
 | *Item*                  | *Descrição*                                                                                                               |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------- |
@@ -671,7 +666,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 ---
 
-<p align="center"><b>Tabela 16</b> — Cartão de Especificação 16</p>
+<p align="center"><b>Tabela 15</b> — Cartão de Especificação 15</p>
 
 | *Item*                  | *Descrição*                                                                                                        |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------ |
@@ -690,7 +685,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 ---
 
-<p align="center"><b>Tabela 17</b> — Cartão de Especificação 17</p>
+<p align="center"><b>Tabela 16</b> — Cartão de Especificação 16</p>
 
 | *Item*                  | *Descrição*                                                                                               |
 | ----------------------- | --------------------------------------------------------------------------------------------------------- |
@@ -709,7 +704,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 ---
 
-<p align="center"><b>Tabela 18</b> — Cartão de Especificação 18</p>
+<p align="center"><b>Tabela 17</b> — Cartão de Especificação 17</p>
 
 | *Item*                  | *Descrição*                                                                                           |
 | ----------------------- | ----------------------------------------------------------------------------------------------------- |
@@ -768,7 +763,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 ---
 
-<p align="center"><b>Tabela 19</b> — Cartão de Especificação 19</p>
+<p align="center"><b>Tabela 18</b> — Cartão de Especificação 18</p>
 
 | *Item*                  | *Descrição*                                                                                                         |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------- |
@@ -787,7 +782,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 ---
 
-<p align="center"><b>Tabela 20</b> — Cartão de Especificação 20</p>
+<p align="center"><b>Tabela 19</b> — Cartão de Especificação 19</p>
 
 | *Item*                  | *Descrição*                                                                                                   |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------- |
@@ -806,7 +801,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 ---
 
-<p align="center"><b>Tabela 21</b> — Cartão de Especificação 21</p>
+<p align="center"><b>Tabela 20</b> — Cartão de Especificação 20</p>
 
 | *Item*                  | *Descrição*                                                                                                   |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------- |
@@ -825,7 +820,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 ---
 
-<p align="center"><b>Tabela 22</b> — Cartão de Especificação 22</p>
+<p align="center"><b>Tabela 21</b> — Cartão de Especificação 21</p>
 
 | *Item*                  | *Descrição*                                                                                                     |
 | ----------------------- | --------------------------------------------------------------------------------------------------------------- |
@@ -845,7 +840,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 ---
 
-<p align="center"><b>Tabela 23</b> — Cartão de Especificação 23</p>
+<p align="center"><b>Tabela 22</b> — Cartão de Especificação 22</p>
 
 | *Item*                  | *Descrição*                                                                                       |
 | ----------------------- | ------------------------------------------------------------------------------------------------- |
@@ -866,7 +861,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 ---
 
-<p align="center"><b>Tabela 24</b> — Cartão de Especificação 24</p>
+<p align="center"><b>Tabela 23</b> — Cartão de Especificação 23</p>
 
 | *Item*                  | *Descrição*                                                                                                       |
 | ----------------------- | ----------------------------------------------------------------------------------------------------------------- |
