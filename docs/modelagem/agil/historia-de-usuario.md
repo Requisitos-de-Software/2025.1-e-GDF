@@ -439,7 +439,7 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
 ## Termo de consentimento de imagem 
 Este documento confirma que o cidadão Wanjo Christopher forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
 
-O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](/home/luizaxx/Requisitos-2025.1/2025.1-Carteira-Digital-de-Transito/docs/modelagem/agil/docs/assets/termo-de-imagem-hu/Termo_39954923_tce_81319_assinado_assinado_assinado.pdf)
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/modelagem/agil/docs/assets/Termo_39954923_tce_81319_assinado_assinado_assinado.pdf)
 
 ## US08 - Alteração de Idioma no Aplicativo {#us08}
 
