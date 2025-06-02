@@ -452,7 +452,7 @@ Requisitos utilizados para desenvolver o SIG da Figura 5:
 
 
 <p align="center">
-  <img src="/docs/assets/nfr/Usabilidade.drawio.png="600">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/nfr/docs/assets/nfr/Usabilidade.drawio.png"600">
 </p>
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
@@ -729,7 +729,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 
 <p align="center">
-  <img src="/docs/assets/nfr/nrf_desempenho.png="600">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/nfr/docs/assets/nfr/nfr_desempenho.png"600">
 </p>
 
 ### Propagação dos Impactos
@@ -1007,7 +1007,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 ## Diagrama compilado
 
 <div style="text-align: center">
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/nfr/docs/assets/nfr/nfrchung.png" >
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/nfr/docs/assets/nfr/nfr_compilado.jpeg" >
 </div>
 
 
