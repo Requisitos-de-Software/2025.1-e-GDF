@@ -49,7 +49,7 @@ nav:
       - Especificação Suplementar: modelagem/especificacao_suplementar.md
       - Ágil:
           - NFR Framework: modelagem/agil/nfrframework.md
-          - Backlog: modelagem/agil/backog.md
+          - Backlog: modelagem/agil/backlog.md
           - Histórias de Usuário: modelagem/agil/historia-de-usuario.md        
 
   - Verificação:
