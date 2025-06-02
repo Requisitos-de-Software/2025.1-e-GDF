@@ -199,7 +199,7 @@ Como usuário preocupado com a privacidade dos meus dados, eu quero ter controle
 |:--|:--|:--|:--|:--|:--|:--|:--|
 |Nome do [Tema](#temas) definido|Nome do [Épico](#epicos) (Identificador do [Épico](#epicos)) |Título da [História de Usuário](./historia-de-usuario.md) (Identificador da [História de Usuário](./historia-de-usuario.md))|Identificador do Requisito referente a [História de usuário](./historia-de-usuario.md)|Prioridade baseada na técnica do [MoSCoW](../../elicitacao/tec_priorizacao/moscow.md)| Status de conclusão da validação | Rastreabilidade do requisito utilizado  | [Autor](#autores)      |
 
-<font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
+<font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Artur Mendonça Arruda](https://github.com/ArtyMend07) e [Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
 
 
 ### Validação 1 - Ana Victória
@@ -242,6 +242,8 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1U298AC6rZ8" title="Validação Backlog - Artur Mendonça" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<p style="text-align: center"><a href="https://youtu.be/1U298AC6rZ8" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
 **Tabela 5** - Informações da validação 2
 
 | **Tema** | **Épico (ID)** | **História do Usuário (US)** | **ID** | **Prioridade** | **Status** | **Rastreabilidade** | **Autor** |
@@ -256,7 +258,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 | **Autor** | **Usuário Participante** |
 | :-------- | :---------------------- |
-| [Artur Mendonça](https://github.com/ArtyMend07) |  |
+| [Artur Mendonça](https://github.com/ArtyMend07) |Mateus Bastos dos Santos  |
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Artur Mendonça](https://github.com/ArtyMend07), 2025).</p></font>
 
