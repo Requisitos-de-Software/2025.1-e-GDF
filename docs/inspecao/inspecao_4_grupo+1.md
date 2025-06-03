@@ -139,7 +139,7 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 # Link da Reunião | Inspeção do grupo + 1(GDF-Saúde)
 
 <p style="text-align: center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Codigo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ep24bYeptWA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
 # Referências 
@@ -150,7 +150,7 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 | Versão | Descrição                                                                                          | Autor(es)                                             | Data       | Revisor(es)                                        | Data de revisão |
 | ------ | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------- | -------------------------------------------------- | --------------- 
 | 1.0    | Adicionando tabelas da lista de inspeção da entrega 4 do grupo+1(GDF-Saúde) | [Ana Victória](https://github.com/navicg) | 01/06/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 01/06/2025  |
-| 1.1    | Adicionando evidências na lista de inspeção de história de usuário da entrega 4 do grupo+1(GDF-Saúde) | [Ana Victória](https://github.com/navicg) | 02/06/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 02/06/2025  |
+| 1.1    | Adicionando evidências na lista de inspeção de história de usuário da entrega 4 do grupo+1(GDF-Saúde) | [Ana Victória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz)  | 02/06/2025 | [João Marcos](https://github.com/JJOAOMARCOSS) | 02/06/2025  |
 | 1.2    | Adicionando evidências na lista de inspeção de nfr framework da entrega 4 do grupo+1(GDF-Saúde) | [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) | 02/06/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 02/06/2025  |
 | 1.3    | Adicionando evidências na lista do professor tabela 1 da entrega 4 do grupo+1(GDF-Saúde) | [João Marcos](https://github.com/JJOAOMARCOSS) | 02/06/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 02/06/2025  |
 | 1.4   | Adicionando evidências na lista de itens técnicos do professor tabela 2 da entrega 4 do grupo+1(GDF-Saúde) | [Ana Victória](https://github.com/navicg)| 02/06/2025 |  [Karoline Luz](https://github.com/KarolineLuz)  | 02/06/2025  |
