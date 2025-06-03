@@ -155,3 +155,4 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 | 1.3    | Adicionando evidências na lista do professor tabela 1 da entrega 4 do grupo+1(GDF-Saúde) | [João Marcos](https://github.com/JJOAOMARCOSS) | 02/06/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 02/06/2025  |
 | 1.4   | Adicionando evidências na lista de itens técnicos do professor tabela 2 da entrega 4 do grupo+1(GDF-Saúde) | [Ana Victória](https://github.com/navicg)| 02/06/2025 |  [Karoline Luz](https://github.com/KarolineLuz)  | 02/06/2025  |
 | 1.5   | Adicionando evidências na lista de itens sobre backlogdo grupo+1(GDF-Saúde) | [Gabriel Lopes](https://github.com/BrzGab)| 02/06/2025 |  [Karoline Luz](https://github.com/ArtyMend07)  | 02/06/2025  |
+| 1.6   | Adicionando vídeo da inspeção do grupo+1(GDF-Saúde) | [Ana Victória](https://github.com/navicg)| 02/06/2025 |  [Karoline Luz](https://github.com/ArtyMend07)  | 02/06/2025  |
