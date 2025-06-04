@@ -51,7 +51,9 @@ nav:
       - Ágil:
           - NFR Framework: modelagem/agil/nfrframework.md
           - Backlog: modelagem/agil/backlog.md
-          - Histórias de Usuário: modelagem/agil/historia-de-usuario.md        
+          - Histórias de Usuário: modelagem/agil/historia-de-usuario.md    
+  - Rastreabilidade:
+      - Matriz de Rastreabilidade: rastreabilidade/matriz_rastreabilidade.md      
 
   - Verificação:
       - Grupo:
