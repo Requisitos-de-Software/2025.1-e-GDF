@@ -1,0 +1,56 @@
+ Lista de Verificação da Entrega 5
+
+Este documento apresenta uma lista de verificação para avaliar os artefatos produzidos na Entrega 5, tanto para o grupo e o grupo +1. As tabelas foram elaboradas com base no plano de ensino e na lista de verificação sugerida pelo professor, [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342), sendo uma lista de verificação que será usada na inspeção da entrega 5.
+
+## Objetivo
+
+- Fornecer critérios claros para verificação dos artefatos da Entrega 5;
+- Garantir a padronização e qualidade dos documentos produzidos;
+- Facilitar o processo de revisão pelos integrantes do grupo;
+- Assegurar que todos os itens exigidos estejam completos e corretos.
+
+### Lista de Verificação - Itens Técnicos e Documentais
+
+<p align="center">Tabela 1 – Lista de Verificação de itens Técnicos e Documentais</p>
+
+| ID  | Item de Verificação                                                                                                                                                       | Autor                                                                                       | Referência                                                                                                                                                                                                                                                                                                                                                                      |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+ |
+| 1   | Referências e bibliografia estão incluídas nos artefatos? - Citação correta de fontes utilizadas para fundamentar o projeto e seus artefatos.                             | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/corre%C3%A7%C3%B5es-da-apresenta%C3%A7%C3%A3o-2/docs/assets/lista-2/Lista_Parte2_PlanoDeEnsino.png" alt="Referência do item" width="100px"><br><a href="https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/61/FGA0303-T03v2.pdf">Plano de Ensino</a></div> |
+| 2   | Tabelas e imagens possuem legenda e fonte, e são citadas no texto? - Elementos visuais devidamente legendados, com fontes citadas e contextualizadas no texto.            | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/corre%C3%A7%C3%B5es-da-apresenta%C3%A7%C3%A3o-2/docs/assets/lista-2/Lista_Parte2_PlanoDeEnsino.png" alt="Referência do item" width="100px"><br><a href="https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/61/FGA0303-T03v2.pdf">Plano de Ensino</a></div> |
+| 3   | Existe introdução explicando os artefatos desenvolvidos? - Texto introdutório explicando a função e o conteúdo dos artefatos apresentados.                                | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/corre%C3%A7%C3%B5es-da-apresenta%C3%A7%C3%A3o-2/docs/assets/lista-2/Lista_Parte2_PlanoDeEnsino.png" alt="Referência do item" width="100px"><br><a href="https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/61/FGA0303-T03v2.pdf">Plano de Ensino</a></div> |
+| 4   | O cronograma executado possui responsáveis e datas? - Planejamento real com datas e responsáveis, refletindo o que foi efetivamente feito.                                | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/corre%C3%A7%C3%B5es-da-apresenta%C3%A7%C3%A3o-2/docs/assets/lista-2/Lista_Parte2_PlanoDeEnsino.png" alt="Referência do item" width="100px"><br><a href="https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/61/FGA0303-T03v2.pdf">Plano de Ensino</a></div> |
+| 5   | As atas de reunião contêm data, horário, participantes e objetivos? - Documentos com registro formal das reuniões, contendo data, hora, participantes e objetivos.        | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/corre%C3%A7%C3%B5es-da-apresenta%C3%A7%C3%A3o-2/docs/assets/lista-2/Lista_Parte2_PlanoDeEnsino.png" alt="Referência do item" width="100px"><br><a href="https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/61/FGA0303-T03v2.pdf">Plano de Ensino</a></div> |
+| 6  | As gravações de reuniões foram salvas? - Arquivos de vídeo das reuniões, armazenados para consulta futura.                                                                | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/corre%C3%A7%C3%B5es-da-apresenta%C3%A7%C3%A3o-2/docs/assets/lista-2/Lista_Parte2_PlanoDeEnsino.png" alt="Referência do item" width="100px"><br><a href="https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/61/FGA0303-T03v2.pdf">Plano de Ensino</a></div> |
+| 7   | As apresentações no YouTube estão configuradas como "não listado"? - Garantia de que os vídeos estão acessíveis apenas para quem tiver o link, respeitando a privacidade. | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/corre%C3%A7%C3%B5es-da-apresenta%C3%A7%C3%A3o-2/docs/assets/lista-2/Lista_Parte2_PlanoDeEnsino.png" alt="Referência do item" width="100px"><br><a href="https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/61/FGA0303-T03v2.pdf">Plano de Ensino</a></div> |
+
+<font size="3"><p align="center">Elaborado pelo autor: ( [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+
+
+### Lista de Verificação - Matriz de Rastreabilidade
+
+| ID  | Item de Verificação                                                                                   | Autor                                                                 | Referência                                                              |
+|-----|--------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| 1   | A matriz cobre todos os requisitos especificados no projeto?                                          | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | Slide “Matriz de Rastreabilidade – Exemplo II/III”                      |
+| 2   | Cada requisito está associado a pelo menos um artefato de desenvolvimento?                            | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | Slide “Rastreabilidade forward-from”                                    |
+| 3   | A matriz indica claramente as fontes dos requisitos (documentos, partes interessadas etc.)?           | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | Slide “Rastreabilidade backward-from”                                   |
+| 4   | A matriz evidencia a cobertura dos requisitos com casos de teste correspondentes?                     | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | Slide “Verificação orientada a casos de teste”                          |
+| 5   | Há campos para versionamento ou histórico de modificações dos requisitos?                             | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | Slide “Baseline de Requisitos e Evolução”                               |
+| 6   | A matriz contém rastreabilidade bidirecional (para frente e para trás)?                               | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | Slide “Rastreabilidade forward-from e backward-from”                    |
+| 7   | A matriz permite visualizar rapidamente requisitos não implementados ou não testados?                 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | Slide “Verificação da alocação de requisitos a componentes de software” |
+| 8   | Existe padronização no uso de identificadores e nomenclaturas na matriz?                              | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | Slide “Processo de Rastreabilidade”                                     |
+| 9   | A matriz está atualizada de acordo com as últimas mudanças do projeto?                                | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | Slide “Processo de atualização dos elos de rastreabilidade”             |
+| 10  | A matriz facilita a análise de impacto em caso de mudanças em requisitos ou artefatos?                | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | Slide “Estimativa de variações e gerenciamento de riscos”               |
+
+<font size="3"><p align="center">Elaborado pelo autor: ( [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+
+
+
+
+
+
+
+
+# Histórico de Versões
+| Versão | Descrição                                                                                          | Autor(es)                                             | Data       | Revisor(es)                                        | Data de revisão |
+| ------ | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------- | -------------------------------------------------- | ---------------
