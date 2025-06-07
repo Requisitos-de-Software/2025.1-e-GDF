@@ -145,30 +145,30 @@ Essa priorização também será documentada nas tabelas de especificação, adi
 
 | ID    | Descrição                                                                                                                                     | Rastreabilidade                                                                                                                                  | Implementado |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ |
-| RNF01 | O sistema deve ser compatível com vários dispositivos como Android e iOS.                                                                     | <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD09</a>                                                                      | Sim          |
-| RNF02 | O sistema deve estar em conformidade com a Lei Geral de Proteção de Dados (LGPD).                                                             | <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD10</a>                                                                      | Sim          |
-| RNF03 | O sistema deve possuir uma interface simples, limpa e com ícones ilustrativos                                                                 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BRN">BRN01</a>                                                                         | Sim          |
-| RNF04 | O aplicativo deve permitir acessibilidade para pessoas idosas ou com deficiência visual                                                       | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BRN">BRN02</a>                                                                         | Não          |
-| RNF05 | O sistema deve funcionar mesmo em dispositivos com baixa capacidade de hardware                                                               | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BRN">BRN04</a>                                                                         | Sim          |
-| RNF06 | A navegação deve ser rápida e fluida entre telas, sem necessidade de redirecionamentos excessivos                                             | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BRN">BRN05</a>                                                                         | Não          |
-| RNF07 | O sistema deve carregar as informações de forma otimizada, reduzindo tempo de resposta                                                        | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BRN">BRN06</a>                                                                         | Sim          |
-| RNF08 | O layout deve ser responsivo para diferentes tamanhos de tela                                                                                 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BRN">BRN07</a>, <a href="/elicitacao/tec_elicitacao/integracao/#anchor_INTT">INT22</a> | Sim          |
-| RNF09 | O sistema deve ter compatibilidade com leitores de tela                                                                                       | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BRN">BRN08</a>                                                                         | Sim          |
-| RNF10 | O app deve conter linguagem clara e acessível, adequada a diferentes níveis de escolaridade                                                   | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BRN">BRN09</a>                                                                         | Não          |
-| RNF11 | O aplicativo deve ser mais autoexplicativo, com uma navegação intuitiva e menos dependência de redirecionamentos externos.                    | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN01</a> <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD11</a>  | Não          |
-| RNF12 | O aplicativo deve garantir que as informações exibidas sejam atualizadas e reflitam fielmente a realidade, especialmente em saúde e educação. | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN02</a>                                                                              | Sim          |
-| RNF13 | O aplicativo deve apresentar estabilidade, evitando travamentos ou falhas de carregamento, especialmente em redes móveis.                     | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN03</a>                                                                              | Não          |
-| RNF14 | O aplicativo deve garantir proteção de dados pessoais, reforçando a confiança do usuário quanto à privacidade e segurança.                    | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN04</a>                                                                              | Sim          |
-| RNF15 | O aplicativo deve melhorar a performance do processo de login, permitindo uma experiência mais fluida.                                        | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN05</a>                                                                              | Não          |
-| RNF16 | O aplicativo deve considerar a usabilidade para usuários idosos, garantindo que o design e as funcionalidades sejam acessíveis.               | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN06</a>                                                                              | Não          |
-| RNF17 | O aplicativo deve fornecer suporte para acessibilidade, incluindo recursos para daltônicos e deficientes visuais.                             | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN07</a>, <a href="/elicitacao/tec_elicitacao/integracao/#anchor_INTT">INT19</a>      | Não          |
-| RNF18 | O aplicativo deve ter uma aparência profissional e confiável para transmitir segurança aos usuários.                                          | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN08</a>                                                                              | Não          |
-| RNF19 | O aplicativo deve ser compatível com as versões mais recentes dos sistemas Android e iOS.                                                     | <a href="/elicitacao/tec_elicitacao/integracao/#anchor_INTT">INT15</a>                                                                           | Sim          |
-| RNF20 | As funcionalidades principais devem responder em, no máximo, dois segundos para garantir boa experiência.                                     | <a href="/elicitacao/tec_elicitacao/integracao/#anchor_INTT">INT16</a>                                                                           | Sim          |
-| RNF21 | A interface deve ser simples, objetiva e utilizar linguagem acessível a usuários com diferentes níveis de escolaridade.                       | <a href="/elicitacao/tec_elicitacao/integracao/#anchor_INTT">INT17</a>                                                                           | Sim          |
-| RNF22 | O sistema deve proteger as informações pessoais com criptografia de dados e autenticação segura.                                              | <a href="/elicitacao/tec_elicitacao/integracao/#anchor_INTT">INT18</a>                                                                           | Sim          |
-| RNF23 | Deve funcionar em modo offline para consulta de registros ou informações previamente acessadas.                                               | <a href="/elicitacao/tec_elicitacao/integracao/#anchor_INTT">INT20</a>                                                                           | Não          |
-| RNF24 | As imagens capturadas pelo usuário devem ser otimizadas para upload rápido mesmo em conexões móveis.                                          | <a href="/elicitacao/tec_elicitacao/integracao/#anchor_INTT">INT21</a>                                                                           | Sim          |
+| RNF01 | O sistema deve ser compatível com vários dispositivos como Android e iOS.                                                                     | <a href="../../elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD09</a>                                                                      | Sim          |
+| RNF02 | O sistema deve estar em conformidade com a Lei Geral de Proteção de Dados (LGPD).                                                             | <a href="../../elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD10</a>                                                                      | Sim          |
+| RNF03 | O sistema deve possuir uma interface simples, limpa e com ícones ilustrativos                                                                 | <a href="../../elicitacao/tec_elicitacao/brainstorming/#anchor_BRN">BRN01</a>                                                                         | Sim          |
+| RNF04 | O aplicativo deve permitir acessibilidade para pessoas idosas ou com deficiência visual                                                       | <a href="../../elicitacao/tec_elicitacao/brainstorming/#anchor_BRN">BRN02</a>                                                                         | Não          |
+| RNF05 | O sistema deve funcionar mesmo em dispositivos com baixa capacidade de hardware                                                               | <a href="../../elicitacao/tec_elicitacao/brainstorming/#anchor_BRN">BRN04</a>                                                                         | Sim          |
+| RNF06 | A navegação deve ser rápida e fluida entre telas, sem necessidade de redirecionamentos excessivos                                             | <a href="../../elicitacao/tec_elicitacao/brainstorming/#anchor_BRN">BRN05</a>                                                                         | Não          |
+| RNF07 | O sistema deve carregar as informações de forma otimizada, reduzindo tempo de resposta                                                        | <a href="../../elicitacao/tec_elicitacao/brainstorming/#anchor_BRN">BRN06</a>                                                                         | Sim          |
+| RNF08 | O layout deve ser responsivo para diferentes tamanhos de tela                                                                                 | <a href="../../elicitacao/tec_elicitacao/brainstorming/#anchor_BRN">BRN07</a>, <a href="../../elicitacao/tec_elicitacao/integracao/#anchor_INTT">INT22</a> | Sim          |
+| RNF09 | O sistema deve ter compatibilidade com leitores de tela                                                                                       | <a href="../../elicitacao/tec_elicitacao/brainstorming/#anchor_BRN">BRN08</a>                                                                         | Sim          |
+| RNF10 | O app deve conter linguagem clara e acessível, adequada a diferentes níveis de escolaridade                                                   | <a href="../../elicitacao/tec_elicitacao/brainstorming/#anchor_BRN">BRN09</a>                                                                         | Não          |
+| RNF11 | O aplicativo deve ser mais autoexplicativo, com uma navegação intuitiva e menos dependência de redirecionamentos externos.                    | <a href="../../elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN01</a> <a href="../../elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD11</a>  | Não          |
+| RNF12 | O aplicativo deve garantir que as informações exibidas sejam atualizadas e reflitam fielmente a realidade, especialmente em saúde e educação. | <a href="../../elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN02</a>                                                                              | Sim          |
+| RNF13 | O aplicativo deve apresentar estabilidade, evitando travamentos ou falhas de carregamento, especialmente em redes móveis.                     | <a href="../../elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN03</a>                                                                              | Não          |
+| RNF14 | O aplicativo deve garantir proteção de dados pessoais, reforçando a confiança do usuário quanto à privacidade e segurança.                    | <a href="../../elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN04</a>                                                                              | Sim          |
+| RNF15 | O aplicativo deve melhorar a performance do processo de login, permitindo uma experiência mais fluida.                                        | <a href="../../elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN05</a>                                                                              | Não          |
+| RNF16 | O aplicativo deve considerar a usabilidade para usuários idosos, garantindo que o design e as funcionalidades sejam acessíveis.               | <a href="../../elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN06</a>                                                                              | Não          |
+| RNF17 | O aplicativo deve fornecer suporte para acessibilidade, incluindo recursos para daltônicos e deficientes visuais.                             | <a href="../../elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN07</a>, <a href="../../elicitacao/tec_elicitacao/integracao/#anchor_INTT">INT19</a>      | Não          |
+| RNF18 | O aplicativo deve ter uma aparência profissional e confiável para transmitir segurança aos usuários.                                          | <a href="../../elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN08</a>                                                                              | Não          |
+| RNF19 | O aplicativo deve ser compatível com as versões mais recentes dos sistemas Android e iOS.                                                     | <a href="../../elicitacao/tec_elicitacao/integracao/#anchor_INTT">INT15</a>                                                                           | Sim          |
+| RNF20 | As funcionalidades principais devem responder em, no máximo, dois segundos para garantir boa experiência.                                     | <a href="../../elicitacao/tec_elicitacao/integracao/#anchor_INTT">INT16</a>                                                                           | Sim          |
+| RNF21 | A interface deve ser simples, objetiva e utilizar linguagem acessível a usuários com diferentes níveis de escolaridade.                       | <a href="../../elicitacao/tec_elicitacao/integracao/#anchor_INTT">INT17</a>                                                                           | Sim          |
+| RNF22 | O sistema deve proteger as informações pessoais com criptografia de dados e autenticação segura.                                              | <a href="../../elicitacao/tec_elicitacao/integracao/#anchor_INTT">INT18</a>                                                                           | Sim          |
+| RNF23 | Deve funcionar em modo offline para consulta de registros ou informações previamente acessadas.                                               | <a href="../../elicitacao/tec_elicitacao/integracao/#anchor_INTT">INT20</a>                                                                           | Não          |
+| RNF24 | As imagens capturadas pelo usuário devem ser otimizadas para upload rápido mesmo em conexões móveis.                                          | <a href="../../elicitacao/tec_elicitacao/integracao/#anchor_INTT">INT21</a>                                                                           | Sim          |
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ( [João Marcos](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
 
@@ -224,7 +224,7 @@ Os cartões de especificação a seguir, Tabelas de 1 a 10, foram utilizados par
 | *Classificação*         | Segurança                                                                                    |
 | *Descrição*             | O sistema deve estar em conformidade com a Lei Geral de Proteção de Dados (LGPD).            |
 | *Justificativa*         | Garantir a proteção legal dos dados pessoais dos usuários e evitar penalidades legais.       |
-| *Origem*                | <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD10</a>                                        |
+| *Origem*                | <a href="../../elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD10</a>                                        |
 | *Critério de Aceitação* | O sistema deve demonstrar conformidade com os princípios e obrigações da LGPD em auditorias. |
 | *Dependências*          | RNF14 (Proteção de dados), RNF22 (Autenticação segura).                                      |
 | *Prioridade*            | **M** (Must have)                                                                            |
@@ -244,7 +244,7 @@ Os cartões de especificação a seguir, Tabelas de 1 a 10, foram utilizados par
 | *Classificação*         | Segurança                                                                                                   |
 | *Descrição*             | O sistema deve garantir proteção de dados pessoais, reforçando a confiança do usuário quanto à privacidade. |
 | *Justificativa*         | A proteção de dados é essencial para manter a confiança dos usuários e evitar vazamentos ou ataques.        |
-| *Origem*                | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN04</a>                                                           |
+| *Origem*                | <a href="../../elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN04</a>                                                           |
 | *Critério de Aceitação* | Implementação de criptografia em repouso e em trânsito, políticas de acesso restrito e logs de auditoria.   |
 | *Dependências*          | RNF02 (Conformidade LGPD), RNF22 (Autenticação segura), RNF15 (Performance de login).                       |
 | *Prioridade*            | **M** (Must have)                                                                                           |
@@ -264,7 +264,7 @@ Os cartões de especificação a seguir, Tabelas de 1 a 10, foram utilizados par
 | *Classificação*         | Segurança                                                                                                    |
 | *Descrição*             | O sistema deve usar autenticação segura, preferencialmente integrada ao gov.br, para proteger o acesso.      |
 | *Justificativa*         | Autenticação robusta é necessária para evitar acessos não autorizados e fraudes.                             |
-| *Origem*                | <a href="/elicitacao/tec_elicitacao/integracao/#anchor_INTT">INT18</a>                                            |
+| *Origem*                | <a href="../../elicitacao/tec_elicitacao/integracao/#anchor_INTT">INT18</a>                                            |
 | *Critério de Aceitação* | Implementação de autenticação integrada ao gov.br, uso de protocolos seguros (OAuth, SAML) e logs de acesso. |
 | *Dependências*          | RNF14 (Proteção de dados), RNF15 (Performance de login).                                                     |
 | *Prioridade*            | **M** (Must have)                                                                                            |
@@ -492,7 +492,7 @@ A Tabela 2, apresentada a seguir, mostra a avaliação da propagação dos impac
 | *Classificação*         | Acessibilidade                                                                                                               |
 | *Descrição*             | O aplicativo deve permitir acessibilidade para pessoas idosas ou com deficiência visual.                                     |
 | *Justificativa*         | Garante que o sistema seja inclusivo para públicos com diferentes necessidades e limitações físicas.                         |
-| *Origem*                | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BRN">BRN02</a>                                                         |
+| *Origem*                | <a href="../../elicitacao/tec_elicitacao/brainstorming/#anchor_BRN">BRN02</a>                                                         |
 | *Critério de Aceitação* | Testes mostrando compatibilidade com recursos de acessibilidade do sistema operacional, como ajustes de tamanho e contraste. |
 | *Dependências*          | RNF03 (Interface intuitiva), RNF11 (Linguagem acessível).                                                                    |
 | *Prioridade*            | **M** (Must have)                                                                                                            |
@@ -513,7 +513,7 @@ A Tabela 2, apresentada a seguir, mostra a avaliação da propagação dos impac
 | *Classificação*         | Acessibilidade                                                                                                            |
 | *Descrição*             | O sistema deve ter compatibilidade com leitores de tela para atender usuários com deficiência visual.                     |
 | *Justificativa*         | Permite o uso do sistema por usuários cegos ou com baixa visão, garantindo acesso à informação.                           |
-| *Origem*                | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BRN">BRN08</a>                                                      |
+| *Origem*                | <a href="../../elicitacao/tec_elicitacao/brainstorming/#anchor_BRN">BRN08</a>                                                      |
 | *Critério de Aceitação* | Testes com leitores de tela como TalkBack (Android) e VoiceOver (iOS), garantindo leitura correta dos elementos e fluxos. |
 | *Dependências*          | RNF03 (Interface intuitiva), RNF11 (Linguagem acessível).                                                                 |
 | *Prioridade*            | **M** (Must have)                                                                                                         |
@@ -532,7 +532,7 @@ A Tabela 2, apresentada a seguir, mostra a avaliação da propagação dos impac
 | *Classificação*         | Acessibilidade                                                                                                             |
 | *Descrição*             | O aplicativo deve fornecer suporte para daltônicos e outros tipos de deficiência visual.                                   |
 | *Justificativa*         | Assegura que os elementos visuais sejam acessíveis a diferentes tipos de deficiência, ampliando o público-alvo do sistema. |
-| *Origem*                | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN07</a>, <a href="/elicitacao/tec_elicitacao/integracao/#anchor_INTT">INT19</a>                                                       |
+| *Origem*                | <a href="../../elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN07</a>, <a href="../../elicitacao/tec_elicitacao/integracao/#anchor_INTT">INT19</a>                                                       |
 | *Critério de Aceitação* | Testes de contraste, inclusão de ícones não baseados apenas em cor, e modos de exibição adaptados.                         |
 | *Dependências*          | RNF03 (Interface intuitiva), RNF11 (Linguagem acessível).                                                                  |
 | *Prioridade*            | **M** (Must have)                                                                                                          |
@@ -613,7 +613,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | *Classificação*         | Desempenho                                                                                                |
 | *Descrição*             | A navegação deve ser rápida e fluida entre telas, sem necessidade de redirecionamentos excessivos.        |
 | *Justificativa*         | Garante que os usuários tenham uma experiência ágil e sem interrupções ao usar o sistema.                 |
-| *Origem*                | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BRN">BRN05</a>                                                           |
+| *Origem*                | <a href="../../elicitacao/tec_elicitacao/brainstorming/#anchor_BRN">BRN05</a>                                                           |
 | *Critério de Aceitação* | O tempo de transição entre telas deve ser inferior a dois segundos, sem redirecionamentos desnecessários. |
 | *Dependências*          | RNF08 (Responsividade), RNF01 (Compatibilidade).                                                          |
 | *Prioridade*            | **S** (Should have)                                                                                       |
@@ -634,7 +634,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | *Classificação*         | Desempenho                                                                                                  |
 | *Descrição*             | O sistema deve carregar as informações de forma otimizada, reduzindo o tempo de resposta.                   |
 | *Justificativa*         | Minimiza o tempo de espera do usuário, tornando a interação mais eficiente.                                 |
-| *Origem*                | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BRN">BRN06</a>                                                             |
+| *Origem*                | <a href="../../elicitacao/tec_elicitacao/brainstorming/#anchor_BRN">BRN06</a>                                                             |
 | *Critério de Aceitação* | As principais informações devem ser carregadas em até dois segundos, mesmo sob condições de rede moderadas. |
 | *Dependências*          | RNF06 (Navegação fluida), RNF08 (Responsividade).                                                           |
 | *Prioridade*            | **S** (Should have)                                                                                         |
@@ -653,7 +653,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | *Classificação*         | Desempenho                                                                                                                |
 | *Descrição*             | O aplicativo deve apresentar estabilidade, evitando travamentos ou falhas de carregamento, especialmente em redes móveis. |
 | *Justificativa*         | Garante que o sistema funcione bem mesmo em condições adversas de conexão, evitando perda de confiança do usuário.        |
-| *Origem*                | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN03</a>                                                                           |
+| *Origem*                | <a href="../../elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN03</a>                                                                           |
 | *Critério de Aceitação* | Testes de estabilidade mostrando menos de 1% de falhas em redes móveis durante sessões prolongadas.                       |
 | *Dependências*          | RNF05 (Baixo hardware), RNF20 (Tempo de resposta rápido).                                                                 |
 | *Prioridade*            | **S** (Should have)                                                                                                       |
@@ -673,7 +673,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | *Classificação*         | Desempenho                                                                                                         |
 | *Descrição*             | O aplicativo deve melhorar a performance do processo de login, permitindo uma experiência mais fluida.             |
 | *Justificativa*         | O login é um ponto crítico da experiência, e sua eficiência impacta diretamente a satisfação do usuário.           |
-| *Origem*                | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN05</a>                                                                              |
+| *Origem*                | <a href="../../elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN05</a>                                                                              |
 | *Critério de Aceitação* | O login deve ser concluído em menos de três segundos em 90% das tentativas, considerando diferentes tipos de rede. |
 | *Dependências*          | RNF22 (Autenticação segura), RNF14 (Proteção de dados).                                                            |
 | *Prioridade*            | **S** (Should have)                                                                                                |
@@ -692,7 +692,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | *Classificação*         | Desempenho                                                                                                |
 | *Descrição*             | As funcionalidades principais devem responder em, no máximo, dois segundos para garantir boa experiência. |
 | *Justificativa*         | A resposta rápida mantém o usuário engajado e reduz a sensação de lentidão no uso do aplicativo.          |
-| *Origem*                | <a href="/elicitacao/tec_elicitacao/integracao/#anchor_INTT">INT16</a>                                                              |
+| *Origem*                | <a href="../../elicitacao/tec_elicitacao/integracao/#anchor_INTT">INT16</a>                                                              |
 | *Critério de Aceitação* | Medição de tempo de resposta com limite de dois segundos para as funções críticas.                        |
 | *Dependências*          | RNF07 (Carregamento otimizado), RNF06 (Navegação fluida).                                                 |
 | *Prioridade*            | **S** (Should have)                                                                                       |
@@ -711,7 +711,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | *Classificação*         | Desempenho                                                                                            |
 | *Descrição*             | As imagens capturadas pelo usuário devem ser otimizadas para upload rápido, mesmo em conexões móveis. |
 | *Justificativa*         | Reduzir tempo de upload e evitar frustração, especialmente em regiões com internet limitada.          |
-| *Origem*                | <a href="/elicitacao/tec_elicitacao/integracao/#anchor_INTT">INT21</a>                                                          |
+| *Origem*                | <a href="../../elicitacao/tec_elicitacao/integracao/#anchor_INTT">INT21</a>                                                          |
 | *Critério de Aceitação* | Upload concluído em menos de cinco segundos para imagens até 5MB em redes móveis padrão.              |
 | *Dependências*          | RNF13 (Estabilidade), RNF05 (Baixo hardware).                                                         |
 | *Prioridade*            | **S** (Should have)                                                                                   |
@@ -770,7 +770,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | *Classificação*         | Confiabilidade                                                                                                      |
 | *Descrição*             | O sistema deve ser compatível com vários dispositivos, como Android e iOS.                                          |
 | *Justificativa*         | Garante que o sistema funcione corretamente em diferentes ambientes, aumentando seu alcance e robustez.             |
-| *Origem*                | <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD09</a>                                                                                    |
+| *Origem*                | <a href="../../elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD09</a>                                                                                    |
 | *Critério de Aceitação* | Funcionalidade completa testada e validada em pelo menos 95% dos dispositivos Android e iOS mais usados no mercado. |
 | *Dependências*          | RNF08 (Responsividade), RNF19 (Compatibilidade com versões).                                                        |
 | *Prioridade*            | **M** (Must have)                                                                                                   |
@@ -789,7 +789,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | *Classificação*         | Confiabilidade                                                                                                |
 | *Descrição*             | O layout deve ser responsivo para diferentes tamanhos de tela.                                                |
 | *Justificativa*         | Assegura uma boa experiência em dispositivos variados, prevenindo falhas de visualização e uso.               |
-| *Origem*                | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BRN">BRN07</a>, <a href="/elicitacao/tec_elicitacao/integracao/#anchor_INTT">INT22</a>                                                                  |
+| *Origem*                | <a href="../../elicitacao/tec_elicitacao/brainstorming/#anchor_BRN">BRN07</a>, <a href="../../elicitacao/tec_elicitacao/integracao/#anchor_INTT">INT22</a>                                                                  |
 | *Critério de Aceitação* | Interface validada em telas de diferentes tamanhos (smartphones, tablets, desktops) com 100% de legibilidade. |
 | *Dependências*          | RNF01 (Compatibilidade), RNF19 (Versões Android/iOS).                                                         |
 | *Prioridade*            | **M** (Must have)                                                                                             |
@@ -808,7 +808,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | *Classificação*         | Confiabilidade                                                                                                |
 | *Descrição*             | O aplicativo deve garantir que as informações exibidas estejam atualizadas e reflitam fielmente a realidade.  |
 | *Justificativa*         | Evita decisões erradas baseadas em dados desatualizados, essencial para áreas críticas como saúde e educação. |
-| *Origem*                | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN02</a>                                                                                                  |
+| *Origem*                | <a href="../../elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN02</a>                                                                                                  |
 | *Critério de Aceitação* | Os dados sensíveis devem ser atualizados automaticamente de fontes confiáveis a cada 24h.                     |
 | *Dependências*          | RNF13 (Estabilidade), RNF22 (Segurança).                                                                      |
 | *Prioridade*            | **M** (Must have)                                                                                             |
@@ -827,7 +827,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | *Classificação*         | Confiabilidade                                                                                                  |
 | *Descrição*             | O aplicativo deve ter uma aparência profissional e confiável para transmitir segurança aos usuários.            |
 | *Justificativa*         | A aparência impacta a percepção de qualidade e credibilidade, essencial para aceitação do sistema.              |
-| *Origem*                | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN08</a>                                                                                |
+| *Origem*                | <a href="../../elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN08</a>                                                                                |
 | *Critério de Aceitação* | Testes de percepção com usuários mostrando pelo menos 85% de avaliação positiva quanto à confiabilidade visual. |
 | *Dependências*          | RNF03 (Interface intuitiva), RNF21 (Design acessível).                                                          |
 | *Prioridade*            | **M** (Must have)                                                                                               |
@@ -847,7 +847,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | *Classificação*         | Confiabilidade                                                                                    |
 | *Descrição*             | O aplicativo deve ser compatível com as versões mais recentes dos sistemas Android e iOS.         |
 | *Justificativa*         | Garante que o sistema esteja atualizado e funcione corretamente nos dispositivos mais usados.     |
-| *Origem*                | <a href="/elicitacao/tec_elicitacao/integracao/#anchor_INTT">INT15</a>                                                                  |
+| *Origem*                | <a href="../../elicitacao/tec_elicitacao/integracao/#anchor_INTT">INT15</a>                                                                  |
 | *Critério de Aceitação* | Testes confirmando funcionamento total nas três versões mais recentes dos sistemas Android e iOS. |
 | *Dependências*          | RNF01 (Compatibilidade), RNF08 (Responsividade).                                                  |
 | *Prioridade*            | **M** (Must have)                                                                                 |
@@ -868,7 +868,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | *Classificação*         | Confiabilidade                                                                                                    |
 | *Descrição*             | O aplicativo deve funcionar em modo offline para consulta de registros ou informações previamente acessadas.      |
 | *Justificativa*         | Permite uso contínuo mesmo em condições de rede instáveis, aumentando a confiabilidade do sistema.                |
-| *Origem*                | <a href="/elicitacao/tec_elicitacao/integracao/#anchor_INTT">INT20</a>                                                                                       |
+| *Origem*                | <a href="../../elicitacao/tec_elicitacao/integracao/#anchor_INTT">INT20</a>                                                                                       |
 | *Critério de Aceitação* | As principais funcionalidades devem permanecer acessíveis offline, com sincronização automática ao voltar online. |
 | *Dependências*          | RNF12 (Dados atualizados), RNF13 (Estabilidade).                                                                  |
 | *Prioridade*            | **M** (Must have)                                                                                                 |
