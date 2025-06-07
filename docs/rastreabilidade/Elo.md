@@ -1,15 +1,14 @@
-# Elos
+# Elos de Rastreabilidade
 
-## Introdução
-Os elos de rastreabilidade são conexões essenciais que estabelecem vínculos entre diferentes artefatos e atividades ao longo do ciclo de vida de um projeto ou sistema. Esses elos permitem rastrear a origem e a evolução de funcionalidades, decisões de projeto e mudanças, garantindo um gerenciamento eficaz e uma qualidade consistente. Utilizando a rastreabilidade, é possível identificar a proveniência de cada funcionalidade do sistema, assegurar que todos os requisitos foram devidamente testados e validados, registrar decisões críticas para o projeto e gerenciar os riscos de maneira eficiente. Além disso, a rastreabilidade facilita o controle de mudanças ao indicar quais artefatos são impactados por alterações específicas, promovendo uma gestão integrada e transparente do desenvolvimento e manutenção de sistemas.<a id="RP1" href="#TEC1">[1]</a> 
+Os elos de rastreabilidade são conexões fundamentais que vinculam diferentes artefatos e atividades durante todo o ciclo de vida de um projeto, permitindo rastrear a origem e evolução de funcionalidades, decisões e mudanças. Esses elos garantem gerenciamento eficaz, qualidade consistente e facilitam o controle de impactos das alterações.[1]
+
+## Tipos de Rastreabilidade
 
 ### Backward-from
-
-A rastreabilidade backward-from é um processo crítico na engenharia de requisitos, que permite a ligação dos requisitos às suas fontes originais. Esse tipo de rastreabilidade é essencial para garantir que todos os requisitos identificados tenham uma origem bem definida, facilitando a validação e verificação durante o ciclo de vida do desenvolvimento do software. Além disso, a rastreabilidade backward-from ajuda a gerenciar mudanças ao rastrear de volta cada requisito até suas bases, assegurando que qualquer modificação no sistema possa ser rapidamente associada à sua origem, permitindo uma resposta eficaz a alterações e garantindo a conformidade com os requisitos iniciais do projeto.<a id="RP1" href="#TEC1">[1]</a> 
+Processo que liga requisitos às suas fontes originais, garantindo que todos tenham origem bem definida. Facilita validação, verificação e gerenciamento de mudanças ao rastrear cada requisito até suas bases, assegurando conformidade com os requisitos iniciais do projeto.[1]
 
 ### Forward-from
-
-A rastreabilidade forward-from é um componente essencial na engenharia de requisitos, que possibilita a ligação dos requisitos aos artefatos subsequentes, como design, código, testes e documentação. Esse tipo de rastreabilidade é crucial para assegurar que todos os requisitos sejam devidamente implementados e testados ao longo do ciclo de vida do desenvolvimento do software. Além disso, a rastreabilidade forward-to facilita a gestão de mudanças, permitindo que qualquer alteração nos requisitos seja refletida de maneira consistente em todos os artefatos afetados. Isso garante que as modificações sejam corretamente incorporadas e verificadas, mantendo a integridade e a conformidade do sistema em relação aos requisitos definidos inicialmente. <a id="RP2" href="#TEC2">[2]</a>
+Componente que conecta requisitos aos artefatos subsequentes (design, código, testes, documentação). Assegura que todos os requisitos sejam implementados e testados adequadamente, facilitando a gestão de mudanças e mantendo a integridade do sistema em relação aos requisitos definidos.[2]
 
 ## Metodologia
 Utilizamos um cartão baseado nos cartões presentes nos slides dos Professores Milene Serrano e Maurício Serrano na página 22 à 27<a id="RP3" href="#TEC3">[3]</a>, as categorias e tipos de elos derivam do Meta-modelo de Toranzo. Os cartões que fizemos utilizam o mesmo formato, porém fizemos baseados nos requisitos onde cada cartão possui todos os tipos de Elos daquele requisito citado.
@@ -1443,4 +1442,4 @@ Legenda:
 ## Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 21/06/2024  | Criação da página | [Gabriel Lopes](https://github.com/BrzGab) e [Artur Mendonça](https://github.com/ArtyMend07) | 22/06/2024 |  [Lucas Mendonça](https://github.com/lucasarruda9) |
+| `1.0` | 07/06/2025  | Criação da página | [Gabriel Lopes](https://github.com/BrzGab) e [Artur Mendonça](https://github.com/ArtyMend07) | 07/06/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) |
