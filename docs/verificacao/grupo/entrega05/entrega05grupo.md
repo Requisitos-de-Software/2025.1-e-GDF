@@ -42,7 +42,7 @@ Este documento apresenta uma lista de verificação para avaliar os artefatos pr
 | 10  | A fonte do requisito é compreendida por todos os envolvidos no projeto?                               |  [Gabriel Lopes](https://github.com/BrzGab) e [Artur Mendonça](https://github.com/ArtyMend07) |  <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/lista-de-verifica%C3%A7%C3%A3o-entrega-5/docs/assets/verificacao5/p10.jpeg" alt="Referência do item" width="100px"><br><a href="https://drive.google.com/file/d/1jQqmBk0fvtbwz1mTURwptU3f9qFxe9o_/view?usp=sharing">Slide da Aula 26                                            |
 
 
-<font size="3"><p align="center">Elaborado pelo autor: ( [Karoline Luz](https://github.com/KarolineLuz) e [Ana Victória](https://github.com/navicg), 2025).</p></font>
+<font size="3"><p align="center">Elaborado pelo autor: ( [Gabriel Lopes](https://github.com/BrzGab) e [Artur Mendonça](https://github.com/ArtyMend07), 2025).</p></font>
 
 
 
