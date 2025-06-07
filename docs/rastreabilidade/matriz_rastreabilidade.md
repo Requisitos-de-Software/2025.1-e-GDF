@@ -23,6 +23,8 @@ A estrutura da matriz conta com as seguintes colunas:
 
 ## Mapeamento
 
+### Siglas
+
 A tabela abaixo apresenta a legenda com a sigla e o significado dos principais artefatos referenciados na matriz.
 
 <p align="center"><b>Tabela 1</b> — Legenda do mapeamento de requisitos.</p>
@@ -38,6 +40,17 @@ A tabela abaixo apresenta a legenda com a sigla e o significado dos principais a
 
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ( [João Marcos](https://github.com/JJOAOMARCOSS) e e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
+
+### Artefatos Relacionados
+
+A lista abaixo descreve os tipos de artefatos que podem ser relacionados aos requisitos na matriz geral.
+
+* **Casos de Uso**  
+* **Cenários**
+* **Histórias de Usuário**
+* **Léxicos**
+* **Especificação Suplementar**
+* **NFR Framework**
 
 ## Matriz Geral
 
@@ -116,7 +129,7 @@ A tabela abaixo apresenta a matriz geral de rastreabilidade, onde estão listado
 | RNF23  | Deve funcionar em modo offline para consulta de registros ou informações previamente acessadas.                                              | <a href="../../elicitacao/tec_elicitacao/integracao/#anchor_INTT">INT20</a>                                                                                                | [Especifição Suplementar](../modelagem/especificacao_suplementar.md), [NFR Framework](../modelagem/agil/nfrframework.md)                                                             | Não            | 1.0    |      |
 | RNF24  | As imagens capturadas pelo usuário devem ser otimizadas para upload rápido mesmo em conexões móveis.                                          | <a href="../../elicitacao/tec_elicitacao/integracao/#anchor_INTT">INT21</a>                                                                                                | [Especifição Suplementar](../modelagem/especificacao_suplementar.md), [NFR Framework](../modelagem/agil/nfrframework.md)                                                             | Sim            | 1.0    |      |
 
-<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ( [João Marcos](https://github.com/JJOAOMARCOSS) e e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ( [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9)  e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
 
 
 ## Bibliografia
@@ -139,4 +152,4 @@ A tabela abaixo apresenta a matriz geral de rastreabilidade, onde estão listado
 | 1.1    | Adicionando tabela modelo | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 04/06/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 08/06/2025      |
 | 1.2    | Adicionando tabela 2 matriz geral | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 04/06/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 08/06/2025      |
 | 1.3    | Adicionando Bibliografia | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 04/06/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 08/06/2025      |
-| 1.4   | Arrumando Artefatos relacionados | [Lucas Mendonça](https://github.com/lucasarruda9) | 07/06/2025 | [Gabriel Lopes](https://github.com/BrzGab) | 08/06/2025      |
+| 1.4   | Arrumando Artefatos relacionados e adicionando lista deles| [Lucas Mendonça](https://github.com/lucasarruda9) | 07/06/2025 | [Gabriel Lopes](https://github.com/BrzGab) | 08/06/2025      |
