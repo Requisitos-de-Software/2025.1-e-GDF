@@ -40,7 +40,7 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 | 7 | As apresentações no YouTube estão configuradas como "não listado"? - Garantia de que os vídeos estão acessíveis apenas para quem tiver o link, respeitando a privacidade. | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) |  | <input type="checkbox" checked> |
 
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
 
 ## Lista de Inspeção - Backward From 
 
@@ -126,3 +126,5 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 | Versão | Descrição                                                                                          | Autor(es)                                             | Data       | Revisor(es)                                        | Data de revisão |
 | ------ | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------- | -------------------------------------------------- | --------------- 
 | 1.0    | Adicionando tabelas da lista de inspeção da entrega 5 do eGDF| [Luiza da Silva Pugas](https://github.com/Luizaxx) | 06/06/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 08/06/2025  |
+| 1.1    | Adicionando as imgs de Evidência da tabela 1 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 08/06/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 08/06/2025  |
+| 1.2    | Adicionando as imgs de Evidência da tabela 4 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 08/06/2025 | [Ana Victória](https://github.com/navicg) | 08/06/2025  |
