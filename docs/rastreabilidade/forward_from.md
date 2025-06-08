@@ -15,7 +15,7 @@ Com base no meta-modelo de Toranzo, adaptado por Sayão e Leite, esta metodologi
 
 ## Classificação das Informações
 
-Inicialmente, as informações a serem rastreadas são categorizadas em quatro níveis distintos:
+Inicialmente, as informações a serem rastreadas são categorizadas em quatro níveis distintos <a id="anchor_2" href="#FRM2"> [2]</a> </q>:
 
 - **Ambiental**: informações externas à organização, como normas regulatórias, fatores políticos ou tendências de mercado.
 - **Organizacional**: informações relacionadas à missão, objetivos estratégicos e políticas internas da organização.
@@ -26,7 +26,7 @@ No contexto da disciplina, será adotado o nível de desenvolvimento, que abrang
 
 ## Tipos de Elos de Rastreabilidade
 
-A metodologia considera os seguintes tipos de elos:
+A metodologia considera os seguintes tipos de elos <a id="anchor_2" href="#FRM2"> [2]</a> </q>:
 
 - **Satisfação**: a origem depende da realização do destino (ex.: requisito satisfeito por caso de uso).
 - **Recurso**: a origem depende de um recurso fornecido pelo destino (ex.: Sprint depende do backlog do produto).
@@ -73,7 +73,7 @@ A tabela abaixo apresenta a legenda com a sigla e as Técnicas de Elicitação r
 
 Cada elo deve conter os seguintes elementos:
 
-<font size="3"><p style="text-align: center">Tabela 3: Modelo de Cartão de Rastreabilidade</p></font>
+<font size="3"><p style="text-align: center">Tabela 3: Modelo de Cartão de Rastreabilidade <a id="anchor_2" href="#FRM2"> [2]</a> </q> </p></font>
 
 
 | Item               | Descrição                                                                 |
@@ -1197,6 +1197,23 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 
 > <a id="FRM1" href="#anchor_1">1.</a> SAYÃO, Miriam; LEITE, Julio Cesar Sampaio do Prado. *Rastreabilidade de Requisitos*. Monografias em Ciência da Computação n° 20/05. Departamento de Informática, PUC-Rio, 2005.
 
+<div style="text-align: center">
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/elo-forward/docs/assets/rastreabilidade/forward_from/referencia_1.png" >
+</div>
+
+> <a id="FRM2" href="#anchor_2">2.</a> SERRANO, Milene; SERRANO, Maurício. *Requisitos – Aula 26*. 2025. Disponível em: [Apresentação de slides](https://aprender3.unb.br/pluginfile.php/3096178/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf). Acesso em: 8 jun. 2025.
+
+<div style="text-align: center">
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/elo-forward/docs/assets/rastreabilidade/forward_from/refrencia_2.1.png" >
+</div>
+
+<div style="text-align: center">
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/elo-forward/docs/assets/rastreabilidade/forward_from/referencia_2.png" >
+</div>
+
+<div style="text-align: center">
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/elo-forward/docs/assets/rastreabilidade/forward_from/referencia_2.2.png" >
+</div>
 
 # Histórico de Versões
 
@@ -1207,3 +1224,4 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 | 1.2   | Ajustando autores das tabelas | [Ana Victória](https://github.com/navicg) | 08/06/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 08/06/2025  |
 | 1.3   | Adicionando tabelas RF 35 a 44 e RNF01 a 24 | [Karoline Luz](https://github.com/KarolineLuz) | 08/06/2025 | [Ana Victória](https://github.com/navicg) | 08/06/2025  |
 | 1.4   | Ajustando autores das tabelas | [Karoline Luz](https://github.com/KarolineLuz) | 08/06/2025 | [Ana Victória](https://github.com/navicg) | 08/06/2025  |
+| 1.5   | Adicionando imagens de referências | [Ana Victória](https://github.com/navicg) | 08/06/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 08/06/2025  |
