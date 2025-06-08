@@ -11,7 +11,7 @@ Essa abordagem favorece o controle de mudanças e facilita a verificação do at
 
 ## Metodologia
 
-Com base no meta-modelo de Toranzo, adaptado por Sayão e Leite, esta metodologia propõe um modelo de rastreabilidade voltado à organização, identificação e manutenção de elos entre os artefatos produzidos no processo de desenvolvimento de software.
+Com base no meta-modelo de Toranzo, adaptado por Sayão e Leite, esta metodologia propõe um modelo de rastreabilidade voltado à organização, identificação e manutenção de elos entre os artefatos produzidos no processo de desenvolvimento de software. Foi utilizado o modelo apresentado na **Tabela 3**, composto por *item* e *descrição*. Para facilitar a compreensão das tabelas, também foram incluídas as **Tabelas 1 e 2**, que apresentam as legendas dos artefatos e das técnicas de elicitação, respectivamente. Também é mostrado na **Tabela 4** o cartão de rastreabilidade que cada um desenvolveu.
 
 ## Classificação das Informações
 
@@ -86,9 +86,25 @@ Cada elo deve conter os seguintes elementos:
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos(as) autores(as): ([Ana Victória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz), 2025)</p></font>
 
+## Registro do que cada participante desenvolveu
+
+<font size="3"><p style="text-align: center">Tabela 4: Elo que cada um participou</p></font>
+
+| Cartão de Rastreabilidade |                         Autor(a) |
+|---------------------------|----------------------------------|
+| [ELO 01](#elo01), [ELO 02](#elo02), [ELO 03](#elo03), [ELO 09](#elo09), [ELO 15](#elo15), [ELO 20](#elo20)         |  [Ana Victória Guedes da Costa](https://github.com/navicg)   |
+| [ELO 04](#elo04), [ELO 05](#elo05),  [ELO 06](#elo06), [ELO 11](#elo11), [ELO 21](#elo21), [ELO 33](#elo33)        |    [Artur Mendonça Arruda](https://github.com/ArtyMend07)      |
+|  [ELO 07](#elo07), [ELO 08](#elo08), [ELO 10](#elo10), [ELO 19](#elo19), [ELO 23](#elo23), [ELO 34](#elo34)    |   [Gabriel Lopes](https://github.com/BrzGab)       |
+| [ELO 12](#elo12), [ELO 13](#elo13), [ELO 14](#elo14)        |    [João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS)      |
+| [ELO 16](#elo16),  [ELO 25](#elo25), [ELO 26](#elo26) , [ELO 28](#elo28), [ELO 29](#elo29)        |     [Karoline Luz da Conceição](https://github.com/KarolineLuz)    |
+| [ELO 17](#elo17), [ELO 24](#elo24)          |     [Lucas Mendonça Arruda](https://github.com/lucasarruda9)     |
+| [ELO 18](#elo18), [ELO 22](#elo22), [ELO 27](#elo27), [ELO 30](#elo30), [ELO 31](#elo31), [ELO 32](#elo32)          |     [Luiza da Silva Pugas](https://github.com/Luizaxx)     |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos(as) autores(as): ([Ana Victória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz), 2025)</p></font>
+
 ## Cartões de Requisitos Funcionais
 
-### ELO 01
+### ELO 01 {#elo01}
 
 <font size="3"><p style="text-align: center">Tabela 4: Cartão do Requisito Funcional 01 </p></font>
 
@@ -102,7 +118,7 @@ Cada elo deve conter os seguintes elementos:
 
 <font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Ana Victória](https://github.com/navicg), 2025)</p></font>
 
-### ELO 02
+### ELO 02 {#elo02}
 
 <font size="3"><p style="text-align: center">Tabela 5: Cartão do Requisito Funcional 02 </p></font>
 
@@ -116,7 +132,7 @@ Cada elo deve conter os seguintes elementos:
 
 <font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Ana Victória](https://github.com/navicg), 2025)</p></font>
 
-### ELO 03
+### ELO 03 {#elo03}
 
 <font size="3"><p style="text-align: center">Tabela 6: Cartão do Requisito Funcional 03 </p></font>
 
@@ -131,7 +147,7 @@ Cada elo deve conter os seguintes elementos:
 <font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Ana Victória](https://github.com/navicg), 2025)</p></font>
 
 
-### ELO 04
+### ELO 04 {#elo04}
 
 <font size="3"><p style="text-align: center">Tabela 7: Cartão do Requisito Funcional 04 </p></font>
 
@@ -146,7 +162,7 @@ Cada elo deve conter os seguintes elementos:
 <font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Artur Mendonça](https://github.com/ArtyMend07), 2025)</p></font>
 
 
-### ELO 05
+### ELO 05 {#elo05}
 
 <font size="3"><p style="text-align: center">Tabela 8: Cartão do Requisito Funcional 05 </p></font>
 
@@ -161,7 +177,7 @@ Cada elo deve conter os seguintes elementos:
 <font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Artur Mendonça](https://github.com/ArtyMend07), 2025)</p></font>
 
 
-### ELO 06
+### ELO 06 {#elo06}
 
 <font size="3"><p style="text-align: center">Tabela 9: Cartão do Requisito Funcional 06 </p></font>
 
@@ -176,7 +192,7 @@ Cada elo deve conter os seguintes elementos:
 <font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Artur Mendonça](https://github.com/ArtyMend07), 2025)</p></font>
 
 
-### ELO 07
+### ELO 07 {#elo07}
 
 <font size="3"><p style="text-align: center">Tabela 10: Cartão do Requisito Funcional 07 </p></font>
 
@@ -191,7 +207,7 @@ Cada elo deve conter os seguintes elementos:
 <font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Gabriel Lopes](https://github.com/BrzGab) 2025)</p></font>
 
 
-### ELO 08
+### ELO 08 {#elo08}
 
 <font size="3"><p style="text-align: center">Tabela 11: Cartão do Requisito Funcional 08 </p></font>
 
@@ -206,7 +222,7 @@ Cada elo deve conter os seguintes elementos:
 <font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Gabriel Lopes](https://github.com/BrzGab) 2025)</p></font>
 
 
-### ELO 09
+### ELO 09 {#elo09}
 
 <font size="3"><p style="text-align: center">Tabela 12: Cartão do Requisito Funcional 09 </p></font>
 
@@ -221,7 +237,7 @@ Cada elo deve conter os seguintes elementos:
 <font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Ana Victória](https://github.com/navicg), 2025)</p></font>
 
 
-### ELO 10
+### ELO 10 {#elo10}
 
 <font size="3"><p style="text-align: center">Tabela 13: Cartão do Requisito Funcional 10 </p></font>
 
@@ -236,7 +252,7 @@ Cada elo deve conter os seguintes elementos:
 <font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Gabriel Lopes](https://github.com/BrzGab) 2025)</p></font>
 
 
-### ELO 11
+### ELO 11 {#elo11}
 
 <font size="3"><p style="text-align: center">Tabela 14: Cartão do Requisito Funcional 11 </p></font>
 
@@ -251,7 +267,7 @@ Cada elo deve conter os seguintes elementos:
 <font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Artur Mendonça](https://github.com/ArtyMend07), 2025)</p></font>
 
 
-### ELO 12
+### ELO 12 {#elo12}
 
 <font size="3"><p style="text-align: center">Tabela 15: Cartão do Requisito Funcional 12 </p></font>
 
@@ -266,7 +282,7 @@ Cada elo deve conter os seguintes elementos:
 <font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([João Marcos](https://github.com/JJOAOMARCOSS), 2025)</p></font>
 
 
-### ELO 13
+### ELO 13 {#elo13}
 
 <font size="3"><p style="text-align: center">Tabela 16: Cartão do Requisito Funcional 13 </p></font>
 
@@ -281,7 +297,7 @@ Cada elo deve conter os seguintes elementos:
 <font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([João Marcos](https://github.com/JJOAOMARCOSS), 2025)</p></font>
 
 
-### ELO 14
+### ELO 14 {#elo14}
 
 <font size="3"><p style="text-align: center">Tabela 17: Cartão do Requisito Funcional 14 </p></font>
 
@@ -296,7 +312,7 @@ Cada elo deve conter os seguintes elementos:
 <font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([João Marcos](https://github.com/JJOAOMARCOSS), 2025)</p></font>
 
 
-### ELO 15
+### ELO 15 {#elo15}
 
 <font size="3"><p style="text-align: center">Tabela 18: Cartão do Requisito Funcional 16 </p></font>
 
@@ -311,7 +327,7 @@ Cada elo deve conter os seguintes elementos:
 <font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Ana Victória](https://github.com/navicg), 2025)</p></font>
 
 
-### ELO 16
+### ELO 16 {#elo16}
 
 <font size="3"><p style="text-align: center">Tabela 19: Cartão do Requisito Funcional 16 </p></font>
 
@@ -326,7 +342,7 @@ Cada elo deve conter os seguintes elementos:
 <font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Karoline Luz](https://github.com/KarolineLuz), 2025)</p></font>
 
 
-### ELO 17
+### ELO 17 {#elo17}
 
 <font size="3"><p style="text-align: center">Tabela 20: Cartão do Requisito Funcional 17 </p></font>
 
@@ -341,7 +357,7 @@ Cada elo deve conter os seguintes elementos:
 <font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
 
 
-### ELO 18
+### ELO 18 {#elo18}
 
 <font size="3"><p style="text-align: center">Tabela 21: Cartão do Requisito Funcional 18 </p></font>
 
@@ -356,7 +372,7 @@ Cada elo deve conter os seguintes elementos:
 <font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Luiza Silva](https://github.com/Luizaxx), 2025)</p></font>
 
 
-### ELO 19
+### ELO 19 {#elo19}
 
 <font size="3"><p style="text-align: center">Tabela 22: Cartão do Requisito Funcional 19 </p></font>
 
@@ -371,7 +387,7 @@ Cada elo deve conter os seguintes elementos:
 <font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Gabriel Lopes](https://github.com/BrzGab), 2025)</p></font>
 
 
-### ELO 20
+### ELO 20 {#elo20}
 
 <font size="3"><p style="text-align: center">Tabela 23: Cartão do Requisito Funcional 20 </p></font>
 
@@ -386,7 +402,7 @@ Cada elo deve conter os seguintes elementos:
 <font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Ana Victória](https://github.com/navicg), 2025)</p></font>
 
 
-### ELO 21
+### ELO 21 {#elo21}
 
 <font size="3"><p style="text-align: center">Tabela 24: Cartão do Requisito Funcional 21 </p></font>
 
@@ -401,7 +417,7 @@ Cada elo deve conter os seguintes elementos:
 <font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Artur Mendonça](https://github.com/ArtyMend07), 2025)</p></font>
 
 
-### ELO 22
+### ELO 22 {#elo22}
 
 <font size="3"><p style="text-align: center">Tabela 25: Cartão do Requisito Funcional 22 </p></font>
 
@@ -416,7 +432,7 @@ Cada elo deve conter os seguintes elementos:
 <font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Luiza Silva](https://github.com/Luizaxx), 2025)</p></font>
 
 
-### ELO 23
+### ELO 23 {#elo23}
 
 <font size="3"><p style="text-align: center">Tabela 26: Cartão do Requisito Funcional 23 </p></font>
 
@@ -431,7 +447,7 @@ Cada elo deve conter os seguintes elementos:
 <font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Gabriel Lopes](https://github.com/BrzGab), 2025)</p></font>
 
 
-### ELO 24
+### ELO 24 {#elo24}
 
 <font size="3"><p style="text-align: center">Tabela 27: Cartão do Requisito Funcional 24 </p></font>
 
@@ -446,7 +462,7 @@ Cada elo deve conter os seguintes elementos:
 <font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
 
 
-### ELO 25
+### ELO 25 {#elo25}
 
 <font size="3"><p style="text-align: center">Tabela 28: Cartão do Requisito Funcional 25 </p></font>
 
@@ -461,7 +477,7 @@ Cada elo deve conter os seguintes elementos:
 <font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Karoline Luz](https://github.com/KarolineLuz), 2025)</p></font>
 
 
-### ELO 26
+### ELO 26 {#elo26}
 
 <font size="3"><p style="text-align: center">Tabela 29: Cartão do Requisito Funcional 26 </p></font>
 
@@ -476,7 +492,7 @@ Cada elo deve conter os seguintes elementos:
 <font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Karoline Luz](https://github.com/KarolineLuz), 2025)</p></font>
 
 
-### ELO 27
+### ELO 27 {#elo27}
 
 <font size="3"><p style="text-align: center">Tabela 30: Cartão do Requisito Funcional 27 </p></font>
 
@@ -491,7 +507,7 @@ Cada elo deve conter os seguintes elementos:
 <font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Luiza Silva](https://github.com/Luizaxx), 2025)</p></font>
 
 
-### ELO 28
+### ELO 28 {#elo28}
 
 <font size="3"><p style="text-align: center">Tabela 31: Cartão do Requisito Funcional 28 </p></font>
 
@@ -506,7 +522,7 @@ Cada elo deve conter os seguintes elementos:
 <font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Karoline Luz](https://github.com/KarolineLuz), 2025)</p></font>
 
 
-### ELO 29
+### ELO 29 {#elo29}
 
 <font size="3"><p style="text-align: center">Tabela 32: Cartão do Requisito Funcional 29 </p></font>
 
@@ -521,7 +537,7 @@ Cada elo deve conter os seguintes elementos:
 <font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Karoline Luz](https://github.com/KarolineLuz), 2025)</p></font>
 
 
-### ELO 30
+### ELO 30 {#elo30}
 
 <font size="3"><p style="text-align: center">Tabela 33: Cartão do Requisito Funcional 30 </p></font>
 
@@ -536,7 +552,7 @@ Cada elo deve conter os seguintes elementos:
 <font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Luiza Silva](https://github.com/Luizaxx), 2025)</p></font>
 
 
-### ELO 31
+### ELO 31 {#elo31}
 
 <font size="3"><p style="text-align: center">Tabela 34: Cartão do Requisito Funcional 31 </p></font>
 
@@ -551,7 +567,7 @@ Cada elo deve conter os seguintes elementos:
 <font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Luiza Silva](https://github.com/Luizaxx), 2025)</p></font>
 
 
-### ELO 32
+### ELO 32 {#elo32}
 
 <font size="3"><p style="text-align: center">Tabela 35: Cartão do Requisito Funcional 32 </p></font>
 
@@ -566,7 +582,7 @@ Cada elo deve conter os seguintes elementos:
 <font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Luiza Silva](https://github.com/Luizaxx), 2025)</p></font>
 
 
-### ELO 33
+### ELO 33 {#elo33}
 
 <font size="3"><p style="text-align: center">Tabela 36: Cartão do Requisito Funcional 33 </p></font>
 
@@ -581,7 +597,7 @@ Cada elo deve conter os seguintes elementos:
 <font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Artur Mendonça](https://github.com/ArtyMend07), 2025)</p></font>
 
 
-### ELO 34
+### ELO 34 {#elo34}
 
 <font size="3"><p style="text-align: center">Tabela 37: Cartão do Requisito Funcional 34 </p></font>
 
