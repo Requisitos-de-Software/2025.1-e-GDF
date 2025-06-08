@@ -1,11 +1,11 @@
 # Backward-from
 
 ## Introdução
-Os elos de rastreabilidade são conexões essenciais que estabelecem vínculos entre diferentes artefatos e atividades ao longo do ciclo de vida de um projeto ou sistema. Esses elos permitem rastrear a origem e a evolução de funcionalidades, decisões de projeto e mudanças, garantindo um gerenciamento eficaz e uma qualidade consistente. Utilizando a rastreabilidade, é possível identificar a proveniência de cada funcionalidade do sistema, assegurar que todos os requisitos foram devidamente testados e validados, registrar decisões críticas para o projeto e gerenciar os riscos de maneira eficiente. Além disso, a rastreabilidade facilita o controle de mudanças ao indicar quais artefatos são impactados por alterações específicas, promovendo uma gestão integrada e transparente do desenvolvimento e manutenção de sistemas.<a id="RP1" href="#ref1"><sup>[1]</sup></a>
+Os elos de rastreabilidade são conexões essenciais que estabelecem vínculos entre diferentes artefatos e atividades ao longo do ciclo de vida de um projeto ou sistema. Esses elos permitem rastrear a origem e a evolução de funcionalidades, decisões de projeto e mudanças, garantindo um gerenciamento eficaz e uma qualidade consistente. Utilizando a rastreabilidade, é possível identificar a proveniência de cada funcionalidade do sistema, assegurar que todos os requisitos foram devidamente testados e validados, registrar decisões críticas para o projeto e gerenciar os riscos de maneira eficiente. Além disso, a rastreabilidade facilita o controle de mudanças ao indicar quais artefatos são impactados por alterações específicas, promovendo uma gestão integrada e transparente do desenvolvimento e manutenção de sistemas.<a id="RP1" href="#citacao-elo1"><sup>[1]</sup></a>
 
 ### Backward-from
 
-A rastreabilidade backward-from é um processo crítico na engenharia de requisitos, que permite a ligação dos requisitos às suas fontes originais. Esse tipo de rastreabilidade é essencial para garantir que todos os requisitos identificados tenham uma origem bem definida, facilitando a validação e verificação durante o ciclo de vida do desenvolvimento do software. Além disso, a rastreabilidade backward-from ajuda a gerenciar mudanças ao rastrear de volta cada requisito até suas bases, assegurando que qualquer modificação no sistema possa ser rapidamente associada à sua origem, permitindo uma resposta eficaz a alterações e garantindo a conformidade com os requisitos iniciais do projeto.<a id="RP1" href="#ref1"><sup>[1]</sup></a>
+A rastreabilidade backward-from é um processo crítico na engenharia de requisitos, que permite a ligação dos requisitos às suas fontes originais. Esse tipo de rastreabilidade é essencial para garantir que todos os requisitos identificados tenham uma origem bem definida, facilitando a validação e verificação durante o ciclo de vida do desenvolvimento do software. Além disso, a rastreabilidade backward-from ajuda a gerenciar mudanças ao rastrear de volta cada requisito até suas bases, assegurando que qualquer modificação no sistema possa ser rapidamente associada à sua origem, permitindo uma resposta eficaz a alterações e garantindo a conformidade com os requisitos iniciais do projeto.<a id="RP2" href="#citacao-elo2"><sup>[2]</sup></a>
 
 ## Participantes
 
@@ -21,10 +21,10 @@ A rastreabilidade backward-from é um processo crítico na engenharia de requisi
 | [Lucas Mendonça](https://github.com/lucasarruda9) | 07/06/2025 |
 | [Luiza Silva](https://github.com/Luizaxx) | 07/06/2025 |
 
-*Autor: [Gabriel Lopes](https://github.com/BrzGab), 2025.*
+*Autor: [Artur Mendonça](https://github.com/ArtyMend07) e [Gabriel Lopes](https://github.com/BrzGab), 2025.*
 
 ## Metodologia
-Utilizamos um cartão baseado nos cartões presentes nos slides dos Professores Milene Serrano e Maurício Serrano na página 22 à 27<a id="RP3" href="#ref3"><sup>[3]</sup></a>, as categorias e tipos de elos derivam do Meta-modelo de Toranzo. Os cartões que fizemos utilizam o mesmo formato, porém fizemos baseados nos requisitos onde cada cartão possui todos os tipos de Elos daquele requisito citado.
+Utilizamos um cartão baseado nos cartões presentes nos slides dos Professores Milene Serrano e Maurício Serrano na página 22 à 27<a id="RP3" href="#citacao-elo3"><sup>[3]</sup></a>, as categorias e tipos de elos derivam do Meta-modelo de Toranzo. Os cartões que fizemos utilizam o mesmo formato, porém fizemos baseados nos requisitos onde cada cartão possui todos os tipos de Elos daquele requisito citado.
 
 ### Cartões de Relacionamento dos Elos
 
@@ -38,9 +38,9 @@ Utilizamos um cartão baseado nos cartões presentes nos slides dos Professores 
 | **Elos Backward-from:** | Agregação: RE01 - ENT01: O requisito originou-se da entrevista. |
 | **Implementação:** | Sim/Não |
 
-*Autores: [Gabriel Lopes](https://github.com/BrzGab).*
+*Autores: [Artur Mendonça](https://github.com/ArtyMend07) e [Gabriel Lopes](https://github.com/BrzGab).*
 
-**Legenda:**
+**Legenda: <a id="RP4" href="#citacao-elo4"><sup>[4]</sup></a>**
 
 - **Categoria**: Devem ser classificadas em quatro níveis
     - **Ambiental**: Congrega informações oriundas do contexto ambiental onde a organização está inserida e que podem afetar o sistema sendo desenvolvido.
@@ -49,7 +49,7 @@ Utilizamos um cartão baseado nos cartões presentes nos slides dos Professores 
     - **Desenvolvimento**: Abarca informações relacionadas aos diversos artefatos gerados no processo de desenvolvimento (documento de requisitos, diagramas, programas, casos de testes, ...).
 - **Elementos**: Lista de identificadores que representam [requisitos](../elicitacao/req_elicitados.md) (RE01), [casos de uso](../modelagem/casos_de_uso.md) (US01), [cenários](../modelagem/cenario.md) (CEN01) e [técnicas de elicitação de requisitos](../elicitacao/tec_elicitacao/entrevista.md#anchor_EN) (ENT01).
 - **Elos Backward-from**: Primeiro, mostra-se o tipo de elo e depois a origem do requisito. Por exemplo, o requisito REQ01 originou-se da entrevista ENT01.
-- **Tipos de Elos**:
+- **Tipos de Elos <a id="RP5" href="#citacao-elo5"><sup>[5]</sup></a>**:
     - **Satisfação**: Indica que a classe de origem tem dependência de satisfação com a classe de destino.
     - **Recurso**: Indica que a classe de origem tem dependência de recurso com a classe de destino.
     - **Responsabilidade**: Registra a participação, responsabilidade e ação de pessoas sobre artefatos.
@@ -1008,11 +1008,19 @@ Utilizamos um cartão baseado nos cartões presentes nos slides dos Professores 
 
 ## Referências Bibliográficas
 
-> <a id="ref1"></a>1. SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: [https://www-di.inf.puc-rio.br/~julio/rastre.pdf](https://www-di.inf.puc-rio.br/~julio/rastre.pdf). Acesso em: 07 jun. 2025.
+> <a id="citacao-elo1" href="#RP1">[1]</a> SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: [https://www-di.inf.puc-rio.br/~julio/rastre.pdf](https://www-di.inf.puc-rio.br/~julio/rastre.pdf). Acesso em: 07 jun. 2025.
 
-> <a id="ref2"></a>2. Kotonya, Gerald, and Ian Sommerville. "Requirements Engineering: Processes and Techniques." John Wiley & Sons, 1998. Disponível em: [https://www.acqnotes.com/Attachments/The%20Requirements%20Engineering%20Handbook%20by%20Ralph%20R.%20Young.pdf](https://www.acqnotes.com/Attachments/The%20Requirements%20Engineering%20Handbook%20by%20Ralph%20R.%20Young.pdf). Acesso em: 07 jun. 2025.
+> <a id="citacao-elo2" href="#RP2">[2]</a> SERRANO, Milene, SERRANO, Maurício. Requisitos - Aula sobre Rastreabilidade. UnB Gama, Brasília, 2023.
+<div align="center"><img src="../assets/fonte-elo2.png" alt="Fonte Elo 2 - Backward-from"></div>
 
-> <a id="ref3"></a>3. SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 26): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. Disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096178/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf). Acesso em: 07 jun. 2025.
+> <a id="citacao-elo3" href="#RP3">[3]</a> SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 26): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. Disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096178/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf). Acesso em: 07 jun. 2025.
+
+
+> <a id="citacao-elo4" href="#RP4">[4]</a> SERRANO, Milene, SERRANO, Maurício. Requisitos - Tipos de Elos. UnB Gama, Brasília, 2023.
+<div align="center"><img src="../assets/fonte-elo4.png" alt="Fonte Elo 4 - Tipos de Elos"></div>
+
+> <a id="citacao-elo5" href="#RP5">[5]</a> SERRANO, Milene, SERRANO, Maurício. Requisitos - Tipos de Elos. UnB Gama, Brasília, 2023.
+<div align="center"><img src="../assets/fonte-elo5.png" alt="Fonte Elo 5 - Tipos de Elos"></div>
 
 ## Bibliografia
 
@@ -1024,4 +1032,5 @@ Utilizamos um cartão baseado nos cartões presentes nos slides dos Professores 
 
 | Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 07/06/2025 | Criação da página e adicionando os cartões dos requisitos | [Gabriel Lopes](https://github.com/BrzGab) e [Artur Mendonça](https://github.com/ArtyMend07) | 07/06/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) |
+| `1.0` | 07/06/2025 | Criação da página e adicionando os cartões dos requisitos |  [Artur Mendonça](https://github.com/ArtyMend07) e [Gabriel Lopes](https://github.com/BrzGab) | 07/06/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) |
+| `1.1` | 08/06/2025 | Adição de novas referências bibliográficas e correção de hyperlinks | [Artur Mendonça](https://github.com/ArtyMend07) [Gabriel Lopes](https://github.com/BrzGab) | 08/06/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) |
