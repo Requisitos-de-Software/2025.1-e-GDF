@@ -54,6 +54,7 @@ Cada elo deve conter os seguintes elementos:
 
 <font size="3"><p style="text-align: center">Tabela X: Modelo de Cartão de Rastreabilidade (Forward-from)</p></font>
 
+
 | Item               | Descrição                                                                 |
 |--------------------|---------------------------------------------------------------------------|
 | Descrição do requisito | [Inserir descrição do requisito funcional ou não funcional]               |
@@ -125,7 +126,7 @@ Cada elo deve conter os seguintes elementos:
 | Elos Forward-from   | **Satisfação**:  O caso de uso satisfaz o requisito de centralização de serviços.<br>**Recurso**: O cenário detalha recursos para consulta centralizada.<br>**Satisfação**: A história de usuário satisfaz o requisito de acesso unificado.<br>**Representação**: O léxico representa conceitos de agendamento e centralização.<br>**Agregação**: O requisito está relacionado ao Épico 04.<br>**Responsabilidade**: [Artur Mendonça](https://github.com/ArtyMend07) ficou responsável pela elaboração e validação do requisito. |
 | Status              | Não implementado                                           |
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Ana Victória](https://github.com/navicg), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Artur Mendonça](https://github.com/ArtyMend07), 2025)</p></font>
 
 
 ### RF05
@@ -140,7 +141,7 @@ Cada elo deve conter os seguintes elementos:
 | Elos Forward-from   | **Satisfação**:  O caso de uso satisfaz o requisito de assistente virtual.<br>**Recurso**: O cenário detalha recursos de voz e assistência virtual.<br>**Satisfação**: A história de usuário satisfaz o requisito de acessibilidade por voz.<br>**Representação**: O léxico representa conceitos de assistente virtual e comandos de voz.<br>**Agregação**: O requisito está relacionado ao Épico 03.<br>**Responsabilidade**: [Artur Mendonça](https://github.com/ArtyMend07) ficou responsável pela elaboração e validação do requisito. |
 | Status              | Não implementado                                           |
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Ana Victória](https://github.com/navicg), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Artur Mendonça](https://github.com/ArtyMend07), 2025)</p></font>
 
 
 ### RF06
@@ -155,7 +156,7 @@ Cada elo deve conter os seguintes elementos:
 | Elos Forward-from   | **Satisfação**: O caso de uso satisfaz o requisito de tutoriais.<br>**Recurso**:  O cenário detalha recursos educacionais do app.<br>**Satisfação**:  A história de usuário satisfaz o requisito de guias passo a passo.<br>**Representação**: O léxico representa conceitos de tutorial e ajuda.<br>**Agregação**: O requisito está relacionado ao Épico 09.<br>**Responsabilidade**: [Artur Mendonça](https://github.com/ArtyMend07) ficou responsável pela elaboração e validação do requisito. |
 | Status              | Não implementado                                           |
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Ana Victória](https://github.com/navicg), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Artur Mendonça](https://github.com/ArtyMend07), 2025)</p></font>
 
 
 ### RF07
@@ -170,7 +171,7 @@ Cada elo deve conter os seguintes elementos:
 | Elos Forward-from   | **Satisfação**:  O caso de uso satisfaz o requisito de personalização visual.<br>**Recurso**:  O cenário detalha recursos de acessibilidade visual.<br>**Satisfação**:  A história de usuário satisfaz o requisito de ajustes visuais.<br>**Representação**: O léxico representa conceitos de fonte e contraste.<br>**Agregação**: O requisito está relacionado ao Épico 03.<br>**Responsabilidade**: [Gabriel Lopes](https://github.com/BrzGab) ficou responsável pela elaboração e validação do requisito. |
 | Status              | Não implementado                                           |
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Ana Victória](https://github.com/navicg), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Gabriel Lopes](https://github.com/BrzGab) 2025)</p></font>
 
 
 ### RF08
@@ -185,7 +186,7 @@ Cada elo deve conter os seguintes elementos:
 | Elos Forward-from   |**Satisfação**: O caso de uso satisfaz o requisito de modo escuro.<br>**Recurso**:  O cenário detalha recursos de tema escuro.<br>**Satisfação**:  A história de usuário satisfaz o requisito de personalização de tema.<br>**Representação**:  O léxico representa conceitos de modo escuro.<br>**Agregação**: O requisito está relacionado ao Épico 02.<br>**Responsabilidade**: [Gabriel Lopes](https://github.com/BrzGab) ficou responsável pela elaboração e validação do requisito. |
 | Status              | Não implementado                                           |
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Ana Victória](https://github.com/navicg), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Gabriel Lopes](https://github.com/BrzGab) 2025)</p></font>
 
 
 ### RF09
@@ -215,7 +216,7 @@ Cada elo deve conter os seguintes elementos:
 | Elos Forward-from   | **Satisfação**: O caso de uso satisfaz o requisito de geração de relatórios.<br>**Recurso**: O cenário detalha recursos de comprovantes.<br>**Satisfação**: A história de usuário satisfaz o requisito de documentação.<br>**Representação**: O léxico representa conceitos de relatório e comprovante.<br>**Agregação**: O requisito está relacionado ao Épico  08. <br>**Responsabilidade**: [Gabriel Lopes](https://github.com/BrzGab) ficou responsável pela elaboração e validação do requisito. |
 | Status              | Não implementado                                           |
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Ana Victória](https://github.com/navicg), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Gabriel Lopes](https://github.com/BrzGab) 2025)</p></font>
 
 
 ### RF11
@@ -230,7 +231,7 @@ Cada elo deve conter os seguintes elementos:
 | Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requisito de serviços integrados.<br>**Agregação**: O requisito está relacionado ao Eṕico 04.<br>**Responsabilidade**: [Artur Mendonça](https://github.com/ArtyMend07) ficou responsável pela elaboração e validação do requisito. |
 | Status              |Implementado                                           |
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Ana Victória](https://github.com/navicg), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Artur Mendonça](https://github.com/ArtyMend07), 2025)</p></font>
 
 
 ### RF12
@@ -245,7 +246,7 @@ Cada elo deve conter os seguintes elementos:
 | Elos Forward-from   |  **Satisfação**: O caso de uso satisfaz o requisito de mudança de idioma.<br>**Recurso**:  O cenário detalha recursos de internacionalização.<br>**Satisfação**:  A história de usuário satisfaz o requisito de múltiplos idiomas.<br>**Representação**:  O léxico representa conceitos de idioma e tradução.<br>**Agregação**: O requisito está relacionado ao Épico 02. <br>**Responsabilidade**: [João Marcos](https://github.com/JJOAOMARCOSS) ficou responsável pela elaboração e validação do requisito. |
 | Status              | Não implementado                                           |
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Ana Victória](https://github.com/navicg), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([João Marcos](https://github.com/JJOAOMARCOSS), 2025)</p></font>
 
 
 ### RF13
@@ -260,7 +261,7 @@ Cada elo deve conter os seguintes elementos:
 | Elos Forward-from   | **Satisfação**: O caso de uso satisfaz o requisito de personalização de perfil.<br>**Recurso**: O cenário detalha recursos de preferências personalizadas.<br>**Satisfação**:  A história de usuário satisfaz o requisito de recomendações.<br>**Representação**:  O léxico representa conceitos de perfil e preferências.<br>**Agregação**: O requisito está relacionado ao Épico 02. <br>**Responsabilidade**: [João Marcos](https://github.com/JJOAOMARCOSS) ficou responsável pela elaboração e validação do requisito. |
 | Status              | Não implementado                                           |
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Ana Victória](https://github.com/navicg), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([João Marcos](https://github.com/JJOAOMARCOSS), 2025)</p></font>
 
 
 ### RF14
@@ -275,7 +276,7 @@ Cada elo deve conter os seguintes elementos:
 | Elos Forward-from   | **Satisfação**: O caso de uso satisfaz o requisito de lembretes.<br>**Recurso**:  O cenário detalha recursos de notificações de vencimento.<br>**Satisfação**:  A história de usuário satisfaz o requisito de alertas.<br>**Representação**: O léxico representa conceitos de lembrete e notificação.<br>**Agregação**: O requisito está relacionado ao Épico 07.<br>**Responsabilidade**: [João Marcos](https://github.com/JJOAOMARCOSS) ficou responsável pela elaboração e validação do requisito. |
 | Status              | Não implementado                                           |
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Ana Victória](https://github.com/navicg), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([João Marcos](https://github.com/JJOAOMARCOSS), 2025)</p></font>
 
 
 ### RF15
@@ -305,7 +306,7 @@ Cada elo deve conter os seguintes elementos:
 | Elos Forward-from   | **Satisfação**: O caso de uso satisfaz o requisito de gestão de agendamentos.<br>**Recurso**:  O cenário detalha recursos de reagendamento.<br>**Satisfação**: A história de usuário satisfaz o requisito de centralização.<br>**Representação**: O léxico representa conceitos de agendamento.<br>**Agregação**: O requisito está relacionado ao Épico 06.<br>**Responsabilidade**: [Karoline Luz](https://github.com/KarolineLuz) ficou responsável pela elaboração e validação do requisito. |
 | Status              | Não implementado                                           |
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Ana Victória](https://github.com/navicg), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Karoline Luz](https://github.com/KarolineLuz), 2025)</p></font>
 
 
 ### RF17
@@ -320,7 +321,7 @@ Cada elo deve conter os seguintes elementos:
 | Elos Forward-from   |  **Satisfação**: O caso de uso satisfaz o requisito de categorização.<br>**Recurso**: O cenário detalha recursos de notificações categorizadas.<br>**Satisfação**: A história de usuário satisfaz o requisito de filtros.<br>**Representação**: O léxico representa conceitos de categorias.<br>**Agregação**: O requisito está relacionado ao Épico 07. <br>**Responsabilidade**: [Lucas Mendonça](https://github.com/lucasarruda9) ficou responsável pela elaboração e validação do requisito. |
 | Status              | Não implementado                                           |
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Ana Victória](https://github.com/navicg), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
 
 
 ### RF18
@@ -335,7 +336,7 @@ Cada elo deve conter os seguintes elementos:
 | Elos Forward-from   | **Satisfação**: O caso de uso satisfaz o requisito de compartilhamento.<br>**Recurso**: O cenário detalha recursos de salvamento e compartilhamento.<br>**Satisfação**: A história de usuário satisfaz o requisito de exportação.<br>**Representação**: O léxico representa conceitos de protocolo e compartilhamento.<br>**Agregação**: O requisito está relacionado ao Épico 08.<br>**Responsabilidade**: [Luiza Silva](https://github.com/Luizaxx) ficou responsável pela elaboração e validação do requisito. |
 | Status              | Não implementado                                           |
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Ana Victória](https://github.com/navicg), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Luiza Silva](https://github.com/Luizaxx), 2025)</p></font>
 
 
 ### RF19
@@ -350,7 +351,7 @@ Cada elo deve conter os seguintes elementos:
 | Elos Forward-from   | **Satisfação**: O caso de uso satisfaz o requisito de rastreamento em tempo real.<br>**Recurso**: O cenário detalha recursos de localização e mapas.<br>**Satisfação**: A história de usuário satisfaz o requisito de transporte público.<br>**Representação**: O léxico representa conceitos de transporte e GPS.<br>**Agregação**: O requisito está relacionado ao Épico 10.<br>**Responsabilidade**: [Gabriel Lopes](https://github.com/BrzGab) ficou responsável pela elaboração e validação do requisito. |
 | Status              | Implementado                                           |
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Ana Victória](https://github.com/navicg), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Gabriel Lopes](https://github.com/BrzGab), 2025)</p></font>
 
 
 ### RF20
@@ -380,7 +381,7 @@ Cada elo deve conter os seguintes elementos:
 | Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz parcialmente o requisito de informações educacionais.<br>**Agregação**: O requisito está relacionado ao Épico 05.<br>**Responsabilidade**: [Artur Mendonça](https://github.com/ArtyMend07) ficou responsável pela elaboração e validação do requisito. |
 | Status              | Implementado                                           |
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Ana Victória](https://github.com/navicg), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Artur Mendonça](https://github.com/ArtyMend07), 2025)</p></font>
 
 
 ### RF22
@@ -395,7 +396,7 @@ Cada elo deve conter os seguintes elementos:
 | Elos Forward-from   | ***Satisfação**: O caso de uso satisfaz o requisito de autenticação segura.<br>**Recurso**: O cenário detalha recursos de autenticação gov.br.<br>**Satisfação**: A história de usuário satisfaz o requisito de login seguro.<br>**Representação**: O léxico representa conceitos de autenticação e segurança.<br>**Agregação**: O requisito está relacionado ao Épico 01.<br>**Responsabilidade**: [Luiza Silva](https://github.com/Luizaxx) ficou responsável pela elaboração e validação do requisito. |
 | Status              | Não implementado                                           |
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Ana Victória](https://github.com/navicg), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Luiza Silva](https://github.com/Luizaxx), 2025)</p></font>
 
 
 ### RF23
@@ -410,7 +411,7 @@ Cada elo deve conter os seguintes elementos:
 | Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requisito de clareza fiscal.<br>**Agregação**:O requisito está relacionado ao Épico 04. <br>**Responsabilidade**: [Gabriel Lopes](https://github.com/BrzGab) ficou responsável pela elaboração e validação do requisito. |
 | Status              | Implementado                                           |
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Ana Victória](https://github.com/navicg), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Gabriel Lopes](https://github.com/BrzGab), 2025)</p></font>
 
 
 ### RF24
@@ -425,7 +426,7 @@ Cada elo deve conter os seguintes elementos:
 | Elos Forward-from   |**Satisfação**:  O caso de uso satisfaz o requisito de acompanhamento educacional.<br>**Recurso**: O cenário detalha recursos de pendências escolares.<br>**Satisfação**: A história de usuário satisfaz o requisito de gestão educacional.<br>**Agregação**: O requisito está relacionado ao Épico 04. <br>**Representação**: O léxico representa conceitos de educação e pendências.<br>**Responsabilidade**: [Lucas Mendonça](https://github.com/lucasarruda9) ficou responsável pela elaboração e validação do requisito. |
 | Status              | Não implementado                                           |
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Ana Victória](https://github.com/navicg), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
 
 
 ### RF25
@@ -440,7 +441,7 @@ Cada elo deve conter os seguintes elementos:
 | Elos Forward-from   | **Satisfação**: O caso de uso satisfaz o requisito de reporte interativo.<br>**Recurso**: O cenário detalha recursos de mapa interativo.<br>**Satisfação**: A história de usuário satisfaz o requisito de reporte geolocalizado.<br>**Representação**: O léxico representa conceitos de mapa e reporte.<br>**Agregação**: O requisito está relacionado ao Épico 09.<br>**Responsabilidade**: [Karoline Luz](https://github.com/KarolineLuz) ficou responsável pela elaboração e validação do requisito. |
 | Status              | Não implementado                                           |
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Ana Victória](https://github.com/navicg), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Karoline Luz](https://github.com/KarolineLuz), 2025)</p></font>
 
 
 ### RF26
@@ -455,7 +456,7 @@ Cada elo deve conter os seguintes elementos:
 | Elos Forward-from   | **Satisfação**: A história de usuário satisfaz o requisito de segurança pública.<br>**Agregação**: O requisito está relacionado ao Épico 09.<br>**Responsabilidade**: [Karoline Luz](https://github.com/KarolineLuz) ficou responsável pela elaboração e validação do requisito.  |
 | Status              | Implementado                                           |
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Ana Victória](https://github.com/navicg), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Karoline Luz](https://github.com/KarolineLuz), 2025)</p></font>
 
 
 ### RF27
@@ -470,7 +471,7 @@ Cada elo deve conter os seguintes elementos:
 | Elos Forward-from   | **Satisfação**:  O caso de uso satisfaz o requisito de suporte.<br>**Recurso**: O cenário detalha recursos de ajuda.<br>**Satisfação**: A história de usuário satisfaz o requisito de instruções.<br>**Representação**: O léxico representa conceitos de suporte e ajuda.<br>**Agregação**: O requisito está relacionado ao Épico 09.<br>**Responsabilidade**: [Luiza Silva](https://github.com/Luizaxx) ficou responsável pela elaboração e validação do requisito. |
 | Status              | Não implementado                                           |
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Ana Victória](https://github.com/navicg), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Luiza Silva](https://github.com/Luizaxx), 2025)</p></font>
 
 
 ### RF28
@@ -485,7 +486,7 @@ Cada elo deve conter os seguintes elementos:
 | Elos Forward-from   | **Satisfação**: A história de usuário satisfaz o requisito de solicitações.<br>**Agregação**: O requisito está relacionado ao Épico 09.  <br>**Responsabilidade**: [Karoline Luz](https://github.com/KarolineLuz) ficou responsável pela elaboração e validação do requisito. |
 | Status              | Implementado                                           |
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Ana Victória](https://github.com/navicg), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Karoline Luz](https://github.com/KarolineLuz), 2025)</p></font>
 
 
 ### RF29
@@ -500,7 +501,7 @@ Cada elo deve conter os seguintes elementos:
 | Elos Forward-from   | **Satisfação**: A história de usuário satisfaz o requisito de visualização espacial.<br>**Agregação**: O requisito está relacionado ao Epico 09. <br>**Responsabilidade**: [Karoline Luz](https://github.com/KarolineLuz) ficou responsável pela elaboração e validação do requisito. |
 | Status              | Implementado                                           |
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Ana Victória](https://github.com/navicg), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Karoline Luz](https://github.com/KarolineLuz), 2025)</p></font>
 
 
 ### RF30
@@ -515,7 +516,7 @@ Cada elo deve conter os seguintes elementos:
 | Elos Forward-from   | **Satisfação**: A história de usuário satisfaz o requisito de monitoramento.<br>**Agregação**: O requisito está relacionado ao Épico 06.<br>**Responsabilidade**: [Luiza Silva](https://github.com/Luizaxx) ficou responsável pela elaboração e validação do requisito. |
 | Status              | Implementado                                           |
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Ana Victória](https://github.com/navicg), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Luiza Silva](https://github.com/Luizaxx), 2025)</p></font>
 
 
 ### RF31
@@ -530,7 +531,7 @@ Cada elo deve conter os seguintes elementos:
 | Elos Forward-from   | **Satisfação**: A história de usuário satisfaz o requisito de feedback.<br>**Agregação**: O requisito está relacionado ao Épico 06.<br>**Responsabilidade**: [Luiza Silva](https://github.com/Luizaxx) ficou responsável pela elaboração e validação do requisito. |
 | Status              | Implementado                                           |
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Ana Victória](https://github.com/navicg), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Luiza Silva](https://github.com/Luizaxx), 2025)</p></font>
 
 
 ### RF32
@@ -545,7 +546,7 @@ Cada elo deve conter os seguintes elementos:
 | Elos Forward-from   | **Satisfação**: A história de usuário satisfaz o requisito de controle de dados.<br>**Agregação**: O requisito está relacionado ao Épico  11.<br>**Responsabilidade**: [Luiza Silva](https://github.com/Luizaxx) ficou responsável pela elaboração e validação do requisito. |
 | Status              | Implementado                                           |
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Ana Victória](https://github.com/navicg), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Luiza Silva](https://github.com/Luizaxx), 2025)</p></font>
 
 
 ### RF33
@@ -560,7 +561,7 @@ Cada elo deve conter os seguintes elementos:
 | Elos Forward-from   | **Satisfação**: A história de usuário satisfaz o requisito de reporte urbano.<br>**Agregação**: O requisito está relacionado ao Épico  09.<br>**Responsabilidade**: [Artur Mendonça](https://github.com/ArtyMend07) ficou responsável pela elaboração e validação do requisito.|
 | Status              | Implementado                                           |
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Ana Victória](https://github.com/navicg), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Artur Mendonça](https://github.com/ArtyMend07), 2025)</p></font>
 
 
 ### RF34
@@ -575,7 +576,7 @@ Cada elo deve conter os seguintes elementos:
 Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requisito de organização.<br>**Agregação**: O requisito está relacionado ao Épico 09.<br>**Responsabilidade**: [Gabriel Lopes](https://github.com/BrzGab) ficou responsável pela elaboração e validação do requisito. |
 | Status              |Implementado                                           |
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Ana Victória](https://github.com/navicg), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Gabriel Lopes](https://github.com/BrzGab), 2025)</p></font>
 
 # Referências Bibliográficas
 
@@ -587,4 +588,5 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 | Versão | Descrição                                                                                          | Autor(es)                                             | Data       | Revisor(es)                                        | Data de revisão |
 | ------ | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------- | -------------------------------------------------- | --------------- 
 | 1.0    | Adicionando introdução e metologia do forward-from | [Ana Victória](https://github.com/navicg) | 08/06/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 08/06/2025  |
-| 1.1   | Adição das tabelas 2 até 35, referentes ao forward-from dos requisitos 1 ao 34 | [Ana Victória](https://github.com/navicg) | 08/06/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 08/06/2025  |
+| 1.1   | Adição das tabelas 2 até 35, referentes aos cartões do forward-from dos requisitos 1 ao 34 | [Ana Victória](https://github.com/navicg) | 08/06/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 08/06/2025  |
+| 1.2   | Ajustando autores das tabelas | [Ana Victória](https://github.com/navicg) | 08/06/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 08/06/2025  |
