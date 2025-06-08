@@ -92,13 +92,13 @@ Cada elo deve conter os seguintes elementos:
 
 | Cartão de Rastreabilidade |                         Autor(a) |
 |---------------------------|----------------------------------|
-| [ELO 01](#elo01), [ELO 02](#elo02), [ELO 03](#elo03), [ELO 09](#elo09), [ELO 15](#elo15), [ELO 20](#elo20)         |  [Ana Victória Guedes da Costa](https://github.com/navicg)   |
-| [ELO 04](#elo04), [ELO 05](#elo05),  [ELO 06](#elo06), [ELO 11](#elo11), [ELO 21](#elo21), [ELO 33](#elo33)        |    [Artur Mendonça Arruda](https://github.com/ArtyMend07)      |
-|  [ELO 07](#elo07), [ELO 08](#elo08), [ELO 10](#elo10), [ELO 19](#elo19), [ELO 23](#elo23), [ELO 34](#elo34)    |   [Gabriel Lopes](https://github.com/BrzGab)       |
-| [ELO 12](#elo12), [ELO 13](#elo13), [ELO 14](#elo14)        |    [João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS)      |
-| [ELO 16](#elo16),  [ELO 25](#elo25), [ELO 26](#elo26) , [ELO 28](#elo28), [ELO 29](#elo29)        |     [Karoline Luz da Conceição](https://github.com/KarolineLuz)    |
-| [ELO 17](#elo17), [ELO 24](#elo24)          |     [Lucas Mendonça Arruda](https://github.com/lucasarruda9)     |
-| [ELO 18](#elo18), [ELO 22](#elo22), [ELO 27](#elo27), [ELO 30](#elo30), [ELO 31](#elo31), [ELO 32](#elo32)          |     [Luiza da Silva Pugas](https://github.com/Luizaxx)     |
+| [ELO 01](#elo01), [ELO 02](#elo02), [ELO 03](#elo03), [ELO 09](#elo09), [ELO 15](#elo15), [ELO 20](#elo20),[ELO 57](#elo57),[ELO 61](#elo61)         |  [Ana Victória Guedes da Costa](https://github.com/navicg)   |
+| [ELO 04](#elo04), [ELO 05](#elo05),  [ELO 06](#elo06), [ELO 11](#elo11), [ELO 21](#elo21), [ELO 33](#elo33),[ELO 49](#elo49),[ELO 50](#elo50),[ELO 51](#elo51),[ELO 52](#elo52),[ELO 59](#elo59),[ELO 64](#elo64)        |    [Artur Mendonça Arruda](https://github.com/ArtyMend07)      |
+|  [ELO 07](#elo07), [ELO 08](#elo08), [ELO 10](#elo10), [ELO 19](#elo19), [ELO 23](#elo23), [ELO 34](#elo34),[ELO 44](#elo44),[ELO 56](#elo56),[ELO 62](#elo62),[ELO 65](#elo65),[ELO 66](#elo66),[ELO 68](#elo68)   |   [Gabriel Lopes](https://github.com/BrzGab)       |
+| [ELO 12](#elo12), [ELO 13](#elo13), [ELO 14](#elo14),[ELO 35](#elo35),[ELO 36](#elo36),[ELO 38](#elo38),[ELO 45](#elo45)        |    [João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS)      |
+| [ELO 16](#elo16),  [ELO 25](#elo25), [ELO 26](#elo26) , [ELO 28](#elo28), [ELO 29](#elo29),[ELO 43](#elo43),[ELO 53](#elo53),[ELO 60](#elo60),[ELO 63](#elo63)        |     [Karoline Luz da Conceição](https://github.com/KarolineLuz)    |
+| [ELO 17](#elo17), [ELO 24](#elo24),[ELO 37](#elo37),[ELO 39](#elo39),[ELO 40](#elo40),[ELO 41](#elo41),[ELO 42](#elo42),[ELO 47](#elo47),[ELO 48](#elo48),[ELO 54](#elo54),[ELO 55](#elo55),[ELO 67](#elo67)          |     [Lucas Mendonça Arruda](https://github.com/lucasarruda9)     |
+| [ELO 18](#elo18), [ELO 22](#elo22), [ELO 27](#elo27), [ELO 30](#elo30), [ELO 31](#elo31), [ELO 32](#elo32),[ELO 46](#elo46),[ELO 58](#elo58)         |     [Luiza da Silva Pugas](https://github.com/Luizaxx)     |
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos(as) autores(as): ([Ana Victória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz), 2025)</p></font>
 
@@ -612,7 +612,7 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 <font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Gabriel Lopes](https://github.com/BrzGab), 2025)</p></font>
 
 
-### ELO 35
+### ELO 35 {#elo35}
 
 <font size="3"><p style="text-align: center">Tabela 36: Cartão do Requisito Funcional 35 </p></font>
 
@@ -627,9 +627,9 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 
 
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([João Marcos](https://github.com/JJOAOMARCOSS), 2025)</p></font>
 
-### ELO 36
+### ELO 36 {#elo36}
 
 <font size="3"><p style="text-align: center">Tabela 37: Cartão do Requisito Funcional 36 </p></font>
 
@@ -643,10 +643,10 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 
 
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([João Marcos](https://github.com/JJOAOMARCOSS), 2025)</p></font>
 
 
-### ELO 37
+### ELO 37 {#elo37}
 
 <font size="3"><p style="text-align: center">Tabela 38: Cartão do Requisito Funcional 37 </p></font>
 
@@ -659,10 +659,10 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 | Status              | Implementado                                                           |
 
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
 
 
-### ELO 38
+### ELO 38 {#elo38}
 
 <font size="3"><p style="text-align: center">Tabela 39: Cartão do Requisito Funcional 38 </p></font>
 
@@ -676,10 +676,10 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 
 
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([João Marcos](https://github.com/JJOAOMARCOSS), 2025)</p></font>
 
 
-### ELO 39
+### ELO 39 {#elo39}
 
 <font size="3"><p style="text-align: center">Tabela 40: Cartão do Requisito Funcional 39 </p></font>
 
@@ -693,10 +693,10 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 | Status              | Implementado                                                           |
 
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
 
 
-### ELO 40
+### ELO 40 {#elo40}
 
 <font size="3"><p style="text-align: center">Tabela 41: Cartão do Requisito Funcional 40 </p></font>
 
@@ -711,10 +711,10 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 
 
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
 
 
-### ELO 41
+### ELO 41 {#elo41}
 
 <font size="3"><p style="text-align: center">Tabela 42: Cartão do Requisito Funcional 41</p></font>
 
@@ -728,10 +728,10 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 | Status              | Implementado                                                           |
 
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
 
 
-### ELO 42
+### ELO 42 {#elo42}
 
 <font size="3"><p style="text-align: center">Tabela 43: Cartão do Requisito Funcional 42 </p></font>
 
@@ -745,10 +745,10 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 | Status              | Implementado                                                           |
 
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
 
 
-### ELO 43
+### ELO 43 {#elo43}
 
 <font size="3"><p style="text-align: center">Tabela 44: Cartão do Requisito Funcional 43 </p></font>
 
@@ -765,7 +765,7 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 <font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
 
 
-### ELO 44
+### ELO 44 {#elo44}
 
 <font size="3"><p style="text-align: center">Tabela 45: Cartão do Requisito Funcional 44</p></font>
 
@@ -779,12 +779,12 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 
 
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Gabriel Lopes](https://github.com/BrzGab), 2025)</p></font>
 
 
 ## Cartões de Requisitos Não Funcionais
 
-### ELO 01
+### ELO 45 {#elo45}
 
 <font size="3"><p style="text-align: center">Tabela 46: Cartão do Requisito Não Funcional 01 </p></font>
 
@@ -798,10 +798,10 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 
 
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([João Marcos](https://github.com/JJOAOMARCOSS), 2025)</p></font>
 
 
-### ELO 02
+### ELO 46 {#elo46}
 
 <font size="3"><p style="text-align: center">Tabela 47: Cartão do Requisito Não Funcional 02 </p></font>
 
@@ -815,11 +815,11 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 | Status              | Implementado                                                           |
 
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Luiza Silva](https://github.com/Luizaxx), 2025)</p></font>
 
 
 
-### ELO 03
+### ELO 47 {#elo47}
 
 <font size="3"><p style="text-align: center">Tabela 48: Cartão do Requisito Não Funcional 03 </p></font>
 
@@ -832,27 +832,28 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 | Status              | Implementado                                                           |
 
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
 
 
 
-### ELO 04
+### ELO 48 {#elo48}
 
 <font size="3"><p style="text-align: center">Tabela 49: Cartão do Requisito Não Funcional 04 </p></font>
-| Item               | Descrição                                                                 |
-|--------------------|---------------------------------------------------------------------------|
-| Descrição do requisito | O aplicativo deve permitir acessibilidade para pessoas idosas ou com deficiência visual |
-| Categoria           | Desenvolvimento                                                          |
-| Elementos Rastreáveis           | RNF04, [BRN02](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BRN), [LEX](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/lexico/), [Backlog](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/agil/backlog/) |
-| Elos Forward-from   | Satisfação – A especificação suplementar satisfaz o requisito de acessibilidade.<br> Recurso – O cenário detalha recursos de acessibilidade.<br> Satisfação – A história de usuário satisfaz o requisito de inclusão digital.<br> Representação – O léxico representa conceitos de acessibilidade e usabilidade.<br> Responsabilidade – [Lucas Mendonça](https://github.com/lucasarruda9) pela elaboração e validação do requisito. |
-| Status              | Não implementado                                                           |
+
+| Item                   | Descrição                                                                                                         |
+|------------------------|-----------------------------------------------------------------------------------------------------------------|
+| Descrição do requisito | O aplicativo deve permitir acessibilidade para pessoas idosas ou com deficiência visual                          |
+| Categoria              | Desenvolvimento                                                                                                  |
+| Elementos Rastreáveis  | RNF04, [BRN02](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BRN), [LEX](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/lexico/), [Backlog](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/agil/backlog/) |
+| Elos Forward-from      | Satisfação – A especificação suplementar satisfaz o requisito de acessibilidade.<br>Recurso – O cenário detalha recursos de acessibilidade.<br>Satisfação – A história de usuário satisfaz o requisito de inclusão digital.<br>Representação – O léxico representa conceitos de acessibilidade e usabilidade.<br>Responsabilidade – [Lucas Mendonça](https://github.com/lucasarruda9) pela elaboração e validação do requisito. |
+| Status                 | Não implementado                                                                                                 |
 
 
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
 
 
-### ELO 05
+### ELO 49 {#elo49}
 
 <font size="3"><p style="text-align: center">Tabela 50: Cartão do Requisito Não Funcional 05 </p></font>
 
@@ -866,10 +867,10 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 
 
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Artur Mendonça](https://github.com/ArtyMend07), 2025)</p></font>
 
 
-### ELO 06
+### ELO 50 {#elo50}
 
 <font size="3"><p style="text-align: center">Tabela 51: Cartão do Requisito Não Funcional 06 </p></font>
 
@@ -884,10 +885,10 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 
 
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Artur Mendonça](https://github.com/ArtyMend07), 2025)</p></font>
 
 
-### ELO 07
+### ELO 51 {#elo51}
 
 <font size="3"><p style="text-align: center">Tabela 52: Cartão do Requisito Não Funcional 07 </p></font>
 
@@ -901,9 +902,9 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 
 
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Artur Mendonça](https://github.com/ArtyMend07), 2025)</p></font>
 
-### ELO 08
+### ELO 52 {#elo52}
 
 <font size="3"><p style="text-align: center">Tabela 53: Cartão do Requisito Não Funcional 08 </p></font>
 
@@ -917,10 +918,10 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 
 
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Artur Mendonça](https://github.com/ArtyMend07), 2025)</p></font>
 
 
-### ELO 09
+### ELO 53 {#elo53}
 
 <font size="3"><p style="text-align: center">Tabela 54: Cartão do Requisito Não Funcional 09 </p></font>
 
@@ -937,7 +938,7 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 <font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
 
 
-### ELO 10
+### ELO 54 {#elo54}
 
 <font size="3"><p style="text-align: center">Tabela 55: Cartão do Requisito Não Funcional 10 </p></font>
 
@@ -951,10 +952,10 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 
 
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
 
 
-### ELO 11
+### ELO 55 {#elo55}
 
 <font size="3"><p style="text-align: center">Tabela 56: Cartão do Requisito Não Funcional 11 </p></font>
 
@@ -968,10 +969,10 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 
 
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
 
 
-### ELO 12
+### ELO 56 {#elo56}
 
 <font size="3"><p style="text-align: center">Tabela 57: Cartão do Requisito Não Funcional 12 </p></font>
 
@@ -985,10 +986,10 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 | Status                 | Implementado                                                                                                                                   |
 
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Gabriel Lopes](https://github.com/BrzGab), 2025)</p></font>
 
 
-### ELO 13
+### ELO 57 {#elo57}
 
 <font size="3"><p style="text-align: center">Tabela 58: Cartão do Requisito Não Funcional 13 </p></font>
 
@@ -1001,10 +1002,10 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 | Status                 | Não implementado                                                                                                                               |
 
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Ana Victória Guedes da Costa](https://github.com/navicg), 2025)</p></font>
 
 
-### ELO 14
+### ELO 58 {#elo58}
 
 <font size="3"><p style="text-align: center">Tabela 59: Cartão do Requisito Não Funcional 14 </p></font>
 
@@ -1018,10 +1019,10 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 
 
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
 
 
-### ELO 15
+### ELO 59 {#elo59}
 
 <font size="3"><p style="text-align: center">Tabela 60: Cartão do Requisito Não Funcional 15 </p></font>
 
@@ -1035,10 +1036,10 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 | Status                 | Não Implementado                                                                                                                              |
 
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Arthur Mendonça](https://github.com/ArtyMend07), 2025)</p></font>
 
 
-### ELO 16
+### ELO 60 {#elo60}
 
 <font size="3"><p style="text-align: center">Tabela 61: Cartão do Requisito Não Funcional 16 </p></font>
 
@@ -1055,7 +1056,7 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 <font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
 
 
-### ELO 17
+### ELO 61 {#elo61}
 
 <font size="3"><p style="text-align: center">Tabela 62: Cartão do Requisito Não Funcional 17 </p></font>
 
@@ -1069,10 +1070,10 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 
 
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Ana Victória Guedes da Costa](https://github.com/navicg), 2025)</p></font>
 
 
-### ELO 18
+### ELO 62 {#elo62}
 
 <font size="3"><p style="text-align: center">Tabela 63: Cartão do Requisito Não Funcional 18 </p></font>
 
@@ -1086,10 +1087,10 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 
 
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Ana Victória](https://github.com/navicg), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Gabriel Lopes](https://github.com/BrzGab), 2025)</p></font>
 
 
-### ELO 19
+### ELO 63 {#elo63}
 
 <font size="3"><p style="text-align: center">Tabela 64: Cartão do Requisito Não Funcional 19 </p></font>
 
@@ -1106,7 +1107,7 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 <font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
 
 
-### ELO 20
+### ELO 64 {#elo64}
 <font size="3"><p style="text-align: center">Tabela 65: Cartão do Requisito Não Funcional 20 </p></font>
 
 
@@ -1119,9 +1120,9 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 | Elos Forward-from       | Satisfação – A especificação suplementar satisfaz o requisito de tempo de resposta.<br>Representação – O NFR Framework representa as metas de latência.<br>Responsabilidade – [Artur Mendonça](https://github.com/ArtyMend07) pela elaboração e validação do requisito. |
 | Status                 | Implementado                                                                         
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Artur Mendonça](https://github.com/ArtyMend07), 2025)</p></font>
 
-### ELO 21
+### ELO 65 {#elo65}
 
 <font size="3"><p style="text-align: center">Tabela 66: Cartão do Requisito Não Funcional 21 </p></font>
 
@@ -1135,10 +1136,10 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 
 
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Gabriel Lopes](https://github.com/BrzGab), 2025)</p></font>
 
 
-### ELO 22
+### ELO 66 {#elo66}
 
 <font size="3"><p style="text-align: center">Tabela 67: Cartão do Requisito Não Funcional 22 </p></font>
 
@@ -1152,12 +1153,12 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 
 
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Gabriel Lopes](https://github.com/BrzGab), 2025)</p></font>
 
 
 
 
-### ELO 23
+### ELO 67 {#elo67}
 
 <font size="3"><p style="text-align: center">Tabela 68: Cartão do Requisito Não Funcional 23 </p></font>
 
@@ -1171,12 +1172,11 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 
 
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
 
 
 
-### ELO 24
-
+### ELO 68 {#elo68}
 <font size="3"><p style="text-align: center">Tabela 69: Cartão do Requisito Não Funcional 24 </p></font>
 
 | Item                   | Descrição                                                                                                         |
@@ -1189,7 +1189,7 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 
 
 
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Gabriel Lopes](https://github.com/BrzGab), 2025)</p></font>
 
 
 
@@ -1206,3 +1206,4 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 | 1.1   | Adição das tabelas 2 até 35, referentes aos cartões do forward-from dos requisitos 1 ao 34 | [Ana Victória](https://github.com/navicg) | 08/06/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 08/06/2025  |
 | 1.2   | Ajustando autores das tabelas | [Ana Victória](https://github.com/navicg) | 08/06/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 08/06/2025  |
 | 1.3   | Adicionando tabelas RF 35 a 44 e RNF01 a 24 | [Karoline Luz](https://github.com/KarolineLuz) | 08/06/2025 | [Ana Victória](https://github.com/navicg) | 08/06/2025  |
+| 1.4   | Ajustando autores das tabelas | [Karoline Luz](https://github.com/KarolineLuz) | 08/06/2025 | [Ana Victória](https://github.com/navicg) | 08/06/2025  |
