@@ -126,8 +126,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 | Campo     | Descrição |
 |-----------|-----------|
 | **Símbolo**   | [Compartilhamento](../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) |
-| **Noção**     | Ação de distribuir informações do sistema com outros usuários, como protocolos ou comprovantes. |
-| **Impacto**   | Facilita a comunicação e troca de informações entre usuários, promovendo colaboração. |
+| **Noção**     | Ação de distribuir informações do sistema com outros usuários, como protocolomunicação e troca de informações entre usuários, promovendo colaboração. |
 | **Sinônimos** | Distribuição, Envio |
 | **Tipo**      | **Verbo** |
 
@@ -366,27 +365,27 @@ mod_resource/content/1/Aula%2010.pdf. Acesso em: 15 mai. 2025.
 
 <center>
 <figure id="figura1">
-    <img src="/assets/modelagem/lexico-fonte1.png" alt="Fonte 1 do Léxico" width="500">
+    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/corrigindo-l%C3%A9xico/docs/assets/modelagem/L%C3%A9xico1.png" alt="Fonte 1 do Léxico" width="500">
     <figcaption>Fonte: SERRANO, Milene; SERRANO, Maurício. Aula 10. Universidade de Brasília, Faculdade Gama, [s.d.], p. 13.</figcaption>
 </figure>
 
 <figure id="figura2">
-    <img src="/assets/modelagem/lexico-fonte2.png" alt="Fonte 2 do Léxico" width="500">
+    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/corrigindo-l%C3%A9xico/docs/assets/modelagem/L%C3%A9xico2.png" alt="Fonte 2 do Léxico" width="500">
     <figcaption>Fonte: SERRANO, Milene; SERRANO, Maurício. Aula 10. Universidade de Brasília, Faculdade Gama, [s.d.], p. 14.</figcaption>
 </figure>
 
 <figure id="figura3">
-    <img src="/assets/modelagem/lexico-fonte3.png" alt="Fonte 3 do Léxico" width="500">
+    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/corrigindo-l%C3%A9xico/docs/assets/modelagem/L%C3%A9xico3.png" alt="Fonte 3 do Léxico" width="500">
     <figcaption>Fonte: SERRANO, Milene; SERRANO, Maurício. Aula 10. Universidade de Brasília, Faculdade Gama, [s.d.], p. 15.</figcaption>
 </figure>
 
 <figure id="figura4">
-    <img src="/assets/modelagem/lexico-fonte4.png" alt="Fonte 4 do Léxico" width="500">
+    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/corrigindo-l%C3%A9xico/docs/assets/modelagem/L%C3%A9xico4.png" alt="Fonte 4 do Léxico" width="500">
     <figcaption>Fonte: SERRANO, Milene; SERRANO, Maurício. Aula 10. Universidade de Brasília, Faculdade Gama, [s.d.], p. 16.</figcaption>
 </figure>
 
 <figure id="figura5">
-    <img src="/assets/modelagem/lexico-fonte5.png" alt="Fonte 5 do Léxico" width="500">
+    <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/corrigindo-l%C3%A9xico/docs/assets/modelagem/L%C3%A9xico5.png" alt="Fonte 5 do Léxico" width="500">
     <figcaption>Fonte: SERRANO, Milene; SERRANO, Maurício. Aula 10. Universidade de Brasília, Faculdade Gama, [s.d.], p. 17.</figcaption>
 </figure>
 </center>
@@ -416,3 +415,4 @@ mod_resource/content/1/Aula%2010.pdf. Acesso em: 15 mai. 2025.
 | 1.16| Correção dos caminhos das imagens e ajuste das fontes | [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/KarolineLuz) | 18/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0) | 18/05/2025 |
 | 1.16.1| Adição de parênteses nas fontes e ajuste do tamanho das imagens | [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/KarolineLuz) | 18/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0) | 18/05/2025 |
 | 1.16.2| Padronização completa do formato das fontes em todas as tabelas | [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/KarolineLuz) | 18/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0) | 18/05/2025 
+| 1.16.3| Ajustando imagens de referencia bibliográfica|[Karoline Luz](https://github.com/KarolineLuz) | 08/06/2025 | [Ana Victória](https://github.com/navicg) | 08/06/2025
