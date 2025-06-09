@@ -155,3 +155,17 @@ A tabela abaixo apresenta a matriz geral de rastreabilidade, onde estão listado
 | 1.3    | Adicionando Bibliografia e Adicionando Artefatos relacionados | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 04/06/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 08/06/2025      |
 | 1.4   | Arrumando Artefatos relacionados e adicionando lista deles| [Lucas Mendonça](https://github.com/lucasarruda9) | 07/06/2025 | [Gabriel Lopes](https://github.com/BrzGab) | 08/06/2025      |
 | 1.5    | Adicionando Coluna de Autores e adicionando na metodologia | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 08/06/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 08/06/2025      |
+| 1.6    | Adição dos requisitos funcionais RF01, RF02, RF03, RF09, RF15, RF20 | [Ana Victória](https://github.com/navicg) | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 08/06/2025      |
+| 1.7    | Adição dos requisitos funcionais RF16, RF25, RF26, RF28, RF29, RF43 | [Karoline Luz](https://github.com/KarolineLuz) | 08/06/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 08/06/2025      |
+| 1.8    | Adição dos requisitos Não funcionais RNF04, RNF09, RNF17 | [Ana Victória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz)| 08/06/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 08/06/2025      |
+| 1.9    | Adição dos requisitos funcionais RF12, RF13, RF14, RF35, RF36, RF38 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 08/06/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 08/06/2025      |
+| 1.10    | Adição dos requisitos funcionais RF16, RF25, RF26, RF28, RF29, RF43 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 08/06/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 08/06/2025      |
+| 1.11    | Adição dos requisitos Não funcionais RNF02, RNF14, RNF22 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx)| 08/06/2025 | [Lucas Mendonça](https://github.com/lucasarruda9)| 08/06/2025      |
+| 1.12    | Adição dos requisitos funcionais RF04, RF05, RF06, RF11, RF21, RF33 | [Artur Mendonça](https://github.com/ArtyMend07) | 08/06/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 08/06/2025      |
+| 1.13    | Adição dos requisitos Não funcionais RNF06, RNF07, RNF13, RNF15, RNF20, RNF24 | [Artur Mendonça](https://github.com/ArtyMend07) | 08/06/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx)| 08/06/2025      |
+| 1.14    | Adição dos requisitos funcionais RF07, RF08, RF10, RF19, RF23, RF34 | [Gabriel Lopes](https://github.com/BrzGab) | 08/06/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 08/06/2025      |
+| 1.15    | Adição dos requisitos Não funcionais RNF01, RNF08, RNF12, RNF18, RNF19, RNF23 | [Gabriel Lopes](https://github.com/BrzGab) | 08/06/2025 | [Karoline Luz](https://github.com/KarolineLuz)| 08/06/2025      |
+| 1.16    | Adição dos requisitos funcionais RF17, RF24, RF39, RF40, RF41, RF42 | [Lucas Mendonça](https://github.com/lucasarruda9) | 08/06/2025 | [Gabriel Lopes](https://github.com/BrzGab)  | 08/06/2025      |
+| 1.17    | Adição dos requisitos Não funcionais RNF03, RNF10, RNF11, RNF16, RNF21 | [Lucas Mendonça](https://github.com/lucasarruda9) | 08/06/2025 | [Gabriel Lopes](https://github.com/BrzGab)   | 08/06/2025      |
+
+
