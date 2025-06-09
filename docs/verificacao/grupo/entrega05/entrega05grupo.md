@@ -28,6 +28,8 @@ Este documento apresenta uma lista de verificação para avaliar os artefatos pr
 
 ### Lista de Verificação - Backward-from
 
+<p align="center">Tabela 2 – Lista de Verificação - Backward-from</p>
+
 | ID  | Item de Verificação                                                                                   | Autor                                                                 | Referência                                                              |
 |-----|--------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|-------------------------------------------------------------------------|
 | 1   | O requisito possui referência clara à sua origem (documento, stakeholder, etc.)?                      | [Gabriel Lopes](https://github.com/BrzGab) e [Artur Mendonça](https://github.com/ArtyMend07) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/lista-de-verifica%C3%A7%C3%A3o-entrega-5/docs/assets/verificacao5/p1.jpeg" alt="Referência do item" width="100px"><br><a href="https://drive.google.com/file/d/1jQqmBk0fvtbwz1mTURwptU3f9qFxe9o_/view?usp=sharing">Slide da Aula 26 </div>                     |
@@ -48,6 +50,8 @@ Este documento apresenta uma lista de verificação para avaliar os artefatos pr
 
 ### Lista de Verificação - Fordward-from
 
+<p align="center">Tabela 3 – Lista de Verificação - Fordward-from</p>
+
 
 | ID  | Item de Verificação                                                                                   | Autor                                                                 | Referência                                                              |
 |-----|--------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|-------------------------------------------------------------------------|
@@ -66,6 +70,8 @@ Este documento apresenta uma lista de verificação para avaliar os artefatos pr
 
 
 ### Lista de Verificação - Matriz de Rastreabilidade
+
+<p align="center">Tabela 4 – Lista de Verificação - Matriz de Rastreabilidade</p>
 
 | ID  | Item de Verificação                                                                                   | Autor                                                                 | Referência                                                              |
 |-----|--------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|-------------------------------------------------------------------------|
