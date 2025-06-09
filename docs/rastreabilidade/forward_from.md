@@ -1224,5 +1224,5 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 | 1.2   | Ajustando autores das tabelas | [Ana Victória](https://github.com/navicg) | 08/06/2025 | [Gabriel Lopes](https://github.com/BrzGab) | 08/06/2025  |
 | 1.3   | Adicionando tabelas RF 35 a 44 e RNF01 a 24 | [Karoline Luz](https://github.com/KarolineLuz) | 08/06/2025 | [Ana Victória](https://github.com/navicg) | 08/06/2025  |
 | 1.4   | Ajustando autores das tabelas | [Karoline Luz](https://github.com/KarolineLuz) | 08/06/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) | 08/06/2025  |
-| 1.5   | Adicionando imagens de referências | [Ana Victória](https://github.com/navicg) | 08/06/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 08/06/2025  |[
+| 1.5   | Adicionando imagens de referências | [Ana Victória](https://github.com/navicg) | 08/06/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 08/06/2025  |
  1.6   | Corrigindo Hyperlink | [Karoline Luz](https://github.com/KarolineLuz) | 08/06/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 08/06/2025  |
