@@ -1018,15 +1018,15 @@ Utilizamos um cartão baseado nos cartões presentes nos slides dos Professores 
 > <a id="citacao-elo1" href="#RP1">[1]</a> SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: [https://www-di.inf.puc-rio.br/~julio/rastre.pdf](https://www-di.inf.puc-rio.br/~julio/rastre.pdf). Acesso em: 07 jun. 2025.
 
 > <a id="citacao-elo2" href="#RP2">[2]</a> SERRANO, Milene, SERRANO, Maurício. Requisitos - Aula sobre Rastreabilidade. UnB Gama, Brasília, 2023.
-<div align="center"><img src="../assets/fonte-elo2.png" alt="Fonte Elo 2 - Backward-from"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/backward/docs/assets/fonte-elo2.png" alt="Fonte Elo 2 - Backward-from"></div>
 
 > <a id="citacao-elo3" href="#RP3">[3]</a> SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 26): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. Disponível em: [link](https://aprender3.unb.br/pluginfile.php/3096178/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf). Acesso em: 07 jun. 2025.
 
 > <a id="citacao-elo4" href="#RP4">[4]</a> SERRANO, Milene, SERRANO, Maurício. Requisitos - Tipos de Elos. UnB Gama, Brasília, 2023.
-<div align="center"><img src="../assets/fonte-elo4.png" alt="Fonte Elo 4 - Tipos de Elos"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/backward/docs/assets/fonte-elo4.png" alt="Fonte Elo 4 - Tipos de Elos"></div>
 
 > <a id="citacao-elo5" href="#RP5">[5]</a> SERRANO, Milene, SERRANO, Maurício. Requisitos - Tipos de Elos. UnB Gama, Brasília, 2023.
-<div align="center"><img src="../assets/fonte-elo5.png" alt="Fonte Elo 5 - Tipos de Elos"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/backward/docs/assets/fonte-elo5.png" alt="Fonte Elo 5 - Tipos de Elos"></div>
 
 ## Bibliografia
 
