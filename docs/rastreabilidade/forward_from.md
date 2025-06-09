@@ -620,7 +620,7 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 |--------------------|---------------------------------------------------------------------------|
 | Descrição do requisito | Permitir ao usuário selecionar o tipo de serviço desejado (implantação, limpeza ou reparo)               |
 | Categoria           | Desenvolvimento                                                          |
-| Elementos Rastreáveis           | RF35, [INT03](../../elicitacao/tec_elicitacao/introspeccao.md#anchor_INT), [US11](./historia-de-usuario.md), [LEX](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/lexico/), [Backlog](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/agil/backlog/) |
+| Elementos Rastreáveis           | RF35,[INT03](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/introspeccao.md#anchor_INT), [US11](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/historia-de-usuario.md#anchor_US),[LEX](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/lexico.md), [Backlog](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/backlog.md) |
 | Elos Forward-from   | Agregação – O requisito originou-se da introspecção.<br> Satisfação – O caso de uso satisfaz o requisito de seleção de serviços.<br> Recurso – O cenário detalha recursos de tipos de serviço.<br> Satisfação – A história de usuário satisfaz o requisito de escolha.<br> Representação – O léxico representa conceitos de serviços e seleção.<br> Agregação – O requisito está relacionado ao Épico correspondente.<br> Responsabilidade – [João Marcos](https://github.com/JJOAOMARCOSS) pela elaboração e validação do requisito. |
 | Status              | Implementado                                                           |
 
@@ -637,7 +637,7 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 |--------------------|---------------------------------------------------------------------------|
 | Descrição do requisito | Possibilitar a adição de descrição textual, imagem e localização GPS da ocorrência               |
 | Categoria           | Desenvolvimento                                                          |
-| Elementos Rastreáveis           | RF36, [INT04](../../elicitacao/tec_elicitacao/introspeccao.md#anchor_INT), [US12](./historia-de-usuario.md), [LEX](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/lexico/), [Backlog](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/agil/backlog/) |
+| Elementos Rastreáveis           | RF36, [INT04](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/introspeccao.md), [LEX](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/lexico.md), [Backlog](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/backlog.md) |
 | Elos Forward-from   | Satisfação –O caso de uso satisfaz o requisito de documentação detalhada.<br> Recurso – O cenário detalha recursos multimídia.<br> Satisfação – A história de usuário satisfaz o requisito de registro completo.<br> Representação –  O léxico representa conceitos de mídia e localização.<br> Responsabilidade – [João Marcos](https://github.com/JJOAOMARCOSS) pela elaboração e validação do requisito. |
 | Status              | Implementado                                                           |
 
@@ -654,7 +654,7 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 |--------------------|---------------------------------------------------------------------------|
 | Descrição do requisito | Disponibilizar agendamento de serviços de saúde pública, como vacinação ou doação de sangue               |
 | Categoria           | Desenvolvimento                                                          |
-| Elementos Rastreáveis           | RF37, [INT06](../../elicitacao/tec_elicitacao/introspeccao.md#anchor_INT), [US45](./historia-de-usuario.md), [LEX](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/lexico/), [Backlog](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/agil/backlog/) |
+| Elementos Rastreáveis           | RF37, [INT06](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/introspeccao.md), [US45](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/historia-de-usuario.md), [LEX](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/lexico.md), [Backlog](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/backlog.md) |
 | Elos Forward-from   | Satisfação – O caso de uso satisfaz o requisito de agendamento de saúde.<br> Recurso – O cenário detalha recursos de saúde pública.<br> Satisfação – A história de usuário satisfaz o requisito de serviços médicos.<br> Representação – O léxico representa conceitos de saúde e agendamento.<br> Responsabilidade – [Lucas Mendonça](https://github.com/lucasarruda9) pela elaboração e validação do requisito. |
 | Status              | Implementado                                                           |
 
@@ -670,7 +670,7 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 |--------------------|---------------------------------------------------------------------------|
 | Descrição do requisito | Oferecer acesso a serviços de transporte público, incluindo pré-cadastro do Cartão Mobilidade               |
 | Categoria           | Desenvolvimento                                                          |
-| Elementos Rastreáveis           | RF38, [INT08](../../elicitacao/tec_elicitacao/introspeccao.md#anchor_INT), [US13](./historia-de-usuario.md), [LEX](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/lexico/), [Backlog](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/agil/backlog/) |
+| Elementos Rastreáveis           | RF38, [INT08](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/introspeccao.md), [US13](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/historia-de-usuario.md), [LEX](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/lexico.md), [Backlog](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/backlog.md) |
 | Elos Forward-from   | Satisfação – O caso de uso satisfaz o requisito de transporte.<br> Recurso – O cenário detalha recursos de mobilidade.<br> Satisfação – A história de usuário satisfaz o requisito de cartão mobilidade.<br> Representação – O léxico representa conceitos de transporte público.<br> Responsabilidade – [João Marcos](https://github.com/JJOAOMARCOSS) pela elaboração e validação do requisito. |
 | Status              | Implementado                                                           |
 
@@ -688,7 +688,7 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 |--------------------|---------------------------------------------------------------------------|
 | Descrição do requisito | Permitir agendamentos em serviços sociais, como centros de assistência social e habitação               |
 | Categoria           | Desenvolvimento                                                          |
-| Elementos Rastreáveis           | RF39, [INT09](../../elicitacao/tec_elicitacao/introspeccao.md#anchor_INT), [US43](./historia-de-usuario.md), [LEX](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/lexico/), [Backlog](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/agil/backlog/) |
+| Elementos Rastreáveis           | RF39, [INT09](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/introspeccao.md), [US43](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/historia-de-usuario.md), [LEX](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/lexico.md), [Backlog](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/backlog.md) |
 | Elos Forward-from   | Satisfação – O caso de uso satisfaz o requisito de serviços sociais.<br> Recurso – O cenário detalha recursos de assistência social.<br> Satisfação – A história de usuário satisfaz o requisito de agendamentos sociais.<br> Representação – O léxico representa conceitos de assistência e habitação.<br> Responsabilidade – [Lucas Mendonça](https://github.com/lucasarruda9) pela elaboração e validação do requisito. |
 | Status              | Implementado                                                           |
 
@@ -705,7 +705,7 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 |--------------------|---------------------------------------------------------------------------|
 | Descrição do requisito | Disponibilizar a emissão de tributos, certidões e outros documentos fiscais               |
 | Categoria           | Desenvolvimento                                                          |
-| Elementos Rastreáveis           |  RF40, [INT10](../../elicitacao/tec_elicitacao/introspeccao.md#anchor_INT), [US47](./historia-de-usuario.md), [LEX](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/lexico/), [Backlog](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/agil/backlog/) |
+| Elementos Rastreáveis           |  RF40, [INT10](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/introspeccao.md), [US47](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/historia-de-usuario.md), [LEX](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/lexico.md), [Backlog](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/backlog.md) |
 | Elos Forward-from   | Satisfação – O caso de uso satisfaz o requisito de documentos fiscais.<br> Recurso – O cenário detalha recursos tributários.<br> Satisfação – A história de usuário satisfaz o requisito de emissão de documentos.<br> Representação – O léxico representa conceitos fiscais e tributários..<br> Responsabilidade – [Lucas Mendonça](https://github.com/lucasarruda9) pela elaboração e validação do requisito. | |
 | Status              | Implementado                                                           |
 
@@ -723,7 +723,7 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 |--------------------|---------------------------------------------------------------------------|
 | Descrição do requisito | Fornecer um histórico de interações do usuário com o aplicativo, incluindo solicitações e agendamentos               |
 | Categoria           | Desenvolvimento                                                          |
-| Elementos Rastreáveis           |  RF41, [INT11](../../elicitacao/tec_elicitacao/introspeccao.md#anchor_INT), [US44](./historia-de-usuario.md), [LEX](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/lexico/), [Backlog](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/agil/backlog/) |
+| Elementos Rastreáveis           |  RF41, [INT11](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/introspeccao.md), [US44](./historia-de-usuario.md), [LEX](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/lexico.md), [Backlog](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/backlog.md) |
 | Elos Forward-from   | Satisfação – O caso de uso satisfaz o requisito de histórico.<br> Recurso – O cenário detalha recursos de registro de atividades.<br> Satisfação – A história de usuário satisfaz o requisito de rastreamento.<br> Representação – O léxico representa conceitos de histórico e registro.<br> Responsabilidade – [Lucas Mendonça](https://github.com/lucasarruda9) pela elaboração e validação do requisito. |
 | Status              | Implementado                                                           |
 
@@ -740,7 +740,7 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 |--------------------|---------------------------------------------------------------------------|
 | Descrição do requisito | Apresentar um feed de notícias atualizadas com informações úteis do Governo do Distrito Federal               |
 | Categoria           | Desenvolvimento                                                          |
-| Elementos Rastreáveis           | RF42, [INT12](../../elicitacao/tec_elicitacao/introspeccao.md#anchor_INT), [US45](./historia-de-usuario.md), [LEX](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/lexico/), [Backlog](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/agil/backlog/) |
+| Elementos Rastreáveis           | RF42, [INT12](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/introspeccao.md), [US45](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/historia-de-usuario.md), [LEX](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/lexico.md), [Backlog](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/backlog.md) |
 | Elos Forward-from   | Satisfação – O caso de uso satisfaz o requisito de feed informativo.<br> Recurso – O cenário detalha recursos de notícias.<br> Satisfação – A história de usuário satisfaz o requisito de informações governamentais.<br> Representação – O léxico representa conceitos de notícias e comunicação.<br> Responsabilidade – [Lucas Mendonça](https://github.com/lucasarruda9) pela elaboração e validação do requisito. |
 | Status              | Implementado                                                           |
 
@@ -757,7 +757,7 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 |--------------------|---------------------------------------------------------------------------|
 | Descrição do requisito | Integrar um assistente virtual ou chatbot com respostas automáticas para dúvidas frequentes dos usuários               |
 | Categoria           | Desenvolvimento                                                          |
-| Elementos Rastreáveis           | RF43, [INT13](../../elicitacao/tec_elicitacao/introspeccao.md#anchor_INT), [BR18](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS), [U](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/docs/elo-backward/docs/modelagem/usuario.md), [UC](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/docs/elo-backward/docs/modelagem/casos_de_uso.md), [US27](./historia-de-usuario.md), [LEX](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/lexico/), [Backlog](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/agil/backlog/) |
+| Elementos Rastreáveis           | RF43, [INT13](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/introspeccao.md), [BR18](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md), [UC](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/docs/elo-backward/docs/modelagem/casos_de_uso.md), [US27](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/historia-de-usuario.md), [LEX](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/lexico.md), [Backlog](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/backlog.md) |
 | Elos Forward-from   | Satisfação – O caso de uso satisfaz o requisito de assistente virtual.<br> Recurso – O cenário detalha recursos de chatbot.<br> Satisfação – A história de usuário satisfaz o requisito de suporte automatizado.<br> Representação – O léxico representa conceitos de assistente e automação.<br> Responsabilidade – [Karoline Luz](https://github.com/KarolineLuz) pela elaboração e validação do requisito. |
 | Status              | Implementado                                                           |
 
@@ -773,7 +773,7 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 |--------------------|---------------------------------------------------------------------------|
 | Descrição do requisito | Fornecer um mapa com localização de unidades de serviço público e ocorrências próximas               |
 | Categoria           | Desenvolvimento                                                          |
-| Elementos Rastreáveis           | RF44, [INT14](../../elicitacao/tec_elicitacao/introspeccao.md#anchor_INT), [LEX](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/lexico/) |
+| Elementos Rastreáveis           | RF44, [INT14](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/introspeccao.md), [LEX](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/lexico.md) |
 | Elos Forward-from   | Satisfação – O caso de uso satisfaz o requisito de mapa de serviços.<br> Recurso – O cenário detalha recursos de localização espacial.<br> Satisfação – A história de usuário satisfaz o requisito de visualização geográfica.<br> Representação – O léxico representa conceitos de mapa e localização.<br> Responsabilidade – [Gabriel Lopes](https://github.com/BrzGab) pela elaboração e validação do requisito. |
 | Status              | Implementado                                                           |
 
@@ -792,7 +792,7 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 |--------------------|---------------------------------------------------------------------------|
 | Descrição do requisito | O sistema deve ser compatível com vários dispositivos como Android e iOS               |
 | Categoria           | Desenvolvimento                                                          |
-| Elementos Rastreáveis           | RNF01, [AD09](../../elicitacao/tec_elicitacao/analise_documentos.md#anchor_AD), [US14](./historia-de-usuario.md), [LEX](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/lexico/), [Backlog](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/agil/backlog/) |
+| Elementos Rastreáveis           | RNF01, [AD09](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/analise_documentos.md), [US14](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/historia-de-usuario.md), [LEX](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/lexico.md), [Backlog](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/backlog.md) |
 | Elos Forward-from   | Satisfação – A especificação suplementar satisfaz o requisito de compatibilidade.<br> Representação – O NFR Framework representa as metas de portabilidade.<br> Satisfação – A história de usuário satisfaz o requisito de compatibilidade multiplataforma.<br> Responsabilidade – [João Marcos](https://github.com/JJOAOMARCOSS) pela elaboração e validação do requisito. |
 | Status              | Implementado                                                           |
 
@@ -810,7 +810,7 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 |--------------------|---------------------------------------------------------------------------|
 | Descrição do requisito | O sistema deve estar em conformidade com a Lei Geral de Proteção de Dados (LGPD)               |
 | Categoria           | Organizacional                                                          |
-| Elementos Rastreáveis           | RNF02, [AD10](../../elicitacao/tec_elicitacao/analise_documentos.md#anchor_AD), [NFR](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/docs/elo-backward/docs/modelagem/agil/nfrframework.md), [US07](./historia-de-usuario.md), [LEX](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/lexico/), [Backlog](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/agil/backlog/) |
+| Elementos Rastreáveis           | RNF02, [AD10](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/analise_documentos.md), [NFR](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/docs/elo-backward/docs/modelagem/agil/nfrframework.md), [US07](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/historia-de-usuario.md), [LEX](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/lexico.md), [Backlog](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/backlog.md) |
 | Elos Forward-from   | Satisfação – A especificação suplementar satisfaz o requisito legal.<br> Representação – O NFR Framework representa as metas de conformidade legal.<br> Satisfação – A história de usuário satisfaz o requisito de conformidade LGPD.<br> Responsabilidade – [Luiza Silva](https://github.com/Luizaxx) pela elaboração e validação do requisito. |
 | Status              | Implementado                                                           |
 
@@ -827,7 +827,7 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 |--------------------|---------------------------------------------------------------------------|
 | Descrição do requisito | O sistema deve possuir uma inteELO ace simples, limpa e com ícones ilustrativos |
 | Categoria           | Desenvolvimento                                                          |
-| Elementos Rastreáveis           | RNF03, [BRN01](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BRN), [LEX](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/lexico/) |
+| Elementos Rastreáveis           | RNF03, [BRN01](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md), [LEX](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/lexico.md) |
 | Elos Forward-from   | Satisfação – A especificação suplementar satisfaz o requisito de usabilidade.<br> Representação – O NFR Framework representa as metas de inteELO ace.<br> Responsabilidade – [Lucas Mendonça](https://github.com/lucasarruda9) pela elaboração e validação do requisito. |
 | Status              | Implementado                                                           |
 
@@ -844,7 +844,7 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 |------------------------|-----------------------------------------------------------------------------------------------------------------|
 | Descrição do requisito | O aplicativo deve permitir acessibilidade para pessoas idosas ou com deficiência visual                          |
 | Categoria              | Desenvolvimento                                                                                                  |
-| Elementos Rastreáveis  | RNF04, [BRN02](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BRN), [LEX](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/lexico/), [Backlog](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/agil/backlog/) |
+| Elementos Rastreáveis  | RNF04, [BRN02](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md), [LEX](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/lexico.md), [Backlog](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/backlog.md) |
 | Elos Forward-from      | Satisfação – A especificação suplementar satisfaz o requisito de acessibilidade.<br>Recurso – O cenário detalha recursos de acessibilidade.<br>Satisfação – A história de usuário satisfaz o requisito de inclusão digital.<br>Representação – O léxico representa conceitos de acessibilidade e usabilidade.<br>Responsabilidade – [Lucas Mendonça](https://github.com/lucasarruda9) pela elaboração e validação do requisito. |
 | Status                 | Não implementado                                                                                                 |
 
@@ -861,7 +861,7 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 |--------------------|---------------------------------------------------------------------------|
 | Descrição do requisito | O sistema deve funcionar mesmo em dispositivos com baixa capacidade de hardware |
 | Categoria           | Desenvolvimento                                                          |
-| Elementos Rastreáveis | RNF05, [BRN04](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BRN), [NFR](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/docs/elo-backward/docs/modelagem/agil/nfrframework.md), [LEX](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/lexico/) |
+| Elementos Rastreáveis | RNF05, [BRN04](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md), [NFR](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/nfrframework.md), [LEX](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/lexico.md) |
 | Elos Forward-from   | Satisfação – A especificação suplementar satisfaz o requisito de performance.<br> Representação – O NFR Framework representa as metas de eficiência.<br> Responsabilidade – [Artur Mendonça](https://github.com/ArtyMend07) pela elaboração e validação do requisito. |
 | Status              | Implementado                                                             |
 
@@ -878,7 +878,7 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 |--------------------|---------------------------------------------------------------------------|
 | Descrição do requisito | O sistema deve carregar as informações de forma otimizada, reduzindo tempo de resposta |
 | Categoria           | Desenvolvimento                                                          |
-| Elementos Rastreáveis | RNF07, [BRN06](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BRN), [NFR](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/docs/elo-backward/docs/modelagem/agil/nfrframework.md), [LEX](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/lexico/) |
+| Elementos Rastreáveis | RNF07, [BRN06](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md), [NFR](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/nfrframework.md), [LEX](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/lexico.md) |
 | Elos Forward-from   | Satisfação – A especificação suplementar satisfaz o requisito de otimização.<br> Recurso – O cenário detalha recursos de carregamento otimizado.<br> Satisfação – A história de usuário satisfaz o requisito de desempenho.<br> Representação – O NFR Framework representa as metas de desempenho.<br> Responsabilidade – [Artur Mendonça](https://github.com/ArtyMend07) pela elaboração e validação do requisito. |
 | Status              | Implementado                                                             |
 
@@ -896,7 +896,7 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 |--------------------|---------------------------------------------------------------------------|
 | Descrição do requisito | O sistema deve carregar as informações de forma otimizada, reduzindo tempo de resposta |
 | Categoria           | Desenvolvimento                                                          |
-| Elementos Rastreáveis | RNF07, [BRN06](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BRN), [NFR](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/docs/elo-backward/docs/modelagem/agil/nfrframework.md), [LEX](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/lexico/) |
+| Elementos Rastreáveis | RNF07, [BRN06](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md), [NFR](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/nfrframework.md), [LEX](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/lexico.md) |
 | Elos Forward-from   | Satisfação – A especificação suplementar satisfaz o requisito de otimização.<br> Representação – O NFR Framework representa as metas de desempenho.<br> Responsabilidade – [Artur Mendonça](https://github.com/ArtyMend07) pela elaboração e validação do requisito.
 | Status              | Implementado                                                             |
 
@@ -912,7 +912,7 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 |--------------------|---------------------------------------------------------------------------|
 | Descrição do requisito | O layout deve ser responsivo para diferentes tamanhos de tela            |
 | Categoria           | Desenvolvimento                                                          |
-| Elementos Rastreáveis | RNF08, BRN07, INT22, [NFR](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/docs/elo-backward/docs/modelagem/agil/nfrframework.md), [LEX](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/lexico/), [Backlog](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/agil/backlog/) |
+| Elementos Rastreáveis | RNF08, [BRN07](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md), [INT22](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/introspeccao.md), [NFR](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/nfrframework.md), [LEX](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/lexico.md), [Backlog](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/backlog.md) |
 | Elos Forward-from   | Satisfação – A especificação suplementar satisfaz o requisito de responsividade.<br> Recurso – O cenário detalha recursos para responsividade.<br> Representação – O NFR Framework representa as metas de adaptabilidade.<br> Responsabilidade – [Artur Mendonça](https://github.com/ArtyMend07) pela elaboração e validação do requisito. |
 | Status              | Implementado                                                             |
 
@@ -929,7 +929,7 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 |--------------------|---------------------------------------------------------------------------|
 | Descrição do requisito | O sistema deve ter compatibilidade com leitores de tela                  |
 | Categoria           | Desenvolvimento                                                          |
-| Elementos Rastreáveis | RNF09, [BRN08](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BRN), [NFR](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/docs/elo-backward/docs/modelagem/agil/nfrframework.md), [LEX](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/lexico/) |
+| Elementos Rastreáveis | RNF09, [BRN08](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md), [NFR](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/nfrframework.md), [LEX](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/lexico.md) |
 | Elos Forward-from   | Satisfação – A especificação suplementar satisfaz o requisito de acessibilidade.<br> Recurso – O cenário detalha recursos para acessibilidade.<br> Representação – O NFR Framework representa as metas de acessibilidade.<br> Responsabilidade – [Karoline Luz](https://github.com/KarolineLuz) pela elaboração e validação do requisito. |
 | Status              | Implementado                                                             |
 
@@ -946,7 +946,7 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 |--------------------|---------------------------------------------------------------------------|
 | Descrição do requisito | O app deve conter linguagem clara e acessível, adequada a diferentes níveis de escolaridade |
 | Categoria           | Desenvolvimento                                                          |
-| Elementos Rastreáveis| RNF10, [BRN09](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BRN), [NFR](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/docs/elo-backward/docs/modelagem/agil/nfrframework.md), [LEX](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/lexico/) |
+| Elementos Rastreáveis| RNF10, [BRN09](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md), [NFR](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/nfrframework.md), [LEX](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/lexico.md) |
 | Elos Forward-from   | Satisfação – A especificação suplementar satisfaz o requisito de comunicação clara.<br>Representação – O NFR Framework representa as metas de legibilidade.<br>Responsabilidade – [Lucas Mendonça](https://github.com/lucasarruda9) pela elaboração e validação do requisito. |
 | Status              | Não implementado                                                         |
 
@@ -963,7 +963,7 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 |--------------------|---------------------------------------------------------------------------|
 | Descrição do requisito | O aplicativo deve ser mais autoexplicativo, com uma navegação intuitiva e menos dependência de redirecionamentos externos |
 | Categoria           | Desenvolvimento                                                          |
-| Elementos Rastreáveis| RNF11, [EN01](../../elicitacao/tec_elicitacao/entrevista.md#anchor_EN01), [AD11](../../elicitacao/tec_elicitacao/analise_documentos.md#anchor_AD11), [NFR](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/docs/elo-backward/docs/modelagem/agil/nfrframework.md) |
+| Elementos Rastreáveis| RNF11, [EN01](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/entrevista.md), [AD11](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/analise_documentos.md), [NFR](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/nfrframework.md) |
 | Elos Forward-from   | Satisfação – A especificação suplementar satisfaz o requisito de intuitividade.<br>Representação – O NFR Framework representa as metas de autonomia do aplicativo.<br>Responsabilidade – [Lucas Mendonça](https://github.com/lucasarruda9) pela elaboração e validação do requisito. |
 | Status              | Não implementado                                                         |
 
@@ -981,7 +981,7 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 |------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 | Descrição do requisito | O aplicativo deve garantir que as informações exibidas sejam atualizadas e reflitam fielmente a realidade, especialmente nas áreas de saúde e educação |
 | Categoria              | Desenvolvimento                                                                                                                               |
-| Elementos Rastreáveis  | RNF12, [EN02](../../elicitacao/tec_elicitacao/entrevista.md#anchor_EN02), [NFR](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/docs/elo-backward/docs/modelagem/agil/nfrframework.md), [LEX](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/lexico/) |
+| Elementos Rastreáveis  | RNF12, [EN02](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/entrevista.md), [NFR](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/nfrframework.md), [LEX](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/lexico.md) |
 | Elos Forward-from      | Satisfação – A especificação suplementar satisfaz o requisito de confiabilidade.<br>Representação – O NFR Framework representa as metas de precisão da informação.<br>Responsabilidade – [Gabriel Lopes](https://github.com/BrzGab) pela elaboração e validação do requisito. |
 | Status                 | Implementado                                                                                                                                   |
 
@@ -997,7 +997,7 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 |------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 | Descrição do requisito | O aplicativo deve apresentar estabilidade, evitando travamentos ou falhas de carregamento, especialmente em redes móveis                      |
 | Categoria              | Desenvolvimento                                                                                                                               |
-| Elementos Rastreáveis  | RNF13, [EN03](../../elicitacao/tec_elicitacao/entrevista.md#anchor_EN03), [Backlog](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/agil/backlog/), [US35](#us35), [NFR](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/docs/elo-backward/docs/modelagem/agil/nfrframework.md), [LEX](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/lexico/) |
+| Elementos Rastreáveis  | RNF13, [EN03](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/entrevista.md), [Backlog](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/backlog.md), [US35](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/historia-de-usuario.md), [NFR](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/nfrframework.md), [LEX](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/lexico.md) |
 | Elos Forward-from      | Satisfação – A especificação suplementar satisfaz o requisito de estabilidade.<br>Representação – O NFR Framework representa as metas de robustez.<br>Responsabilidade – [Ana Victória Guedes da Costa](https://github.com/navicg) pela elaboração e validação do requisito. |
 | Status                 | Não implementado                                                                                                                               |
 
@@ -1013,7 +1013,7 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 |------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 | Descrição do requisito | O aplicativo deve garantir proteção de dados pessoais, reforçando a confiança do usuário quanto à privacidade e segurança                    |
 | Categoria              | Organizacional                                                                                                                                |
-| Elementos Rastreáveis  | RNF14, [EN04](../../elicitacao/tec_elicitacao/entrevista.md#anchor_EN04), [NFR](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/docs/elo-backward/docs/modelagem/agil/nfrframework.md), [LEX](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/lexico/) |
+| Elementos Rastreáveis  | RNF14, [EN04](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/entrevista.md), [NFR](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/nfrframework.md), [LEX](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/lexico.md) |
 | Elos Forward-from      | Satisfação – A especificação suplementar satisfaz o requisito de segurança de dados.<br>Representação – O NFR Framework representa as metas de privacidade e proteção.<br>Responsabilidade – [Luiza da Silva Pugas](https://github.com/Luizaxx) pela elaboração e validação do requisito. |
 | Status                 | Implementado                                                                                                                                  |
 
@@ -1031,7 +1031,7 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 |------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 | Descrição do requisito | O aplicativo deve melhorar a performance do processo de login, permitindo uma experiência mais fluida                                          |
 | Categoria              | Desenvolvimento                                                                                                                               |
-| Elementos Rastreáveis  | RNF15, [EN05](../../elicitacao/tec_elicitacao/entrevista.md#anchor_EN05), [NFR](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/docs/elo-backward/docs/modelagem/agil/nfrframework.md), [LEX](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/lexico/) |
+| Elementos Rastreáveis  | RNF15, [EN05](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/entrevista.md), [NFR](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/nfrframework.md), [LEX](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/lexico.md) |
 | Elos Forward-from      | Satisfação – A especificação suplementar satisfaz o requisito de performance de autenticação.<br>Representação – O NFR Framework representa as metas de velocidade de login.<br>Responsabilidade – [Arthur Mendonça](https://github.com/ArtyMend07) pela elaboração e validação do requisito. |
 | Status                 | Não Implementado                                                                                                                              |
 
@@ -1047,7 +1047,7 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 |------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 | Descrição do requisito | O aplicativo deve considerar a usabilidade para usuários idosos, garantindo que o design e as funcionalidades sejam facilmente compreensíveis e acessíveis |
 | Categoria              | Desenvolvimento                                                                                                                               |
-| Elementos Rastreáveis  | RNF16, [EN06](../../elicitacao/tec_elicitacao/entrevista.md#anchor_EN06), [NFR](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/docs/elo-backward/docs/modelagem/agil/nfrframework.md), [US28](#us28), [Backlog](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/agil/backlog/), [LEX](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/lexico/) |
+| Elementos Rastreáveis  | RNF16, [EN06](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/entrevista.md), [NFR](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/nfrframework.md), [US28](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/historia-de-usuario.md), [Backlog](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/backlog.md), [LEX](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/lexico.md) |
 | Elos Forward-from      | Satisfação – A especificação suplementar satisfaz o requisito de usabilidade para idosos.<br>Representação – O NFR Framework representa as metas de design inclusivo.<br>Responsabilidade – [Karoline Luz da Conceição](https://github.com/KarolineLuz) pela elaboração e validação do requisito. |
 | Status                 | Não Implementado                                                                                                                              |
 
@@ -1064,7 +1064,7 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 |------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 | Descrição do requisito | O aplicativo deve fornecer suporte para acessibilidade, incluindo recursos para daltônicos e deficientes visuais                              |
 | Categoria              | Desenvolvimento                                                                                                                               |
-| Elementos Rastreáveis  | RNF17, [EN07](../../elicitacao/tec_elicitacao/entrevista.md#anchor_EN07), [INT19](../../elicitacao/tec_elicitacao/introspeccao.md#anchor_INT19), [NFR](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/docs/elo-backward/docs/modelagem/agil/nfrframework.md) |
+| Elementos Rastreáveis  | RNF17, [EN07](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/entrevista.md), [INT19](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/introspeccao.md), [NFR](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/nfrframework.md) |
 | Elos Forward-from      | Satisfação – A especificação suplementar satisfaz o requisito de acessibilidade visual.<br>Representação – O NFR Framework representa as metas de inclusão visual.<br>Responsabilidade – [Ana Victória Guedes da Costa](https://github.com/navicg) pela elaboração e validação do requisito. |
 | Status                 | Não Implementado                                                                                                                              |
 
@@ -1081,7 +1081,7 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 |------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 | Descrição do requisito | O aplicativo deve ter uma aparência profissional e confiável para transmitir segurança aos usuários                                            |
 | Categoria              | Desenvolvimento                                                                                                                               |
-| Elementos              | RNF18, [EN08](../../elicitacao/tec_elicitacao/entrevista.md#anchor_EN08), [NFR](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/docs/elo-backward/docs/modelagem/agil/nfrframework.md), [LEX](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/docs/lexico/lexico.md) |
+| Elementos              | RNF18, [EN08](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/entrevista.md), [NFR](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/nfrframework.md), [LEX](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/lexico.md) |
 | Elos Forward-from      | Satisfação – A especificação suplementar satisfaz o requisito de aparência.<br>Representação – O NFR Framework representa as metas de design profissional.<br>Responsabilidade – [Gabriel Lopes](https://github.com/BrzGab) pela elaboração e validação do requisito. |
 | Status                 | Não implementado                                                                                                                              |
 
@@ -1098,7 +1098,7 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 |--------------------|---------------------------------------------------------------------------|
 | Descrição do requisito | Integrar um assistente virtual ou chatbot com respostas automáticas para dúvidas frequentes dos usuários               |
 | Categoria           | Desenvolvimento                                                          |
-| Elementos           | RF43, [INT13](../../elicitacao/tec_elicitacao/introspeccao.md#anchor_INT), [BR18](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS), [U](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/docs/elo-backward/docs/modelagem/usuario.md), [UC](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/docs/elo-backward/docs/modelagem/casos_de_uso.md), [US27](./historia-de-usuario.md), [LEX](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/lexico/), [Backlog](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/agil/backlog/) |
+| Elementos           | RF43, [INT13](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/introspeccao.md), [BR18](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md),[UC](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/docs/elo-backward/docs/modelagem/casos_de_uso.md), [US27](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/historia-de-usuario.md), [LEX](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/lexico.md), [Backlog](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/backlog.md) |
 | Elos Forward-from   | Satisfação – O caso de uso satisfaz o requisito de assistente virtual.<br> Recurso – O cenário detalha recursos de chatbot.<br> Satisfação – A história de usuário satisfaz o requisito de suporte automatizado.<br> Representação – O léxico representa conceitos de assistente e automação.<br> Responsabilidade – [Karoline Luz](https://github.com/KarolineLuz) pela elaboração e validação do requisito. |
 | Status              | Implementado                                                           |
 
@@ -1116,7 +1116,7 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 |------------------------|-------------------------------------------------------------------------------------------------------------------|
 | Descrição do requisito  | As funcionalidades principais devem responder em, no máximo, dois segundos para garantir boa experiência          |
 | Categoria              | Desenvolvimento                                                                                                   |
-| Elementos Rastreáveis   | RNF20, [INT16](../../elicitacao/tec_elicitacao/introspeccao.md#anchor_INT16), [NFR](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/docs/elo-backward/docs/modelagem/agil/nfrframework.md), [Backlog](https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/agil/backlog/), [US42](#us42), [LEX](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/docs/lexico/lexico.md) |
+| Elementos Rastreáveis   | RNF20, [INT16](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/introspeccao.md), [NFR](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/nfrframework.md), [Backlog](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/backlog.md), [US42](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/historia-de-usuario.md), [LEX](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/lexico.md) |
 | Elos Forward-from       | Satisfação – A especificação suplementar satisfaz o requisito de tempo de resposta.<br>Representação – O NFR Framework representa as metas de latência.<br>Responsabilidade – [Artur Mendonça](https://github.com/ArtyMend07) pela elaboração e validação do requisito. |
 | Status                 | Implementado                                                                         
 
@@ -1130,7 +1130,7 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 |------------------------|--------------------------------------------------------------------------------------------------------------------|
 | Descrição do requisito  | A interface deve ser simples, objetiva e utilizar linguagem acessível a usuários com diferentes níveis de escolaridade |
 | Categoria              | Desenvolvimento                                                                                                    |
-| Elementos Rastreáveis   | RNF21, [INT17](../../elicitacao/tec_elicitacao/introspeccao.md#anchor_INT17), [NFR](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/docs/elo-backward/docs/modelagem/agil/nfrframework.md), [LEX](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/docs/lexico/lexico.md) |
+| Elementos Rastreáveis   | RNF21, [INT17](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/introspeccao.md), [NFR](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/nfrframework.md), [LEX](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/lexico.md) |
 | Elos Forward-from       | Satisfação – A especificação suplementar satisfaz o requisito de simplicidade.<br>Representação – O NFR Framework representa as metas de clareza comunicativa.<br>Responsabilidade – [Gabriel Lopes](https://github.com/BrzGab) pela elaboração e validação do requisito. |
 | Status                 | Implementado                                                                                                                |
 
@@ -1147,7 +1147,7 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 |------------------------|--------------------------------------------------------------------------------------------------------------|
 | Descrição do requisito  | O sistema deve proteger as informações pessoais com criptografia de dados e autenticação segura               |
 | Categoria              | Organizacional                                                                                                |
-| Elementos Rastreáveis   | RNF22, [INT18](../../elicitacao/tec_elicitacao/introspeccao.md#anchor_INT18), [NFR](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/docs/elo-backward/docs/modelagem/agil/nfrframework.md), [Backlog](#), [LEX](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/docs/lexico/lexico.md), [US21](#us21) |
+| Elementos Rastreáveis   | RNF22, [INT18](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/introspeccao.md), [NFR](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/nfrframework.md), [Backlog](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/backlog.md), [LEX](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/backlog.md), [US21](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/historia-de-usuario.md) |
 | Elos Forward-from       | Satisfação – A especificação suplementar satisfaz o requisito de criptografia.<br>Representação – O NFR Framework representa as metas de segurança técnica.<br>Responsabilidade – [Gabriel Lopes](https://github.com/BrzGab) pela elaboração e validação do requisito. |
 | Status                 | Implementado                                                                                                         |
 
@@ -1166,7 +1166,7 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 |----------------------|-------------------------------------------------------------------------------------------------|
 | Descrição do requisito | Deve funcionar em modo offline para consulta de registros ou informações previamente acessadas |
 | Categoria            | Desenvolvimento                                                                               |
-| Elementos Rastreáveis | RNF23, [INT20](../../elicitacao/tec_elicitacao/introspeccao.md#anchor_INT20), [NFR](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/docs/elo-backward/docs/modelagem/agil/nfrframework.md), [US49](#us49), [LEX](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/docs/lexico/lexico.md) |
+| Elementos Rastreáveis | RNF23, [INT20](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/introspeccao.md), [NFR](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/nfrframework.md), [US49](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/historia-de-usuario.md), [LEX](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/lexico.md) |
 | Elos Forward-from    | Satisfação – A especificação suplementar satisfaz o requisito de funcionalidade offline.<br>Representação – O NFR Framework representa as metas de disponibilidade.<br>Responsabilidade – [Lucas Mendonça](https://github.com/lucasarruda9) pela elaboração e validação do requisito. |
 | Status               | Não    Implementado                                                                                        |
 
@@ -1183,7 +1183,7 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 |------------------------|-----------------------------------------------------------------------------------------------------------------|
 | Descrição do requisito | As imagens capturadas pelo usuário devem ser otimizadas para upload rápido mesmo em conexões móveis              |
 | Categoria              | Desenvolvimento                                                                                                  |
-| Elementos Rastreáveis  | RNF24, [INT21](../../elicitacao/tec_elicitacao/introspeccao.md#anchor_INT21), [NFR](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/docs/elo-backward/docs/modelagem/agil/nfrframework.md), [LEX](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/docs/lexico/lexico.md) |
+| Elementos Rastreáveis  | RNF24, [INT21](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/elicitacao/tec_elicitacao/introspeccao.md), [NFR](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/agil/nfrframework.md), [LEX](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/main/docs/modelagem/lexico.md) |
 | Elos Forward-from      | Satisfação – RNF24 - ES: A especificação suplementar satisfaz o requisito de otimização de mídia.<br>Representação – RNF24 - NFR: O NFR Framework representa as metas de eficiência de upload.<br>Responsabilidade – [Gabriel Lopes](https://github.com/BrzGab) pela elaboração e validação do requisito. |
 | Status                 | Implementado                                                                                                             |
 
@@ -1219,9 +1219,10 @@ Elos Forward-from   | **Satisfação**:  A história de usuário satisfaz o requ
 
 | Versão | Descrição                                                                                          | Autor(es)                                             | Data       | Revisor(es)                                        | Data de revisão |
 | ------ | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------- | -------------------------------------------------- | --------------- 
-| 1.0    | Adicionando introdução e metologia do forward-from | [Ana Victória](https://github.com/navicg) | 08/06/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 08/06/2025  |
-| 1.1   | Adição das tabelas 2 até 35, referentes aos cartões do forward-from dos requisitos 1 ao 34 | [Ana Victória](https://github.com/navicg) | 08/06/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 08/06/2025  |
-| 1.2   | Ajustando autores das tabelas | [Ana Victória](https://github.com/navicg) | 08/06/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 08/06/2025  |
-| 1.3   | Adicionando tabelas RF 35 a 44 e RNF01 a 24 | [Karoline Luz](https://github.com/KarolineLuz) | 08/06/2025 | [Ana Victória](https://github.com/navicg) | 08/06/2025  |
-| 1.4   | Ajustando autores das tabelas | [Karoline Luz](https://github.com/KarolineLuz) | 08/06/2025 | [Ana Victória](https://github.com/navicg) | 08/06/2025  |
-| 1.5   | Adicionando imagens de referências | [Ana Victória](https://github.com/navicg) | 08/06/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 08/06/2025  |
+| 1.0    | Adicionando introdução e metologia do forward-from | [Ana Victória](https://github.com/navicg) | 08/06/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 08/06/2025  |
+| 1.1   | Adição das tabelas 2 até 35, referentes aos cartões do forward-from dos requisitos 1 ao 34 | [Karoline Luz](https://github.com/KarolineLuz) | 08/06/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 08/06/2025  |
+| 1.2   | Ajustando autores das tabelas | [Artur Mendonça](https://github.com/ArtyMend07)| 08/06/2025 | [Luiza Silva](https://github.com/Luizaxx) | 08/06/2025  |
+| 1.3   | Adicionando tabelas RF 35 a 44 e RNF01 a 24 |  [Lucas Mendonça](https://github.com/lucasarruda9) | 08/06/2025 | [Gabriel Lopes](https://github.com/BrzGab) | 08/06/2025  |
+| 1.4   | Ajustando autores das tabelas |  [Luiza Silva](https://github.com/Luizaxx) | 08/06/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 08/06/2025  |
+| 1.5   | Adicionando imagens de referências | [Gabriel Lopes](https://github.com/BrzGab) | 08/06/2025 | [Ana Victória Guedes da Costa](https://github.com/navicg) | 08/06/2025  |
+| 1.6   | Corrigindo link |[João Marcos Moraes](https://github.com/JJOAOMARCOSS)| 08/06/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9) | 08/06/2025  |
