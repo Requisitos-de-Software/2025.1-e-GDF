@@ -54,7 +54,8 @@ nav:
           - Histórias de Usuário: modelagem/agil/historia-de-usuario.md    
   - Rastreabilidade:
       - Matriz de Rastreabilidade: rastreabilidade/matriz_rastreabilidade.md  
-      - Backward-from: rastreabilidade/Backward-from.md      
+      - Forward From: rastreabilidade/forward_from.md   
+      - Backward From: rastreabilidade/backward_from.md 
 
   - Verificação:
       - Grupo:
