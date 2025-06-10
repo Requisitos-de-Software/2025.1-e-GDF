@@ -114,14 +114,33 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 # Link da Reunião | Inspeção do grupo + 1(GDF-Saúde)
 
 <p style="text-align: center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/jgNUwiaMLJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
-# Referências 
+A gravação da reunião está disponível em: [Link](https://youtu.be/jgNUwiaMLJA)
+
+# Observações sobre o Grupo +1
+
+## Avaliação realizada pelo Grupo 08
+
+Durante a avaliação dos artefatos entregues pelo Grupo +1, observamos algumas inconsistências que podem ser melhoradas:
+
+- Links quebrados.
+- Tabelas incompletas.
+- Erros de ortografia e palavras fora de ordem.
+- Presença de duas tabelas sobrepostas no mesmo espaço, possivelmente devido a um conflito de merge não resolvido, o que ficou visível no GitHub Pages.
+
+## Considerações Finais
+
+No geral, a entrega está bem estruturada e o grupo demonstrou um bom trabalho. As observações acima são apenas pontos de melhoria para futuras entregas.
+
+Parabéns pelo esforço e pela dedicação!
+
+## Referências 
 
 - Lista de verificação elaborada pelo grupo para avaliar todos os artefatos da Entrega 4 do projeto. Disponível em: [Lista de verificação](../verificacao/grupo/entrega05/entrega05grupo+1.md).
 
-# Histórico de Versões
+## Histórico de Versões
 | Versão | Descrição                                                                                          | Autor(es)                                             | Data       | Revisor(es)                                        | Data de revisão |
 | ------ | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------- | -------------------------------------------------- | --------------- 
 | 1.0    | Adicionando tabelas da lista de inspeção da entrega 5 do grupo+1(GDF-Saúde) | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 01/06/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 01/06/2025  |
@@ -130,3 +149,4 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 | 1.3    | Adicionando as Evidência da tabela 2 de Backward from entrega 5 do grupo+1(GDF-Saúde) | [Gabriel Lopes](https://github.com/BrzGab) e [Artur Mendonça](https://github.com/ArtyMend07) | 09/06/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 09/06/2025  |
 | 1.4    | Adicionando imagens  de Foward from entrega 5 do grupo+1(GDF-Saúde) | [Karoline Luz](https://github.com/KarolineLuz) e [Ana Victória](https://github.com/navicg) | 09/06/2025 |[Ana Victória](https://github.com/navicg) | 09/06/2025  |
 | 1.5    |  Adicionando as Evidência da tabela 3 de Forward from entrega 5 do grupo+1(GDF-Saúde) | [Karoline Luz](https://github.com/KarolineLuz) e [Ana Victória](https://github.com/navicg) | 09/06/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 09/06/2025  |
+| 1.6    | Adicionando o link do video e Observações sobre o Grupo +1 com base na avaliação do grupo | [João Marcos](https://github.com/JJOAOMARCOSS) | 09/06/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 09/06/2025  |
