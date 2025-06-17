@@ -195,6 +195,6 @@ A **legenda** para cada sigla é a seguinte:
 | 1.1    | Correção e adição de melhorias no artefato | [Ana Vitória](https://github.com/navicg), [Gabriel Lopes](https://github.com/BrzGab) e [Karoline Luz](https://github.com/KarolineLuz) | 24/04/2025| [João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS) | 04/05/2025 |
 | 1.2    | Adicionando requisitos priorizados na reunião realizada| [Ana Vitória](https://github.com/navicg), [Gabriel Lopes](https://github.com/BrzGab) e [Karoline Luz](https://github.com/KarolineLuz)| 04/05/2025|[João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS)| 04/05/2025 |
 | 1.3   | Padronizando histórico de versão | [Ana Vitória](https://github.com/navicg)| 12/05/2025|[Karoline Luz](https://github.com/KarolineLuz)| 13/05/2025 |
-| 1.4   | Adicionado correções da entrega final| [Ana Vitória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz)| 16/06/2025|[João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS)| 22/06/2025 |
+| 2.0   | Adicionado correções da entrega final| [Ana Vitória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz)| 16/06/2025|[João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS)| 22/06/2025 |
 
 
