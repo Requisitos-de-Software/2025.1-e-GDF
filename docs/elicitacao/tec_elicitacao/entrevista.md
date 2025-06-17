@@ -9,6 +9,8 @@ No contexto do estudo do eGDF, as entrevistas realizadas com os usuários do apl
 
 A entrevista foi realizada induvidulamente, pelos membros da equipe [Ana Victória](https://github.com/navicg) e [Artur Mendonça](https://github.com/ArtyMend07). Cada integrante foi responsável por realizar entrevistas específicas com usuários distintos, conforme especificado na **tabela 1**, que mostra os **detalhes da entrevista**. O processo seguiu um roteiro pré-definido, elaborado para garantir a consistência das perguntas e facilitar a coleta de dados comparáveis. No entanto, o script foi aplicado de maneira flexível, permitindo ajustes em tempo real para se adequar ao perfil e às respostas de cada entrevistado, tornando a conversa mais natural e aprofundada quando necessário. Com os dados coletados a partir das respostas dos entrevistados, foram levantados os **requisitos funcionais** e **não funcionais**, elaborados na **tabela 3** e na **tabela 4**.
 
+Apesar de já terem sido feitas entregas anteriores com base nas entrevistas, esta versão representa uma **revisão final** do artefato, incorporando **ajustes, complementações e correções** a partir de novas análises e aprofundamentos no conteúdo. Além disso, houve a adição de uma terceira contribuinte, [Karoline Luz da Conceição](https://github.com/KarolineLuz), ampliando a participação da equipe na elaboração e refinamento do material final, buscando garantir maior alinhamento com os objetivos do projeto e a realidade do sistema e-GDF.
+
 ## Cronograma
 <font size="3"><p style="">**Tabela 1: Detalhes da Entrevista**.</p></font>
 
@@ -162,4 +164,4 @@ Versão  |  Descrição | Autor(es) | Data      | Revisor(es) | Data de Revisão
 1.3 | Ajuste nas tabelas | [Ana Victória](https://github.com/navicg) e [Artur Mendonça](https://github.com/ArtyMend07) | 03/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 03/05/2025 |
 1.4 | Padronização do histórico de versões e adição de imagens das fontes | [Ana Victória](https://github.com/navicg) e [Artur Mendonça](https://github.com/ArtyMend07) | 09/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 09/05/2025 |
 1.5 | Correção das fontes | [Ana Victória](https://github.com/navicg)| 12/05/2025 |[Karoline Luz](https://github.com/KarolineLuz)| 13/05/2025 |
-1.6 | Corrigindo fontes e adicionando tampletes de contribuição pra adicionar entrevista presencial | [Karoline Luz](https://github.com/KarolineLuz)| 16/05/2025 | [Ana Victória](https://github.com/navicg)| 22/06/2025 |
+2.0 | Corrigindo fontes e adicionando tampletes de contribuição pra adicionar entrevista presencial | [Karoline Luz](https://github.com/KarolineLuz)| 16/05/2025 | [Ana Victória](https://github.com/navicg)| 22/06/2025 |
