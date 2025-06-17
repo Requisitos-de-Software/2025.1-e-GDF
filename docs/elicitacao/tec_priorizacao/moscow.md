@@ -54,6 +54,14 @@ Apesar de uma versão anterior da técnica já ter sido entregue, esta etapa rep
 
 <p style="text-align: center"><a href="https://www.youtube.com/watch?v=LINK" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
+
+## Termo de consentimento de imagem
+
+Este documento confirma que o cidadão João Vitor forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1ByY5FYenlySd8Yn5wnW8HtmIhyFg-c35/view?link)
+
+
 <font size="3"><p style="text-align: center">Fonte: [Ana Victória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz).</p></font>
 
 ## Requisitos Priorizados
@@ -196,5 +204,5 @@ A **legenda** para cada sigla é a seguinte:
 | 1.2    | Adicionando requisitos priorizados na reunião realizada| [Ana Vitória](https://github.com/navicg), [Gabriel Lopes](https://github.com/BrzGab) e [Karoline Luz](https://github.com/KarolineLuz)| 04/05/2025|[João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS)| 04/05/2025 |
 | 1.3   | Padronizando histórico de versão | [Ana Vitória](https://github.com/navicg)| 12/05/2025|[Karoline Luz](https://github.com/KarolineLuz)| 13/05/2025 |
 | 2.0   | Adicionado correções da entrega final| [Ana Vitória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz)| 16/06/2025|[João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS)| 22/06/2025 |
-
+| 2.1   | Adicionado Termo de conscentimento| [Ana Vitória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz)| 16/06/2025|[João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS)| 22/06/2025 |
 
