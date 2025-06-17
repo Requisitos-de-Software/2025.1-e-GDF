@@ -162,4 +162,4 @@ Versão  |  Descrição | Autor(es) | Data      | Revisor(es) | Data de Revisão
 1.3 | Ajuste nas tabelas | [Ana Victória](https://github.com/navicg) e [Artur Mendonça](https://github.com/ArtyMend07) | 03/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 03/05/2025 |
 1.4 | Padronização do histórico de versões e adição de imagens das fontes | [Ana Victória](https://github.com/navicg) e [Artur Mendonça](https://github.com/ArtyMend07) | 09/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 09/05/2025 |
 1.5 | Correção das fontes | [Ana Victória](https://github.com/navicg)| 12/05/2025 |[Karoline Luz](https://github.com/KarolineLuz)| 13/05/2025 |
-1.6 | Correções de fonte | [Karoline Luz](https://github.com/KarolineLuz)| 16/05/2025 | [Ana Victória](https://github.com/navicg)| 22/06/2025 |
+1.6 | Corrigindo fontes e adicionando tampletes de contribuição pra adicionar entrevista presencial | [Karoline Luz](https://github.com/KarolineLuz)| 16/05/2025 | [Ana Victória](https://github.com/navicg)| 22/06/2025 |
