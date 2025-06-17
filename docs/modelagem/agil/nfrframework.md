@@ -604,6 +604,23 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 ---
 
+**Vídeo 5** - Validação e Priorização de NFR com usuário por [Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz)
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/link" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/link" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+## Termo de consentimento de imagem
+
+Este documento confirma que o cidadão João Vitor forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1ByY5FYenlySd8Yn5wnW8HtmIhyFg-c35/view?link)
+
+
+
+
+---
+
 
 <p align="center"><b>Tabela 12</b> — Cartão de Especificação 12</p>
 
@@ -744,7 +761,7 @@ A Tabela 4, apresentada a seguir, mostra a avaliação da propagação dos impac
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Artur Mendonça](https://github.com/ArtyMend07), 2025)</p></font>
 
-**Vídeo 5** - Validação e Priorização de NFR com usuário por [Artur Mendonça](https://github.com/ArtyMend07)
+**Vídeo 6** - Validação e Priorização de NFR com usuário por [Artur Mendonça](https://github.com/ArtyMend07)
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/ry4nA8fRX_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
@@ -979,7 +996,7 @@ Todos os requisitos de confiabilidade foram classificados como **Must have**, re
 
 ### Validação com Usuário
 
-**Vídeo 2** - Validação e Priorização de NFR de Confiabilidade com usuário por [Gabriel Lopes](https://github.com/BrzGab)
+**Vídeo 7** - Validação e Priorização de NFR de Confiabilidade com usuário por [Gabriel Lopes](https://github.com/BrzGab)
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/2zSk5e3hW_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
@@ -1062,3 +1079,4 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | 1.18   | Adicionando validação NFR                               | [Gabriel Lopes](https://github.com/BrzGab) | 01/06/2025 | [Artur Mendonça](https://github.com/ArtyMend07)     | 01/06/2025      |
 | 1.19    | Adição do video, diagrama e validação do diagrama| [Lucas Mendonça](https://github.com/lucasarruda9) | 01/06/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 03/06/2025      |
 | 1.20   | Adicionando entrevista, imagem, termo de consentimento, e validação do NFR| [Artur Mendonça](https://github.com/ArtyMend07) | 01/06/2025 | [Gabriel Lopes](https://github.com/BrzGab)     | 01/06/2025      |
+| 2.0| Adicionando correções e aba de entrevista presencial| [Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz)| 16/06/2025 |  [João Marcos Moraes](https://github.com/JJOAOMARCOSS)     | 22/06/2025      |
