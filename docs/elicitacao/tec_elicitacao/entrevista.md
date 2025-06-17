@@ -18,9 +18,9 @@ A entrevista foi realizada induvidulamente, pelos membros da equipe [Ana Victór
 |[Ana Victória](https://github.com/navicg)| Luís Felipe |30/04/2025| 30/04/2025| 12:20  | 12:20|  UnB-FCTE |  07:40 min |
 | [Ana Victória](https://github.com/navicg) | Júnia Luz |01/05/2025| 01/05/2025 |17:10|17:11 |  Microsoft Teams |10:20 min |
 | [Artur Mendonça](https://github.com/ArtyMend07)|Vitor Guilherme | 02/05/2025| 02/05/2025| 15:00 |15:10| Microsoft Teams | 06:48 min |
+| [Karoline Luz](https://github.com/KarolineLuz)|--- | 17/06/2025| 17/062025| --- |---| UnB-FCTE | --- |
 
-
-<font size="3"><p style="text-align: center">Fonte: [Ana Victória](https://github.com/navicg) e [Artur Mendonça](https://github.com/ArtyMend07).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/KarolineLuz), 2025.</p></font>
 
 ## Primeira Entrevista - Luís Felipe
 
@@ -30,7 +30,7 @@ A entrevista foi realizada induvidulamente, pelos membros da equipe [Ana Victór
 
 <p style="text-align: center"><a href="https://drive.google.com/file/d/1J5Dw21h9ToOhf99LYevpqPmJDa23NVYG/view?usp=drive_link" target="_blank">Transcrição da resposta do entrevistado</a></p>
 
-<font size="3"><p style="text-align: center">Fonte: [Ana Victória](https://github.com/navicg) e [Artur Mendonça](https://github.com/ArtyMend07).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Ana Victória](https://github.com/navicg) e [Artur Mendonça](https://github.com/ArtyMend07), 2025.</p></font>
 
 ## Segunda entrevista - Júnia Luz
 
@@ -40,7 +40,7 @@ A entrevista foi realizada induvidulamente, pelos membros da equipe [Ana Victór
 
 <p style="text-align: center"><a href="https://drive.google.com/file/d/1Ro67mpEt93GU_JJdR3Zzks01CxF6WmSL/view?usp=drive_link" target="_blank">Transcrição da resposta da entrevistada</a></p>
 
-<font size="3"><p style="text-align: center">Fonte: [Ana Victória](https://github.com/navicg) e [Artur Mendonça](https://github.com/ArtyMend07).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Ana Victória](https://github.com/navicg) e [Artur Mendonça](https://github.com/ArtyMend07), 2025.</p></font>
 
 ## Terceira entrevista - Vitor Guilherme
 
@@ -50,7 +50,21 @@ A entrevista foi realizada induvidulamente, pelos membros da equipe [Ana Victór
 
 <p style="text-align: center"><a href="https://drive.google.com/file/d/1ltlG6X_JF9mhjDuhlwXIC5MV5X9memhm/view?usp=sharing" target="_blank">Transcrição da resposta do entrevistado</a></p>
 
-<font size="3"><p style="text-align: center">Fonte: [Ana Victória](https://github.com/navicg) e [Artur Mendonça](https://github.com/ArtyMend07).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Ana Victória](https://github.com/navicg) e [Artur Mendonça](https://github.com/ArtyMend07), 2025.</p></font>
+
+
+
+
+## Quarta entrevista - (nome)
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/meulink" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://www.youtube.com/watch?meulink" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<p style="text-align: center"><a href="https://drive.google.com/file/d/1ltlG6X_JF9mhjDuhlwXIC5MV5X9memhm/vtranscrição" target="_blank">Transcrição da resposta do entrevistado</a></p>
+
+<font size="3"><p style="text-align: center">Fonte: [Karoline Luz](https://github.com/KarolineLuz), 2025.</p></font>
+
 
 
 ## Perguntas Realizadas
@@ -68,7 +82,7 @@ A entrevista foi realizada induvidulamente, pelos membros da equipe [Ana Victór
 | **Acessibilidade e Inclusão** | 20. Você acha que o aplicativo é acessível para todos os tipos de usuários (pessoas idosas, com deficiência visual, etc.)?  |
 | **Melhorias e Expectativas** | 21. O que você mudaria no aplicativo, se pudesse?<br>22. Tem alguma ideia de funcionalidade nova que você acha que poderia ajudar outros usuários?<br>23. Em uma escala de 0 a 5, qual nota você daria e porque?|
 
-<font size="3"><p style="text-align: center">Fonte: [Ana Victória](https://github.com/navicg) e [Artur Mendonça](https://github.com/ArtyMend07).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/KarolineLuz), 2025.</p></font>
 
 
 ## Requisitos Elicitados
@@ -94,7 +108,7 @@ Legenda da Tabela:
 | RF10 | O aplicativo deve fornecer acesso a números de serviços de emergência da polícia. | EN10 | Sim |
 | RF11 | O aplicativo deve oferecer uma seção de suporte ao usuário com instruções de uso. | EN11 | Não |
 
-<font size="3"><p style="text-align: center">Fonte: [Ana Victória](https://github.com/navicg) e [Artur Mendonça](https://github.com/ArtyMend07).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/KarolineLuz).</p></font>
 
 
 <font size="3"><p style="">**Tabela 4: Requisitos Não Funcionais**.</p></font>
@@ -114,7 +128,7 @@ Legenda da Tabela:
 | RNF07 | O aplicativo deve fornecer suporte para acessibilidade, incluindo recursos para daltônicos e deficientes visuais. | EN07 | Não |
 | RNF08 | O aplicativo deve ter uma aparência profissional e confiável para transmitir segurança aos usuários. | EN08 | Não |
 
-<font size="3"><p style="text-align: center">Fonte: [Ana Victória](https://github.com/navicg) e [Artur Mendonça](https://github.com/ArtyMend07).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/KarolineLuz), 2025.</p></font>
 
 
 
@@ -148,4 +162,4 @@ Versão  |  Descrição | Autor(es) | Data      | Revisor(es) | Data de Revisão
 1.3 | Ajuste nas tabelas | [Ana Victória](https://github.com/navicg) e [Artur Mendonça](https://github.com/ArtyMend07) | 03/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 03/05/2025 |
 1.4 | Padronização do histórico de versões e adição de imagens das fontes | [Ana Victória](https://github.com/navicg) e [Artur Mendonça](https://github.com/ArtyMend07) | 09/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 09/05/2025 |
 1.5 | Correção das fontes | [Ana Victória](https://github.com/navicg)| 12/05/2025 |[Karoline Luz](https://github.com/KarolineLuz)| 13/05/2025 |
-
+1.6 | Correções de fonte | [Karoline Luz](https://github.com/KarolineLuz)| 16/05/2025 | [Ana Victória](https://github.com/navicg)| 22/06/2025 |
