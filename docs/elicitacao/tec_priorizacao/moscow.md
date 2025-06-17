@@ -23,25 +23,38 @@ Indica um requisito **não implementado no momento**, mas **possível no futuro*
 A técnica MoSCoW foi aplicada durante uma reunião realizada via **Microsoft Teams** com 3  membros da equipe do **eGDF**, que desempenharam o papel de **mediadores** e um usuário do aplicativo, que desempenhou o papel de **cliente**. A reunião envolveu uma discussão aprofundada sobre os **requisitos elicitados**, que foram então classificados com base em critérios como **impacto para o usuário**, **viabilidade técnica**, **alinhamento com os objetivos do governo** e **disponibilidade de recursos**. Embora a técnica seja simples, foi necessário um cuidado especial para garantir que as classificações fossem coerentes e refletissem fielmente o valor e a urgência de cada requisito.
 
 
-## Participantes
+Apesar de uma versão anterior da técnica já ter sido entregue, esta etapa representa uma versão revisada e final da priorização, incorporando novas pesquisas, correções e validações obtidas ao longo do semestre. Essa revisão foi motivada pela necessidade de alinhar ainda mais os requisitos priorizados com a realidade do sistema e com os aprendizados adquiridos durante o desenvolvimento do projeto. Assim, esta entrega busca refletir de forma mais precisa e consolidada as necessidades dos stakeholders do e-GDF.
 
-| Nome                 | Função        |
-| -------------------- | ------------- |
-| [Ana Victória](https://github.com/navicg)| Mediador|
-| [Gabriel Lopes](https://github.com/BrzGab) | Mediador |
-| [Karoline Luz](https://github.com/KarolineLuz)   | Mediador |
-| **João Vitor** | Cliente       |
+## Cronograma
+<font size="3"><p style="">**Tabela 1: Detalhes da Entrevista**.</p></font>
+
+
+
+| Mediador(es) |Cliente|Data prevista| Data Realizada  |Horário Previsto|Horário Realizado|Local|Duração|
+| ---------------------------------------|------------ |------------------------ | ------ |-------|----------|-------|-------|
+|[Ana Victória](https://github.com/navicg), [Gabriel Lopes](https://github.com/BrzGab) e [Karoline Luz](https://github.com/KarolineLuz)|**João Vitor** |04/05/2025| 04/05/2025| 14:30  | 14:26|   Microsoft Teams |  46:00 min |
+|[Ana Victória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz) |---| 17/06/2025 |17/06/2025| --- |---|Unb-FCTE |  ---|
+
+
 
 <font size="3"><p style="text-align: center">Fonte: [Ana Victória](https://github.com/navicg), [Gabriel Lopes](https://github.com/BrzGab) e [Karoline Luz](https://github.com/KarolineLuz).</p></font>
 
 
-## Reunião da aplicação da técnica
+## Aplicação da técnica de Moscow
 
+### Priemeira Reunião 
 <p style="text-align: center"><iframe width="560" height="315" src="https://youtube/embed/t8xXrzlBbdM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 <p style="text-align: center"><a href="https://www.youtube.com/watch?v=rZacw2V8qPA" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
 <font size="3"><p style="text-align: center">Fonte: [Ana Victória](https://github.com/navicg), [Gabriel Lopes](https://github.com/BrzGab) e [Karoline Luz](https://github.com/KarolineLuz).</p></font>
+
+### Segunda Reunião 
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube/embed/link" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=LINK" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<font size="3"><p style="text-align: center">Fonte: [Ana Victória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz).</p></font>
 
 ## Requisitos Priorizados
 
@@ -59,7 +72,7 @@ A **legenda** para cada sigla é a seguinte:
 - **CH**: Prioridade: **Could Have**
 - **WH**: Prioridade: **Won't Have**
 
-### Tabela 1: Requisitos Funcionais
+### Tabela 2: Requisitos Funcionais
 | ID   | Descrição                                                                                                                                                               | Rastreabilidade                                                  | Implementação | Prioridade (MoSCoW) |
  | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ------------- | ------------------ |
  |      |                                                                                                                                                                         |                                                                  |               |                    |
@@ -111,7 +124,7 @@ A **legenda** para cada sigla é a seguinte:
 
 <font size="3"><p style="text-align: center">Fonte: [Ana Victória](https://github.com/navicg), [Gabriel Lopes](https://github.com/BrzGab) e [Karoline Luz](https://github.com/KarolineLuz).</p></font>
 
-### Tabela 2: Requisitos Não funcionais
+### Tabela 3: Requisitos Não funcionais
 
 **Legenda**:
 
@@ -182,4 +195,6 @@ A **legenda** para cada sigla é a seguinte:
 | 1.1    | Correção e adição de melhorias no artefato | [Ana Vitória](https://github.com/navicg), [Gabriel Lopes](https://github.com/BrzGab) e [Karoline Luz](https://github.com/KarolineLuz) | 24/04/2025| [João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS) | 04/05/2025 |
 | 1.2    | Adicionando requisitos priorizados na reunião realizada| [Ana Vitória](https://github.com/navicg), [Gabriel Lopes](https://github.com/BrzGab) e [Karoline Luz](https://github.com/KarolineLuz)| 04/05/2025|[João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS)| 04/05/2025 |
 | 1.3   | Padronizando histórico de versão | [Ana Vitória](https://github.com/navicg)| 12/05/2025|[Karoline Luz](https://github.com/KarolineLuz)| 13/05/2025 |
+| 1.4   | Adicionado correções da entrega final| [Ana Vitória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz)| 16/06/2025|[João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS)| 22/06/2025 |
+
 
