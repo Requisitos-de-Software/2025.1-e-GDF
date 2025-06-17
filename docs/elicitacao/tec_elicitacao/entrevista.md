@@ -138,18 +138,18 @@ WIEGERS, Karl E.; BEATTY, Joy. Software requirements. 3. ed. Redmond: Microsoft 
 [https://olivroqueaprende.com/WDK/Software_Requirements_3rd_Edition.pdf](https://olivroqueaprende.com/WDK/Software_Requirements_3rd_Edition.pdf). Acesso em 01 mai.2025
 
 <div style="text-align: center">
-<img src="/assets/elicitacao/Entrevista/Entrevista-fonte1.png" alt="Entrevista-fonte1">
-<p>Fonte: WIEGERS, Karl E.; BEATTY, Joy. Software requirements. 3. ed. Redmond: Microsoft Press, 2013, p. 49.</p>
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/contribuicao-da-karol/docs/assets/elicitacao/Entrevista/Entrevista1.png">
+<p>Fonte: WIEGERS, Karl E.; BEATTY, Joy. Software requirements. 3. ed. Redmond: Microsoft Press, 2013, p. 121.</p>
 </div>
 
 <div style="text-align: center">
-<img src="/assets/elicitacao/Entrevista/Entrevista-fonte2.png" alt="Entrevista-fonte2">
-<p>Fonte: WIEGERS, Karl E.; BEATTY, Joy. Software requirements. 3. ed. Redmond: Microsoft Press, 2013, p. 131.</p>
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/contribuicao-da-karol/docs/assets/elicitacao/Entrevista/Entrevista2.png" alt="Entrevista-fonte2">
+<p>Fonte: WIEGERS, Karl E.; BEATTY, Joy. Software requirements. 3. ed. Redmond: Microsoft Press, 2013, p. 121.</p>
 </div>
 
 <div style="text-align: center">
-<img src="/assets/elicitacao/Entrevista/Entrevista-fonte3.png" alt="Entrevista-fonte3">
-<p>Fonte: WIEGERS, Karl E.; BEATTY, Joy. Software requirements. 3. ed. Redmond: Microsoft Press, 2013, p. 131.</p>
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/contribuicao-da-karol/docs/assets/elicitacao/Entrevista/Entrevista3.png" alt="Entrevista-fonte3">
+<p>Fonte: WIEGERS, Karl E.; BEATTY, Joy. Software requirements. 3. ed. Redmond: Microsoft Press, 2013, p. 122.</p>
 </div>
 
 ## Histórico de Versões
