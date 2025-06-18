@@ -57,13 +57,13 @@ Apesar de já terem sido feitas entregas anteriores com base nas entrevistas, es
 
 
 
-## Quarta entrevista - (nome)
+## Quarta entrevista - Luis Felipe
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/meulink" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/VmB638mElhw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
-<p style="text-align: center"><a href="https://www.youtube.com/watch?meulink" target="_blank">Clique aqui para assistir no YouTube</a></p>
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=VmB638mElhw" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
-<p style="text-align: center"><a href="https://drive.google.com/file/d/1ltlG6X_JF9mhjDuhlwXIC5MV5X9memhm/vtranscrição" target="_blank">Transcrição da resposta do entrevistado</a></p>
+<p style="text-align: center"><a href="https://drive.google.com/file/d/1iED9lOEdMHDXG25KCf_pjrqg_U7Q2whz/view?usp=sharing" target="_blank">Transcrição da resposta do entrevistado</a></p>
 
 <font size="3"><p style="text-align: center">Fonte: [Karoline Luz](https://github.com/KarolineLuz), 2025.</p></font>
 
@@ -91,6 +91,8 @@ Apesar de já terem sido feitas entregas anteriores com base nas entrevistas, es
 
 Legenda da Tabela:  
 - RFx: Requisito Funcional nºx  
+- RNFx*: Novos Requisitos nºx elicitados pela Entrevista.
+- RNFx**: Corrigindo Requisitos testáveis nºx elicitados pela Entrevista.
 - ENx: Requisito nºx elicitado pela Entrevista.
 
 <font size="3"><p style="">**Tabela 3: Requisitos Funcionais**.</p></font>
@@ -99,13 +101,13 @@ Legenda da Tabela:
 | Tipo | Descrição | <a id="anchor_EN" style="color:white;">ID</a> | Implementado |
 |------|-----------|----|--------------|
 | RF01 | O aplicativo permite a visualização da localização dos ônibus em tempo real, incluindo previsão de chegada e rota no mapa. | EN01 | Sim |
-| RF02 | O aplicativo fornece links para serviços externos (como Secretaria da Fazenda) de forma eficiente, com explicações claras sobre o que o usuário encontrará após clicar. | EN02 | Sim |
+| RF02** |O aplicativo deve exibir links para serviços externos (como da Secretaria da Fazenda) acompanhados de um texto explicativo com no mínimo 20 palavras, informando o conteúdo que o usuário encontrará ao clicar. O carregamento da página externa deve ocorrer em até 3 segundos em conexões 4G ou Wi-Fi. | EN02 | Sim |
 | RF03 | O aplicativo oferece funcionalidades para consulta de informações educacionais, como calendário letivo e status de vagas no CIL. | EN03 | Parcial |
 | RF04 | O aplicativo permite autenticação segura através da plataforma gov.br, com opções como reconhecimento facial. | EN04 | Não |
-| RF05 | O aplicativo facilita o acesso a serviços relacionados a impostos (como boletos do IPVA) com instruções claras. | EN05 | Sim |
+| RF05** |O aplicativo deve disponibilizar uma seção de impostos com acesso ao serviço de emissão de boletos do IPVA, acompanhado de um tutorial com texto de no mínimo 100 palavras e, opcionalmente, imagens explicativas do processo em até 3 passos. | EN05 | Sim |
 | RF06 | O aplicativo implementa funcionalidades adicionais na área educacional, como acompanhamento de pendências para professores e alunos. | EN06 | Não |
 | RF07 | O aplicativo inclui recursos de acessibilidade como leitura em áudio para deficientes visuais e suporte em Libras para deficientes auditivos. | EN07 | Não |
-| RF08 | O aplicativo permite ajuste de tamanho de fonte para facilitar a leitura, especialmente por usuários idosos. | EN08 | Não |
+| RF08** |O aplicativo deve permitir ao usuário selecionar entre pelo menos 3 níveis de tamanho de fonte (pequeno, médio e grande), aplicáveis a todos os textos do aplicativo, sendo o tamanho grande equivalente a pelo menos 150% do tamanho padrão da fonte. | EN08 | Não |
 | RF09 | O aplicativo deve permitir que usuários reportem problemas da cidade através de um mapa interativo. | EN09 | Não |
 | RF10 | O aplicativo deve fornecer acesso a números de serviços de emergência da polícia. | EN10 | Sim |
 | RF11 | O aplicativo deve oferecer uma seção de suporte ao usuário com instruções de uso. | EN11 | Não |
@@ -117,18 +119,25 @@ Legenda da Tabela:
 
 Legenda da Tabela:  
 - RNFx: Requisito Não-Funcional nºx  
+- RNFx*: Novos Requisitos nºx elicitados pela Entrevista.
+- RNFx**: Corrigindo Requisitos testáveis nºx elicitados pela Entrevista.
 - ENx: Requisito nºx elicitado pela Entrevista.
+
 
 | Tipo | Descrição | <a id="anchor_EN" style="color:white;">ID</a>| Implementado |
 |------|-----------|----|--------------|
-| RNF01 | O aplicativo deve ser mais autoexplicativo, com uma navegação intuitiva e menos dependência de redirecionamentos externos. | EN01 | Não |
+| RNF01** | O aplicativo deve possuir um menu principal com ícones e rótulos textuais claros para cada funcionalidade, e permitir o acesso a pelo menos 80% das funcionalidades sem redirecionamentos externos, com base em testes de usabilidade com 5 usuários. | EN01 | Não |
 | RNF02 | O aplicativo deve garantir que as informações exibidas sejam atualizadas e reflitam fielmente a realidade, especialmente nas áreas de saúde e educação. | EN02 | Sim |
 | RNF03 |O aplicativo deve apresentar estabilidade, evitando travamentos ou falhas de carregamento, especialmente em redes móveis.| EN03 | Não |
 | RNF04 | O aplicativo deve garantir proteção de dados pessoais, reforçando a confiança do usuário quanto à privacidade e segurança. | EN04 | Sim |
-| RNF05 | O aplicativo deve melhorar a performance do processo de login, permitindo uma experiência mais fluida. | EN05 | Não |
-| RNF06 | O aplicativo deve considerar a usabilidade para usuários idosos, garantindo que o design e as funcionalidades sejam facilmente compreensíveis e acessíveis. | EN06 | Não |
-| RNF07 | O aplicativo deve fornecer suporte para acessibilidade, incluindo recursos para daltônicos e deficientes visuais. | EN07 | Não |
-| RNF08 | O aplicativo deve ter uma aparência profissional e confiável para transmitir segurança aos usuários. | EN08 | Não |
+| RNF05** | O processo de login no aplicativo deve ser concluído em até 2 segundos, em 90% das tentativas, considerando dispositivos com Android 10 ou superior conectados à rede 4G ou Wi-Fi. | EN05 | Não |
+| RNF06** | O aplicativo deve adotar uma interface com contraste mínimo de 4,5:1, fontes ajustáveis em no mínimo 3 tamanhos e botões com área mínima de toque de 48x48dp, conforme diretrizes de acessibilidade para idosos. | EN06 | Não |
+| RNF07** |O aplicativo deve incluir suporte a leitores de tela (TalkBack e VoiceOver), oferecer alternativa de alto contraste para usuários daltônicos (protanopia, deuteranopia e tritanopia) e permitir a navegação por teclado virtual com foco visual visível.| EN07 | Não |
+| RNF08 | O aplicativo deve garantir um tempo de carregamento inicial inferior a 2 segundos em dispositivos com Android 10/iOS 13 ou superior, utilizando redes móveis 4G ou Wi-Fi. Isso é essencial para o rápido acesso de usuários a documentos e comprovantes em pontos de entrada de eventos públicos.. | EN08 | Não |
+| RNF09* | O app deve manter cache inteligente de dados (como QR Codes), atualizando a cada 12h ou sob demanda, para acesso offline. | EN09 | Não |
+| RNF10*|O uso contínuo por 1h deve consumir no máximo 5% da bateria em dispositivos com 3000 mAh. | EN10 | Não |
+| RNF11*|	Imagens e QR Codes devem ser comprimidos para no máximo 200KB, em formatos otimizados e sem perda visual relevante. | EN11 | Não |
+| RNF12*|O app deve identificar eventos próximos via geolocalização e pré-carregar dados via Wi-Fi, limitando uso a 5MB por ciclo. | EN12 | Não |
 
 <font size="3"><p style="text-align: center">Fonte: [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/KarolineLuz), 2025.</p></font>
 
@@ -164,4 +173,5 @@ Versão  |  Descrição | Autor(es) | Data      | Revisor(es) | Data de Revisão
 1.3 | Ajuste nas tabelas | [Ana Victória](https://github.com/navicg) e [Artur Mendonça](https://github.com/ArtyMend07) | 03/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 03/05/2025 |
 1.4 | Padronização do histórico de versões e adição de imagens das fontes | [Ana Victória](https://github.com/navicg) e [Artur Mendonça](https://github.com/ArtyMend07) | 09/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 09/05/2025 |
 1.5 | Correção das fontes | [Ana Victória](https://github.com/navicg)| 12/05/2025 |[Karoline Luz](https://github.com/KarolineLuz)| 13/05/2025 |
-2.0 | Corrigindo fontes e adicionando tampletes de contribuição pra adicionar entrevista presencial | [Karoline Luz](https://github.com/KarolineLuz)| 16/05/2025 | [Ana Victória](https://github.com/navicg)| 22/06/2025 |
+2.0 | Corrigindo fontes e adicionando tampletes de contribuição pra adicionar entrevista presencial | [Karoline Luz](https://github.com/KarolineLuz)| 16/06/2025 | [Ana Victória](https://github.com/navicg)| 22/06/2025 |
+2.1 | Corrigindo nomenclaturas testáveis e adicionando video da Karol| [Karoline Luz](https://github.com/KarolineLuz)| 18/06/2025 | [Ana Victória](https://github.com/navicg)| 22/06/2025 |
