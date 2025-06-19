@@ -153,7 +153,7 @@ A **legenda** para cada sigla é a seguinte:
 **Legenda**:
 
 - **RNFx**: Requisito Não-Funcional nºx
-- **RNFx***: Novo Requisito Funcional nºx
+- **RNFx***: Novo Requisito Não-Funcional nºx
 - **INTx***: Requisito nºx elicitado pela Introspecção
 - **BRx**: Requisito nºx elicitado pelo Brainstorming
 - **ADx**: Requisito nºx elicitado pelo Analise de Documentos
