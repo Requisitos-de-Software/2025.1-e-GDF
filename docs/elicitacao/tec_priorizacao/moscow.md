@@ -33,8 +33,8 @@ Apesar de uma versão anterior da técnica já ter sido entregue, esta etapa rep
 | Mediador(es) |Cliente|Data prevista| Data Realizada  |Horário Previsto|Horário Realizado|Local|Duração|
 | ---------------------------------------|------------ |------------------------ | ------ |-------|----------|-------|-------|
 |[Ana Victória](https://github.com/navicg), [Gabriel Lopes](https://github.com/BrzGab) e [Karoline Luz](https://github.com/KarolineLuz)|**João Vitor** |04/05/2025| 04/05/2025| 14:30  | 14:26|   Microsoft Teams |  46:00 min |
-|[Ana Victória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz) |---| 17/06/2025 |17/06/2025| --- |---|Unb-FCTE |  ---|
-
+|[Ana Victória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz) |**Felipe Amorim**| 17/06/2025 |17/06/2025| 13:10 |13:25|Unb-FCTE | 03:24 min|
+|[Ana Victória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz) |**Luís Felipe**| 17/06/2025 |17/06/2025| 14:30 |14:35|Unb-FCTE |  03:18 min|
 
 
 <font size="3"><p style="text-align: center">Fonte: [Ana Victória](https://github.com/navicg), [Gabriel Lopes](https://github.com/BrzGab) e [Karoline Luz](https://github.com/KarolineLuz).</p></font>
@@ -50,19 +50,34 @@ Apesar de uma versão anterior da técnica já ter sido entregue, esta etapa rep
 <font size="3"><p style="text-align: center">Fonte: [Ana Victória](https://github.com/navicg), [Gabriel Lopes](https://github.com/BrzGab) e [Karoline Luz](https://github.com/KarolineLuz).</p></font>
 
 ### Segunda Reunião 
-<p style="text-align: center"><iframe width="560" height="315" src="https://youtube/embed/link" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+#### Gravação Parte 1
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube/embed/d1uOevkzENU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
-<p style="text-align: center"><a href="https://www.youtube.com/watch?v=LINK" target="_blank">Clique aqui para assistir no YouTube</a></p>
-
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=d1uOevkzENU" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
 ## Termo de consentimento de imagem
 
 Este documento confirma que o cidadão João Vitor forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
 
-O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1ByY5FYenlySd8Yn5wnW8HtmIhyFg-c35/view?link)
-
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1ByY5FYenlySd8Yn5wnW8HtmIhyFg-c35/view?usp=sharing)
 
 <font size="3"><p style="text-align: center">Fonte: [Ana Victória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz).</p></font>
+
+
+### Terceira Reunião 
+#### Gravação Parte 2
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube/embed/geuU74GRs14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=geuU74GRs14" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+## Termo de consentimento de imagem
+
+Este documento confirma que o cidadão João Vitor forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1ByY5FYenlySd8Yn5wnW8HtmIhyFg-c35/view?usp=sharing)
+
+<font size="3"><p style="text-align: center">Fonte: [Ana Victória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz).</p></font>
+
 
 ## Requisitos Priorizados
 
@@ -71,6 +86,7 @@ A **Tabela 1** e **2** apresenta os requisitos funcionais e não funcionais, res
 A **legenda** para cada sigla é a seguinte:
 
 - **RFx**: Requisito Funcional nºx
+- **RFx***: Novo Requisito Funcional nºx
 - **INTx***: Requisito nºx elicitado pela Introspecção
 - **BRx**: Requisito nºx elicitado pelo Brainstorming
 - **ADx**: Requisito nºx elicitado pelo Analise de Documentos
@@ -89,7 +105,7 @@ A **legenda** para cada sigla é a seguinte:
  | RF03   | O usuário deve poder receber notificações personalizadas com base em sua localização                                                                                    | <a href="../../tec_elicitacao/brainstorming/#anchor_BS">BR03</a>                                                                                                                  | Não           | CH
  | RF04   | O usuário deve poder consultar agendamentos e serviços em um único local centralizado                                                                                   | <a href="../../tec_elicitacao/brainstorming/#anchor_BS">BR04</a>                                                                                                                  | Não           | MH
  | RF05   | O usuário deve ter acesso a um assistente virtual com acessibilidade por voz                                                                                            | <a href="../../tec_elicitacao/brainstorming/#anchor_BS">BR05</a>, <a href="../../tec_elicitacao/analise_decisao/#anchor_AD">AD05</a>, <a href="../../tec_elicitacao/introspeccao/#anchor_INT">INT13</a> | Não           | MH
- | RF06   | O usuário deve poder acessar tutoriais passo a passo sobre como usar o app                                                                                              | <a href="../../tec_elicitacao/brainstorming/#anchor_BS">BR06</a>                                                                                                                  | Não           |SH
+ | RF06*   | O usuário deve poder acessar tutoriais passo a passo sobre como usar o app                                                                                              | <a href="../../tec_elicitacao/brainstorming/#anchor_BS">BR06</a>                                                                                                                  | Não           |MH
  | RF07   | O usuário deve poder alterar o tamanho da fonte e o contraste de cores                                                                                                  | <a href="../../tec_elicitacao/brainstorming/#anchor_BS">BR07</a>, <a href="../../tec_elicitacao/entrevista/#anchor_EN">EN08</a>, <a href="../../tec_elicitacao/analise_decisao/#anchor_AD">AD08</a> | Não           | SH
  | RF08   | O aplicativo deve permitir modo escuro                                                                                                                                  | <a href="../../tec_elicitacao/brainstorming/#anchor_BS">BR08</a>                                                                                                                  | Não           | CH
  | RF09   | O usuário deve poder acessar e visualizar notícias relevantes                                                                                                           | <a href="../../tec_elicitacao/brainstorming/#anchor_BS">BR10</a>                                                                                                                  | Sim           | SH
@@ -137,6 +153,7 @@ A **legenda** para cada sigla é a seguinte:
 **Legenda**:
 
 - **RNFx**: Requisito Não-Funcional nºx
+- **RNFx***: Novo Requisito Funcional nºx
 - **INTx***: Requisito nºx elicitado pela Introspecção
 - **BRx**: Requisito nºx elicitado pelo Brainstorming
 - **ADx**: Requisito nºx elicitado pelo Analise de Documentos
@@ -154,11 +171,11 @@ A **legenda** para cada sigla é a seguinte:
  | RNF03  | O sistema deve ter uma interface intuitiva.                                                                                                                             | <a href="../../tec_elicitacao/analise_decisao/#anchor_AD">AD11</a>                                                                                                                 | Não           |MH
  | RNF04  | O sistema deve possuir uma interface simples, limpa e com ícones ilustrativos                                                                                           | <a href="../../tec_elicitacao/brainstorming/#anchor_BRN">BRN01</a>                                                                                                                  | Sim           |MH
  | RNF05  | O aplicativo deve permitir acessibilidade para pessoas idosas ou com deficiência visual                                                                                 | <a href="../../tec_elicitacao/brainstorming/#anchor_BRN">BRN02</a>                                                                                                                  | Não           |MH
- | RNF06  | O sistema deve funcionar mesmo em dispositivos com baixa capacidade de hardware                                                                                         | <a href="../../tec_elicitacao/brainstorming/#anchor_BRN">BRN04</a>                                                                                                                  | Sim           |CH
+ | RNF06*  | O sistema deve funcionar mesmo em dispositivos com baixa capacidade de hardware                                                                                         | <a href="../../tec_elicitacao/brainstorming/#anchor_BRN">BRN04</a>                                                                                                                  | Sim           |WH
  | RNF07  | A navegação deve ser rápida e fluida entre telas, sem necessidade de redirecionamentos excessivos                                                                       | <a href="../../tec_elicitacao/brainstorming/#anchor_BRN">BRN05</a>                                                                                                                  | Não           |MH
  | RNF08  | O sistema deve carregar as informações de forma otimizada, reduzindo tempo de resposta                                                                                  | <a href="../../tec_elicitacao/brainstorming/#anchor_BRN">BRN06</a>                                                                                                                  | Sim           |MH
  | RNF09  | O layout deve ser responsivo para diferentes tamanhos de tela                                                                                                          | <a href="../../tec_elicitacao/brainstorming/#anchor_BRN">BRN07</a>, <a href="../../tec_elicitacao/integracao/#anchor_INTT">INT22</a>                                                 | Sim           |MH
- | RNF10  | O sistema deve ter compatibilidade com leitores de tela                                                                                                                 | <a href="../../tec_elicitacao/brainstorming/#anchor_BRN">BRN08</a>                                                                                                                  | Sim           |MH
+ | RNF10*  | O sistema deve ter compatibilidade com leitores de tela                                                                                                                 | <a href="../../tec_elicitacao/brainstorming/#anchor_BRN">BRN08</a>                                                                                                                  | Sim           |CH
  | RNF11  | O app deve conter linguagem clara e acessível, adequada a diferentes níveis de escolaridade                                                                             | <a href="../../tec_elicitacao/brainstorming/#anchor_BRN">BRN09</a>                                                                                                                  | Não           |MH
  | RNF12  | O aplicativo deve ser mais autoexplicativo, com uma navegação intuitiva e menos dependência de redirecionamentos externos.                                              | <a href="../../tec_elicitacao/entrevista/#anchor_EN">EN01</a>                                                                                                                       | Não           |MH
  | RNF13  | O aplicativo deve garantir que as informações exibidas sejam atualizadas e reflitam fielmente a realidade, especialmente nas áreas de saúde e educação.                 | <a href="../../tec_elicitacao/entrevista/#anchor_EN">EN02</a>                                                                                                                       | Sim           |MH
@@ -205,4 +222,6 @@ A **legenda** para cada sigla é a seguinte:
 | 1.3   | Padronizando histórico de versão | [Ana Vitória](https://github.com/navicg)| 12/05/2025|[Karoline Luz](https://github.com/KarolineLuz)| 13/05/2025 |
 | 2.0   | Adicionado correções da entrega final| [Ana Vitória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz)| 16/06/2025|[João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS)| 22/06/2025 |
 | 2.1   | Adicionado Termo de conscentimento| [Ana Vitória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz)| 16/06/2025|[João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS)| 22/06/2025 |
+| 2.1   | Adicionado Termo de conscentimento| [Ana Vitória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz)| 16/06/2025|[João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS)| 22/06/2025 |
+| 2.2   | Adicionado vídeo de entrevista| [Ana Vitória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz)| 18/06/2025|[João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS)| 22/06/2025 |
 
