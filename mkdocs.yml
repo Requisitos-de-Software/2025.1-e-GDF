@@ -61,6 +61,10 @@ nav:
       - Matriz de Rastreabilidade: rastreabilidade/matriz_rastreabilidade.md  
       - Forward From: rastreabilidade/forward_from.md   
       - Backward From: rastreabilidade/backward_from.md 
+  - Validação:
+      - Prototipação: validacao/prototipacao.md
+      - Comprovação Informal: validacao/comprovacao.md
+      
 
   - Verificação:
       - Grupo:
