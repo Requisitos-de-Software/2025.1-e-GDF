@@ -262,6 +262,27 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 
 ---
 
+**Vídeo X** - Validação dos cenários 10, 11 e 12.
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/uetRdOUmZXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/uetRdOUmZXI" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor([João Marcos](https://github.com/JJOAOMARCOSS), 2025)</p></font>
+
+## Termo de consentimento de imagem 
+Este documento confirma que o cidadão Luiz Guilherme forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
+
+| Participante   | Entrevistador                                             | Data       | Horário       | Local |
+| -------------- | ----------------------------------------------------- | ---------- | ------------- | ----- |
+| Luiz Guilherme | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 17/06/2025 | 09:00 - 09:30 | FGA   |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor([João Marcos](https://github.com/JJOAOMARCOSS), 2025)</p></font>
+
+---
+
 ### Cenário 13: Acompanhamento de pendências na área educacional 
 
  **Rastreabilidade do RF24**: [EN06](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/)
