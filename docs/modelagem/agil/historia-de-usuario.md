@@ -69,49 +69,42 @@ As técnicas de elicitação aplicadas foram:
 | [US04](#us04) | [Luiza da Silva Pugas](https://github.com/Luizaxx) | RF30 | <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD04</a> |
 | [US05](#us05) | [Luiza da Silva Pugas](https://github.com/Luizaxx) | RF31 | <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD06</a> |
 | [US06](#us06) | [Luiza da Silva Pugas](https://github.com/Luizaxx) | RF32 | <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD07</a> |
-| [US07](#us07) | [Luiza da Silva Pugas](https://github.com/Luizaxx) | RNF02 | <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD10</a> |
-| [US08](#us08) | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | RF12 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR13</a> |
-| [US09](#us09) | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | RF13 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR14</a> |
-| [US10](#us10) | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | RF14 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR15</a> |
-| [US11](#us11) | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | RF35 | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT03</a> |
-| [US12](#us12) | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | RF36 | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT04</a> |
-| [US13](#us13) | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | RF38 | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT08</a> |
-| [US14](#us14) | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | RNF01 | <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD09</a> |
-| [US15](#us15) | [Gabriel Lopes](https://github.com/BrzGab) | RF07 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR07</a>, <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN08</a>, <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD08</a> |
-| [US16](#us16) | [Gabriel Lopes](https://github.com/BrzGab) | RF08 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR08</a> |
-| [US17](#us17) | [Gabriel Lopes](https://github.com/BrzGab) | RF10 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR11</a> |
-| [US18](#us18) | [Gabriel Lopes](https://github.com/BrzGab) | RF19 | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN01</a> |
-| [US19](#us19) | [Gabriel Lopes](https://github.com/BrzGab) | RF23 | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN05</a> |
-| [US20](#us20) | [Gabriel Lopes](https://github.com/BrzGab) | RF34 | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT02</a> |
-| [US21](#us21) | [Gabriel Lopes](https://github.com/BrzGab) | RNF22 | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT18</a> |
-| [US22](#us22) | [Karoline Luz da Conceição](https://github.com/KarolineLuz) | RF16 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR17</a> |
-| [US23](#us23) | [Karoline Luz da Conceição](https://github.com/KarolineLuz) | RF25 | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN09</a> |
-| [US24](#us24) | [Karoline Luz da Conceição](https://github.com/KarolineLuz) | RF26 | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN10</a>, <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT05</a> |
-| [US25](#us25) | [Karoline Luz da Conceição](https://github.com/KarolineLuz) | RF28 | <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD02</a> |
-| [US26](#us26) | [Karoline Luz da Conceição](https://github.com/KarolineLuz) | RF29 | <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD03</a> |
-| [US27](#us27) | [Karoline Luz da Conceição](https://github.com/KarolineLuz) | RF43 | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT13</a>, <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR18</a> |
-| [US28](#us28) | [Karoline Luz da Conceição](https://github.com/KarolineLuz) | RNF16 | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN06</a> |
-| [US29](#us29) | [Ana Victória Guedes da Costa](https://github.com/navicg) | RF01 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR01</a>, <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD01</a> |
-| [US30](#us30) | [Ana Victória Guedes da Costa](https://github.com/navicg) | RF02 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR02</a> |
-| [US31](#us31) | [Ana Victória Guedes da Costa](https://github.com/navicg) | RF03 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR03</a> |
-| [US32](#us32) | [Ana Victória Guedes da Costa](https://github.com/navicg) | RF09 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR10</a> |
-| [US33](#us33) | [Ana Victória Guedes da Costa](https://github.com/navicg) | RF15 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR16</a> |
-| [US34](#us34) | [Ana Victória Guedes da Costa](https://github.com/navicg) | RF20 | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN02</a> |
-| [US35](#us35) | [Ana Victória Guedes da Costa](https://github.com/navicg) | RNF13 | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN03</a> |
-| [US36](#us36) | [Artur Mendonça](https://github.com/ArtyMend07) | RF04 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR04</a> |
-| [US37](#us37) | [Artur Mendonça](https://github.com/ArtyMend07) | RF05 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR05</a>, <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD05</a>, <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT13</a> |
-| [US38](#us38) | [Artur Mendonça](https://github.com/ArtyMend07) | RF06 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR06</a> |
-| [US39](#us39) | [Artur Mendonça](https://github.com/ArtyMend07) | RF11 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR12</a> |
-| [US40](#us40) | [Artur Mendonça](https://github.com/ArtyMend07) | RF21 | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN03</a>, <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT07</a> |
-| [US41](#us41) | [Artur Mendonça](https://github.com/ArtyMend07) | RF33 | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT01</a> |
-| [US42](#us42) | [Artur Mendonça](https://github.com/ArtyMend07) | RNF20 | <a href="/elicitacao/tec_elicitacao/integracao/#anchor_INTT">INT16</a> |
-| [US43](#us43) | [Lucas Mendonça](https://github.com/lucasarruda9) | RF39 | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT09</a> |
-| [US44](#us44) | [Lucas Mendonça](https://github.com/lucasarruda9) | RF41 | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT11</a> |
-| [US45](#us45) | [Lucas Mendonça](https://github.com/lucasarruda9) | RF42 | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT12</a> |
-| [US46](#us46) | [Lucas Mendonça](https://github.com/lucasarruda9) | RF24 | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN06</a> |
-| [US47](#us47) | [Lucas Mendonça](https://github.com/lucasarruda9) | RF40 | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT10</a> |
-| [US48](#us48) | [Lucas Mendonça](https://github.com/lucasarruda9) | RF17 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR19</a> |
-| [US49](#us49) | [Lucas Mendonça](https://github.com/lucasarruda9) | RNF23 | <a href="/elicitacao/tec_elicitacao/integracao/#anchor_INTT">INT20</a> |
+| [US07](#us08) | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | RF12 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR13</a> |
+| [US08](#us09) | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | RF13 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR14</a> |
+| [US09](#us10) | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | RF14 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR15</a> |
+| [US10](#us11) | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | RF35 | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT03</a> |
+| [US11](#us12) | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | RF36 | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT04</a> |
+| [US12](#us13) | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | RF38 | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT08</a> |
+| [US13](#us15) | [Gabriel Lopes](https://github.com/BrzGab) | RF07 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR07</a>, <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN08</a>, <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD08</a> |
+| [US14](#us16) | [Gabriel Lopes](https://github.com/BrzGab) | RF08 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR08</a> |
+| [US15](#us17) | [Gabriel Lopes](https://github.com/BrzGab) | RF10 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR11</a> |
+| [US16](#us18) | [Gabriel Lopes](https://github.com/BrzGab) | RF19 | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN01</a> |
+| [US17](#us19) | [Gabriel Lopes](https://github.com/BrzGab) | RF23 | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN05</a> |
+| [US18](#us20) | [Gabriel Lopes](https://github.com/BrzGab) | RF34 | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT02</a> |
+| [US19](#us22) | [Karoline Luz da Conceição](https://github.com/KarolineLuz) | RF16 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR17</a> |
+| [US20](#us23) | [Karoline Luz da Conceição](https://github.com/KarolineLuz) | RF25 | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN09</a> |
+| [US21](#us24) | [Karoline Luz da Conceição](https://github.com/KarolineLuz) | RF26 | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN10</a>, <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT05</a> |
+| [US22](#us25) | [Karoline Luz da Conceição](https://github.com/KarolineLuz) | RF28 | <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD02</a> |
+| [US23](#us26) | [Karoline Luz da Conceição](https://github.com/KarolineLuz) | RF29 | <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD03</a> |
+| [US24](#us27) | [Karoline Luz da Conceição](https://github.com/KarolineLuz) | RF43 | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT13</a>, <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR18</a> |
+| [US25](#us29) | [Ana Victória Guedes da Costa](https://github.com/navicg) | RF01 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR01</a>, <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD01</a> |
+| [US26](#us30) | [Ana Victória Guedes da Costa](https://github.com/navicg) | RF02 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR02</a> |
+| [US27](#us31) | [Ana Victória Guedes da Costa](https://github.com/navicg) | RF03 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR03</a> |
+| [US28](#us32) | [Ana Victória Guedes da Costa](https://github.com/navicg) | RF09 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR10</a> |
+| [US29](#us33) | [Ana Victória Guedes da Costa](https://github.com/navicg) | RF15 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR16</a> |
+| [US30](#us34) | [Ana Victória Guedes da Costa](https://github.com/navicg) | RF20 | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN02</a> |
+| [US31](#us36) | [Artur Mendonça](https://github.com/ArtyMend07) | RF04 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR04</a> |
+| [US32](#us37) | [Artur Mendonça](https://github.com/ArtyMend07) | RF05 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR05</a>, <a href="/elicitacao/tec_elicitacao/analise_documentos/#anchor_AD">AD05</a>, <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT13</a> |
+| [US33](#us38) | [Artur Mendonça](https://github.com/ArtyMend07) | RF06 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR06</a> |
+| [US34](#us39) | [Artur Mendonça](https://github.com/ArtyMend07) | RF11 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR12</a> |
+| [US35](#us40) | [Artur Mendonça](https://github.com/ArtyMend07) | RF21 | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN03</a>, <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT07</a> |
+| [US36](#us41) | [Artur Mendonça](https://github.com/ArtyMend07) | RF33 | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT01</a> |
+| [US37](#us43) | [Lucas Mendonça](https://github.com/lucasarruda9) | RF39 | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT09</a> |
+| [US38](#us44) | [Lucas Mendonça](https://github.com/lucasarruda9) | RF41 | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT11</a> |
+| [US39](#us45) | [Lucas Mendonça](https://github.com/lucasarruda9) | RF42 | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT12</a> |
+| [US40](#us46) | [Lucas Mendonça](https://github.com/lucasarruda9) | RF24 | <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN06</a> |
+| [US41](#us47) | [Lucas Mendonça](https://github.com/lucasarruda9) | RF40 | <a href="/elicitacao/tec_elicitacao/introspeccao/#anchor_INT">INT10</a> |
+| [US42](#us48) | [Lucas Mendonça](https://github.com/lucasarruda9) | RF17 | <a href="/elicitacao/tec_elicitacao/brainstorming/#anchor_BS">BR19</a> |
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos(as) autores(as): ([Ana Victória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz), 2025)</p></font>
 
@@ -381,49 +374,6 @@ As tabelas de 3 a 51 descrevem as histórias de usuário realizadas. Seguindo o 
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
 
-## US07 - Conformidade com LGPD {#us07}
-
-??? abstract "Tabela 9 - História de Usuaŕio - Estar em conformidade com a Lei Geral de Proteção de Dados (LGPD)."
-
-    #### **Título:** Garantir Conformidade com a LGPD
-
-    ---
-
-    #### História
-
-    **Como** um usuário do aplicativo,  
-    **Eu quero** que meus dados pessoais sejam coletados, armazenados e utilizados em conformidade com a LGPD,  
-    **Para que** eu tenha segurança e transparência sobre o uso das minhas informações pessoais.
-
-    ---
-
-    #### Critérios de Aceitação
-
-    - <input type="checkbox"checked> O sistema deve informar claramente quais dados estão sendo coletados e para quais finalidades.
-    - <input type="checkbox"checked> O usuário deve poder consentir explicitamente com a coleta e uso de seus dados.
-    - <input type="checkbox"checked> O sistema deve permitir que o usuário visualize, edite e exclua seus dados pessoais.
-    - <input type="checkbox"checked> As políticas de privacidade devem estar acessíveis e atualizadas.
-    - <input type="checkbox"checked> Os dados devem ser armazenados e processados de forma segura, seguindo os princípios da LGPD.
-
-    ---
-
-    #### Rastreabilidade
-
-    - **Requisito Não Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RNF02</a>
-
-    ---
-
-    #### Estimativa de Esforço
-        
-    #### Priorização (Técnica MoSCoW)    
-    - <input type="checkbox" checked > Must Have (MH)
-    - <input type="checkbox"> Should Have (SH)
-    - <input type="checkbox"> Could Have (CH)
-    - <input type="checkbox"> Won't Have (WH)
-    ----
-
-    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
-
 **Vídeo 1** - Validação e Priorização com usuário por [Luiza da Silva Pugas](https://github.com/Luizaxx)
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/lCb6uHoCcfY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
@@ -441,7 +391,7 @@ Este documento confirma que o cidadão Wanjo Christopher forneceu seu consentime
 
 O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/modelagem/agil/docs/assets/Termo_39954923_tce_81319_assinado_assinado_assinado.pdf)
 
-## US08 - Alteração de Idioma no Aplicativo {#us08}
+## US07 - Alteração de Idioma no Aplicativo {#us07}
 
 ??? abstract "Tabela 10 - História de Usuário -  Permitir  que o usuário altere o idioma da interface para melhor usabilidade."
 
@@ -484,7 +434,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/m
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), 2025).</p></font>
 
-## US09 - Personalização de Preferências e Perfil {#us09}
+## US08 - Personalização de Preferências e Perfil {#us08}
 
 ??? abstract "Tabela 11 - História de Usuário - Permitir que o usuário personalize suas preferências e perfil para recomendações mais assertivas."
 
@@ -528,7 +478,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/m
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), 2025).</p></font>
 
-## US10 - Envio de Mensagens Curtas para Lembretes {#us10}
+## US09 - Envio de Mensagens Curtas para Lembretes {#us09}
 
 ??? abstract "Tabela 12 - História de Usuário -Permitir o envio de mensagens curtas para alertar sobre vencimentos e lembretes importantes."
 
@@ -571,7 +521,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/m
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), 2025).</p></font>
 
-## US11 - Seleção do Tipo de Serviço {#us11}
+## US10 - Seleção do Tipo de Serviço {#us10}
 
 ??? abstract "Tabela 13 - História de Usuário - Permitir ao usuário selecionar o tipo de serviço desejado, como agendamento, limpeza ou reparo."
 
@@ -614,7 +564,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/m
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), 2025).</p></font>
 
-## US12 - Registro Detalhado da Ocorrência {#us12}
+## US11 - Registro Detalhado da Ocorrência {#us11}
 
 ??? abstract "Tabela 14 - História de Usuário - Permitir ao usuário adicionar descrição textual, imagem e localização GPS da ocorrência."
 
@@ -657,7 +607,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/m
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), 2025).</p></font>
 
-## US13 - Acesso a Serviços de Transporte e Pré-cadastro do Cartão Mobilidade {#us13}
+## US12 - Acesso a Serviços de Transporte e Pré-cadastro do Cartão Mobilidade {#us12}
 
 ??? abstract "Tabela 15 - História de Usuário - Oferecer acesso a serviços de transporte público, incluindo o pré-cadastro do Cartão Mobilidade."
 
@@ -700,49 +650,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/m
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), 2025).</p></font>
 
-## US14 - Compatibilidade Multiplataforma {#us14}
-
-??? abstract "Tabel 16 - História de Usuário -Ser compatível com múltiplos dispositivos, incluindo Android e iOS."
-
-    #### **Título:** Garantir Compatibilidade com Android e iOS
-
-    ---
-
-    #### História
-
-    **Como** um usuário do aplicativo,  
-    **Eu quero** que o sistema funcione corretamente tanto em dispositivos Android quanto iOS,  
-    **Para que** eu possa utilizar todos os recursos do aplicativo independentemente do sistema operacional do meu dispositivo.
-
-    ---
-
-    #### Critérios de Aceitação
-
-    - <input type="checkbox" checked> O aplicativo deve ser testado e validado em versões recentes do Android e iOS.
-    - <input type="checkbox" checked> Todas as funcionalidades principais devem ter comportamento consistente em ambas as plataformas.
-    - <input type="checkbox" checked> O layout e a interface devem se adaptar adequadamente a diferentes tamanhos de tela.
-    - <input type="checkbox" checked> O desempenho do aplicativo deve ser equivalente nas duas plataformas.
-
-    ---
-
-    #### Rastreabilidade
-
-    - **Requisito Não Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RNF02</a>
-
-    ---
-
-    #### Estimativa de Esforço
-
-      
-    #### Priorização (Técnica MoSCoW)    
-    - <input type="checkbox" checked> Must Have (MH)
-    - <input type="checkbox"> Should Have (SH)
-    - <input type="checkbox"> Could Have (CH)
-    - <input type="checkbox"> Won't Have (WH)
-    ----
-
-    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), 2025).</p></font>
-
 **Vídeo 2** - Validação e Priorização com os usuário por [João Marcos Moraes](https://github.com/JJOAOMARCOSS)
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/Ph5jpFJNuxY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
@@ -771,7 +678,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 | Arthur Leite |    Cidadão     | 30/05/2025 |  11:00   |
 | Vitor Pereira |    Cidadão     | 30/05/2025 |  15:30   |
 
-## US15 - Ajuste de Tamanho de Fonte e Contraste {#us15}
+## US13 - Ajuste de Tamanho de Fonte e Contraste {#us13}
 
 ??? abstract "Tabela 17 - História de Usuário - Poder alterar o tamanho da fonte e o contraste de cores"
 
@@ -817,7 +724,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
 
-## US16 - Ativação do Modo Escuro {#us16}
+## US14 - Ativação do Modo Escuro {#us14}
 
 ??? abstract "Tabela 18 - História de Usuário - Permitir modo escuro"
 
@@ -865,7 +772,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
 
 
-## US17 - Geração de Relatórios e Comprovantes {#us17}
+## US15 - Geração de Relatórios e Comprovantes {#us15}
 
 ??? abstract "Tabela 19 - História de usuário - Gerar relatórios e visualizar comprovantes de agendamentos"
 
@@ -912,7 +819,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
 
-## US18 - Localização de Ônibus em Tempo Real {#us18}
+## US16 - Localização de Ônibus em Tempo Real {#us16}
 
 ??? abstract "Tabela 20 - História de Usuário - Permitir a visualização da localização dos ônibus em tempo real, incluindo previsão de chegada e rota no mapa"
 
@@ -959,7 +866,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
 
-## US19 - Acesso Facilitado a Serviços de Impostos {#us19}
+## US17 - Acesso Facilitado a Serviços de Impostos {#us17}
 
 ??? abstract "Tabela 21 - História de Usuário - Facilitar o acesso a serviços relacionados a impostos (como boletos do IPVA) com instruções claras"
 
@@ -1005,7 +912,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     ----
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
 
-## US20 - Categorização de Ocorrências {#us20}
+## US18 - Categorização de Ocorrências {#us18}
 
 ??? abstract "Tabela 22 - História de Usuário - Disponibilizar categorias pré-definidas para o tipo de ocorrência, facilitando a triagem pelos órgãos competentes"
 
@@ -1051,56 +958,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
 
-## US21 - Proteção de Informações Pessoais {#us21}
-
-??? abstract "Tabela 23 - História de Usuário - Proteger as informações pessoais com criptografia de dados e autenticação segura"
-
-
-    #### **Título:** Proteção de Informações Pessoais com Criptografia e Autenticação Segura
-
-    ---
-
-    #### História
-
-    **Como** um cidadão usuário do aplicativo e-GDF,  
-    **Eu quero** ter garantia de que minhas informações pessoais estão protegidas por criptografia e autenticação segura,  
-    **Para que** eu possa utilizar os serviços digitais com confiança, sabendo que meus dados estão seguros contra acessos não autorizados.
-
-    ---
-
-    #### Critérios de Aceitação
-
-    - <input type="checkbox"> O sistema deve implementar criptografia AES-256 para dados em repouso.
-    - <input type="checkbox"> Toda comunicação deve utilizar protocolo HTTPS com TLS 1.3 ou superior.
-    - <input type="checkbox"> Senhas devem ser armazenadas usando hash com salt (bcrypt, scrypt ou Argon2).
-    - <input type="checkbox"> O sistema deve implementar autenticação multifator (2FA) como opção.
-    - <input type="checkbox"> Logs de acesso devem ser criptografados e auditáveis.
-    - <input type="checkbox"> Dados sensíveis em trânsito devem ter criptografia fim-a-fim.
-    - <input type="checkbox"> O sistema deve detectar e alertar sobre tentativas de acesso suspeitas.
-
-    ---
-
-    #### Rastreabilidade
-
-    - **Requisito Não Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RNF">RNF22</a>
-    - **Técnica de Elicitação:** <a href="../tec_elicitacao/introspeccao/#anchor_INT">INT18</a>
-
-    ---
-
-    #### Estimativa de Esforço
-
-    - **Prioridade:** Crítica
-
-    
-    #### Priorização (Técnica MoSCoW)    
-    - <input type="checkbox"> Must Have (MH)
-    - <input type="checkbox"> Should Have (SH)
-    - <input type="checkbox"> Could Have (CH)
-    - <input type="checkbox"> Won't Have (WH)
-    ----
-
-    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
-
 **Vídeo 4** - Validação e Priorização com usuário por [Gabriel Lopes](https://github.com/BrzGab)
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/826kOaNpEEc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
@@ -1117,7 +974,7 @@ Este documento confirma que o cidadão **Daniel Rodrigues Nascimento** forneceu 
 
 O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1EB1p_smwvLfqsPcUb_7nWpKIXuzLOx02/view?usp=sharing)
 
-## US22 - Centralização das Informações de Agendamento {#us22}
+## US19 - Centralização das Informações de Agendamento {#us19}
 
 ??? abstract "Tabela 24 - História de Usuário - Acessar informações de agendamento e reagendamento de forma centralizada, promovendo praticidade e transparência ao cidadão"
 
@@ -1160,7 +1017,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 	<font size="3"><p style="text-align: center">Elaborado pelo autor: ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025).</p></font>
 
-## US23 - Reporte de Problemas pelo Mapa Interativo {#us23}
+## US20 - Reporte de Problemas pelo Mapa Interativo {#us20}
 
 ??? abstract "Tabela 25 - História de Usuário - Permitir que cidadãos reportem problemas da cidade de forma intuitiva, utilizando um mapa interativo para localização precisa"
 
@@ -1204,7 +1061,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 	<font size="3"><p style="text-align: center">Elaborado pelo autor: ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025).</p></font>
 
 
-## US24 - Acesso a Serviços de Emergência {#us24}
+## US21 - Acesso a Serviços de Emergência {#us21}
 
 ??? abstract "Tabela 26 -  História de Usuário - Fornecer acesso rápido aos números de emergência da polícia, promovendo segurança e agilidade em situações críticas"
 
@@ -1247,7 +1104,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 	<font size="3"><p style="text-align: center">Elaborado pelo autor: ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025).</p></font>
 
-## US25 - Solicitação de Serviços Públicos {#us25}
+## US22 - Solicitação de Serviços Públicos {#us22}
 
 ??? abstract "Tabela 27 - História de Usuário - Permitir que cidadãos solicitem serviços públicos de forma simples e eficiente, promovendo melhorias na infraestrutura urbana"
 
@@ -1289,7 +1146,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 	<font size="3"><p style="text-align: center">Elaborado pelo autor: ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025).</p></font>
 
-## US26 - Visualização de Solicitações em Mapa {#us26}
+## US23 - Visualização de Solicitações em Mapa {#us23}
 
 ??? abstract "Tabela 28 - História de Usuário - Permitir que o cidadão visualize no mapa onde serviços públicos foram solicitados, promovendo maior transparência e controle"
 
@@ -1333,7 +1190,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 	<font size="3"><p style="text-align: center">Elaborado pelo autor: ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025).</p></font>
 
-## US27 - Integração com Assistente Virtual {#us27}
+## US24 - Integração com Assistente Virtual {#us24}
 
 ??? abstract "Tabela 29 - História de Usuário - Disponibilizar um assistente virtual para responder automaticamente dúvidas frequentes dos usuários, oferecendo suporte ágil e contínuo"
 
@@ -1377,51 +1234,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 	<font size="3"><p style="text-align: center">Elaborado pelo autor: ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025).</p></font>
 
-## US28 - Usabilidade para Usuários Idosos {#us28}
-
-??? abstract "Tabela 30 - História de Usuário - Garantir a usabilidade do sistema para usuários idosos, oferecendo design acessível e funcionalidades intuitivas que promovam inclusão digital"
-
-
-	#### **Título:** Acessibilidade e Usabilidade para Idosos
-
-	---
-
-	#### História
-
-	**Como** um cidadão idoso usuário do aplicativo,  
-	**Eu quero** uma interface acessível e fácil de entender,  
-	**Para que** eu consiga utilizar as funcionalidades do sistema com autonomia e sem dificuldades.
-
-	---
-
-	#### Critérios de Aceitação
-
-	- <input type="checkbox" checked> O sistema deve apresentar fontes ampliadas e legíveis por padrão.
-	- <input type="checkbox" checked> Os botões e elementos interativos devem ter tamanho adequado para toque.
-	- <input type="checkbox" checked> As funcionalidades devem estar organizadas de forma intuitiva e com linguagem clara.
-	- <input type="checkbox" checked> O aplicativo deve ser compatível com leitores de tela.
-	- <input type="checkbox" checked> Deve haver possibilidade de ativar um modo de acessibilidade com alto contraste.
-
-	---
-
-	#### Rastreabilidade
-
-	- **Requisito Não Funcional Relacionado:** <a href="/elicitacao/tec_elicitacao/entrevista/#anchor_EN">EN06</a>
-
-	---
-
-	#### Estimativa de Esforço
-   
-    #### Priorização (Técnica MoSCoW)    
-    - <input type="checkbox" checked> Must Have (MH)
-    - <input type="checkbox"> Should Have (SH)
-    - <input type="checkbox"> Could Have (CH)
-    - <input type="checkbox"> Won't Have (WH)
-    ----
-
-	<font size="3"><p style="text-align: center">Elaborado pelo autor: ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025).</p></font>
-
-
 **Vídeo 5** - Validação e Priorização com usuário por [Karoline Luz da Conceição](https://github.com/KarolineLuz)
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/gzX2Ucv4jaw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
@@ -1440,7 +1252,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 
 
-## US29 - Login Simples e Rápido {#us29}
+## US25 - Login Simples e Rápido {#us25}
 
 ??? abstract "Tabela 31 - História de Usuário -  Permitir que o usuário realize login de forma simples e rápida."
 
@@ -1485,7 +1297,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Ana Victória Guedes da Costa](https://github.com/navicg), 2025).</p></font>
 
 
-## US30 - Acessibilidade para Usuários com Pouca Familiaridade Tecnológica {#us30}
+## US26 - Acessibilidade para Usuários com Pouca Familiaridade Tecnológica {#us26}
 
 ??? abstract "Tabela 32 - História de Usuário - Ser acessível mesmo para quem possui pouca familiaridade com tecnologia."
 
@@ -1530,7 +1342,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Ana Victória Guedes da Costa](https://github.com/navicg), 2025).</p></font>
 
 
-## US31 - Notificações Personalizadas por Localização {#us31}
+## US27 - Notificações Personalizadas por Localização {#us27}
 
 ??? abstract "Tabela 33 - História de Usuário - Enviar notificações personalizadas com base na localização do usuário."
 
@@ -1574,7 +1386,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Ana Victória Guedes da Costa](https://github.com/navicg), 2025).</p></font>
 
 
-## US32 - Acesso e Visualização de Notícias Relevantes {#us32}
+## US28 - Acesso e Visualização de Notícias Relevantes {#us28}
 
 ??? abstract "Tabela 34 - História de Usuário - Permitir ao usuário acessar e visualizar notícias relevantes."
 
@@ -1619,7 +1431,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
  
 
-## US33 - Menu Principal na Tela Inicial {#us33}
+## US29 - Menu Principal na Tela Inicial {#us29}
 
 ??? abstract "Tabela 35 - História de Usuário - Apresentar um menu com as principais funções na tela inicial."
 
@@ -1664,7 +1476,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Ana Victória Guedes da Costa](https://github.com/navicg), 2025).</p></font>
 
 
-## US34 - Links para Serviços Externos com Explicações Claras {#us34}
+## US30 - Links para Serviços Externos com Explicações Claras {#us30}
 
 ??? abstract "Tabela 36 - História de Usuário - Fornecer links para serviços externos, com explicações claras sobre o que o usuário encontrará."
 
@@ -1706,53 +1518,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     ----
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Ana Victória Guedes da Costa](https://github.com/navicg), 2025).</p></font>
-
-
-
-## US35 - Estabilidade em Redes Móveis {#us35}
-
-??? abstract "Tabela 37 - História de Usuário - Apresentar estabilidade, evitando travamentos ou falhas de carregamento."
-
-
-    #### **Título:** Estabilidade em Redes Móveis
-
-    ---
-
-    #### História
-
-    **Como** um usuário do aplicativo,  
-    **Eu quero** que o aplicativo funcione de maneira estável, sem travamentos ou falhas de carregamento,  
-    **Para que** eu tenha uma experiência contínua e confiável, mesmo utilizando redes móveis.
-
-    ---
-
-    #### Critérios de Aceitação
-
-    - <input type="checkbox" checked> O aplicativo deve ser testado em diversas condições de rede (3G, 4G, 5G).
-    - <input type="checkbox" checked> Deve haver tratamento adequado de erros de conexão.
-    - <input type="checkbox" checked> O sistema deve exibir mensagens informativas em caso de falhas temporárias.
-    - <input type="checkbox" checked> O carregamento de dados deve ser otimizado para minimizar o consumo de banda.
-    - <input type="checkbox" checked> O sistema deve retomar automaticamente a conexão após falhas temporárias.
-
-    ---
-
-    #### Rastreabilidade
-
-    - **Requisito Não Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RNF13</a>
-
-    ---
-
-    #### Estimativa de Esforço
-
-    #### Priorização (Técnica MoSCoW)    
-    - <input type="checkbox" checked> Must Have (MH)
-    - <input type="checkbox"> Should Have (SH)
-    - <input type="checkbox"> Could Have (CH)
-    - <input type="checkbox"> Won't Have (WH)
-    ----
-
-    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Ana Victória Guedes da Costa](https://github.com/navicg), 2025).</p></font>
-
  
 
 **Vídeo 6** - Validação e Priorização com os usuário por: [Ana Victória](https://github.com/navicg)
@@ -1771,7 +1536,7 @@ Este documento confirma que o cidadão Leonardo Rodrigues forneceu seu consentim
 
 O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1x4C8j9SZMFaVtb9Qn5FgTMY8lQrNefc5/view?usp=sharing)
 
-## US36 - Consulta Centralizada de Agendamentos e Serviços {#us36}
+## US31 - Consulta Centralizada de Agendamentos e Serviços {#us31}
 
 ??? abstract "Tabela 38 - História de Usuário - Consultar agendamentos e serviços em um único local centralizado"
 
@@ -1817,7 +1582,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Artur Mendonça](https://github.com/ArtyMend07), 2025).</p></font>
 
 
-## US37 - Compartilhamento e Salvamento de Informações Importantes {#us37}
+## US32 - Compartilhamento e Salvamento de Informações Importantes {#us32}
 
 ??? abstract "Tabela 39 - História de Usuário - Ter acesso a um assistente virtual com acessibilidade por voz"
 
@@ -1864,7 +1629,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Artur Mendonça](https://github.com/ArtyMend07), 2025).</p></font>
 
 
-## US38 - Tutoriais Passo a Passo {#us38}
+## US33 - Tutoriais Passo a Passo {#us33}
 
 ??? abstract "Tabela 40 - História de Usuário -  Poder acessar tutoriais passo a passo sobre como usar o app"
 
@@ -1911,7 +1676,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 
 
-## US39 - Integração com Serviços Essenciais {#us39}
+## US34 - Integração com Serviços Essenciais {#us34}
 
 ??? abstract "Tabela 41 - História de Usuário - Permitir a integração com serviços de saúde, educação e mobilidade"
 
@@ -1959,7 +1724,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
     
  
 
-## US40 - Consulta de Informações Educacionais {#us40}
+## US35 - Consulta de Informações Educacionais {#us35}
 
 ??? abstract "Tabela 42 - História de Usuário - Oferecer funcionalidades para consulta de informações educacionais"
 
@@ -2006,7 +1771,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
   
 
-## US41 - Registro de Ocorrências de Infraestrutura {#us41}
+## US36 - Registro de Ocorrências de Infraestrutura {#us36}
 
 ??? abstract "Tabela 43 -  História de Usuário - Permitir o registro de ocorrências relacionadas a problemas de infraestrutura urbana"
 
@@ -2050,54 +1815,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Artur Mendonça](https://github.com/ArtyMend07), 2025).</p></font>
 
-
-## US42 - Performance das Funcionalidades Principais {#us42}
-
-??? abstract "Tabela 44 - História de Usuário - As funcionalidades principais devem responder em, no máximo, dois segundos"
-
-    #### **Título:** Tempo de Resposta das Funcionalidades Principais
-
-    ---
-
-    #### História
-
-    **Como** um usuário do aplicativo,  
-    **Eu quero** que as funcionalidades principais respondam rapidamente em no máximo dois segundos,  
-    **Para que** eu possa realizar minhas tarefas de forma eficiente e sem frustrações com esperas.
-
-    ---
-
-    #### Critérios de Aceitação
-
-    - <input type="checkbox" checked> Todas as funcionalidades principais devem responder em até 2 segundos.
-    - <input type="checkbox" checked> O sistema deve mostrar indicadores de carregamento para operações mais longas.
-    - <input type="checkbox" checked> O aplicativo deve otimizar o carregamento de dados e imagens.
-    - <input type="checkbox" checked> O sistema deve implementar cache para melhorar o tempo de resposta.
-    - <input type="checkbox" checked> Deve haver monitoramento contínuo do tempo de resposta.
-
-    ---
-
-    #### Rastreabilidade
-
-    - **Requisito Não Funcional Relacionado:** <a href="/elicitacao/req_elicitados/#anchor_RF">RNF20</a>
-
-    ---
-
-    #### Estimativa de Esforço
-
-    - **Prioridade:** Média
-          
-    #### Priorização (Técnica MoSCoW)    
-    - <input type="checkbox" checked> Must Have (MH)
-    - <input type="checkbox"> Should Have (SH)
-    - <input type="checkbox"> Could Have (CH)
-    - <input type="checkbox"> Won't Have (WH)
-    ----
-
-    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Artur Mendonça](https://github.com/ArtyMend07), 2025).</p></font>
-
-
-
 **Vídeo 6** - Validação e Priorização com usuário por [Artur Mendonça](https://github.com/ArtyMend07)
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/ToXDVRxCUCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
@@ -2115,7 +1832,7 @@ Este documento confirma que o cidadão Arthur Fernandes Alencar forneceu seu con
 
 O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/assets/termo-de-imagem-hu/Termo_Artur_Historia.pdf)
 
-## US43 - Acompanhar histórico de interações {#us43}
+## US37 - Acompanhar histórico de interações {#us37}
 
 ??? abstract "Tabela 45 - História de Usuário - Fornecer um histórico de interações do usuário com o aplicativo, incluindo solicitações e agendamentos."
 
@@ -2159,7 +1876,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
    
 
-## US44 - Acesso a notícias oficiais do GDF {#us44}
+## US38 - Acesso a notícias oficiais do GDF {#us38}
 
 ??? abstract "Tabela 46 - História de Usuário - Apresentar um feed de notícias atualizadas com informações úteis do Governo do Distrito Federal."
 
@@ -2204,7 +1921,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
 
 
-## US45 - Agendar serviços sociais {#us45}
+## US39 - Agendar serviços sociais {#us39}
 
 ??? abstract "Tabela 47 - História de Usuário -Permitir agendamentos em serviços sociais, como centros de assistência social e habitação."
 
@@ -2249,7 +1966,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
 
 
-## US46 - Emitir tributos, certidões e documentos fiscais {#us46}
+## US40 - Emitir tributos, certidões e documentos fiscais {#us40}
 
 ??? abstract "Tabela 48 - História de Usuário - Disponibilizar a emissão de tributos, certidões e outros documentos fiscais." 
 
@@ -2290,7 +2007,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Lucas Mendonça](https://github.com/lucasarruda9), 2025).</p></font>
     
-## US47 - Acompanhar pendências educacionais {#us47}
+## US41 - Acompanhar pendências educacionais {#us41}
 
 ??? abstract "Tabela 49 - História de Usuário - Implementar funcionalidades adicionais na área educacional, como acompanhamento de pendências para professores e alunos."
 
@@ -2328,7 +2045,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
 
 
-## US48 - Receber notificações categorizadas {#us48}
+## US42 - Receber notificações categorizadas {#us42}
 
 ??? abstract "Tabela 50 - História de Usuário - Permitir notificações por categorias como saúde, educação, transporte"
 
@@ -2369,49 +2086,6 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
     ----
 
     <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Lucas Mendonça](https://github.com/lucasarruda9), 2025).</p></font>
-
-
-## US49 - Consultar registros sem conexão com a internet {#us49}
-
-??? abstract "Tabela 51 - História de Usuário - Funcionar em modo offline para consulta de registros ou informações previamente acessadas."
-
-    ### Título: Consultar registros sem conexão com a internet
-
-    ---
-
-    ### História
-
-    **Como** um cidadão do Distrito Federal e com acesso limitado à internet,  
-    **Eu quero** consultar registros ou informações acessadas anteriormente sem precisar de conexão com a internet,  
-    **Para que** eu possa usar o aplicativo mesmo sem conexão com a internet.
-
-    ---
-
-    ### Critérios de Aceitação
-    - <input type="checkbox" checked> Informações acessadas devem ser salvas localmente no dispositivo.  
-    - <input type="checkbox" checked> O sistema deve indicar quando está sem acesso à internet.  
-    - <input type="checkbox" checked> O acesso sem internet deve funcionar para histórico, documentos e notificações.  
-    - <input type="checkbox" checked> Os dados salvos devem ser atualizados automaticamente quando conectados com a internet.
-
-    ---
-    ### Rastreabilidade
-    - **Requisito Não Funcional Relacionado:** RNF23
-
-    ---
-
-    ### Estimativa de Esforço
-    - **Prioridade:** MH
-
-    
-    #### Priorização (Técnica MoSCoW)    
-    - <input type="checkbox" checked> Must Have (MH)
-    - <input type="checkbox"> Should Have (SH)
-    - <input type="checkbox"> Could Have (CH)
-    - <input type="checkbox"> Won't Have (WH)
-    ----
-
-    <font size="3"><p style="text-align: center">Elaborado pelo autor: ([Lucas Mendonça](https://github.com/lucasarruda9), 2025).</p></font>
-
 **Vídeo 7** - Validação e Priorização com usuário por [Lucas Mendonça](https://github.com/lucasarruda9)
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/V2vTp1LULbI?si=xEAsK0MRSV45BRNN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
@@ -2500,3 +2174,4 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 | 1.56  | Adicionando Video de entrevista e Termo de Consentimento | [Karoline Luz](https://github.com/KarolineLuz) | 31/05/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 03/06/2025 |
 | 1.57  | Removendo Subtarefas | [Karoline Luz](https://github.com/KarolineLuz) |01/06/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 03/06/2025 |
 | 1.58  | Adicionando link do vídeo 7 | [Lucas Mendonça](http://github.com/lucasarruda9) |01/06/2025 | [Gabriel Lopes](https://github.com/BrzGab) | 01/06/2025 |
+| 2.0 | Removendo Requisitos Não-Funcionais |  [Karoline Luz](https://github.com/KarolineLuz) |19/06/2025 |[João Marcos Moraes](https://github.com/JJOAOMARCOSS)  | 22/06/2025 |
