@@ -26,8 +26,9 @@ Este documento apresenta uma lista de verificação para avaliar os artefatos pr
 | 9   | Possui opção de contraste de cores?                                                                                                                              | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/entrega-1/docs/assets/lista-1/referencia2.png" alt="Referência do item" width="100px"><br><a href="https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf">Plano de Ensino</a></div> |
 | 10  | Cada integrante da equipe elaborou pelo menos um item do conteúdo da disciplina com referência bibliográfica da fonte e foto do texto referência?               | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/corre%C3%A7%C3%B5es-da-apresenta%C3%A7%C3%A3o-2/docs/assets/lista-2/Lista_Entrega2_Plano.png" alt="Referência do item" width="100px"><br><a href="https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf">Plano de Ensino</a></div> |
 
-
 <font size="3"><p style="text-align: center">Elaborado pelos autores: ([Karoline Luz](https://github.com/KarolineLuz), 2025).</p></font>
+
+---
 
 ### Lista de Verificação - Itens Técnicos e Documentais
 
@@ -60,6 +61,8 @@ Este documento apresenta uma lista de verificação para avaliar os artefatos pr
 
 <font size="3"><p style="text-align: center">Elaborado por: [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz).</p></font>
 
+---
+
 ## Observações do grupo
 
 - Não conseguimos identificar o histórico de versões em todas as páginas do GitHub Pages.
@@ -73,6 +76,7 @@ Este documento apresenta uma lista de verificação para avaliar os artefatos pr
 2. "Lista de Verificação (Sugestão)". Disponível em: https://aprender3.unb.br/pluginfile.php/3106711/mod_resource/content/55/Lista%20de%20Verifificac%CC%A7a%CC%83o%20-%20Plano_de_Ensino%20RE%20012025%20Turma%2003%20v1.pdf. Acessado em: 14 de abril de 2025.
 
 ## Histórico de Versões
+
 | Versão | Descrição                                                                                          | Autor(es)                                             | Data       | Revisor(es)                                        | Data de revisão |
 | ------ | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------- | -------------------------------------------------- | --------------- 
 | 1.0    |  Criação do documento |  [Gabriel Lopes](https://github.com/BrzGab)  | 14/04/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 14/04/2025  
