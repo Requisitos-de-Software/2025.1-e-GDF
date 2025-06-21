@@ -12,6 +12,10 @@ A prototipagem, portanto, se torna uma ferramenta poderosa para reduzir incertez
 
 Foi desenvolvido um protótipo de alta fidelidade utilizando a ferramenta Figma, com o intuito de representar visualmente as funcionalidades propostas para o sistema **E-GDF**. O foco principal foi validar os seguintes <a href="../../elicitacao/requisitos_elicitados#anchor_RF">requisitos</a>:
 
+
+- [RF07](../elicitacao/req_elicitados.md#anchor_RF) - Alterar o tamanho da fonte e o contraste de cores.
+- [RF08](../elicitacao/req_elicitados.md#anchor_RF) - Permitir modo escuro.
+- [RF10](../elicitacao/req_elicitados.md#anchor_RF) - Gerar relatórios e visualizar comprovantes de agendamentos.
 - [RF12](../elicitacao/req_elicitados.md#anchor_RF) - Alterar idioma do aplicativo.
 - [RF14](../elicitacao/req_elicitados.md#anchor_RF) - Enviar mensagens curtas sobre vencimentos e lembretes.
 - [RF18](../elicitacao/req_elicitados.md#anchor_RF) - Compartilhar ou Salvar Informações Importantes.
@@ -93,6 +97,38 @@ O participante considerou a funcionalidade de autenticação via gov.br prática
 
 ---
 
+## Protótipos dos Casos de Uso UC07, UC08 e UC09
+
+Foram desenvolvidos protótipos específicos para validar funcionalidades de acessibilidade e gestão de agendamentos por [Gabriel Lopes](https://github.com/BrzGab), focando nos casos de uso UC07, UC08 e UC09.
+
+### UC07 - Ajustar Tamanho de Fonte e Contraste
+
+Este protótipo valida o [RF07](../elicitacao/req_elicitados.md#anchor_RF) - "Alterar o tamanho da fonte e o contraste de cores", apresentando funcionalidades de acessibilidade visual que permitem aos usuários personalizar a interface conforme suas necessidades visuais.
+
+<p style="text-align: center"><a href="https://www.figma.com/proto/PqPSOFjB1eW2oG3g1X535q/UC07---Fonte-e-Contraste?t=tLopz47I8K7yT0WK-1" target="blank">Clique aqui para visualizar o protótipo UC07 - Fonte e Contraste</a></p>
+
+<p style="text-align: center"><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FPqPSOFjB1eW2oG3g1X535q%2FUC07---Fonte-e-Contraste%3Ft%3DtLopz47I8K7yT0WK-1" allowfullscreen></iframe></p>
+
+### UC08 - Ativar Modo Escuro
+
+Este protótipo valida o [RF08](../elicitacao/req_elicitados.md#anchor_RF) - "Permitir modo escuro", demonstrando a implementação de um tema escuro que reduz o cansaço ocular e melhora a experiência do usuário em ambientes com pouca luz.
+
+<p style="text-align: center"><a href="https://www.figma.com/proto/g6ex64OcXgO5OdGEiuT3nz/Modo-escuro---e-GDF?node-id=0-1&t=tLopz47I8K7yT0WK-1" target="blank">Clique aqui para visualizar o protótipo UC08 - Modo Escuro</a></p>
+
+<p style="text-align: center"><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fg6ex64OcXgO5OdGEiuT3nz%2FModo-escuro---e-GDF%3Fnode-id%3D0-1%26t%3DtLopz47I8K7yT0WK-1" allowfullscreen></iframe></p>
+
+### UC09 - Gerar Relatórios e Comprovantes de Agendamentos
+
+Este protótipo valida o [RF10](../elicitacao/req_elicitados.md#anchor_RF) - "Gerar relatórios e visualizar comprovantes de agendamentos", apresentando funcionalidades para gestão e visualização de agendamentos e documentos relacionados aos serviços do GDF.
+
+<p style="text-align: center"><a href="https://www.figma.com/proto/Ju9vXTgqKXyh3IwrwWfCui/UC-09---Meus-Agendamentos?node-id=0-1&t=tLopz47I8K7yT0WK-1" target="blank">Clique aqui para visualizar o protótipo UC09 - Meus Agendamentos</a></p>
+
+<p style="text-align: center"><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FJu9vXTgqKXyh3IwrwWfCui%2FUC-09---Meus-Agendamentos%3Fnode-id%3D0-1%26t%3DtLopz47I8K7yT0WK-1" allowfullscreen></iframe></p>
+
+<font size="3"><p style="text-align: center"> Protótipos elaborados por [Gabriel Lopes](https://github.com/BrzGab), 2025</p></font>
+
+<center>
+
 ## Considerações Finais
 
 As entrevistas forneceram feedbacks valiosos para o aprimoramento do protótipo. As principais sugestões incluem:
@@ -117,3 +153,4 @@ Esses pontos serão considerados no planejamento das próximas versões do prot�
 | 1.1   | Adicionando cronograma | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 19/06/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 24/06/2025      |
 | 1.2   | Adicionando video | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 19/06/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 24/06/2025      |
 | 1.3   | Adicionando resumo e comentarios do usuario | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 19/06/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 24/06/2025      |
+| 1.4   | Adicionando protótipos UC07, UC08 e UC09 | [Gabriel Lopes](https://github.com/BrzGab) | 20/06/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 20/06/2025      |
