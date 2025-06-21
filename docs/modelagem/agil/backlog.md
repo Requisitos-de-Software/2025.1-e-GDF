@@ -347,7 +347,8 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](/docs/
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LE1eMGZdH1U" title="Validação Backlog - Karoline Luz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-<p style="text-align: center"><a href="https://youtu.be/LE1eMGZdH1U" target="_blank">Clique aqui para assistir no YouTube</a></p>
+<p style="text-align: center"><a href="https://youtu.be/LE1eMGZdH1U" target="_blank">Clique aqui para 
+assistir no YouTube</a></p>
 
 **Tabela 8** - Informações da validação 5
 
@@ -361,22 +362,22 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](/docs/
 | [Serviços do Cidadão](#tema-3-serviços-do-cidadão) | [Serviços Centralizados](#épico-4-serviços-centralizados) (EP04) | Emitir tributos, certidões e documentos fiscais ([US27](./historia-de-usuario.md)) | RF43 | SH | Validado | [INT13](../../elicitacao/tec_elicitacao/introspeccao.md#anchor_INT), [BR18](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) | [Karoline Luz](https://github.com/KarolineLuz) |
 | [Acessibilidade](#tema-9-acessibilidade) | [Recursos de Acessibilidade](#épico-3-recursos-acessibilidade) (EP03) | Interface acessível para idosos ([US28](./historia-de-usuario.md)) | RNF16 | SH | Validado | [EN06](../../elicitacao/tec_elicitacao/entrevista.md#anchor_EN) | [Karoline Luz](https://github.com/KarolineLuz) |
 
-| **Autor** | **Usuário Participante** |
-| :-------- | :---------------------- |
-| [Karoline Luz](https://github.com/KarolineLuz) |  Leonardo Rodrigues Martins|
-| [Karoline Luz](https://github.com/KarolineLuz) |  Júnia Luz de Sousa|
-
-
-
 ## Termo de consentimento de imagem - (Entrevista 1)
 Este documento confirma que o cidadão Leonardo Rodrigues Martins forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
 
 O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1K8P5RS7xYEd8k3xGEkLp9QrjuAOqB51s/view?usp=sharing)
 
 ## Termo de consentimento de imagem - (Entrevista 2)
-Este documento confirma que o cidadão Leonardo Rodrigues Martins forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+Este documento confirma que o cidadão Júnia Luz de Sousa forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
 
 O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1tAtNRMAKPoStT9ZyOU-DdT1I9mJgC5qK/view?usp=sharing)
+
+| Entrevistador(es) |Cidadão|Data prevista| Data Realizada  |Horário Previsto|Horário Realizado|Local|Duração|
+| ---------------------------------------|------------ |------------------------ | ------ |-------|----------|-------|-------|
+|[Karoline Luz](https://github.com/KarolineLuz)|**Leonardo R.M** |01/05/2025| 01/05/2025| 15:30  | 15:45|  Microsoft - Teams |  05:21 min |
+|[Karoline Luz](https://github.com/KarolineLuz)|**Júnia L.S** |20/06/2025| 20/06/2025| 16:10  | 16:20|   Presencial |  03:07 min |
+
+
 
 <p style="text-align: center"><font size="3">Fonte: Elaborado por (<a href="https://github.com/KarolineLuz">Karoline Luz</a>, 2025).</font></p>
 
