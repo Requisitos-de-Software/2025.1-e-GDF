@@ -307,7 +307,7 @@ A ferramenta utilizada para a criação do diagrama foi o **[Drawio](https://www
 <p style="text-align: center"><a href="https://youtu.be/5zFdG7kKD6s" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
 ## Termo de consentimento de imagem 
-Este documento confirma que o cidadão forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+Este documento confirma que a cidadã Júnia Luz de Sousa forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
 
 O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1tAtNRMAKPoStT9ZyOU-DdT1I9mJgC5qK/view?usp=sharing)
 
