@@ -65,7 +65,27 @@ Para essa categoria os requisitos identificados estão representados na tabela 2
 
 <font><p style="text-align: center">**Tabela 2** - Requisitos de Confiabilidade.</p></font>
 
+
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Gabriel Lopes](https://github.com/BrzGab) e [Karoline Luz](https://github.com/karol), 2025)</p></font>
+
+
+**Vídeo 1** - Validação com usuário por [Karoline Luz da Conceição](https://github.com/KarolineLuz)
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/k--cQShnJVY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/k--cQShnJVY" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+## Termo de consentimento de imagem 
+Este documento confirma que a cidadã Júnia Luz de Sousa forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1tAtNRMAKPoStT9ZyOU-DdT1I9mJgC5qK/view?usp=sharing)
+
+| Entrevistador(es) |Cidadão|Data prevista| Data Realizada  |Horário Previsto|Horário Realizado|Local|Duração|
+| ---------------------------------------|------------ |------------------------ | ------ |-------|----------|-------|-------|
+|[Karoline Luz](https://github.com/KarolineLuz)|**Júnia L.S** |19/06/2025| 19/06/2025| 17:30  | 17:45|   Presencial |  02:05 min |
+
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Karoline Luz](https://github.com/karol), 2025)</p></font>
 
 ### Desempenho
 
@@ -145,3 +165,4 @@ iOS: Objective-C, Swift.
 | 1.3    | Adição da tabela Confiabilidade  | [Gabriel Lopes](https://github.com/BrzGab), [Karoline Luz](https://github.com/KarolineLuz)          | 16/05/2025 | [Ana Victória](https://github.com/navicg), [Luiza da Silva Pugas](https://github.com/Luizaxx)       | 17/05/2025      |
 | 1.4    | Adição da tabela Usabilidade     | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07)          | 16/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS), [Gabriel Lopes](https://github.com/BrzGab)    | 17/05/2025      |
 | 1.5    | Adição da tabela Suportabilidade | [Luiza da Silva Pugas](https://github.com/Luizaxx)                                                | 16/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9)                                                  | 17/05/2025      |
+| 2.0    | Adidionando entrevista e termo de conscentimento| [Karoline Luz](https://github.com/KarolineLuz)                                          | 20/06/2025 | [Ana Victória](https://github.com/navicg)                                                 | 20/06/2025      |

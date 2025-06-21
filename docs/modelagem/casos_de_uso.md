@@ -287,8 +287,6 @@ A ferramenta utilizada para a criação do diagrama foi o **[Drawio](https://www
 | Rastreabilidade | [BR17](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
 
 
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Karoline Luz da Conceição](https://github.com/), 2025).</p></font>
-
 | UC16 | Reportar Problemas da Cidade via Mapa Interativo |
 | ----- | ---------- |
 | Descrição | O aplicativo permite que usuários reportem problemas da cidade através de um mapa interativo |
@@ -301,6 +299,22 @@ A ferramenta utilizada para a criação do diagrama foi o **[Drawio](https://www
 | Pós-condições | Problema urbano registrado no sistema com localização precisa |
 | Data de Criação | 18/05/2025 |
 | Rastreabilidade | [EN09](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
+
+**Vídeo 1** - Validação com usuário por [Karoline Luz da Conceição](https://github.com/KarolineLuz)
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/5zFdG7kKD6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/5zFdG7kKD6s" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+## Termo de consentimento de imagem 
+Este documento confirma que a cidadã Júnia Luz de Sousa forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1tAtNRMAKPoStT9ZyOU-DdT1I9mJgC5qK/view?usp=sharing)
+
+
+| Entrevistador(es) |Cidadão|Data prevista| Data Realizada  |Horário Previsto|Horário Realizado|Local|Duração|
+| ---------------------------------------|------------ |------------------------ | ------ |-------|----------|-------|-------|
+|[Karoline Luz](https://github.com/KarolineLuz)|**Júnia L.S** |19/06/2025| 19/06/2025| 16:40  | 16:50|   Presencial |  04:56 min |
 
 
 <font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Karoline Luz](https://github.com/KarolineLuz), 2025).</p></font>
@@ -377,4 +391,5 @@ Acessado em: 13 de Maio. de 2025.
 | 1.7    | Adição do casos de uso 15(solicitação de serviço público) no documento. | [Lucas Mendonça](https://github.com/lucasarruda9)|17/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 17/05/2025 |
 | 1.8    | Implementando os casos de uso 16, 17 e 18 no artefato. | [Karoline Luz da Conceição](https://github.com/KarolineLuz)|17/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 17/05/2025 |
 | 1.9    | Adicionando os casos de uso 19.| [Luiza da Silva Pugas](https://github.com/Luizaxx)|17/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 17/05/2025 |
-| 2.0    | Ajustes nos casos de uso | [Gabriel Lopes](https://github.com/BrzGab)|17/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 18/05/2025 |
+| 1.10    | Ajustes nos casos de uso | [Gabriel Lopes](https://github.com/BrzGab)|17/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 18/05/2025 |
+| 2.0    |Adicionando Entrevista presencial | [Karoline Luz](https://github.com/KarolineLuz)|20/06/2025|[Ana Victória](https://github.com/navicg)| 22/06/2025 |
