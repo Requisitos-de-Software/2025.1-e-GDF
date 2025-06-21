@@ -337,9 +337,13 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 <p style="text-align: center"><a href="https://youtu.be/5wS5HZrUa54" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
 ## Termo de consentimento de imagem 
-Este documento confirma que o cidadão Vitor Pereira forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+Este documento confirma que o cidadão forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
 
 O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1tAtNRMAKPoStT9ZyOU-DdT1I9mJgC5qK/view?usp=sharing)
+
+| Entrevistador(es) |Cidadão|Data prevista| Data Realizada  |Horário Previsto|Horário Realizado|Local|Duração|
+| ---------------------------------------|------------ |------------------------ | ------ |-------|----------|-------|-------|
+|[Karoline Luz](https://github.com/KarolineLuz)|**Júnia L.S** |19/06/2025| 19/06/2025| 17:00  | 17:20|   Presencial |  05:15 min |
 
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
