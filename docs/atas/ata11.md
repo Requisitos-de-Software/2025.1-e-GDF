@@ -40,9 +40,11 @@ Reunião realizada online via **Microsoft Teams**.
   - [Luiza da Silva Pugas](https://github.com/Luizaxx)  
     
 
-2. **Prazo de entrega**  
-   - Todos os artefatos devem estar finalizados até a data da Entrega 6
-   - Revisão conjunta será realizada antes da entrega final
+**Prazo de entrega**  
+
+- Todos os artefatos devem estar finalizados até a data da Entrega 6
+
+- Revisão conjunta será realizada antes da entrega final
 
 ## Link da reunião
 [Link da décima primeira reunião](https://youtu.be/2mjrhFlQDrk)
@@ -56,4 +58,4 @@ Reunião realizada online via **Microsoft Teams**.
 ## Histórico de versão
 | Versão | Data       | Descrição          | Autor(es)                                  | Revisor(es)                                     | Data de revisão |
 | ------ | ---------- | ------------------ | ------------------------------------------ | ----------------------------------------------- | --------------- |
-| 1.0    | 20/06/2025 | Ata da 10ª Reunião | [João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS)  | [Artur Mendonça](https://github.com/ArtyMend07) | 20/06/2025      |
+| 1.0    | 20/06/2025 | Ata da 11ª Reunião | [João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS)  | [Artur Mendonça](https://github.com/ArtyMend07) | 20/06/2025      |
