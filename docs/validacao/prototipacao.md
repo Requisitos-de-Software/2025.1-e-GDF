@@ -138,6 +138,27 @@ O participante considerou a funcionalidade de autenticação via gov.br prática
 
 ---
 
+## Protótipos dos Casos de Uso UC04 e UC05
+
+Foram desenvolvidos protótipos específicos para validar funcionalidades de chatbot e central de relacionamento por [Artur Mendonça](https://github.com/ArtyMend07), focando nos casos de uso UC04 e UC05.
+
+### UC04 - Central de Relacionamento com o Cidadão do DF
+
+Este protótipo valida funcionalidades de atendimento e relacionamento com o cidadão, apresentando uma interface centralizada para acesso aos serviços e informações do Governo do Distrito Federal.
+
+### UC05 - ChatBot
+
+Este protótipo valida funcionalidades de atendimento automatizado através de chatbot, demonstrando a implementação de um assistente virtual que auxilia os usuários na navegação e obtenção de informações sobre os serviços disponíveis.
+
+| Participante   | Entrevistador                                          | Data       | Horário       | Local |
+| -------------- | -------------------------------------------------- | ---------- | ------------- | ----- |
+| Victor | [Artur Mendonça](https://github.com/ArtyMend07) | 18/06/2025 | 16:10 |FGA |
+
+**Resumo:**
+Os protótipos UC04 e UC05 foram validados demonstrando as funcionalidades de central de relacionamento e chatbot. O UC04 apresenta uma interface organizada para acesso aos serviços governamentais, enquanto o UC05 demonstra um sistema de chatbot intuitivo que auxilia os usuários na navegação e obtenção de informações. A validação mostrou que ambas as funcionalidades atendem às necessidades dos usuários e proporcionam uma experiência de uso satisfatória.
+
+---
+
 ## Protótipos dos Casos de Uso UC07, UC08 e UC09
 
 Foram desenvolvidos protótipos específicos para validar funcionalidades de acessibilidade e gestão de agendamentos por [Gabriel Lopes](https://github.com/BrzGab), focando nos casos de uso UC07, UC08 e UC09.
