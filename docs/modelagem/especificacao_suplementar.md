@@ -51,6 +51,30 @@ Para essa categoria os requisitos identificados estão representados na tabela 1
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Ana Victória](https://github.com/navicg) e [Artur Mendonça](https://github.com/ArtyMend07), 2025)</p></font>
 
+---
+
+
+**Vídeo 2** - Validação com usuário por: [Ana Victória](https://github.com/navicg).
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/5cCeb5eTN6M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/5cCeb5eTN6M"  target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+## Termo de consentimento de imagem 
+Este documento confirma que o cidadão Emanuel Maurício Costa forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1xkcr0UaikGhD1WTW-okJllMGEb4XXXhL/view?usp=drive_link)
+
+
+| Entrevistador(es) |Cidadão|Data prevista| Data Realizada  |Horário Previsto|Horário Realizado|Local|Duração|
+| ---------------------------------------|------------ |------------------------ | ------ |-------|----------|-------|-------|
+|[Ana Victória](https://github.com/navicg)|**Emanuel M.C** |22/06/2025| 22/06/2025| 10:43  | 10:54|   Presencial |  04:52 min |
+
+
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Ana Victória](https://github.com/navicg), 2025).</p></font>
+
+---
+
 ### Confiabilidade
 
 Diz respeito ao quão confiável é o sistema, ou seja, qual é a frequência de falhas, possibilidade de recuperação e prevenção e tempo entre as falhas.
@@ -170,4 +194,4 @@ iOS: Objective-C, Swift.
 | 1.5    | Adição da tabela Suportabilidade | [Luiza da Silva Pugas](https://github.com/Luizaxx)                                                | 16/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9)                                                  | 17/05/2025      |
 | 1.6    | Arrumando nome das tabelas | [Lucas Mendonça](https://github.com/lucasarruda9)                                              | 21/06/2025 |             [Gabriel Lopes](https://github.com/BrzGab)                                      | 22/06/2025      |
 | 2.0    | Adidionando entrevista e termo de conscentimento| [Karoline Luz](https://github.com/KarolineLuz)                                          | 20/06/2025 | [Ana Victória](https://github.com/navicg)                                                 | 20/06/2025      |
-
+| 2.1   | Adidionando validação da Usabilidade |[Ana Victória](https://github.com/navicg)                                            | 22/06/2025 | [Karoline Luz](https://github.com/KarolineLuz)                                                | 22/06/2025      |
