@@ -40,9 +40,22 @@ Este documento apresenta uma lista de verificação para avaliar os artefatos pr
 
 | ID  | Item de Verificação                                                                                                        | Autor(es)                                                              | Referência                                                                                           |
 |-----|-----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
-| 1   | O protótipo representa fielmente o produto final em termos de forma, proporções e funcionalidades?                        |  [Luiza da Silva Pugas](https://github.com/Luizaxx)                           | <div><img src="---" alt="" width="100px"><br><a href="https://drive.google.com/file/d/1ZSeLAoQL1nX6Z2bty7Gx8dY7anpvRQs2/view?usp=sharing">THEIS, Mara Rubia; SOUZA, George André de; FIALHO, Francisco Antônio Pereira; PEREIRA, Ricardo.
+| 1   | O protótipo representa fielmente o produto final em termos de forma, proporções e funcionalidades?                        |  [Luiza da Silva Pugas](https://github.com/Luizaxx)                           | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/lista-verificação-ent-5/docs/assets/Captura%20de%20Tela%202025-06-22%20às%2018.39.19.png" alt="" width="100px"><br><a href="https://drive.google.com/file/d/1ZSeLAoQL1nX6Z2bty7Gx8dY7anpvRQs2/view?usp=sharing">THEIS, Mara Rubia; SOUZA, George André de; FIALHO, Francisco Antônio Pereira; PEREIRA, Ricardo.
 A importância da prototipagem no processo de design e suas relações como mídia do conhecimento.</div>                                                                            |
-| 2   | A prototipagem foi realizada nas fases finais do projeto?                                                                  | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)                                              |<div><img src="https://drive.google.com/file/d/1nsWyBkfwf5eGalUTLS1t3r9LOcMewDZL/view?usp=sharing" alt="Referência do item" width="100px"><br><a href="https://drive.google.com/file/d/1nsWyBkfwf5eGalUTLS1t3r9LOcMewDZL/view?usp=sharing">--- </div>                                           |
+| 2   | A prototipagem foi realizada nas fases finais do projeto?                                                                  | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)                                              |<div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/lista-verificação-ent-5/docs/assets/Captura%20de%20Tela%202025-06-22%20às%2018.39.55.png" alt="Referência do item" width="100px"><br><a href="https://drive.google.com/file/d/1nsWyBkfwf5eGalUTLS1t3r9LOcMewDZL/view?usp=sharing">THEIS, Mara Rubia; SOUZA, George André de; FIALHO, Francisco Antônio Pereira; PEREIRA, Ricardo.
+ </div>                                           |
+
+
+**Referência bibliográfica**
+
+THEIS, Mara Rubia; SOUZA, George André de; FIALHO, Francisco Antônio Pereira; PEREIRA, Ricardo.  
+*A importância da prototipagem no processo de design e suas relações como mídia do conhecimento.*  
+In: CONGRESSO INTERNACIONAL DE DESIGN, TECNOLOGIA E INOVAÇÃO – CIDTI, 2., 2021, Maringá.  
+Anais [...]. Maringá: UniCesumar, 2021.  
+Disponível em: <https://eventos.unicesumar.edu.br/index.php/CIDTI/article/view/3990>.  
+Acesso em: 22 jun. 2025.
+
+
 
 
 
@@ -50,3 +63,5 @@ A importância da prototipagem no processo de design e suas relações como míd
 | Versão | Descrição                                                                                          | Autor(es)                                             | Data       | Revisor(es)                                        | Data de revisão |
 | ------ | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------- | -------------------------------------------------- | --------------- 
 | 1.0    | Adicionando tabelas da lista de verificação da entrega 5 do plano de ensino |  [Gabriel Lopes](https://github.com/BrzGab)  | 22/06/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 22/06/2025  
+| 1.0    | Adicionando tabelas da lista de verificação da entrega 5 prototipagem|  [Luiza da Silva Pugas](https://github.com/Luizaxx)  | 22/06/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 22/06/2025  
+| 1.0    | Adicionando tabelas da lista de verificação da entrega 5 prototipagem |[João Marcos Moraes](https://github.com/JJOAOMARCOSS)  | 22/06/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx)| 22/06/2025  
