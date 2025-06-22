@@ -154,6 +154,12 @@ Este protótipo valida funcionalidades de atendimento automatizado através de c
 | -------------- | -------------------------------------------------- | ---------- | ------------- | ----- |
 | Victor | [Artur Mendonça](https://github.com/ArtyMend07) | 18/06/2025 | 16:10 |FGA |
 
+<p style="text-align: center"><a href="https://youtu.be/NI0wcUJ-mqU" target="_blank">Vídeo - Validação dos Protótipos UC04 e UC05</a></p>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/NI0wcUJ-mqU" allowfullscreen></iframe></p>
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado por [Artur Mendonça](https://github.com/ArtyMend07), 2025</p></font>
+
 **Resumo:**
 Os protótipos UC04 e UC05 foram validados demonstrando as funcionalidades de central de relacionamento e chatbot. O UC04 apresenta uma interface organizada para acesso aos serviços governamentais, enquanto o UC05 demonstra um sistema de chatbot intuitivo que auxilia os usuários na navegação e obtenção de informações. A validação mostrou que ambas as funcionalidades atendem às necessidades dos usuários e proporcionam uma experiência de uso satisfatória.
 
