@@ -1034,9 +1034,16 @@ Utilizamos um cartão baseado nos cartões presentes nos slides dos Professores 
 
 > WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013. Disponível em: [https://www.booksfree.org/wp-content/uploads/2022/03/Software_Requirements_3rd_Edition_compressed.pdf](https://www.booksfree.org/wp-content/uploads/2022/03/Software_Requirements_3rd_Edition_compressed.pdf). Acesso em: 07 jun. 2025.
 
-## Histórico de Versão
+## Histórico de Versão 
 
-| Versão | Data | Descrição | Autor(es) | Data de revisão | Revisor(es) |
+| Versão | Descrição | Autor(es) |Data  | Revisor(es) | Data de revisão |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 07/06/2025 | Criação da página e adicionando os cartões dos requisitos | [Artur Mendonça](https://github.com/ArtyMend07) e [Gabriel Lopes](https://github.com/BrzGab) | 07/06/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) |
-| `1.1` | 08/06/2025 | Adição de novas referências bibliográficas e correção de hyperlinks | [Artur Mendonça](https://github.com/ArtyMend07) e [Gabriel Lopes](https://github.com/BrzGab) | 08/06/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) |
+| 1.0 | Criação da página e adicionando os cartões dos requisitos | [Artur Mendonça](https://github.com/ArtyMend07) e [Gabriel Lopes](https://github.com/BrzGab) | 07/06/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 07/06/2025 |
+| 1.1 | Adição de novas referências bibliográficas e correção de hyperlinks | [Artur Mendonça](https://github.com/ArtyMend07) e [Gabriel Lopes](https://github.com/BrzGab) | 08/06/2025 | [Ana Victória](https://github.com/navicg) | 08/06/2025 |
+| 1.2 | Criação dos Cartões de Relacionamento dos Elos | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 08/06/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 08/06/2025 |
+| 1.3 | Criação dos Cartões de Relacionamento dos Elos | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 08/06/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 08/06/2025 |
+| 1.4 | Criação dos Cartões de Relacionamento dos Elos | [Artur Mendonça](https://github.com/ArtyMend07) | 08/06/2025 | [Gabriel Lopes](https://github.com/BrzGab) | 08/06/2025 |
+| 1.5 | Criação dos Cartões de Relacionamento dos Elos | [Karoline Luz](https://github.com/KarolineLuz) | 08/06/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 08/06/2025 |
+| 1.6 | Criação dos Cartões de Relacionamento dos Elos | [Ana Victória](https://github.com/navicg) | 08/06/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 08/06/2025 |
+| 1.7 | Criação dos Cartões de Relacionamento dos Elos | [Gabriel Lopes](https://github.com/BrzGab) | 08/06/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 08/06/2025 |
+| 1.8 | Criação dos Cartões de Relacionamento dos Elos | [Lucas Mendonça](https://github.com/lucasarruda9) | 08/06/2025 | [Gabriel Lopes](https://github.com/BrzGab) | 08/06/2025 |

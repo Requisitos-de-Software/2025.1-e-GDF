@@ -10,6 +10,8 @@ nav:
     - Apresentação 2: apresentacoes/apresentacao2.md
     - Apresentação 3: apresentacoes/apresentacao3.md
     - Apresentação 4: apresentacoes/apresentacao4.md
+    - Apresentação 5: apresentacoes/apresentacao5.md
+
   - Atas:
     - Ata 1: atas/ata01.md
     - Ata 2: atas/ata02.md
@@ -20,6 +22,8 @@ nav:
     - Ata 6: atas/ata06.md
     - Ata 7: atas/ata07.md
     - Ata 8: atas/ata08.md
+    - Ata 9: atas/ata9.md
+    - Ata 10: atas/ata10.md
   - Pré-Rastreabilidade: 
     - Rich Picture: pre-rastreabilidade/rich_picture.md
   - Planejamento:
@@ -28,6 +32,7 @@ nav:
     - Ferramentas: planejamento/ferramentas.md
     - Heat Map: planejamento/heatmap.md
     - Cronograma: planejamento/cronograma.md
+    - Cronograma Executado: planejamento/cronograma_executado.md
     - Metodologia: planejamento/metodologia.md
     - Termo de Uso: planejamento/termos_de_uso.md
   - Elicitação:
@@ -59,26 +64,30 @@ nav:
 
   - Verificação:
       - Grupo:
-          - Entrega 1: verificacao/grupo/entrega01/inspecao.md 
+          - Entrega 1: verificacao/grupo/entrega01/entrega01grupo.md
           - Entrega 2: verificacao/grupo/entrega02/entrega02grupo.md
           - Entrega 3: verificacao/grupo/entrega03/entrega03grupo.md
           - Entrega 4: verificacao/grupo/entrega04/entrega04grupo.md
+          - Entrega 5: verificacao/grupo/entrega05/entrega05grupo.md
       - Grupo +1:
-          - Entrega 1: verificacao/grupo/entrega01/planejamento-verificacao.md
+          - Entrega 1: verificacao/grupo/entrega01/entrega01grupo+1.md
           - Entrega 2: verificacao/grupo/entrega02/entrega02grupo+1.md
           - Entrega 3: verificacao/grupo/entrega03/entrega03grupo+1.md
           - Entrega 4: verificacao/grupo/entrega04/entrega04grupo+1.md
+          - Entrega 5: verificacao/grupo/entrega05/entrega05grupo+1.md
   - Inspeção:
       - Grupo:
-          - Entrega 1: verificacao/grupo/entrega01/inspecao.md 
+          - Entrega 1: inspecao/inspecao_1_grupo.md
           - Entrega 2: inspecao/inspecao_2_grupo.md
           - Entrega 3: inspecao/inspecao_3_grupo.md
           - Entrega 4: inspecao/inspecao_4_grupo.md
+          - Entrega 5: inspecao/inspecao_5_grupo.md
       - Grupo +1:
-          - Entrega 1: verificacao/grupo/entrega01/planejamento-verificacao.md
+          - Entrega 1: inspecao/inspecao_1_grupo+1.md
           - Entrega 2: inspecao/inspecao_2_grupo+1.md
           - Entrega 3: inspecao/inspecao_3_grupo+1.md
           - Entrega 4: inspecao/inspecao_4_grupo+1.md
+          - Entrega 5: inspecao/inspecao_5_grupo+1.md
 
 
 theme:
