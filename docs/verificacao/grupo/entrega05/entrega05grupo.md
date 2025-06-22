@@ -37,16 +37,15 @@ Este documento apresenta uma lista de verificação para avaliar os artefatos pr
 | 1   |  ---                      | --- | <div><img src="---" alt="Referência do item" width="100px"><br><a href="---">--- </div>                     |
 
 # ✅ Lista de Verificação – Prototipagem de Alta Fidelidade
+| ID  | Item de Verificação                                                                                                         | Autor(es)                                                             | Referência                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|---- |---------------------------------------------------------------------------------------------------------------------------- |---------------------------------------------------------------------- |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | O protótipo representa fielmente o produto final em termos de forma, proporções e funcionalidades?                         | [Luiza da Silva Pugas](https://github.com/Luizaxx)                   | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/lista-verificação-ent-5/docs/assets/Captura%20de%20Tela%202025-06-22%20às%2018.39.19.png" alt="Referência do item" width="100px"><br>[THEIS, Mara Rubia; SOUZA, George André de; FIALHO, Francisco Antônio Pereira; PEREIRA, Ricardo. *A importância da prototipagem no processo de design e suas relações como mídia do conhecimento*.](https://drive.google.com/file/d/1ZSeLAoQL1nX6Z2bty7Gx8dY7anpvRQs2/view?usp=sharing) |
+| 2   | A prototipagem foi realizada nas fases finais do projeto?                                                                   | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)                | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/lista-verificação-ent-5/docs/assets/Captura%20de%20Tela%202025-06-22%20às%2018.39.55.png" alt="Referência do item" width="100px"><br>[THEIS, Mara Rubia; SOUZA, George André de; FIALHO, Francisco Antônio Pereira; PEREIRA, Ricardo. *A importância da prototipagem no processo de design e suas relações como mídia do conhecimento*.](https://drive.google.com/file/d/1nsWyBkfwf5eGalUTLS1t3r9LOcMewDZL/view?usp=sharing) |
+| 3   | Há validação do protótipo com o usuário?                                                                                    | [Ana Victória](https://github.com/navicg)                                                                    | <div><img src="" alt="Referência do item" width="100px"><br>[FREITAS, Janaina Aparecida de. *Design de interface humano-computador*. São Paulo: SENAC São Paulo, 2012.](https://moodle.ead.unipar.br/materiais/webflow/design-de-interface-humano-computador/documents/design-de-interface-humano-computador.pdf) |
+| 4   | O protótipo apresenta os elementos de interação (botões, links, menus) de forma acessível e compreensível ao usuário?                                                                                  | [Ana Victória](https://github.com/navicg)                                                                   | <div><img src="" alt="Referência do item" width="100px"><br>[FREITAS, Janaina Aparecida de. *Design de interface humano-computador*. São Paulo: SENAC São Paulo, 2012.](https://moodle.ead.unipar.br/materiais/webflow/design-de-interface-humano-computador/documents/design-de-interface-humano-computador.pdf) |
 
-| ID  | Item de Verificação                                                                                                        | Autor(es)                                                              | Referência                                                                                           |
-|-----|-----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
-| 1   | O protótipo representa fielmente o produto final em termos de forma, proporções e funcionalidades?                        |  [Luiza da Silva Pugas](https://github.com/Luizaxx)                           | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/lista-verificação-ent-5/docs/assets/Captura%20de%20Tela%202025-06-22%20às%2018.39.19.png" alt="" width="100px"><br><a href="https://drive.google.com/file/d/1ZSeLAoQL1nX6Z2bty7Gx8dY7anpvRQs2/view?usp=sharing">THEIS, Mara Rubia; SOUZA, George André de; FIALHO, Francisco Antônio Pereira; PEREIRA, Ricardo.
-A importância da prototipagem no processo de design e suas relações como mídia do conhecimento.</div>                                                                            |
-| 2   | A prototipagem foi realizada nas fases finais do projeto?                                                                  | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)                                              |<div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/lista-verificação-ent-5/docs/assets/Captura%20de%20Tela%202025-06-22%20às%2018.39.55.png" alt="Referência do item" width="100px"><br><a href="https://drive.google.com/file/d/1nsWyBkfwf5eGalUTLS1t3r9LOcMewDZL/view?usp=sharing">THEIS, Mara Rubia; SOUZA, George André de; FIALHO, Francisco Antônio Pereira; PEREIRA, Ricardo.
- </div>                                           |
 
-
-**Referência bibliográfica**
+## Referências bibliográficas
 
 THEIS, Mara Rubia; SOUZA, George André de; FIALHO, Francisco Antônio Pereira; PEREIRA, Ricardo.  
 *A importância da prototipagem no processo de design e suas relações como mídia do conhecimento.*  
@@ -55,13 +54,16 @@ Anais [...]. Maringá: UniCesumar, 2021.
 Disponível em: <https://eventos.unicesumar.edu.br/index.php/CIDTI/article/view/3990>.  
 Acesso em: 22 jun. 2025.
 
+FREITAS, Janaina Aparecida de. *Design de interface humano-computador*. São Paulo: SENAC São Paulo, 2012.
+Disponível em: <https://moodle.ead.unipar.br/materiais/webflow/design-de-interface-humano-computador/documents/design-de-interface-humano-computador.pdf>.  
+Acesso em: 22 jun. 2025.
 
 
+## Histórico de Versões
 
-
-# Histórico de Versões
 | Versão | Descrição                                                                                          | Autor(es)                                             | Data       | Revisor(es)                                        | Data de revisão |
 | ------ | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------- | -------------------------------------------------- | --------------- 
 | 1.0    | Adicionando tabelas da lista de verificação da entrega 5 do plano de ensino |  [Gabriel Lopes](https://github.com/BrzGab)  | 22/06/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 22/06/2025  
-| 1.0    | Adicionando tabelas da lista de verificação da entrega 5 prototipagem|  [Luiza da Silva Pugas](https://github.com/Luizaxx)  | 22/06/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 22/06/2025  
-| 1.0    | Adicionando tabelas da lista de verificação da entrega 5 prototipagem |[João Marcos Moraes](https://github.com/JJOAOMARCOSS)  | 22/06/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx)| 22/06/2025  
+| 1.1   | Adicionando tabelas da lista de verificação da entrega 5 prototipagem|  [Luiza da Silva Pugas](https://github.com/Luizaxx)  | 22/06/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 22/06/2025  
+| 1.2  | Adicionando tabelas da lista de verificação da entrega 5 prototipagem |[João Marcos Moraes](https://github.com/JJOAOMARCOSS)  | 22/06/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx)| 22/06/2025  
+| 1.3    | Adicionando itens 3 e 4 relacionado a prototipação |[Ana Victória](https://github.com/navicg)   | 22/06/2025 | [Karoline Luz](https://github.com/KarolineLuz)| 22/06/2025 
