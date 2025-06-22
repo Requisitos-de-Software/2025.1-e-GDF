@@ -1,7 +1,4 @@
-# Brainstorming
-
 # Introdução
-
 ## Brainstorming
 
 O [Brainstorming](https://github.com/Requisitos-de-Software/2025.1-Carteira-Digital-de-Transito/blob/main/docs/elicitacao/tec_elicitacao/brainstorming.md)  é uma técnica que fornece informações valiosas sobre os tipos de conteúdo e características que os usuários querem e desejam em um produto. Essa atividade pode ser aplicada a qualquer tipo de produto ou serviço, resultando em uma lista priorizada de necessidades, expectativas e desejos dos usuários. Em geral, essa técnica é amplamente utilizada para elicitar requisitos e revelar novas funcionalidades que poderiam agregar valor à experiência do usuário.
@@ -13,7 +10,7 @@ Os resultados dessa atividade podem ser utilizados como insumos diretos para a d
 Este conteúdo foi baseado no livro *Interação Humano-Computador* (**BARBOSA, Simone D. J.; SILVA, Bruno Santana da. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.**), de Ralph R. Young, que destaca o papel fundamental do brainstorming como uma das principais abordagens para a identificação e definição de requisitos em projetos de software.
 
 
-# Metodologia
+## Metodologia
 
 O processo de brainstorming foi estruturado durante uma reunião em sala de aula, onde foi discutido o andamento do projeto. Nesse encontro, foram definidas as funções de intermediador e secretário, que ficaram a cargo dos participantes [Luiza da Silva Pugas](https://github.com/Luizaxx) e [João Marcos Moraes](https://github.com/JJOAOMARCOSS), respectivamente.
 
@@ -21,7 +18,7 @@ Durante a reunião, realizada na terça-feira, 29 de abril, foram levantadas as 
 
 Os usuários foram submetidos a uma série de perguntas e para o compartilhamento de suas ideias, foi utilizada a plataforma Figma, por meio da funcionalidade FigJam. Nessa plataforma, os participantes tiveram a oportunidade de registrar suas ideias de forma escrita, além de compartilhá-las verbalmente durante a reunião. Todo o processo foi cuidadosamente documentado pelo secretário, João Marcos, com o intuito de realizar a elicitação de requisitos para o projeto.
 
-# Participantes 
+## Participantes 
 
 | Nº | Nome Completo                      | Presença | Papel                    |
 |----|------------------------------------|----------|--------------------------|
@@ -37,7 +34,8 @@ Os usuários foram submetidos a uma série de perguntas e para o compartilhament
 
 <font size="3"><p style="text-align: center"> Elaborado por: [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx).</p></font>
 
-# Palavras-chave
+## Palavras-chave
+
 | Palavra-chave   | Categoria/Assunto Relacionado       |
 |-----------------|--------------------------------------|
 | Login           | Acesso                              |
@@ -59,7 +57,7 @@ Os usuários foram submetidos a uma série de perguntas e para o compartilhament
 <font size="3"><p style="text-align: center">Elaborado por: [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx).</p></font>
 
 
-# Perguntas Utilizadas no Brainstorming
+## Perguntas Utilizadas no Brainstorming
 
 | **Categoria**                           | **Perguntas**                                                                                                                                                   |
 |----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -79,7 +77,7 @@ Os usuários foram submetidos a uma série de perguntas e para o compartilhament
 
 <font size="3"><p style="text-align: center">Elaborado por: [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx).</p></font>
  
-# Gravação da reunião de brainstorming
+## Gravação da reunião de brainstorming
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/ItswNLi2kJI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
@@ -87,7 +85,7 @@ Os usuários foram submetidos a uma série de perguntas e para o compartilhament
 
 <font size="3"><p style="text-align: center">Elaborado por: [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx).</p></font>
 
-# Elicitação de Requisitos Funcionais
+## Elicitação de Requisitos Funcionais
 
 Legenda da Tabela:  
 - RFx: Requisito Funcional nºx  
@@ -142,22 +140,105 @@ Legenda da Tabela:
 
 <font size="3"><p style="text-align: center">Elaborado por: [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx).</p></font>
 
-# Referência Bibliografia 
+---
+
+## Gravação Presencial
+
+## Participantes 
+
+| Nº  | Nome Completo                 | Presença | Papel      |
+| --- | ----------------------------- | -------- | ---------- |
+| 1   | João Marcos Moraes De Andrade | Presente | Secretário |
+| 2   | Luiza Da Silva Pugas          | Presente | Moderadora |
+| 3   | Luana         | Presente | Usuário    |
+| 4   | Whedson         | Presente | Usuário    |
+| 5   | Thalison Felipe   | Presente | Usuário    |
+| 6   | Gabriel       | Presente | Usuário    |
+| 7   | Bianca                   | Presente | Usuário    |
+| 8   | Nivea Cecília      | Presente | Usuário    |
+
+<font size="3"><p style="text-align: center"> Elaborado por: [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx).</p></font>
+
+
+## Palavras-chave
+| Palavra-chave  | Categoria/Assunto Relacionado |
+| -------------- | ----------------------------- |
+| Login          | Acesso                        |
+| Acesso         | Usabilidade                   |
+| Agendamento    | Serviços                      |
+| Notificações   | Comunicação                   |
+| Facilidade     | Usabilidade                   |
+| Dificuldade    | Usabilidade                   |
+| Interface      | Design                        |
+| Intuitivo      | Experiência do Usuário (UX)   |
+| Informações    | Conteúdo                      |
+| Realocação     | Organização da Informação     |
+| Inclusão       | Acessibilidade e Diversidade  |
+| Acessibilidade | Inclusão Digital              |
+| Idosos         | Público-alvo                  |
+| Jovens         | Público-alvo                  |
+| Chatbot        | Suporte ao Usuário            |
+
+<font size="3"><p style="text-align: center">Elaborado por: [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx).</p></font>
+
+
+## Perguntas Utilizadas no Brainstorming
+
+| **Categoria**                                        | **Perguntas**                                                                                                                                                                                                                                               |
+| ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1. Facilidade e Dificuldade no Uso do Aplicativo** | - Quais foram as partes do aplicativo que vocês tiveram mais facilidade de usar?<br>- Quais foram as partes do aplicativo que vocês tiveram mais dificuldade para utilizar?<br>- Houve alguma parte que vocês não conseguiram usar? Se sim, qual?           |
+| **2. Funcionalidades Desejadas**                     | - Quais funções vocês acham que deveriam existir no aplicativo para ajudar no seu cotidiano?                                                                                                                                                                |
+| **3. Usabilidade e Intuitividade**                   | - Como poderíamos tornar o aplicativo mais simples e intuitivo para qualquer pessoa usar, mesmo sem conhecimento técnico?<br>- Como torná-lo acessível para pessoas de maior idade, jovens ou pessoas de meia-idade que não têm facilidade com aplicativos? |
+| **4. Inclusão e Acessibilidade**                     | - O que poderia tornar o aplicativo mais inclusivo e acessível para diferentes perfis de usuário?                                                                                                                                                           |
+| **5. Relatórios e Notificações**                     | - Que tipos de relatórios ou notificações vocês gostariam de gerar ou visualizar no aplicativo?<br>- A parte de notícias é útil para vocês? Que melhorias sugerem?                                                                                          |
+| **6. Organização das Informações e Agendamentos**    | - Como vocês gostariam que fossem realocadas as informações de agendamento?<br>- Vocês gostam de como está organizado atualmente?<br>- Gostariam que tudo estivesse concentrado em uma única tela ou área?                                                  |
+| **7. Apoio ao Usuário Iniciante**                    | - Como o aplicativo poderia orientar um cidadão que nunca utilizou os serviços digitais do governo?                                                                                                                                                         |
+
+# Respostas dos usuários para as perguntas
+
+![](https://i.ibb.co/Qvm7C25c/Ideas-here-1.png)
+
+<p style="text-align: center"><a href="https://www.figma.com/board/r0BuvzjETtZ4NHreKd4tX6/Brainstorming-E-GDF?node-id=0-1&t=5c5GYhgNaWTHTTsG-1" target="_blank">Link FigJam</a></p> 
+
+<font size="3"><p style="text-align: center">Elaborado por: [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx).</p></font>
+
+## Gravação da reunião de brainstorming Presencial
+
+### Parte 1
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/EJdRdlUbaGw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/EJdRdlUbaGw" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+### Parte 2
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/C_s7ynlzFzY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/C_s7ynlzFzY" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+## Termo de consentimento de imagem 
+Este documento confirma que a cidadão Douglas Santos forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
+
+<font size="3"><p style="text-align: center">Elaborado por: [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx).</p></font>
+
+---
+
+## Referência Bibliografia 
 
 BARBOSA, Simone D. J.; SILVA, Bruno Santana da. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 Disponível em: <https://www.academia.edu/41857244/INTERA%C3%87%C3%83O_HUMANO_COMPUTADOR>. Acesso em: 29 abr. 2025.
-![](https://uploaddeimagens.com.br/images/004/897/880/original/Captura_de_tela_2025-05-11_213226.png?1747009967) 
 
 SERRANO, Milene; SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2023. Disponível em: <https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>. Acesso em: 26 abr. 2023.
 
-![](https://uploaddeimagens.com.br/images/004/897/879/original/brainstorming.png?1747009159) 
-
 SMITH, John E. Brainstorming groups: size and effectiveness. [S.l.]: Southern Nazarene University. Disponível em: <https://home.snu.edu/~jsmith/library/body/v26.pdf>. Acesso em: 29 abr. 2025.
 
-![](https://uploaddeimagens.com.br/images/004/897/881/original/Captura_de_tela_2025-05-11_213505.png?1747010121) 
-# Histórico de Versões
+
+## Histórico de Versões
 
 | Versão | Descrição                                           | Autor(es)                                                                 | Data       | Revisor(es)                                         | Data de revisão |
 |--------|----------------------------------------------------|---------------------------------------------------------------------------|------------|----------------------------------------------------|-----------------|
 | 1.0    | Criação da documentação do brainstorming           | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 30/04/2025 | [Ana Victória](https://github.com/navicg)          | 30/04/2025      |
 | 2.0    | Correção e padronização das tabelas, fontes e ajustes gerais | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 11/05/2025 | [Ana Victória](https://github.com/navicg)          | 12/05/2025      |
+| 3.0    | Refazendo a tecnica presencialmente | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 21/06/2025 | [Ana Victória](https://github.com/navicg)          | 21/06/2025      |
