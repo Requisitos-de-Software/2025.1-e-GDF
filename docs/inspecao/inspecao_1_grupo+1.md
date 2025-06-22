@@ -81,10 +81,10 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 ## Link da Reunião | Inspeção do nosso próprio grupo
 
 <p style="text-align: center">
-  <iframe width="560" height="315" src="https://youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://youtube.com/embed/wj3qd57xQkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
-A gravação da reunião está disponível em: [Link](https://www.youtube.com/)
+A gravação da reunião está disponível em: [Link](https://youtu.be/wj3qd57xQkE)
 
 ## Referências 
 
