@@ -38,6 +38,17 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([João Marcos](https://github.com/JJOAOMARCOSS)  e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
 
+
+
+## Rich Picture - e-GDF - Luiza da Silva Pugas 
+
+
+  O Rich Picture individual da aluna [Luiza da Silva Pugas](https://github.com/Luizaxx) encontra-se nesse PDF: [PDF](https://drive.google.com/file/d/1kPZ3Rj4s36CZBgEw7KLz3wilwb7KQpj7/view?usp=share_link)
+
+  <font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
+
+
+
 ---
 
 ## Referências
@@ -56,3 +67,4 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 | 1.1 | Padronizando histórico de versões | [Lucas Mendonça](https://github.com/lucasarruda9) | 13/04/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 13/04/2025 |
 | 1.2 | Mudança de Carteira Digital de Trânsito para e-GDF | [Gabriel Lopes](https://github.com/BrzGab) | 02/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 02/05/2025 |
 | 2.0 | Adicionando validação do rich picture de forma presencial | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 21/06/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 02/05/2025 |
+| 2.1 | Adicionando rich picture  individual | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 22/06/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 02/05/2025 |
