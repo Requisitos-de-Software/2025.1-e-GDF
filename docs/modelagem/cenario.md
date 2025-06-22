@@ -404,6 +404,25 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
 
+**Vídeo 7** - Validação dos cenários 17, 18 e 19.
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/_-G0sbH7xmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/_-G0sbH7xmk" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
+
+## Termo de consentimento de imagem 
+Este documento confirma que o cidadão Gabriel Souza forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
+
+| Entrevistador(es) |Cidadão|Data prevista| Data Realizada  |Horário Previsto|Horário Realizado|Local|Duração|
+| ---------------------------------------|------------ |------------------------ | ------ |-------|----------|-------|-------|
+|[Luiza da Silva Pugas](https://github.com/Luizaxx)|**Gabriel Souza** |19/06/2025| 21/06/2025| 15:00  | 15:15|   Presencial |  2:32 min |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
+
 ---
 
 ## Referências Bibliográficas
@@ -438,3 +457,4 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | 1.8    | Adicionando os cenários 18, 19 e 20| [Luiza da Silva Pugas](https://github.com/Luizaxx)|17/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 18/05/2025 |
 | 1.9    | Adicionando tabela que identifica o cenário que cada um participou e rastreabilidade dos requisitos elicitados. | [Ana Victória](https://github.com/navicg)|18/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 18/05/2025 |
 | 2.0    | Adicionando  Entrevista presencial | [Karoline Luz da Conceição](https://github.com/KarolineLuz)|20/06/2025|  [Ana Victória](https://github.com/navicg)|22/06/2025| 18/05/2025 |
+| 2.0    | Adicionando  Entrevista presencial | [Luiza da Silva Pugas](https://github.com/Luizaxx) |21/06/2025|  [Ana Victória](https://github.com/navicg)|22/06/2025| 18/05/2025 |

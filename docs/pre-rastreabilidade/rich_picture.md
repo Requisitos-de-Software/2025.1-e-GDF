@@ -19,6 +19,18 @@ Para a elaboração do Rich Picture, foi utilizada a ferramenta Lucidchart, que 
   <p>Figura 1: Segunda versão do Rich Picture(Fonte: Elaborado pelos autores: Gabriel e Lucas, 2025)</p>
 </div>
 
+**Vídeo 1** - Validação do Rich Picture com usuário por Luiza Pugas e João Marcos
+
+| Participante   | Entrevistador                                             | Data       | Horário       | Local |
+| -------------- | ----------------------------------------------------- | ---------- | ------------- | ----- |
+| Douglas Santos | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 21/06/2025 | 14:10 - 14:25 |  Brasília-DF  |
+
+<iframe width="560" height="315" src="https://youtu.be/embebed/-uU2mpbjsH4?si=7mBc9zx7W1c4VgPk" title="Validação Backlog - Lucas Mendonça" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p style="text-align: center"><a href="https://youtu.be/-uU2mpbjsH4?si=7mBc9zx7W1c4VgPk" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([João Marcos](https://github.com/JJOAOMARCOSS)  e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
+
 ## Referências
 
 1. MONK, Andrew; HOWARD, Steve. The Rich Picture: A Tool for Reasoning About Work Context. Disponível em: <https://www.ics.uci.edu/~wscacchi/Software-Process/Readings/RichPicture.pdf>. Acesso em: 11/04/2025.
@@ -34,3 +46,4 @@ Para a elaboração do Rich Picture, foi utilizada a ferramenta Lucidchart, que 
 | 1.0 | Rich Picture | [Gabriel Lopes](https://github.com/BrzGab) e [Lucas Mendonça](https://github.com/lucasarruda9) | 11/04/2025 | [Ana Victória](https://github.com/navicg) | 11/04/2025 |
 | 1.1 | Padronizando histórico de versões | [Lucas Mendonça](https://github.com/lucasarruda9) | 13/04/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 13/04/2025 |
 | 1.2 | Mudança de Carteira Digital de Trânsito para e-GDF | [Gabriel Lopes](https://github.com/BrzGab) | 02/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 02/05/2025 |
+| 2.0 | Adicionando validação do rich picture de forma presencial | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 21/06/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 02/05/2025 |

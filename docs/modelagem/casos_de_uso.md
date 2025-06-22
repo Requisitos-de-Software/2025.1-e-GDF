@@ -363,8 +363,26 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | Data de Criação | 18/05/2025 |
 | Rastreabilidade | [EN09](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
 
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ( [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+**Vídeo X** - Validação dos casos de usos 17, 18 e 19.
 
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/2RsMT-1wq4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/2RsMT-1wq4M" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
+
+## Termo de consentimento de imagem 
+Este documento confirma que o cidadão Gabriel Souza forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
+
+| Entrevistador(es) |Cidadão|Data prevista| Data Realizada  |Horário Previsto|Horário Realizado|Local|Duração|
+| ---------------------------------------|------------ |------------------------ | ------ |-------|----------|-------|-------|
+| [Luiza da Silva Pugas](https://github.com/Luizaxx) | **Gabriel Souza** |19/06/2025| 21/06/2025| 15:30  | 15:50| Presencial |  1:18 min |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
+
+---
 
 ## Referências Bibliograficas
 
@@ -393,3 +411,4 @@ Acessado em: 13 de Maio. de 2025.
 | 1.9    | Adicionando os casos de uso 19.| [Luiza da Silva Pugas](https://github.com/Luizaxx)|17/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 17/05/2025 |
 | 1.10    | Ajustes nos casos de uso | [Gabriel Lopes](https://github.com/BrzGab)|17/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 18/05/2025 |
 | 2.0    |Adicionando Entrevista presencial | [Karoline Luz](https://github.com/KarolineLuz)|20/06/2025|[Ana Victória](https://github.com/navicg)| 22/06/2025 |
+| 2.1    |Adicionando Entrevista presencial | [Luiza da Silva Pugas](https://github.com/Luizaxx)|21/06/2025|[Ana Victória](https://github.com/navicg)| 22/06/2025 |

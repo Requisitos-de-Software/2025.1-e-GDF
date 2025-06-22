@@ -407,13 +407,13 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 <p style="text-align: center"><font size="3">Fonte: Elaborado por (<a href="https://github.com/lucasarruda9">Lucas Mendonça</a>, 2025).</font></p>
 
-
-
 ### Validação 7 - Luiza Silva
 
 **Vídeo 8** - Validação com usuário por Luiza Silva
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_LUIZA_SILVA" title="Validação Backlog - Luiza Silva" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7lg5Khu2J6s" title="Validação Backlog - Luiza Silva" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p style="text-align: center"><a href="https://youtu.be/7lg5Khu2J6s" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
 **Tabela 10** - Informações da validação 7
 
@@ -429,7 +429,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 | **Autor** | **Usuário Participante** |
 | :-------- | :---------------------- |
-| [Luiza Silva](https://github.com/Luizaxx) |  |
+| [Luiza Silva](https://github.com/Luizaxx) | Thalisson Felipe |
 
 <p style="text-align: center"><font size="3">Fonte: Elaborado por (<a href="https://github.com/Luizaxx">Luiza Silva</a>, 2025).</font></p>
 
@@ -479,3 +479,4 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | 2.5 | Validaçaõ do Product Backlog com usuario real RF07, RF08, RF10, RF19, RF23, RF34, RNF22 | [Gabriel Lopes](https://github.com/BrzGab) | 01/06/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 30/05/2025 |
 | 2.6 | Validação do Product Backlog RF04, RF05, RF06, RF11, RF21, RF33, RNF20 | [Artur Mendonça](https://github.com/ArtyMend07) | 01/06/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 01/06/2025 | | 01/06/2025 |
 | 3.0 |Adicionando Entrevista presencial | [Karoline Luz](https://github.com/KarolineLuz)  | 20/06/2025 | [Ana Victória](https://github.com/navicg)| 22/06/2025 | | 01/06/2025 |
+| 3.1 |Adicionando Entrevista presencial | [Luiza da Silva Pugas](https://github.com/Luizaxx)  | 21/06/2025 | [Ana Victória](https://github.com/navicg)| 22/06/2025 | | 01/06/2025 |
