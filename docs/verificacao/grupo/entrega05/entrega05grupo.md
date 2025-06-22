@@ -36,6 +36,15 @@ Este documento apresenta uma lista de verificação para avaliar os artefatos pr
 |-----|--------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|-------------------------------------------------------------------------|
 | 1   |  ---                      | --- | <div><img src="---" alt="Referência do item" width="100px"><br><a href="---">--- </div>                     |
 
+# ✅ Lista de Verificação – Prototipagem de Alta Fidelidade
+
+| ID  | Item de Verificação                                                                                                        | Autor(es)                                                              | Referência                                                                                           |
+|-----|-----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| 1   | O protótipo representa fielmente o produto final em termos de forma, proporções e funcionalidades?                        |  [Luiza da Silva Pugas](https://github.com/Luizaxx)                           | <div><img src="---" alt="" width="100px"><br><a href="https://drive.google.com/file/d/1ZSeLAoQL1nX6Z2bty7Gx8dY7anpvRQs2/view?usp=sharing">THEIS, Mara Rubia; SOUZA, George André de; FIALHO, Francisco Antônio Pereira; PEREIRA, Ricardo.
+A importância da prototipagem no processo de design e suas relações como mídia do conhecimento.</div>                                                                            |
+| 2   | A prototipagem foi realizada nas fases finais do projeto?                                                                  | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)                                              |<div><img src="https://drive.google.com/file/d/1nsWyBkfwf5eGalUTLS1t3r9LOcMewDZL/view?usp=sharing" alt="Referência do item" width="100px"><br><a href="https://drive.google.com/file/d/1nsWyBkfwf5eGalUTLS1t3r9LOcMewDZL/view?usp=sharing">--- </div>                                           |
+
+
 
 # Histórico de Versões
 | Versão | Descrição                                                                                          | Autor(es)                                             | Data       | Revisor(es)                                        | Data de revisão |
