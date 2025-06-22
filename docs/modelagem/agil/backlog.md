@@ -431,7 +431,16 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | :-------- | :---------------------- |
 | [Luiza Silva](https://github.com/Luizaxx) | Thalisson Felipe |
 
-<p style="text-align: center"><font size="3">Fonte: Elaborado por (<a href="https://github.com/Luizaxx">Luiza Silva</a>, 2025).</font></p>
+<font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+
+## Termo de consentimento de imagem 
+Este documento confirma que o cidadão Vitor Pereira forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1Vx3nkS_CSteiuCCOe2M4GVtsV7QjfV8V/view?usp=share_link)
+
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+
 
 ## Referência Bibliográfica
 

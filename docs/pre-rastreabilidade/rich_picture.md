@@ -34,7 +34,7 @@ Para a elaboração do Rich Picture, foi utilizada a ferramenta Lucidchart, que 
 ## Termo de consentimento de imagem 
 Este documento confirma que a cidadão Douglas Santos forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
 
-O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/assets/termo-img/Termo-Rich.pdf)
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([João Marcos](https://github.com/JJOAOMARCOSS)  e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
 

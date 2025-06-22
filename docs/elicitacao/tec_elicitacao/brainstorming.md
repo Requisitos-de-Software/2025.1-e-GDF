@@ -219,7 +219,7 @@ Legenda da Tabela:
 ## Termo de consentimento de imagem 
 Este documento confirma que a cidadão Douglas Santos forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
 
-O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/assets/termo-img/Assinatura com todos os participantes .pdf)
 
 <font size="3"><p style="text-align: center">Elaborado por: [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx).</p></font>
 

@@ -334,7 +334,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](../../
 ## Termo de consentimento de imagem 
 Este documento confirma que a cidadã Nívea Cecília forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
 
-O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](../../assets/termo-img/Assinatura%20Nivea%20.pdf)
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1Vx3nkS_CSteiuCCOe2M4GVtsV7QjfV8V/view?usp=share_link)
 
 **Vídeo 2** - Validação e Priorização de NFR com usuário por [João Marcos Moraes](https://github.com/JJOAOMARCOSS)
 
