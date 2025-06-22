@@ -152,6 +152,15 @@ A ferramenta utilizada para a criação do diagrama foi o **[Drawio](https://www
 
 <font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Artur Mendonça](https://github.com/ArtyMend07), 2025).</p></font>
 
+## Validação dos Casos de Uso - Artur Mendonça
+
+Os casos de uso UC04, UC05 e UC06 elaborados por Artur Mendonça foram validados através de entrevista com usuário do sistema eGDF.
+
+**Link da gravação da validação:**
+[Validação dos Casos de Uso - Artur Mendonça](https://youtu.be/NxpuBvQZubI)
+
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Artur Mendonça](https://github.com/ArtyMend07), 2025).</p></font>
+
 | UC07 | Ajustar Tamanho de Fonte e Contraste |
 | ----- | ---------- |
 | Descrição | O usuário altera o tamanho da fonte e o contraste de cores do aplicativo |
@@ -378,3 +387,4 @@ Acessado em: 13 de Maio. de 2025.
 | 1.8    | Implementando os casos de uso 16, 17 e 18 no artefato. | [Karoline Luz da Conceição](https://github.com/KarolineLuz)|17/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 17/05/2025 |
 | 1.9    | Adicionando os casos de uso 19.| [Luiza da Silva Pugas](https://github.com/Luizaxx)|17/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 17/05/2025 |
 | 2.0    | Ajustes nos casos de uso | [Gabriel Lopes](https://github.com/BrzGab)|17/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 18/05/2025 |
+| 2.1    | Adição da seção de validação dos casos de uso do Artur Mendonça | [Artur Mendonça](https://github.com/ArtyMend07)|22/06/2025| [Lucas Mendonça](https://github.com/lucasarruda9) | 22/06/2025 |
