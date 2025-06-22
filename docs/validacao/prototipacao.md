@@ -160,14 +160,10 @@ Foram desenvolvidos protótipos específicos para validar funcionalidades de ges
 
 Este protótipo valida o [RF16](../elicitacao/req_elicitados.md#anchor_RF) – "O sistema deve disponibilizar, em uma única interface, o acesso às informações de agendamentos e reagendamentos realizados pelo usuário autenticado", apresentando uma visão centralizada para facilitar o gerenciamento dos compromissos agendados.
 
-<p style="text-align: center"><a href="https://www.figma.com/link" target="blank">Clique aqui para visualizar o protótipo UC15 - Acessar Informações de Agendamento</a></p>
+<p style="text-align: center"><a href="https://www.figma.com/proto/W7ncAD944YfS8IYYBIrbsq/e-GDF-UC15?node-id=1-93&p=f&t=6Ac4W3feqgLCN5Dz-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1" target="blank">Clique aqui para visualizar o protótipo UC15 - Acessar Informações de Agendamento</a></p>
 
 
-<p style="text-align: center">
-  <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="coloque o link aqui" allowfullscreen></iframe>
-</p>
-
-
+<p style="text-align: center"><font size="3">Fonte:Protótipos elaborados por (<a href="https://github.com/KarolineLuz">Karoline Luz</a>, 2025).</font></p>
 ---
 
 ### UC16 – Reportar Problemas da Cidade via Mapa Interativo
@@ -175,15 +171,13 @@ Este protótipo valida o [RF16](../elicitacao/req_elicitados.md#anchor_RF) – "
 Este protótipo valida o [RF25](../elicitacao/req_elicitados.md#anchor_RF) – "O sistema deve permitir que usuários autenticados reportem problemas urbanos selecionando um ponto no mapa interativo e preenchendo um formulário com tipo, descrição e, opcionalmente, imagem do problema", demonstrando a interação com o mapa e o registro dos problemas de forma geolocalizada.
 
 
-<p style="text-align: center"><a href="https://www.figma.com/link" target="blank">Clique aqui para visualizar o protótipo UC16 - Mapa Interativo</a></p>
+<p style="text-align: center"><a href="https://www.figma.com/proto/XHtHQTe1HqTU61qgGZ2Ewg/e-GDF-UC16?node-id=1-88&p=f&t=iB2Fs0Vkwc2C8YgE-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1" target="blank">Clique aqui para visualizar o protótipo UC16 - Mapa Interativo</a></p>
 
-<p style="text-align: center">
-  <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="coloque o link aqui" allowfullscreen></iframe>
-</p>
 
 <p style="text-align: center"><font size="3">Fonte:Protótipos elaborados por (<a href="https://github.com/KarolineLuz">Karoline Luz</a>, 2025).</font></p>
 
 ---
+
 
 
 ## Considerações Finais
