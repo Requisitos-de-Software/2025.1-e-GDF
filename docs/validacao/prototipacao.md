@@ -255,6 +255,15 @@ Este protótipo valida o [RF10](../elicitacao/req_elicitados.md#anchor_RF) - "Ge
 
 <font size="3"><p style="text-align: center"> Protótipos elaborados por [Gabriel Lopes](https://github.com/BrzGab), 2025</p></font>
 
+| Participante   | Entrevistador                                          | Data       | Horário       | Local |
+| -------------- | -------------------------------------------------- | ---------- | ------------- | ----- |
+| Julia Soares | [Gabriel Lopes](https://github.com/BrzGab) | 22/06/2025 | 18:00 |Presencial |
+
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=kNhCgv2YzNo" target="_blank">Vídeo - Validação dos Protótipos UC07, UC08, UC09</a></p>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=kNhCgv2YzNo" allowfullscreen></iframe></p>
+
+
 ## Protótipos dos Casos de Uso UC15 e UC16
 Foram desenvolvidos protótipos específicos para validar funcionalidades de gestão de agendamentos e reporte de problemas urbanos, elaborados por [Karoline Luz](https://github.com/KarolineLuz), focando nos casos de uso UC15 e UC16.
 
@@ -311,3 +320,4 @@ Esses pontos serão considerados no planejamento das próximas versões do prot�
 | 1.6   | Adicionando videos dos protótipos uc15 e uc16 | [Karoline Luz](https://github.com/KarolineLuz)| 22/06/2025 |  [Ana Victória Guedes da Costa](https://github.com/navicg)| 22/06/2025      |
 | 1.7   | Adicionando protótipos UC04 e UC05 | [Artur Mendonça](https://github.com/ArtyMend07) | 22/06/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 22/06/2025      |
 | 1.8   | Adicionando os protótipos dos casos de uso UC01 e UC03, juntamente com a validação de ambos.| [Ana Victória Guedes da Costa](https://github.com/navicg) | 22/06/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 22/06/2025      |
+| 1.8   | Adicionando a validação do protótipo dos casos de uso 07,08,09| [Gabriel Lopes](https://github.com/BrzGab) | 22/06/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 22/06/2025      |
