@@ -32,9 +32,6 @@ Este documento apresenta uma lista de verificação para avaliar os artefatos pr
 
 <p align="center">Tabela 2 – Lista de Verificação - Prototipação</p>
 
-| ID  | Item de Verificação                                                                                   | Autor                                                                 | Referência                                                              |
-|-----|--------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|-------------------------------------------------------------------------|
-| 1   |  ---                      | --- | <div><img src="---" alt="Referência do item" width="100px"><br><a href="---">--- </div>                     |
 
 # ✅ Lista de Verificação – Prototipagem de Alta Fidelidade
 | ID  | Item de Verificação                                                                                                         | Autor(es)                                                             | Referência                                                                                                                                                                                                                                                                                                                                                                                                                               |
@@ -43,18 +40,19 @@ Este documento apresenta uma lista de verificação para avaliar os artefatos pr
 | 2   | A prototipagem foi realizada nas fases finais do projeto?                                                                   | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)                | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/lista-verificação-ent-5/docs/assets/Captura%20de%20Tela%202025-06-22%20às%2018.39.55.png" alt="Referência do item" width="100px"><br>[THEIS, Mara Rubia; SOUZA, George André de; FIALHO, Francisco Antônio Pereira; PEREIRA, Ricardo. *A importância da prototipagem no processo de design e suas relações como mídia do conhecimento*.](https://drive.google.com/file/d/1nsWyBkfwf5eGalUTLS1t3r9LOcMewDZL/view?usp=sharing) |
 | 3   | Há validação do protótipo com o usuário?                                                                                    | [Ana Victória](https://github.com/navicg)                                                                    | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/lista-verifica%C3%A7%C3%A3o-ent-5/docs/assets/lista5_prototipacao/item3_prototipo.png" alt="Referência do item" width="100px"><br>[FREITAS, Janaina Aparecida de. *Design de interface humano-computador*. São Paulo: SENAC São Paulo, 2012.](https://moodle.ead.unipar.br/materiais/webflow/design-de-interface-humano-computador/documents/design-de-interface-humano-computador.pdf) |
 | 4   | O protótipo apresenta os elementos de interação (botões, links, menus) de forma acessível e compreensível ao usuário?                                                                                  | [Ana Victória](https://github.com/navicg)                                                                   | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/lista-verifica%C3%A7%C3%A3o-ent-5/docs/assets/lista5_prototipacao/item4_prototipo.png" alt="Referência do item" width="100px"><br>[FREITAS, Janaina Aparecida de. *Design de interface humano-computador*. São Paulo: SENAC São Paulo, 2012.](https://moodle.ead.unipar.br/materiais/webflow/design-de-interface-humano-computador/documents/design-de-interface-humano-computador.pdf) |
-
+| 5   |  A validação considerou critérios como eficiência, eficácia e satisfação dos usuários?                                                                              | [Karoline Luz](https://github.com/KarolineLuz)                                                                   | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/lista-verifica%C3%A7%C3%A3o-ent-5/docs/assets/lista5_prototipacao/item4_prototipo.png" alt="Referência do item" width="100px"><br>[FREITAS, Janaina Aparecida de. *Design de interface humano-computador*. São Paulo: SENAC São Paulo, 2012.](https://moodle.ead.unipar.br/materiais/webflow/design-de-interface-humano-computador/documents/design-de-interface-humano-computador.pdf) |
+| 6  |   Usuários ou stakeholders participaram da definição de requisitos e melhorias da interface desde os primeiros protótipos?                 | [Karoline Luz](https://github.com/KarolineLuz)                                                                   | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/lista-verifica%C3%A7%C3%A3o-ent-5/docs/assets/lista5_prototipacao/item4_prototipo.png" alt="Referência do item" width="100px"><br>[FREITAS, Janaina Aparecida de. *Design de interface humano-computador*. São Paulo: SENAC São Paulo, 2012.](https://moodle.ead.unipar.br/materiais/webflow/design-de-interface-humano-computador/documents/design-de-interface-humano-computador.pdf) |
 
 ## Referências bibliográficas
 
-THEIS, Mara Rubia; SOUZA, George André de; FIALHO, Francisco Antônio Pereira; PEREIRA, Ricardo.  
+>THEIS, Mara Rubia; SOUZA, George André de; FIALHO, Francisco Antônio Pereira; PEREIRA, Ricardo.  
 *A importância da prototipagem no processo de design e suas relações como mídia do conhecimento.*  
 In: CONGRESSO INTERNACIONAL DE DESIGN, TECNOLOGIA E INOVAÇÃO – CIDTI, 2., 2021, Maringá.  
 Anais [...]. Maringá: UniCesumar, 2021.  
 Disponível em: <https://eventos.unicesumar.edu.br/index.php/CIDTI/article/view/3990>.  
 Acesso em: 22 jun. 2025.
 
-FREITAS, Janaina Aparecida de. *Design de interface humano-computador*. São Paulo: SENAC São Paulo, 2012.
+>FREITAS, Janaina Aparecida de. *Design de interface humano-computador*. São Paulo: SENAC São Paulo, 2012.
 Disponível em: <https://moodle.ead.unipar.br/materiais/webflow/design-de-interface-humano-computador/documents/design-de-interface-humano-computador.pdf>.  
 Acesso em: 22 jun. 2025.
 
@@ -67,3 +65,4 @@ Acesso em: 22 jun. 2025.
 | 1.1   | Adicionando tabelas da lista de verificação da entrega 5 prototipagem|  [Luiza da Silva Pugas](https://github.com/Luizaxx)  | 22/06/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 22/06/2025  
 | 1.2  | Adicionando tabelas da lista de verificação da entrega 5 prototipagem |[João Marcos Moraes](https://github.com/JJOAOMARCOSS)  | 22/06/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx)| 22/06/2025  
 | 1.3    | Adicionando itens 3 e 4 relacionado a prototipação |[Ana Victória](https://github.com/navicg)   | 22/06/2025 | [Karoline Luz](https://github.com/KarolineLuz)| 22/06/2025 
+| 1.4   | Adicionando itens 5 e 6 relacionado a prototipação | [Karoline Luz](https://github.com/KarolineLuz)   | 22/06/2025 | [Ana Victória](https://github.com/navicg)| 22/06/2025 
