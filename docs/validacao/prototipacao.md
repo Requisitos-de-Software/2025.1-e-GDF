@@ -36,7 +36,6 @@ Caso queira visualizar o protótipo, <a href="https://www.figma.com/proto/yyeeVX
 
 <p style="text-align: center"><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FyyeeVX0sv1XST9EkzWwxlx%2FE-GDF%3Fnode-id%3D18-1908%26starting-point-node-id%3D18%253A1908" allowfullscreen></iframe></p>
 
-<center>
 
 **Tabela 1** - Cronograma Planejado.
 
