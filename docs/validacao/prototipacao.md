@@ -12,7 +12,8 @@ A prototipagem, portanto, se torna uma ferramenta poderosa para reduzir incertez
 
 Foi desenvolvido um protótipo de alta fidelidade utilizando a ferramenta Figma, com o intuito de representar visualmente as funcionalidades propostas para o sistema **E-GDF**. O foco principal foi validar os seguintes <a href="../../elicitacao/requisitos_elicitados#anchor_RF">requisitos</a>:
 
-
+- [RF01](../elicitacao/req_elicitados.md#anchor_RF) - O usuário deve conseguir realizar login de forma simples e rápida.
+- [RF03](../elicitacao/req_elicitados.md#anchor_RF) - O usuário deve conseguir acessar funcionalidades mesmo com pouca familiaridade com tecnologia.
 - [RF07](../elicitacao/req_elicitados.md#anchor_RF) - Alterar o tamanho da fonte e o contraste de cores.
 - [RF08](../elicitacao/req_elicitados.md#anchor_RF) - Permitir modo escuro.
 - [RF10](../elicitacao/req_elicitados.md#anchor_RF) - Gerar relatórios e visualizar comprovantes de agendamentos.
@@ -164,6 +165,65 @@ Este protótipo valida funcionalidades de atendimento automatizado através de c
 Os protótipos UC04 e UC05 foram validados demonstrando as funcionalidades de central de relacionamento e chatbot. O UC04 apresenta uma interface organizada para acesso aos serviços governamentais, enquanto o UC05 demonstra um sistema de chatbot intuitivo que auxilia os usuários na navegação e obtenção de informações. A validação mostrou que ambas as funcionalidades atendem às necessidades dos usuários e proporcionam uma experiência de uso satisfatória.
 
 ---
+## Protótipos dos Casos de Uso UC01 e UC03
+
+Foram desenvolvidos protótipos específicos para validar funcionalidades de usabilidade e localização por [Ana Victória Guedes da Costa](https://github.com/navicg), focando nos casos de uso UC01 e UC03.
+
+### UC01 - Login de forma simples e rápida
+
+Este protótipo valida o [RF01](../elicitacao/req_elicitados.md#anchor_RF) - "Realizar Login de forma simples e rápida". Nele, são apresentadas as telas e fluxos necessários para que o usuário consiga efetuar o login de maneira ágil e sem complicações
+
+<p style="text-align: center"><a href="https://www.figma.com/proto/Ztqd5ykfFtQWBSWY2Db9KB/UC01---Login-de--forma-simples-e-r%C3%A1pida?node-id=1-45&p=f&t=LsbVa8jppxklxPJy-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A37" target="blank">Clique aqui para visualizar o protótipo UC01 - Login de forma simples e rápida</a></p>
+
+<p style="text-align: center">
+  <iframe
+    style="border: 1px solid rgba(0, 0, 0, 0.1);"
+    width="800"
+    height="450"
+    src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FZtqd5ykfFtQWBSWY2Db9KB%2FUC01---Login-de--forma-simples-e-r%C3%A1pida%3Fnode-id%3D1-37%26starting-point-node-id%3D1%253A37%26t%3D6Wfny5Vf4KFOHQVf-1"
+    allowfullscreen>
+  </iframe>
+</p>
+
+### UC03 - Notificações baseadas na localização do usuário
+
+Este protótipo valida o [RF03](../elicitacao/req_elicitados.md#anchor_RF) - "O usuário deve poder receber notificações personalizadas com base em sua localização". O protótipo desenvolvido contempla o fluxo de configuração e recebimento de notificações que são disparadas de acordo com a localização geográfica do usuário, validando assim o requisito RF03.
+
+<p style="text-align: center"><a href="https://www.figma.com/proto/yItFd5elSueePbfDIN7dxM/UC03---Notifica%C3%A7%C3%B5es-personalizadas-baseadas-na-localiza%C3%A7%C3%A3o?node-id=7-34&p=f&t=d87NmFKHPiOSJE9R-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=7%3A34" target="blank">Clique aqui para visualizar o protótipo UC03 - Notificações baseadas na localização do usuário</a></p>
+
+<p style="text-align: center">
+  <iframe
+    style="border: 1px solid rgba(0, 0, 0, 0.1);"
+    width="800"
+    height="450"
+    src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FyItFd5elSueePbfDIN7dxM%2FUC03---Notifica%C3%A7%C3%B5es-personalizadas-baseadas-na-localiza%C3%A7%C3%A3o%3Fnode-id%3D7-34%26p%3Df%26scaling%3Dscale-down%26content-scaling%3Dfixed%26page-id%3D0%253A1%26starting-point-node-id%3D7%253A34"
+    allowfullscreen>
+  </iframe>
+</p>
+
+
+---
+### Entrevista 5
+
+| Participante   | Entrevistador                                          | Data       | Horário       | Local |
+| -------------- | -------------------------------------------------- | ---------- | ------------- | ----- |
+| Emanuel Maurício | [Ana Victória Guedes da Costa](https://github.com/navicg) | 22/06/2025 |13:00 - 13:10| Presencial
+
+<p style="text-align: center">
+  <a href="https://youtu.be/c9r46_TD8d4" target="_blank">Vídeo 5 - Entrevista com Emanuel Maurício </a>
+</p>
+
+<p style="text-align: center">
+  <iframe width="560" height="315" src="https://youtube.com/embed/c9r46_TD8d4" allowfullscreen></iframe>
+</p>
+
+<p style="text-align: center">
+  <span style="font-size: 14px;">Fonte: Elaborado por <a href="https://github.com/navicg">Ana Victória Guedes da Costa</a>, 2025.</span>
+</p>
+
+**Resumo:** 
+
+Durante o processo de validação do protótipo, o usuário demonstrou uma percepção bastante positiva em relação às funcionalidades apresentadas. Segundo seu relato, os recursos disponíveis no protótipo são bastante pertinentes e atendem de forma adequada às necessidades que ele espera de um aplicativo com essas características. O usuário destacou que as tarefas ilustradas durante a navegação pelo protótipo foram de fácil compreensão e execução, transmitindo uma experiência de uso simples e fluida. Além disso, reforçou que a organização das informações e a disposição dos elementos na interface contribuíram para tornar a interação mais intuitiva. Por fim, o usuário afirmou que, naquele momento, não identificou nenhuma necessidade de ajustes ou sugestões de melhoria, demonstrando satisfação com a solução proposta.
 
 ## Protótipos dos Casos de Uso UC07, UC08 e UC09
 
@@ -250,3 +310,4 @@ Esses pontos serão considerados no planejamento das próximas versões do prot�
 | 1.5   | Preparando documentos para receber video e protótipos uc15 e uc16 | [Karoline Luz](https://github.com/KarolineLuz)| 21/06/2025 |  [Ana Victória Guedes da Costa](https://github.com/navicg)| 22/06/2025      |
 | 1.6   | Adicionando videos dos protótipos uc15 e uc16 | [Karoline Luz](https://github.com/KarolineLuz)| 22/06/2025 |  [Ana Victória Guedes da Costa](https://github.com/navicg)| 22/06/2025      |
 | 1.7   | Adicionando protótipos UC04 e UC05 | [Artur Mendonça](https://github.com/ArtyMend07) | 22/06/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 22/06/2025      |
+| 1.8   | Adicionando protótipos UC01 e UC03 | [Ana Victória Guedes da Costa](https://github.com/navicg) | 22/06/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 22/06/2025      |
