@@ -259,7 +259,7 @@ A ferramenta utilizada para a criação do diagrama foi o **[Drawio](https://www
 ## Termo de consentimento de imagem 
 Este documento confirma que a cidadão Thalison Felipe forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
 
-O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/docs/corre%C3%A7%C3%A3o-de-erros/docs/assets/termo-img/Assinatura%20com%20todos%20os%20participantes%20.pdf)
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([João Marcos](https://github.com/JJOAOMARCOSS), 2025)</p></font>
 
