@@ -109,20 +109,19 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 <font size="3"><p style="text-align: center"> Elaborado pelos(as) autores(as): ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
 
 
-# Link da Reunião | Inspeção do nosso próprio grupo
+## Link da Reunião | Inspeção do nosso próprio grupo
 
 <p style="text-align: center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/bwLlEudMYcg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
 
-# Referências 
+## Referências 
 
 - Lista de verificação elaborada pelo grupo para avaliar todos os artefatos da Entrega 5 do projeto. Disponível em: [Lista de verificação](../verificacao/grupo/entrega05/entrega05grupo.md).
 
+## Histórico de Versões
 
-
-# Histórico de Versões
 | Versão | Descrição                                                                                          | Autor(es)                                             | Data       | Revisor(es)                                        | Data de revisão |
 | ------ | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------- | -------------------------------------------------- | --------------- 
 | 1.0    | Adicionando tabelas da lista de inspeção da entrega 5 do eGDF| [Luiza da Silva Pugas](https://github.com/Luizaxx) | 06/06/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 08/06/2025  |

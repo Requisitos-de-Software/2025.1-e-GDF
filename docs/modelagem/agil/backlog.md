@@ -335,11 +335,20 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](/docs/
 ### Validação 5 - Karoline Luz
 
 
-**Vídeo 5** - Validação com usuário por Karoline Luz
+**Vídeo 5** - Validação com usuário por  [Karoline Luz](https://github.com/KarolineLuz)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E0MSih6ABqg" title="Validação Backlog - Karoline Luz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
+<p style="text-align: center"><a href="https://youtu.be/E0MSih6ABqg" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+**Vídeo 6** - Validação com usuário por  [Karoline Luz](https://github.com/KarolineLuz)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LE1eMGZdH1U" title="Validação Backlog - Karoline Luz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+<p style="text-align: center"><a href="https://youtu.be/LE1eMGZdH1U" target="_blank">Clique aqui para 
+assistir no YouTube</a></p>
 
 **Tabela 8** - Informações da validação 5
 
@@ -353,21 +362,28 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](/docs/
 | [Serviços do Cidadão](#tema-3-serviços-do-cidadão) | [Serviços Centralizados](#épico-4-serviços-centralizados) (EP04) | Emitir tributos, certidões e documentos fiscais ([US27](./historia-de-usuario.md)) | RF43 | SH | Validado | [INT13](../../elicitacao/tec_elicitacao/introspeccao.md#anchor_INT), [BR18](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) | [Karoline Luz](https://github.com/KarolineLuz) |
 | [Acessibilidade](#tema-9-acessibilidade) | [Recursos de Acessibilidade](#épico-3-recursos-acessibilidade) (EP03) | Interface acessível para idosos ([US28](./historia-de-usuario.md)) | RNF16 | SH | Validado | [EN06](../../elicitacao/tec_elicitacao/entrevista.md#anchor_EN) | [Karoline Luz](https://github.com/KarolineLuz) |
 
-| **Autor** | **Usuário Participante** |
-| :-------- | :---------------------- |
-| [Karoline Luz](https://github.com/KarolineLuz) |  Leonardo Rodrigues Martins|
-
-
-## Termo de consentimento de imagem 
+## Termo de consentimento de imagem - (Entrevista 1)
 Este documento confirma que o cidadão Leonardo Rodrigues Martins forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
 
 O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1K8P5RS7xYEd8k3xGEkLp9QrjuAOqB51s/view?usp=sharing)
+
+## Termo de consentimento de imagem - (Entrevista 2)
+Este documento confirma que o cidadão Júnia Luz de Sousa forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1tAtNRMAKPoStT9ZyOU-DdT1I9mJgC5qK/view?usp=sharing)
+
+| Entrevistador(es) |Cidadão|Data prevista| Data Realizada  |Horário Previsto|Horário Realizado|Local|Duração|
+| ---------------------------------------|------------ |------------------------ | ------ |-------|----------|-------|-------|
+|[Karoline Luz](https://github.com/KarolineLuz)|**Leonardo R.M** |01/05/2025| 01/05/2025| 15:30  | 15:45|  Microsoft - Teams |  05:21 min |
+|[Karoline Luz](https://github.com/KarolineLuz)|**Júnia L.S** |20/06/2025| 20/06/2025| 16:10  | 16:20|   Presencial |  03:07 min |
+
+
 
 <p style="text-align: center"><font size="3">Fonte: Elaborado por (<a href="https://github.com/KarolineLuz">Karoline Luz</a>, 2025).</font></p>
 
 ### Validação 6 - Lucas Mendonça
 
-**Vídeo 6** - Validação com usuário por Lucas Mendonça
+**Vídeo 7** - Validação com usuário por Lucas Mendonça
 
 <iframe width="560" height="315" src="https://youtube.com/embed/R7kMTJI2olg?si=4KrjLObnLS1_vVUL" title="Validação Backlog - Lucas Mendonça" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -395,7 +411,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 ### Validação 7 - Luiza Silva
 
-**Vídeo 7** - Validação com usuário por Luiza Silva
+**Vídeo 8** - Validação com usuário por Luiza Silva
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_LUIZA_SILVA" title="Validação Backlog - Luiza Silva" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -462,3 +478,4 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | 2.4 | Validação do Product Backlog  RF01, RF02, RF03, RF09, RF15, RF20, RNF13 com usuário real | [Ana Victória](https://github.com/navicg) | 01/06/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 01/06/2025 |
 | 2.5 | Validaçaõ do Product Backlog com usuario real RF07, RF08, RF10, RF19, RF23, RF34, RNF22 | [Gabriel Lopes](https://github.com/BrzGab) | 01/06/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 30/05/2025 |
 | 2.6 | Validação do Product Backlog RF04, RF05, RF06, RF11, RF21, RF33, RNF20 | [Artur Mendonça](https://github.com/ArtyMend07) | 01/06/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 01/06/2025 | | 01/06/2025 |
+| 3.0 |Adicionando Entrevista presencial | [Karoline Luz](https://github.com/KarolineLuz)  | 20/06/2025 | [Ana Victória](https://github.com/navicg)| 22/06/2025 | | 01/06/2025 |
