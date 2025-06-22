@@ -21,9 +21,9 @@ O [Grupo 7](https://github.com/Requisitos-de-Software/2025.1-e-GDF) foi respons�
 
 As inspeções realizadas pelo professor e seus monitores são enviadas ao grupo por meio de arquivos em formato PDF. A seguir, estão listadas as avaliações correspondentes a cada entrega:
 
-- [Entrega 1]()
-- [Entrega 2]()
-- [Entrega 3]()
+- [Entrega 1](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/docs/cria%C3%A7%C3%A3o-prot%C3%B3tipos-de-interface/docs/assets/grupo-1/Requisitos-Entrega01-Grupo08.pdf)
+- [Entrega 2](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/docs/cria%C3%A7%C3%A3o-prot%C3%B3tipos-de-interface/docs/assets/grupo-1/Atividade_avaliativa-Requisitos-Entrega%202-Grupo%208.pdf)
+- [Entrega 3](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/docs/cria%C3%A7%C3%A3o-prot%C3%B3tipos-de-interface/docs/assets/grupo-1/_Atividade_avaliativa_Requisitos_Entrega_3_Modelagem_Grupo8.pdf)
 - Entrega 4(Ainda não realizada)
 - Entrega 5 (Ainda não realizada)
 - Entrega 6 (Ainda não realizada)
