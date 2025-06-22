@@ -104,14 +104,25 @@ O participante considerou a funcionalidade de autenticação via gov.br prática
 
 | Participante   | Entrevistador                                          | Data       | Horário       | Local |
 | -------------- | -------------------------------------------------- | ---------- | ------------- | ----- |
-| Júnia Luz de Sousa | [Karoline Luz](https://github.com/KarolineLuz) | 22/06/2025 |-  |    |
-
+| Júnia Luz de Sousa | [Karoline Luz](https://github.com/KarolineLuz) | 22/06/2025 |12:00 - 12:30| Presencial
 <p style="text-align: center">
-  <a href="https://youtu.be/link" target="_blank">Vídeo 3 - Entrevista com Júnia Luz de Sousa</a>
+  <a href="https://youtu.be/IU0yfmsoc8A" target="_blank">Vídeo 3 - Entrevista com Júnia Luz de Sousa</a>
 </p>
 
 <p style="text-align: center">
-  <iframe width="560" height="315" src="https://youtube.com/embed/link" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://youtube.com/embed/IU0yfmsoc8A" allowfullscreen></iframe>
+</p>
+
+<p style="text-align: center">
+  <span style="font-size: 14px;">Fonte: Elaborado por <a href="https://github.com/KarolineLuz">Karoline Luz</a>, 2025.</span>
+</p>
+
+<p style="text-align: center">
+  <a href="https://youtu.be/COrZMgs4Ftk" target="_blank">Vídeo 4 - Entrevista com Júnia Luz de Sousa</a>
+</p>
+
+<p style="text-align: center">
+  <iframe width="560" height="315" src="https://youtube.com/embed/COrZMgs4Ftk" allowfullscreen></iframe>
 </p>
 
 <p style="text-align: center">
@@ -119,7 +130,11 @@ O participante considerou a funcionalidade de autenticação via gov.br prática
 </p>
 
 **Resumo:**  
-colocar resumo
+
+**UC15 :** O usuário achou a interface clara e útil para gerenciar agendamentos e reagendamentos em um só lugar. Sugeriu incluir recursos de acessibilidade visual, como contraste, aumento de fonte e navegação simplificada, pensando em pessoas com deficiência visual e idosos.
+
+**UC16 :** O usuário avaliou o protótipo de forma muito positiva, considerando-o visualmente agradável, intuitivo e fácil de navegar. Destacou que a organização das informações facilita a compreensão e o uso da funcionalidade, atendendo bem ao objetivo proposto. A interface foi vista como prática e adequada para o público geral.
+
 
 ---
 
@@ -206,3 +221,4 @@ Esses pontos serão considerados no planejamento das próximas versões do prot�
 | 1.3   | Adicionando resumo e comentarios do usuario | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 19/06/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 24/06/2025      |
 | 1.4   | Adicionando protótipos UC07, UC08 e UC09 | [Gabriel Lopes](https://github.com/BrzGab) | 20/06/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 20/06/2025      |
 | 1.5   | Preparando documentos para receber video e protótipos uc15 e uc16 | [Karoline Luz](https://github.com/KarolineLuz)| 21/06/2025 |  [Ana Victória Guedes da Costa](https://github.com/navicg)| 22/06/2025      |
+| 1.6   | Adicionando videos dos protótipos uc15 e uc16 | [Karoline Luz](https://github.com/KarolineLuz)| 22/06/2025 |  [Ana Victória Guedes da Costa](https://github.com/navicg)| 22/06/2025      |
