@@ -156,8 +156,11 @@ A ferramenta utilizada para a criação do diagrama foi o **[Drawio](https://www
 
 Os casos de uso UC04, UC05 e UC06 elaborados por Artur Mendonça foram validados através de entrevista com usuário do sistema eGDF.
 
-**Link da gravação da validação:**
-[Validação dos Casos de Uso - Artur Mendonça](https://youtu.be/NxpuBvQZubI)
+### Gravação da validação - Isaura:
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/NxpuBvQZubI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/NxpuBvQZubI" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
 <font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Artur Mendonça](https://github.com/ArtyMend07), 2025).</p></font>
 
