@@ -77,7 +77,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
   <font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor ([Ana Victória](https://github.com/navicg), 2025)</p></font>
 
-## Rich Picture - Cadastro Único - Karoline Luz
+## Rich Picture - e-Título - Karoline Luz
 
 O Rich Picture individual da aluna [Karoline Luz](https://github.com/KarolineLuz) encontra-se nesse PDF: [PDF](https://drive.google.com/file/d/1xpI-K6LhOTSTNVdRonb-nc_F2qc8qRR6/view?usp=sharing)
 
@@ -103,4 +103,4 @@ O Rich Picture individual da aluna [Karoline Luz](https://github.com/KarolineLuz
 | 2.1 | Adicionando rich picture  individual | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 22/06/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 02/05/2025 |
 | 2.2 | Adicionando validação do rich picture de forma presencial | [Ana Victória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz) | 22/06/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 22/06/2025 |
 | 2.3 | Adicionando rich picture  individual do Cadastro Único | [Ana Victória](https://github.com/navicg) | 22/06/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 22/06/2025 |
-| 2.4 | Adicionando rich picture  individual do Cadastro Único | [Karoline Luz](https://github.com/KarolineLuz) | 22/06/2025 | [Ana Victória](https://github.com/navicg) | 22/05/2025 |
+| 2.4 | Adicionando rich picture  individual do e-Título| [Karoline Luz](https://github.com/KarolineLuz) | 22/06/2025 | [Ana Victória](https://github.com/navicg) | 22/05/2025 |
