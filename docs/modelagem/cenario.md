@@ -100,6 +100,28 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Ana Victória](https://github.com/navicg), 2025)</p></font>
 
 ---
+
+**Vídeo 2** - Validação com usuário por: [Ana Victória](https://github.com/navicg).
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/prN14AckMhM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/prN14AckMhM" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+## Termo de consentimento de imagem 
+Este documento confirma que o cidadão Emanuel Maurício Costa forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1DRmSHVGxYbkbGb-_nRkUZgQIXgHz2ZBA/view?usp=drive_link)
+
+
+| Entrevistador(es) |Cidadão|Data prevista| Data Realizada  |Horário Previsto|Horário Realizado|Local|Duração|
+| ---------------------------------------|------------ |------------------------ | ------ |-------|----------|-------|-------|
+|[Ana Victória](https://github.com/navicg)|**Emanuel M.C** |22/06/2025| 22/06/2025| 10:00  | 10:15|   Presencial |  04:52 min |
+
+
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Ana Victória](https://github.com/navicg), 2025).</p></font>
+
+---
+
 ### Cenário 4: Consulta centralizada de agendamentos e serviços
 
 **Rastreabilidade do RF04**: [BR04](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/)  
@@ -457,4 +479,5 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | 1.8    | Adicionando os cenários 18, 19 e 20| [Luiza da Silva Pugas](https://github.com/Luizaxx)|17/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 18/05/2025 |
 | 1.9    | Adicionando tabela que identifica o cenário que cada um participou e rastreabilidade dos requisitos elicitados. | [Ana Victória](https://github.com/navicg)|18/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 18/05/2025 |
 | 2.0    | Adicionando  Entrevista presencial | [Karoline Luz da Conceição](https://github.com/KarolineLuz)|20/06/2025|  [Ana Victória](https://github.com/navicg)|22/06/2025| 18/05/2025 |
-| 2.0    | Adicionando  Entrevista presencial | [Luiza da Silva Pugas](https://github.com/Luizaxx) |21/06/2025|  [Ana Victória](https://github.com/navicg)|22/06/2025| 18/05/2025 |
+| 2.1    | Adicionando  Entrevista presencial | [Luiza da Silva Pugas](https://github.com/Luizaxx) |21/06/2025|  [Ana Victória](https://github.com/navicg)|22/06/2025| 18/05/2025 |
+| 2.2   | Adidionando validação dos cenários 01, 02 e 03 |[Ana Victória](https://github.com/navicg)                                            | 22/06/2025 | [Karoline Luz](https://github.com/KarolineLuz)                                                | 22/06/2025      |

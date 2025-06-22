@@ -20,7 +20,8 @@ Apesar de já terem sido feitas entregas anteriores com base nas entrevistas, es
 |[Ana Victória](https://github.com/navicg)| Luís Felipe |30/04/2025| 30/04/2025| 12:20  | 12:20|  UnB-FCTE |  07:40 min |
 | [Ana Victória](https://github.com/navicg) | Júnia Luz |01/05/2025| 01/05/2025 |17:10|17:11 |  Microsoft Teams |10:20 min |
 | [Artur Mendonça](https://github.com/ArtyMend07)|Vitor Guilherme | 02/05/2025| 02/05/2025| 15:00 |15:10| Microsoft Teams | 06:48 min |
-| [Karoline Luz](https://github.com/KarolineLuz)|Luis Felipe | 17/06/2025| 17/062025| 14:00 |14:20 | UnB-FCTE | 05:13 min
+| [Karoline Luz](https://github.com/KarolineLuz)|Luis Felipe | 17/06/2025| 17/062025| 14:00 |14:20 | UnB-FCTE | 05:13 min |
+| [Artur Mendonça](https://github.com/ArtyMend07)|João | 18/06/2025| 20/06/2025| 13:20 |13:40| UnB-FCTE | 05:42 min |
 
 <font size="3"><p style="text-align: center">Fonte: [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/KarolineLuz), 2025.</p></font>
 
@@ -66,6 +67,16 @@ Apesar de já terem sido feitas entregas anteriores com base nas entrevistas, es
 <p style="text-align: center"><a href="https://drive.google.com/file/d/1iED9lOEdMHDXG25KCf_pjrqg_U7Q2whz/view?usp=sharing" target="_blank">Transcrição da resposta do entrevistado</a></p>
 
 <font size="3"><p style="text-align: center">Fonte: [Karoline Luz](https://github.com/KarolineLuz), 2025.</p></font>
+
+## Quinta entrevista - João
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/t0iZhyftfzo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/t0iZhyftfzo" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<p style="text-align: center"><a href="#" target="_blank">Transcrição da resposta do entrevistado</a></p>
+
+<font size="3"><p style="text-align: center">Fonte: [Artur Mendonça](https://github.com/ArtyMend07), 2025.</p></font>
 
 
 
@@ -177,3 +188,4 @@ Versão  |  Descrição | Autor(es) | Data      | Revisor(es) | Data de Revisão
 2.0 | Corrigindo fontes e adicionando tampletes de contribuição pra adicionar entrevista presencial | [Karoline Luz](https://github.com/KarolineLuz)| 16/06/2025 | [Ana Victória](https://github.com/navicg)| 22/06/2025 |
 2.1 | Corrigindo nomenclaturas testáveis e adicionando video da Karol| [Karoline Luz](https://github.com/KarolineLuz)| 18/06/2025 | [Ana Victória](https://github.com/navicg)| 22/06/2025 |
 2.2 | Corrigindo Tabela de Conograma| [Karoline Luz](https://github.com/KarolineLuz)| 18/06/2025 | [Ana Victória](https://github.com/navicg)| 22/06/2025 |
+| 2.2    | Adição do link da validação presencial da quinta entrevista | [Artur Mendonça](https://github.com/ArtyMend07)        | 20/06/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 22/06/2025      |

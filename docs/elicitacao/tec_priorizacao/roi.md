@@ -31,8 +31,10 @@ Para aplicar a técnica ROI, seguimos os seguintes passos:
    - Média: 1 < ROI < 2
    - Baixa: ROI ≤ 1
 
-## Link da gravação
+## Links das gravações
 [Link para a gravação da reunião](https://youtu.be/eH5Uf2jb0g8)
+
+[Link para a gravação da validação presencial - Ryan](https://youtu.be/t0iZhyftfzo)
 
 ## Priorização dos Requisitos
 
@@ -191,3 +193,4 @@ Com base na priorização realizada, podemos observar que:
 | 1.0    | Criação da documentação do ROI | [Artur Mendonça](https://github.com/ArtyMend07)        | 04/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 04/05/2025      |
 | 1.1    | Correção de nome | [Artur Mendonça](https://github.com/ArtyMend07)        | 04/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 04/05/2025      |
 | 2.0    | Adição de hyperlinks de rastreabilidade nas tabelas de requisitos | [Artur Mendonça](https://github.com/ArtyMend07)        | 15/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 16/05/2025      |
+| 2.1    | Adição do link da validação presencial | [Artur Mendonça](https://github.com/ArtyMend07)        | 22/06/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 22/06/2025      |
