@@ -188,3 +188,4 @@ Versão  |  Descrição | Autor(es) | Data      | Revisor(es) | Data de Revisão
 2.0 | Corrigindo fontes e adicionando tampletes de contribuição pra adicionar entrevista presencial | [Karoline Luz](https://github.com/KarolineLuz)| 16/06/2025 | [Ana Victória](https://github.com/navicg)| 22/06/2025 |
 2.1 | Corrigindo nomenclaturas testáveis e adicionando video da Karol| [Karoline Luz](https://github.com/KarolineLuz)| 18/06/2025 | [Ana Victória](https://github.com/navicg)| 22/06/2025 |
 2.2 | Corrigindo Tabela de Conograma| [Karoline Luz](https://github.com/KarolineLuz)| 18/06/2025 | [Ana Victória](https://github.com/navicg)| 22/06/2025 |
+| 2.2    | Adição do link da validação presencial da quinta entrevista | [Artur Mendonça](https://github.com/ArtyMend07)        | 20/06/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 22/06/2025      |
