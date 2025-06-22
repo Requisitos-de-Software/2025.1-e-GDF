@@ -18,8 +18,11 @@ Foi desenvolvido um protótipo de alta fidelidade utilizando a ferramenta Figma,
 - [RF10](../elicitacao/req_elicitados.md#anchor_RF) - Gerar relatórios e visualizar comprovantes de agendamentos.
 - [RF12](../elicitacao/req_elicitados.md#anchor_RF) - Alterar idioma do aplicativo.
 - [RF14](../elicitacao/req_elicitados.md#anchor_RF) - Enviar mensagens curtas sobre vencimentos e lembretes.
+- [RF16](../elicitacao/req_elicitados.md#anchor_RF) -O sistema deve disponibilizar, em uma única interface, o acesso às informações de agendamentos e reagendamentos realizados pelo usuário autenticado.
 - [RF18](../elicitacao/req_elicitados.md#anchor_RF) - Compartilhar ou Salvar Informações Importantes.
 - [RF22](../elicitacao/req_elicitados.md#anchor_RF) - Autenticação via gov.br de forma segura e por reconhecimento facial.
+- [RF25](../elicitacao/req_elicitados.md#anchor_RF) -O sistema deve permitir que usuários autenticados reportem problemas urbanos selecionando um ponto no mapa interativo e preenchendo um formulário com tipo, descrição e, opcionalmente, imagem do problema.
+
 
 O protótipo foi apresentado a usuários reais, com o objetivo de coletar impressões sobre o layout, navegação e clareza das funcionalidades. A partir desses feedbacks, buscamos compreender se o protótipo atende às necessidades dos usuários e se existem pontos a serem melhorados antes da implementação definitiva.
 
@@ -86,7 +89,7 @@ Durante a avaliação, a participante destacou que o fluxo do aplicativo está b
 | -------------- | -------------------------------------------------- | ---------- | ------------- | ----- |
 | Marjorie Mitzi | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 13/06/2025 | 10:30 - 10:40 | FGA   |
 
-<p style="text-align: center"><a href="https://youtu.be/0niyimyvG1Q" target="blanket">Vídeo 2 - Entrevista com Marjorie Mitzi/a></p>
+<p style="text-align: center"><a href="https://youtu.be/0niyimyvG1Q" target="blanket">Vídeo 2 - Entrevista com Marjorie Mitzi</p>
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/0niyimyvG1Q" allowfullscreen></iframe></p>
 
@@ -94,6 +97,30 @@ Durante a avaliação, a participante destacou que o fluxo do aplicativo está b
 
 **Resumo:**  
 O participante considerou a funcionalidade de autenticação via gov.br prática e relevante, principalmente a opção de reconhecimento facial. Marjorie ressaltou que a possibilidade de salvar e compartilhar informações importantes é um diferencial positivo, mas sugeriu adicionar um botão de confirmação visual mais destacado ao concluir o compartilhamento.
+
+---
+
+
+### Entrevista 3
+
+| Participante   | Entrevistador                                          | Data       | Horário       | Local |
+| -------------- | -------------------------------------------------- | ---------- | ------------- | ----- |
+| Júnia Luz de Sousa | [Karoline Luz](https://github.com/KarolineLuz) | 22/06/2025 |-  |    |
+
+<p style="text-align: center">
+  <a href="https://youtu.be/link" target="_blank">Vídeo 3 - Entrevista com Júnia Luz de Sousa</a>
+</p>
+
+<p style="text-align: center">
+  <iframe width="560" height="315" src="https://youtube.com/embed/link" allowfullscreen></iframe>
+</p>
+
+<p style="text-align: center">
+  <span style="font-size: 14px;">Fonte: Elaborado por <a href="https://github.com/KarolineLuz">Karoline Luz</a>, 2025.</span>
+</p>
+
+**Resumo:**  
+colocar resumo
 
 ---
 
@@ -127,7 +154,38 @@ Este protótipo valida o [RF10](../elicitacao/req_elicitados.md#anchor_RF) - "Ge
 
 <font size="3"><p style="text-align: center"> Protótipos elaborados por [Gabriel Lopes](https://github.com/BrzGab), 2025</p></font>
 
-<center>
+## Protótipos dos Casos de Uso UC15 e UC16
+Foram desenvolvidos protótipos específicos para validar funcionalidades de gestão de agendamentos e reporte de problemas urbanos, elaborados por [Karoline Luz](https://github.com/KarolineLuz), focando nos casos de uso UC15 e UC16.
+
+### UC15 – Acessar Informações de Agendamento Centralizadas
+
+Este protótipo valida o [RF16](../elicitacao/req_elicitados.md#anchor_RF) – "O sistema deve disponibilizar, em uma única interface, o acesso às informações de agendamentos e reagendamentos realizados pelo usuário autenticado", apresentando uma visão centralizada para facilitar o gerenciamento dos compromissos agendados.
+
+<p style="text-align: center"><a href="https://www.figma.com/link" target="blank">Clique aqui para visualizar o protótipo UC15 - Acessar Informações de Agendamento</a></p>
+
+
+<p style="text-align: center">
+  <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="coloque o link aqui" allowfullscreen></iframe>
+</p>
+
+
+---
+
+### UC16 – Reportar Problemas da Cidade via Mapa Interativo
+
+Este protótipo valida o [RF25](../elicitacao/req_elicitados.md#anchor_RF) – "O sistema deve permitir que usuários autenticados reportem problemas urbanos selecionando um ponto no mapa interativo e preenchendo um formulário com tipo, descrição e, opcionalmente, imagem do problema", demonstrando a interação com o mapa e o registro dos problemas de forma geolocalizada.
+
+
+<p style="text-align: center"><a href="https://www.figma.com/link" target="blank">Clique aqui para visualizar o protótipo UC16 - Mapa Interativo</a></p>
+
+<p style="text-align: center">
+  <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="coloque o link aqui" allowfullscreen></iframe>
+</p>
+
+<p style="text-align: center"><font size="3">Fonte:Protótipos elaborados por (<a href="https://github.com/KarolineLuz">Karoline Luz</a>, 2025).</font></p>
+
+---
+
 
 ## Considerações Finais
 
@@ -154,3 +212,4 @@ Esses pontos serão considerados no planejamento das próximas versões do prot�
 | 1.2   | Adicionando video | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 19/06/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 24/06/2025      |
 | 1.3   | Adicionando resumo e comentarios do usuario | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 19/06/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 24/06/2025      |
 | 1.4   | Adicionando protótipos UC07, UC08 e UC09 | [Gabriel Lopes](https://github.com/BrzGab) | 20/06/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 20/06/2025      |
+| 1.5   | Preparando documentos para receber video e protótipos uc15 e uc16 | [Karoline Luz](https://github.com/KarolineLuz)| 21/06/2025 |  [Ana Victória Guedes da Costa](https://github.com/navicg)| 22/06/2025      |
