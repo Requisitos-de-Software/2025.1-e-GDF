@@ -191,14 +191,14 @@ Legenda da Tabela:
 
 | <a id="anchor_AD" style="color:black;">ID</a> | Tipo  | Descrição                                                                                                         | Implementação    | Origem             |
 |------------------|-------|-------------------------------------------------------------------------------------------------------------------|------------------|--------------------|
-| AD01             | RF01  | O sistema deve permitir que o usuário realize login.                                                             | Implementado     | Requisito funcional |
-| AD02             | RF02  | O sistema deve permitir que o usuário solicite serviços públicos como coleta de lixo, reparo de vias e diversos. | Implementado     | Requisito funcional |
-| AD03             | RF03  | O sistema deve permitir o usuário utilizar um mapa para localizar onde foi solicitado o serviço.                 | Implementado     | Requisito funcional |
-| AD04             | RF04  | O sistema deve permitir que o usuário visualize e acompanhe o status das suas solicitações.                     | Implementado     | Requisito funcional |
-| AD05             | RF05  | O sistema deve oferecer um assistente virtual para ajudar o usuário em dúvidas.                                  | Implementado     | Requisito funcional |
-| AD06             | RF06  | O sistema deve permitir que o usuário confirme a resolução de problemas relatados.                               | Implementado     | Requisito funcional |
-| AD07             | RF07  | O sistema deve permitir que o usuário exclua seus dados e conta do aplicativo.                                   | Implementado     | Requisito funcional |
-| AD08             | RF08  | O sistema deve permitir aumentar ícones e o tamanho da fonte conforme a necessidade do usuário por meio de um botão. | Não implementado | Acessibilidade       |
+| AD01             | RF01  | O sistema deve permitir que o usuário realize login.                                                             | Implementado     | Telas disponibilizadas na PlayStore e AppStore |
+| AD02             | RF02  | O sistema deve permitir que o usuário solicite serviços públicos como coleta de lixo, reparo de vias e diversos. | Implementado     | Descrição do app na PlayStore e AppStore |
+| AD03             | RF03  | O sistema deve permitir o usuário utilizar um mapa para localizar onde foi solicitado o serviço.                 | Implementado     | Descrição e telas disponibilizada PlayStore e AppStore |
+| AD04             | RF04  | O sistema deve permitir que o usuário visualize e acompanhe o status das suas solicitações.                     | Implementado     | Descrição na PlayStore |
+| AD05             | RF05  | O sistema deve oferecer um assistente virtual para ajudar o usuário em dúvidas.                                  | Implementado     | Descrição e telas disponibilizadas na PlayStore e Appstore |
+| AD06             | RF06  | O sistema deve permitir que o usuário confirme a resolução de problemas relatados.                               | Implementado     | PlayStore e AppStore |
+| AD07             | RF07  | O sistema deve permitir que o usuário exclua seus dados e conta do aplicativo.                                   | Implementado     | Documento de exclusão de conta eGDF |
+| AD08             | RF08  | O sistema deve permitir aumentar ícones e o tamanho da fonte conforme a necessidade do usuário por meio de um botão. | Não implementado | Avaliações da PlayStore      |
 
 
 ### Tabela 2: Requisitos Não-funcionais
@@ -207,12 +207,13 @@ Legenda da Tabela:
 - RNFx: Requisito Não-Funcional nºx  
 - **ID**: Link para a técnica de elicitação
 
-| <a id="anchor_AD" style="color:black;">ID</a> | Tipo   | Descrição                                                                                          | Implementação    |
-|---------------------|--------|------------------------------------------------------------------------------------------------------|------------------|
-| AD09                 | RNF01  | O sistema deve ser compatível com vários dispositivos como Android e iOS.                           | Implementado     |
-| AD10               | RNF02  | O sistema deve estar em conformidade com a Lei Geral de Proteção de Dados (LGPD).                  | Implementado     |
-| AD11               | RNF03  | O sistema deve garantir a criptografia em dados sensíveis.                                          | Não implementado |
-| AD12               | RNF04  | O sistema deve ter uma interface intuitiva.                                                         | Não implementado |
+| <a id="anchor_AD" style="color:black;">ID</a> | Tipo   | Descrição                                                                                          | Implementação    | Origem |
+|---------------------|--------|------------------------------------------------------------------------------------------------------|------------------|--------|
+| AD09                | RNF01  | O sistema deve ser compatível com vários dispositivos como Android versão 5.0 ou superior e iOS.                           | Implementado     | PlayStore e AppStore      |
+| AD10                | RNF02  | O sistema deve estar em conformidade com a Lei Geral de Proteção de Dados (LGPD).                  | Implementado     | Política de provacidade      |
+| AD11                | RNF03  | O sistema deve garantir a criptografia em dados sensíveis.                                          | Não implementado | PlayStore      |
+| AD12                | RNF04  | O sistema deve ter uma interface intuitiva.                                                         | Não implementado | S      |
+
 
 
 Fonte: Elaborado pelo autor (Lucas Mendonça Arruda, 2025).
@@ -243,6 +244,8 @@ GOVERNO DO DISTRITO FEDERAL. Política de privacidade do eGDF. Brasília: GDF, 2
 | 1.1    | Adição das imagens, requisitos e novos documentos                                      | [Lucas Mendonça](https://github.com/lucasarruda9) | 01/05/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 01/05/2025       |
 | 1.2    | correção ortográfica, centralizando imagens e informação sobre criptografia de dados                                      | [Lucas Mendonça](https://github.com/lucasarruda9) | 04/05/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 04/05/2025       |
 | 1.3    | Arrumando rastreabilidade dos requisitos e imagens                                    | [Lucas Mendonça](https://github.com/lucasarruda9) | 07/05/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 08/05/2025       |
+| 2.0    | Ajustando imagens e adicionando origem dos requisitos elicitados                                 | [Lucas Mendonça](https://github.com/lucasarruda9) | 22/06/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 22/06/2025       |
+
 
 
 ---
