@@ -165,44 +165,6 @@ Este protótipo valida funcionalidades de atendimento automatizado através de c
 Os protótipos UC04 e UC05 foram validados demonstrando as funcionalidades de central de relacionamento e chatbot. O UC04 apresenta uma interface organizada para acesso aos serviços governamentais, enquanto o UC05 demonstra um sistema de chatbot intuitivo que auxilia os usuários na navegação e obtenção de informações. A validação mostrou que ambas as funcionalidades atendem às necessidades dos usuários e proporcionam uma experiência de uso satisfatória.
 
 ---
-## Protótipos dos Casos de Uso UC01 e UC03
-
-Foram desenvolvidos protótipos específicos para validar funcionalidades de usabilidade e localização por [Ana Victória Guedes da Costa](https://github.com/navicg), focando nos casos de uso UC01 e UC03.
-
-### UC01 - Login de forma simples e rápida
-
-Este protótipo valida o [RF01](../elicitacao/req_elicitados.md#anchor_RF) - "Realizar Login de forma simples e rápida". Nele, são apresentadas as telas e fluxos necessários para que o usuário consiga efetuar o login de maneira ágil e sem complicações
-
-<p style="text-align: center"><a href="https://www.figma.com/proto/Ztqd5ykfFtQWBSWY2Db9KB/UC01---Login-de--forma-simples-e-r%C3%A1pida?node-id=1-45&p=f&t=LsbVa8jppxklxPJy-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A37" target="blank">Clique aqui para visualizar o protótipo UC01 - Login de forma simples e rápida</a></p>
-
-<p style="text-align: center">
-  <iframe
-    style="border: 1px solid rgba(0, 0, 0, 0.1);"
-    width="800"
-    height="450"
-    src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FZtqd5ykfFtQWBSWY2Db9KB%2FUC01---Login-de--forma-simples-e-r%C3%A1pida%3Fnode-id%3D1-37%26starting-point-node-id%3D1%253A37%26t%3D6Wfny5Vf4KFOHQVf-1"
-    allowfullscreen>
-  </iframe>
-</p>
-
-### UC03 - Notificações baseadas na localização do usuário
-
-Este protótipo valida o [RF03](../elicitacao/req_elicitados.md#anchor_RF) - "O usuário deve poder receber notificações personalizadas com base em sua localização". O protótipo desenvolvido contempla o fluxo de configuração e recebimento de notificações que são disparadas de acordo com a localização geográfica do usuário, validando assim o requisito RF03.
-
-<p style="text-align: center"><a href="https://www.figma.com/proto/yItFd5elSueePbfDIN7dxM/UC03---Notifica%C3%A7%C3%B5es-personalizadas-baseadas-na-localiza%C3%A7%C3%A3o?node-id=7-34&p=f&t=d87NmFKHPiOSJE9R-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=7%3A34" target="blank">Clique aqui para visualizar o protótipo UC03 - Notificações baseadas na localização do usuário</a></p>
-
-<p style="text-align: center">
-  <iframe
-    style="border: 1px solid rgba(0, 0, 0, 0.1);"
-    width="800"
-    height="450"
-    src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FyItFd5elSueePbfDIN7dxM%2FUC03---Notifica%C3%A7%C3%B5es-personalizadas-baseadas-na-localiza%C3%A7%C3%A3o%3Fnode-id%3D7-34%26p%3Df%26scaling%3Dscale-down%26content-scaling%3Dfixed%26page-id%3D0%253A1%26starting-point-node-id%3D7%253A34"
-    allowfullscreen>
-  </iframe>
-</p>
-
-
----
 ### Entrevista 5
 
 | Participante   | Entrevistador                                          | Data       | Horário       | Local |
@@ -219,6 +181,35 @@ Este protótipo valida o [RF03](../elicitacao/req_elicitados.md#anchor_RF) - "O 
 
 <p style="text-align: center">
   <span style="font-size: 14px;">Fonte: Elaborado por <a href="https://github.com/navicg">Ana Victória Guedes da Costa</a>, 2025.</span>
+</p>
+
+
+### Protótipo do RF01
+
+<p style="text-align: center"><a href="https://www.figma.com/proto/Ztqd5ykfFtQWBSWY2Db9KB/UC01---Login-de--forma-simples-e-r%C3%A1pida?node-id=1-45&p=f&t=LsbVa8jppxklxPJy-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A37" target="blank">Clique aqui para visualizar o protótipo UC01 - Login de forma simples e rápida</a></p>
+
+<p style="text-align: center">
+  <iframe
+    style="border: 1px solid rgba(0, 0, 0, 0.1);"
+    width="800"
+    height="450"
+    src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FZtqd5ykfFtQWBSWY2Db9KB%2FUC01---Login-de--forma-simples-e-r%C3%A1pida%3Fnode-id%3D1-37%26starting-point-node-id%3D1%253A37%26t%3D6Wfny5Vf4KFOHQVf-1"
+    allowfullscreen>
+  </iframe>
+</p>
+
+### Protótipo do RF03
+
+<p style="text-align: center"><a href="https://www.figma.com/proto/yItFd5elSueePbfDIN7dxM/UC03---Notifica%C3%A7%C3%B5es-personalizadas-baseadas-na-localiza%C3%A7%C3%A3o?node-id=7-34&p=f&t=d87NmFKHPiOSJE9R-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=7%3A34" target="blank">Clique aqui para visualizar o protótipo UC03 - Notificações baseadas na localização do usuário</a></p>
+
+<p style="text-align: center">
+  <iframe
+    style="border: 1px solid rgba(0, 0, 0, 0.1);"
+    width="800"
+    height="450"
+    src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FyItFd5elSueePbfDIN7dxM%2FUC03---Notifica%C3%A7%C3%B5es-personalizadas-baseadas-na-localiza%C3%A7%C3%A3o%3Fnode-id%3D7-34%26p%3Df%26scaling%3Dscale-down%26content-scaling%3Dfixed%26page-id%3D0%253A1%26starting-point-node-id%3D7%253A34"
+    allowfullscreen>
+  </iframe>
 </p>
 
 **Resumo:** 
