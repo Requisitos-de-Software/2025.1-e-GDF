@@ -255,13 +255,27 @@ Este protótipo valida o [RF10](../elicitacao/req_elicitados.md#anchor_RF) - "Ge
 
 <font size="3"><p style="text-align: center"> Protótipos elaborados por [Gabriel Lopes](https://github.com/BrzGab), 2025</p></font>
 
+### Entrevista 6
+
 | Participante   | Entrevistador                                          | Data       | Horário       | Local |
 | -------------- | -------------------------------------------------- | ---------- | ------------- | ----- |
 | Julia Soares | [Gabriel Lopes](https://github.com/BrzGab) | 22/06/2025 | 18:00 |Presencial |
 
-<p style="text-align: center"><a href="https://www.youtube.com/watch?v=kNhCgv2YzNo" target="_blank">Vídeo - Validação dos Protótipos UC07, UC08, UC09</a></p>
+<p style="text-align: center">
+  <a href="https://www.youtube.com/watch?v=kNhCgv2YzNo" target="_blank">Vídeo 6 - Entrevista de validação</a>
+</p>
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=kNhCgv2YzNo" allowfullscreen></iframe></p>
+<p style="text-align: center">
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=kNhCgv2YzNo" allowfullscreen></iframe>
+</p>
+
+<p style="text-align: center">
+  <span style="font-size: 14px;">Fonte: Elaborado por <a href="https://github.com/BrzGab">Gabriel Lopes</a>, 2025.</span>
+</p>
+
+
+
+
 
 
 ## Protótipos dos Casos de Uso UC15 e UC16
