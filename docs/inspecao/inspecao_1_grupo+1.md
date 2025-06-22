@@ -96,3 +96,4 @@ A gravação da reunião está disponível em: [Link](https://youtu.be/wj3qd57xQ
 | Versão | Descrição | Autor(es) | Data | Revisor(es) | Data de revisão |
 |--------|-----------|-----------|------|-------------|-----------------|
 | 1.0 | Criando a inspeção 1 do grupo +1 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Karoline Luz](https://github.com/KarolineLuz) | 21/06/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 21/06/2025 |
+| 1.1 | Adicionando vídeo da inspeção 1 do grupo +1 | [Artur Mendonça](https://github.com/ArtyMend07)  | 22/06/2025 |  [Gabriel Lopes](https://github.com/GabrielLopes0) | 22/06/2025 |
