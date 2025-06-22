@@ -83,6 +83,13 @@ O Rich Picture individual da aluna [Karoline Luz](https://github.com/KarolineLuz
 
   <font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor ([Karoline Luz](https://github.com/KarolineLuz), 2025)</p></font>
 
+## Rich Picture - e-Título - João Marcos
+
+O Rich Picture individual da aluna [João Marcos Moraes](https://github.com/JJOAOMARCOSS) encontra-se nesse PDF: [PDF](https://drive.google.com/file/d/1YsVCZPeFkNeakjm90UJGcDiE6S0J2Rtk/view?usp=sharing)
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), 2025)</p></font>
+
+---
 
 ## Referências
 
