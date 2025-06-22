@@ -249,3 +249,4 @@ Esses pontos serão considerados no planejamento das próximas versões do prot�
 | 1.4   | Adicionando protótipos UC07, UC08 e UC09 | [Gabriel Lopes](https://github.com/BrzGab) | 20/06/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 20/06/2025      |
 | 1.5   | Preparando documentos para receber video e protótipos uc15 e uc16 | [Karoline Luz](https://github.com/KarolineLuz)| 21/06/2025 |  [Ana Victória Guedes da Costa](https://github.com/navicg)| 22/06/2025      |
 | 1.6   | Adicionando videos dos protótipos uc15 e uc16 | [Karoline Luz](https://github.com/KarolineLuz)| 22/06/2025 |  [Ana Victória Guedes da Costa](https://github.com/navicg)| 22/06/2025      |
+| 1.7   | Adicionando protótipos UC04 e UC05 | [Artur Mendonça](https://github.com/ArtyMend07) | 22/06/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 22/06/2025      |
