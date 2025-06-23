@@ -224,55 +224,72 @@ Os protótipos UC04 e UC05 foram validados demonstrando as funcionalidades de ce
 
 Durante o processo de validação do protótipo, o usuário demonstrou uma percepção bastante positiva em relação às funcionalidades apresentadas. Segundo seu relato, os recursos disponíveis no protótipo são bastante pertinentes e atendem de forma adequada às necessidades que ele espera de um aplicativo com essas características. O usuário destacou que as tarefas ilustradas durante a navegação pelo protótipo foram de fácil compreensão e execução, transmitindo uma experiência de uso simples e fluida. Além disso, reforçou que a organização das informações e a disposição dos elementos na interface contribuíram para tornar a interação mais intuitiva. Por fim, o usuário afirmou que, naquele momento, não identificou nenhuma necessidade de ajustes ou sugestões de melhoria, demonstrando satisfação com a solução proposta.
 
-## Protótipos dos Casos de Uso UC07, UC08 e UC09
-
-Foram desenvolvidos protótipos específicos para validar funcionalidades de acessibilidade e gestão de agendamentos por [Gabriel Lopes](https://github.com/BrzGab), focando nos casos de uso UC07, UC08 e UC09.
-
-### UC07 - Ajustar Tamanho de Fonte e Contraste
-
-Este protótipo valida o [RF07](../elicitacao/req_elicitados.md#anchor_RF) - "Alterar o tamanho da fonte e o contraste de cores", apresentando funcionalidades de acessibilidade visual que permitem aos usuários personalizar a interface conforme suas necessidades visuais.
-
-<p style="text-align: center"><a href="https://www.figma.com/proto/PqPSOFjB1eW2oG3g1X535q/UC07---Fonte-e-Contraste?t=tLopz47I8K7yT0WK-1" target="blank">Clique aqui para visualizar o protótipo UC07 - Fonte e Contraste</a></p>
-
-<p style="text-align: center"><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FPqPSOFjB1eW2oG3g1X535q%2FUC07---Fonte-e-Contraste%3Ft%3DtLopz47I8K7yT0WK-1" allowfullscreen></iframe></p>
-
-### UC08 - Ativar Modo Escuro
-
-Este protótipo valida o [RF08](../elicitacao/req_elicitados.md#anchor_RF) - "Permitir modo escuro", demonstrando a implementação de um tema escuro que reduz o cansaço ocular e melhora a experiência do usuário em ambientes com pouca luz.
-
-<p style="text-align: center"><a href="https://www.figma.com/proto/g6ex64OcXgO5OdGEiuT3nz/Modo-escuro---e-GDF?node-id=0-1&t=tLopz47I8K7yT0WK-1" target="blank">Clique aqui para visualizar o protótipo UC08 - Modo Escuro</a></p>
-
-<p style="text-align: center"><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fg6ex64OcXgO5OdGEiuT3nz%2FModo-escuro---e-GDF%3Fnode-id%3D0-1%26t%3DtLopz47I8K7yT0WK-1" allowfullscreen></iframe></p>
-
-### UC09 - Gerar Relatórios e Comprovantes de Agendamentos
-
-Este protótipo valida o [RF10](../elicitacao/req_elicitados.md#anchor_RF) - "Gerar relatórios e visualizar comprovantes de agendamentos", apresentando funcionalidades para gestão e visualização de agendamentos e documentos relacionados aos serviços do GDF.
-
-<p style="text-align: center"><a href="https://www.figma.com/proto/Ju9vXTgqKXyh3IwrwWfCui/UC-09---Meus-Agendamentos?node-id=0-1&t=tLopz47I8K7yT0WK-1" target="blank">Clique aqui para visualizar o protótipo UC09 - Meus Agendamentos</a></p>
-
-<p style="text-align: center"><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FJu9vXTgqKXyh3IwrwWfCui%2FUC-09---Meus-Agendamentos%3Fnode-id%3D0-1%26t%3DtLopz47I8K7yT0WK-1" allowfullscreen></iframe></p>
-
-<font size="3"><p style="text-align: center"> Protótipos elaborados por [Gabriel Lopes](https://github.com/BrzGab), 2025</p></font>
-
 ### Entrevista 6
 
 | Participante   | Entrevistador                                          | Data       | Horário       | Local |
 | -------------- | -------------------------------------------------- | ---------- | ------------- | ----- |
-| Julia Soares | [Gabriel Lopes](https://github.com/BrzGab) | 22/06/2025 | 18:00 |Presencial |
+| Julia Carvalho | [Gabriel Lopes](https://github.com/BrzGab) | 22/06/2025 | 18:00 - 18:10 |Presencial |
+
 
 <p style="text-align: center">
-  <a href="https://www.youtube.com/watch?v=kNhCgv2YzNo" target="_blank">Vídeo 6 - Entrevista de validação</a>
+  <a href="https://youtu.be/kNhCgv2YzNo" target="_blank">Vídeo 6 - Entrevista com Julia Carvalho </a>
 </p>
 
 <p style="text-align: center">
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=kNhCgv2YzNo" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://youtube.com/embed/kNhCgv2YzNo" allowfullscreen></iframe>
 </p>
 
 <p style="text-align: center">
   <span style="font-size: 14px;">Fonte: Elaborado por <a href="https://github.com/BrzGab">Gabriel Lopes</a>, 2025.</span>
 </p>
 
----
+
+**Protótipo do RF07:**
+
+<p style="text-align: center"><a href="https://www.figma.com/proto/PqPSOFjB1eW2oG3g1X535q/UC07---Fonte-e-Contraste?t=tLopz47I8K7yT0WK-1" target="blank">Clique aqui para visualizar o protótipo UC07 - Fonte e Contraste</a></p>
+
+<p style="text-align: center">
+  <iframe
+    style="border: 1px solid rgba(0, 0, 0, 0.1);"
+    width="800"
+    height="450"
+    src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FPqPSOFjB1eW2oG3g1X535q%2FUC07---Fonte-e-Contraste%3Ft%3DtLopz47I8K7yT0WK-1""
+    allowfullscreen>
+  </iframe>
+</p>
+
+**Protótipo do RF08:**
+
+<p style="text-align: center"><a href="https://www.figma.com/proto/g6ex64OcXgO5OdGEiuT3nz/Modo-escuro---e-GDF?node-id=0-1&t=tLopz47I8K7yT0WK-1" target="blank">Clique aqui para visualizar o protótipo UC08 - Modo Escuro</a></p>
+
+<p style="text-align: center">
+  <iframe
+    style="border: 1px solid rgba(0, 0, 0, 0.1);"
+    width="800"
+    height="450"
+    src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fg6ex64OcXgO5OdGEiuT3nz%2FModo-escuro---e-GDF%3Fnode-id%3D0-1%26t%3DtLopz47I8K7yT0WK-1"
+    allowfullscreen>
+  </iframe>
+</p>
+
+**Protótipo do RF10:**
+
+<p style="text-align: center"><a href="https://www.figma.com/proto/Ju9vXTgqKXyh3IwrwWfCui/UC-09---Meus-Agendamentos?node-id=0-1&t=tLopz47I8K7yT0WK-1" target="blank">Clique aqui para visualizar o protótipo UC09 - Meus Agendamentos</a></p>
+
+<p style="text-align: center">
+  <iframe
+    style="border: 1px solid rgba(0, 0, 0, 0.1);"
+    width="800"
+    height="450"
+    src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FJu9vXTgqKXyh3IwrwWfCui%2FUC-09---Meus-Agendamentos%3Fnode-id%3D0-1%26t%3DtLopz47I8K7yT0WK-1"
+    allowfullscreen>
+  </iframe>
+</p>
+
+**Resumo:** 
+
+Durante a validação dos protótipos UC07, UC08 e UC09, a participante demonstrou grande satisfação com as funcionalidades apresentadas. Julia destacou que as opções de acessibilidade (ajuste de fonte e contraste) são essenciais para inclusão digital, especialmente para pessoas com deficiência visual. O modo escuro foi avaliado como muito útil para uso noturno. A funcionalidade de gestão de agendamentos foi considerada intuitiva e bem organizada. A participante não sugeriu alterações significativas, apenas reforçou a importância de manter essas funcionalidades acessíveis em toda a aplicação.
+
 
 ## Considerações Finais
 
