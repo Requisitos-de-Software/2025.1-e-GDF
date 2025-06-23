@@ -224,6 +224,7 @@ Os protótipos UC04 e UC05 foram validados demonstrando as funcionalidades de ce
 
 Durante o processo de validação do protótipo, o usuário demonstrou uma percepção bastante positiva em relação às funcionalidades apresentadas. Segundo seu relato, os recursos disponíveis no protótipo são bastante pertinentes e atendem de forma adequada às necessidades que ele espera de um aplicativo com essas características. O usuário destacou que as tarefas ilustradas durante a navegação pelo protótipo foram de fácil compreensão e execução, transmitindo uma experiência de uso simples e fluida. Além disso, reforçou que a organização das informações e a disposição dos elementos na interface contribuíram para tornar a interação mais intuitiva. Por fim, o usuário afirmou que, naquele momento, não identificou nenhuma necessidade de ajustes ou sugestões de melhoria, demonstrando satisfação com a solução proposta.
 
+---
 ### Entrevista 6
 
 | Participante   | Entrevistador                                          | Data       | Horário       | Local |
@@ -289,7 +290,7 @@ Durante o processo de validação do protótipo, o usuário demonstrou uma perce
 **Resumo:** 
 
 Durante a validação dos protótipos UC07, UC08 e UC09, a participante demonstrou grande satisfação com as funcionalidades apresentadas. Julia destacou que as opções de acessibilidade (ajuste de fonte e contraste) são essenciais para inclusão digital, especialmente para pessoas com deficiência visual. O modo escuro foi avaliado como muito útil para uso noturno. A funcionalidade de gestão de agendamentos foi considerada intuitiva e bem organizada. A participante não sugeriu alterações significativas, apenas reforçou a importância de manter essas funcionalidades acessíveis em toda a aplicação.
-
+---
 
 ## Considerações Finais
 
