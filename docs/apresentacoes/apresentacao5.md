@@ -19,29 +19,31 @@ A reunião foi realizada através da plataforma **Microsoft Teams**.
 ## Link da Reunião
 
 <p style="text-align: center">
-  <iframe width="560" height="315" src="https://youtube.com/embed/TAbvk1g30t4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://youtube.com/embed/uAN0oXEAZQo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
-A gravação da reunião está disponível em: [https://youtu.be.com/embed/TAbvk1g30t4](https://youtube.com/embed/TAbvk1g30t4)
+A gravação da reunião está disponível em: [https://youtu.be.com/embed/uAN0oXEAZQo](https://youtube.com/embed/uAN0oXEAZQo)
 
 ## Horário da Reunião
 
 |           | Data       | Início | Término |
 | --------- | ---------- | ------ | ------- |
-| Previsto  | 08/06/2025 | 19:30  | 20:30   |
-| Realizado | 08/06/2025 | 21:30 | 22:15   |
+| Previsto  | 22/06/2025 | 19:30  | 20:30   |
+| Realizado | 22/06/2025 | 21:30 | 22:30   |
 
-Fonte: Elaborado pelo autor ([Luiza da Silva](https://github.com/Luizaxx), 2025).
+Fonte: Elaborado pelo autor ([Ana Victória Guedes da Costa](https://github.com/navicg), 2025).
 
 ## Artefatos e Realização
 
 | Artefato                 | Realizado | Autores                                                                                                                                                       |
 |--------------------------|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Backward from        | Sim       | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos Moraes](https://github.com/JJOAOMARCOSS), [Karoline Luz](https://github.com/KarolineLuz), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva](https://github.com/Luizaxx) |
-| Forward from               | Sim       | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos Moraes](https://github.com/JJOAOMARCOSS), [Karoline Luz](https://github.com/KarolineLuz), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva](https://github.com/Luizaxx) |
-| Matriz de rastreabilidade | Sim       | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos Moraes](https://github.com/JJOAOMARCOSS), [Karoline Luz](https://github.com/KarolineLuz), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva](https://github.com/Luizaxx) |
+| Prototipação e Validação    | Sim       | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos Moraes](https://github.com/JJOAOMARCOSS), [Karoline Luz](https://github.com/KarolineLuz), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva](https://github.com/Luizaxx) |
+| Comprovação Informal             | Sim       | [Luiza da Silva](https://github.com/Luizaxx) |
+| Validação dos artefatos que não tinham gravação presencial           | Sim       |  [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos Moraes](https://github.com/JJOAOMARCOSS), [Karoline Luz](https://github.com/KarolineLuz), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva](https://github.com/Luizaxx)|
 
-Fonte: Elaborado pelo autor ([Luiza da Silva](https://github.com/Luizaxx), 2025).
+
+
+Fonte: Elaborado pelo autor ([Ana Victória Guedes da Costa](https://github.com/navicg), 2025).
 
 ## Referências Bibliográficas
 
@@ -53,4 +55,4 @@ Fonte: Elaborado pelo autor ([Luiza da Silva](https://github.com/Luizaxx), 2025)
 
 | Versão | Descrição | Autor(es) | Data | Revisor(es) | Data de revisão |
 | ------ | --------- | --------- | ---- | ----------- | --------------- |
-| 1.0    | Documentação da apresentação 5|[Luiza da Silva](https://github.com/Luizaxx) |  08/06/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 08/06/2025     |
+| 1.0    | Documentação da apresentação 5|[Ana Victória Guedes da Costa](https://github.com/navicg) |  22/06/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 22/06/2025     |
