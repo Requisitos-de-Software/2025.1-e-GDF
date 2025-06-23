@@ -277,6 +277,28 @@ Os casos de uso UC04, UC05 e UC06 elaborados por Artur Mendonça foram validados
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor ([João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS), 2025).</p></font>
 
+---
+
+**Vídeo 4** - Validação dos Casos de Uso 10, 11 e 12 com usuário por [João Marcos Moraes](https://github.com/JJOAOMARCOSS)
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/1e08GOCXsCU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/1e08GOCXsCU" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+| Participante   | Entrevistador                                                                                              | Data       | Horário       | Local       |
+| -------------- | ---------------------------------------------------------------------------------------------------------- | ---------- | ------------- | ----------- |
+| Thalison Felipe | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 21/06/2025 | 15:10 - 15:25 | Presencial |
+
+
+## Termo de consentimento de imagem 
+Este documento confirma que a cidadão Thalison Felipe forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/docs/corre%C3%A7%C3%A3o-de-erros/docs/assets/termo-img/Assinatura%20com%20todos%20os%20participantes%20.pdf)
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([João Marcos](https://github.com/JJOAOMARCOSS), 2025)</p></font>
+
+---
+
 | UC13 | Implementar Funcionalidades Educacionais Adicionais |
 | ----- | ---------- |
 | Descrição | O aplicativo implementa funcionalidades adicionais na área educacional, como acompanhamento de pendências para professores e alunos |
@@ -320,6 +342,8 @@ Os casos de uso UC04, UC05 e UC06 elaborados por Artur Mendonça foram validados
 | Data de Criação | 18/05/2025 |
 | Rastreabilidade | [BR17](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
 
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Karoline Luz](https://github.com/KarolineLuz), 2025).</p></font>
+
 
 | UC16 | Reportar Problemas da Cidade via Mapa Interativo |
 | ----- | ---------- |
@@ -334,7 +358,11 @@ Os casos de uso UC04, UC05 e UC06 elaborados por Artur Mendonça foram validados
 | Data de Criação | 18/05/2025 |
 | Rastreabilidade | [EN09](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
 
-**Vídeo 1** - Validação com usuário por [Karoline Luz da Conceição](https://github.com/KarolineLuz)
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Karoline Luz](https://github.com/KarolineLuz), 2025).</p></font>
+
+---
+
+**Vídeo 5** - Validação dos Casos de Uso 15 e 16 com usuário por [Karoline Luz da Conceição](https://github.com/KarolineLuz)
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/5zFdG7kKD6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
@@ -346,13 +374,14 @@ Este documento confirma que a cidadã Júnia Luz de Sousa forneceu seu consentim
 O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1tAtNRMAKPoStT9ZyOU-DdT1I9mJgC5qK/view?usp=sharing)
 
 
-| Entrevistador(es) |Cidadão|Data prevista| Data Realizada  |Horário Previsto|Horário Realizado|Local|Duração|
-| ---------------------------------------|------------ |------------------------ | ------ |-------|----------|-------|-------|
-|[Karoline Luz](https://github.com/KarolineLuz)|**Júnia L.S** |19/06/2025| 19/06/2025| 16:40  | 16:50|   Presencial |  04:56 min |
+| Participante    | Entrevistador                                         | Data       | Horário       | Local      |
+| --------------- | ----------------------------------------------------- | ---------- | ------------- | ---------- |
+| **Júnia L.S** | [Karoline Luz](https://github.com/KarolineLuz) | 19/06/2025 | 16:50 - 16:55 | Presencial |
 
 
 <font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Karoline Luz](https://github.com/KarolineLuz), 2025).</p></font>
 
+---
 
 | UC17 | Autenticação Segura via Plataforma gov.br |
 | ----- | ---------- |
@@ -397,8 +426,26 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | Data de Criação | 18/05/2025 |
 | Rastreabilidade | [EN09](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/) |
 
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ( [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+**Vídeo X** - Validação dos casos de usos 17, 18 e 19.
 
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/2RsMT-1wq4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/2RsMT-1wq4M" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
+
+## Termo de consentimento de imagem 
+Este documento confirma que o cidadão Gabriel Souza forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1Vx3nkS_CSteiuCCOe2M4GVtsV7QjfV8V/view?usp=share_link)
+
+| Entrevistador(es) |Cidadão|Data prevista| Data Realizada  |Horário Previsto|Horário Realizado|Local|Duração|
+| ---------------------------------------|------------ |------------------------ | ------ |-------|----------|-------|-------|
+| [Luiza da Silva Pugas](https://github.com/Luizaxx) | **Gabriel Souza** |19/06/2025| 21/06/2025| 15:30  | 15:50| Presencial |  1:18 min |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
+
+---
 
 ## Referências Bibliograficas
 
@@ -428,5 +475,7 @@ Acessado em: 13 de Maio. de 2025.
 | 2.0    | Ajustes nos casos de uso | [Gabriel Lopes](https://github.com/BrzGab)|17/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 18/05/2025 |
 | 1.10    | Ajustes nos casos de uso | [Gabriel Lopes](https://github.com/BrzGab)|17/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 18/05/2025 |
 | 2.0    |Adicionando Entrevista presencial | [Karoline Luz](https://github.com/KarolineLuz)|20/06/2025|[Ana Victória](https://github.com/navicg)| 22/06/2025 |
-| 2.1   | Adidionando validação dos Casos de Uso 01, 02 e 03 |[Ana Victória](https://github.com/navicg)                                            | 22/06/2025 | [Karoline Luz](https://github.com/KarolineLuz)                                                | 22/06/2025      |
-| 2.2    | Adição da seção de validação dos casos de uso do Artur Mendonça | [Artur Mendonça](https://github.com/ArtyMend07)|22/06/2025| [Lucas Mendonça](https://github.com/lucasarruda9) | 22/06/2025 |
+| 2.1    |Adicionando Entrevista presencial | [Luiza da Silva Pugas](https://github.com/Luizaxx)|21/06/2025|[Ana Victória](https://github.com/navicg)| 22/06/2025 |
+| 2.2   | Adidionando validação dos Casos de Uso 01, 02 e 03 |[Ana Victória](https://github.com/navicg)                                            | 22/06/2025 | [Karoline Luz](https://github.com/KarolineLuz)                                                | 22/06/2025      |
+| 2.3    | Adição da seção de validação dos casos de uso do Artur Mendonça | [Artur Mendonça](https://github.com/ArtyMend07)|22/06/2025| [Lucas Mendonça](https://github.com/lucasarruda9) | 22/06/2025 |
+
