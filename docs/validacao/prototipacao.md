@@ -293,6 +293,72 @@ Durante a validação dos protótipos UC07, UC08 e UC09, a participante demonstr
 
 ---
 
+### Entrevista 7
+
+| Participante      | Entrevistador                                             | Data       | Horário       | Local      |
+|-------------------|-----------------------------------------------------------|------------|---------------|------------|
+| Gabriel.G.F  | [Lucas Mendonça](https://github.com/lucasarruda9) | 22/06/2025 | 18:00 – 18:10 | Presencial |
+
+<p align="center">
+  <a href="https://youtu.be/l8u6Vslz7Vw" target="_blank">🎥 Vídeo 7 – Entrevista com Gabriel</a>
+</p>
+
+<p align="center">
+  <iframe width="560" height="315" src="https://youtube.com/embed/l8u6Vslz7Vw" allowfullscreen></iframe>
+</p>
+
+<p align="center">
+  <span style="font-size: 14px;">Fonte: Elaborado por <a href="https://github.com/lucasarruda9">Lucas Mendonça Arruda</a>, 2025.</span>
+</p>
+
+---
+
+### Protótipo do RF24: Acompanhamento de pendências na área educacional
+
+<p align="center">
+  <a href="https://www.figma.com/proto/A27Y38dK5DRljHraue8fQJ/Untitled?node-id=13-35&p=f&t=Mv5XZ7L9CR65GQo3-0" target="_blank">
+    Clique aqui para visualizar o protótipo UC13 – Acompanhamento de Pendências Educacionais
+  </a>
+</p>
+
+<p align="center">
+  <iframe
+    style="border: 1px solid rgba(0, 0, 0, 0.1);"
+    width="800"
+    height="450"
+    src="https://www.figma.com/proto/A27Y38dK5DRljHraue8fQJ/Untitled?node-id=13-35&p=f&t=Mv5XZ7L9CR65GQo3-0"
+    allowfullscreen>
+  </iframe>
+</p>
+
+---
+
+### Protótipo do RF17: Notificações por categorias do aplicativo
+
+<p align="center">
+  <a href="https://www.figma.com/proto/A27Y38dK5DRljHraue8fQJ/Untitled?node-id=9-48&p=f&t=Mv5XZ7L9CR65GQo3-0" target="_blank">
+    Clique aqui para visualizar o protótipo UC14 – Notificações organizadas por categoria
+  </a>
+</p>
+
+<p align="center">
+  <iframe
+    style="border: 1px solid rgba(0, 0, 0, 0.1);"
+    width="800"
+    height="450"
+    src="https://www.figma.com/proto/A27Y38dK5DRljHraue8fQJ/Untitled?node-id=9-48&p=f&t=Mv5XZ7L9CR65GQo3-0"
+    allowfullscreen>
+  </iframe>
+</p>
+
+---
+
+### Resumo da validação com base nos requisitos RF24 e RF17
+
+Durante a validação dos protótipos, o usuário demonstrou um bom entendimento sobre as funcionalidades apresentadas. Em relação ao acompanhamento de pendências educacionais, ele afirmou compreender sobre os filtros e sobre a conexão das telas do aplicativo. Quanto às notificações organizadas por categoria, o usuário demonstrou compreender a funcionalidade, também compreendendo as telas fora e dentro do app. Por fim, o usuário não indicou necessidade de alterações.
+
+---
+
 ## Considerações Finais
 
 As entrevistas forneceram feedbacks valiosos para o aprimoramento do protótipo. As principais sugestões incluem:
@@ -322,4 +388,5 @@ Esses pontos serão considerados no planejamento das próximas versões do prot�
 | 1.6   | Adicionando videos dos protótipos uc15 e uc16 | [Karoline Luz](https://github.com/KarolineLuz)| 22/06/2025 |  [Ana Victória Guedes da Costa](https://github.com/navicg)| 22/06/2025      |
 | 1.7   | Adicionando protótipos UC04 e UC05 | [Artur Mendonça](https://github.com/ArtyMend07) | 22/06/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 22/06/2025      |
 | 1.8   | Adicionando os protótipos dos casos de uso RF01 e RF03, juntamente com a validação de ambos.| [Ana Victória Guedes da Costa](https://github.com/navicg) | 22/06/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 22/06/2025      |
-| 1.8   | Adicionando a validação do protótipo dos casos de uso 07,08,09| [Gabriel Lopes](https://github.com/BrzGab) | 22/06/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 22/06/2025      |
+| 1.9   | Adicionando a validação do protótipo dos casos de uso 07,08,09| [Gabriel Lopes](https://github.com/BrzGab) | 22/06/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 22/06/2025      |
+| 1.10   | Adicionando a validação do protótipo dos casos de uso 13,14| [Lucas Mendonça](https://github.com/lucasarruda9)  | 22/06/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 22/06/2025      |
