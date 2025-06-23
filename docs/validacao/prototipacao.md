@@ -290,6 +290,7 @@ Durante o processo de validação do protótipo, o usuário demonstrou uma perce
 **Resumo:** 
 
 Durante a validação dos protótipos UC07, UC08 e UC09, a participante demonstrou grande satisfação com as funcionalidades apresentadas. Julia destacou que as opções de acessibilidade (ajuste de fonte e contraste) são essenciais para inclusão digital, especialmente para pessoas com deficiência visual. O modo escuro foi avaliado como muito útil para uso noturno. A funcionalidade de gestão de agendamentos foi considerada intuitiva e bem organizada. A participante não sugeriu alterações significativas, apenas reforçou a importância de manter essas funcionalidades acessíveis em toda a aplicação.
+
 ---
 
 ## Considerações Finais
