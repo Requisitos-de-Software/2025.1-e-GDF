@@ -89,6 +89,12 @@ O Rich Picture individual da aluno [João Marcos Moraes](https://github.com/JJOA
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), 2025)</p></font>
 
+## Rich Picture - Carteira de Trabalho Digital - Artur Mendonça
+
+O Rich Picture individual da aluno [Artur Mendonça Arruda](https://github.com/ArtyMend07) encontra-se nesse PDF: [PDF](https://drive.google.com/file/d/1WmGtBSODk08c5QlRSKyDy5rsTWAxfpix/view?usp=sharing)
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), 2025)</p></font>
+
 ---
 
 ## Referências
@@ -111,3 +117,4 @@ O Rich Picture individual da aluno [João Marcos Moraes](https://github.com/JJOA
 | 2.2 | Adicionando validação do rich picture de forma presencial | [Ana Victória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz) | 22/06/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 22/06/2025 |
 | 2.3 | Adicionando rich picture  individual do Cadastro Único | [Ana Victória](https://github.com/navicg) | 22/06/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 22/06/2025 |
 | 2.4 | Adicionando rich picture  individual do e-Título| [Karoline Luz](https://github.com/KarolineLuz) | 22/06/2025 | [Ana Victória](https://github.com/navicg) | 22/05/2025 |
+| 2.5    | Adicionando rich picture individual do Carteira de Trabalho | [Artur Mendonça Arruda](https://github.com/ArtyMend07) |22/06/2025| [Lucas Mendonça](https://github.com/lucasarruda9) | 22/06/2025 |
