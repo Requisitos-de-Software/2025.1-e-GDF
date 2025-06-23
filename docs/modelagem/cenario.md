@@ -176,6 +176,16 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 ---
 
+**Vídeo 3** - Validação dos cenários 4, 5 e 6.
+
+<p style="text-align: center"><a href="https://youtu.be/ekkh39w2HCQ" target="_blank">Vídeo - Validação dos cenários 4, 5 e 6</a></p>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/ekkh39w2HCQ" allowfullscreen></iframe></p>
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor([Artur Mendonça](https://github.com/ArtyMend07), 2025)</p></font>
+
+---
+
 ### Cenário 7: Alterar tamanho da fonte e contraste
 
 **Rastreabilidade do RF07**: [BR07, EN08, AD08](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/)
@@ -492,7 +502,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | 1.0    |  Adicionando introdução e metodologia | [Ana Victória](https://github.com/navicg) e [João Marcos Moraes](https://github.com/JJOAOMARCOSS)|14/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 15/05/2025 |
 | 1.1    |  Adicionando tabelas de cenários e Bibliografia | [Ana Victória](https://github.com/navicg) e [João Marcos Moraes](https://github.com/JJOAOMARCOSS)|14/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 15/05/2025 |
 | 1.2    |  Adição dos 3 primeiros cenários baseados nos requisitos funcionais não implementados.| [Ana Victória](https://github.com/navicg)|16/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 18/05/2025 |
-| 1.3    | Cenários 4, 5 e 6 incorporados ao documento. | [Artur Mendonça Arruda](https://github.com/ArtyMend07) |16/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 18/05/2025 |
+| 1.3    | Cenários 4, 5 e 6 incorporados ao documento. | [Artur Mendonça Arruda](https://github.com/ArtyMend07) |16/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Lucas Mendonça](https://github.com/lucasarruda9) | 18/05/2025 |
 | 1.4    | Elaboração do sétimo, oitavo e nono cenário. | [Gabriel Lopes](https://github.com/BrzGab)|16/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 18/05/2025 |
 | 1.5    | Adição do cenário 10, 11 e 12 no artefato. | [João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS)|16/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 18/05/2025 |
 | 1.6    | Adição do cenário 13 e 14 no artefato. | [Lucas Mendonça](https://github.com/lucasarruda9)|17/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 18/05/2025 |
@@ -502,3 +512,4 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | 2.0    | Adicionando  Entrevista presencial | [Karoline Luz da Conceição](https://github.com/KarolineLuz)|20/06/2025|  [Ana Victória](https://github.com/navicg)|22/06/2025| 18/05/2025 |
 | 2.1    | Adicionando  Entrevista presencial | [Luiza da Silva Pugas](https://github.com/Luizaxx) |21/06/2025|  [Ana Victória](https://github.com/navicg)|22/06/2025| 18/05/2025 |
 | 2.2   | Adidionando validação dos cenários 01, 02 e 03 |[Ana Victória](https://github.com/navicg)                                            | 22/06/2025 | [Karoline Luz](https://github.com/KarolineLuz)                                                | 22/06/2025      |
+| 2.3    | Adicionando vídeo de validação dos cenários 4, 5 e 6. | [Artur Mendonça Arruda](https://github.com/ArtyMend07) |22/06/2025| [Lucas Mendonça](https://github.com/lucasarruda9) | 22/06/2025 |
