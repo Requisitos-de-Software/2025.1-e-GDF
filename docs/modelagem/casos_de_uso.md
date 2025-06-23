@@ -273,6 +273,18 @@ A ferramenta utilizada para a criação do diagrama foi o **[Drawio](https://www
 
 <font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Lucas Mendonça](https://github.com/lucasarruda9), 2025).</p></font>
 
+## Validação dos Casos de Uso - Lucas Mendonça
+
+Os casos de uso UC13 UC14 elaborados por Lucas Mendonça foram validados através de entrevista com usuário do sistema eGDF.
+
+### Gravação da validação - Tiago M:
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/pt2Nl6jnv6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/pt2Nl6jnv6I" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Lucas Mendonça](https://github.com/lucasarruda9), 2025).</p></font>
+
 | UC15 | Acessar Informações de Agendamento Centralizadas |
 | ----- | ---------- |
 | Descrição | O usuário acessa informações de agendamento e reagendamento de forma centralizada |
@@ -377,4 +389,4 @@ Acessado em: 13 de Maio. de 2025.
 | 1.7    | Adição do casos de uso 15(solicitação de serviço público) no documento. | [Lucas Mendonça](https://github.com/lucasarruda9)|17/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 17/05/2025 |
 | 1.8    | Implementando os casos de uso 16, 17 e 18 no artefato. | [Karoline Luz da Conceição](https://github.com/KarolineLuz)|17/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 17/05/2025 |
 | 1.9    | Adicionando os casos de uso 19.| [Luiza da Silva Pugas](https://github.com/Luizaxx)|17/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 17/05/2025 |
-| 2.0    | Ajustes nos casos de uso | [Gabriel Lopes](https://github.com/BrzGab)|17/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 18/05/2025 |
+| 2.0    | Ajustes nos casos de uso | [Gabriel Lopes](https://github.com/BrzGab)|22/06/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx), [Artur Mendonça Arruda](https://github.com/ArtyMend07) e [Lucas Mendonça](https://github.com/lucasarruda9) | 22/06/2025 |
