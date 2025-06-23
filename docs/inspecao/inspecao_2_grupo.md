@@ -158,9 +158,10 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 ## Link da Reunião | Inspeção do nosso próprio grupo
 
 <p style="text-align: center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/0qah3d35XXQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
+A gravação da reunião está disponível em: [Link](https://youtu.be/0qah3d35XXQ)
 
 ## Referências 
 
@@ -172,3 +173,4 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 | ------ | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ---------- | -------------------------------------------------- | --------------- 
 | 1.0    | Adicionando a inspeção 2 depois da avaliação da nossa monitora | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Ana Victória](https://github.com/navicg) | 20/06/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 20/06/2025  |
 | 1.1    | Adicionando as evidencias da inspeção 2 depois da avaliação da nossa monitora | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Ana Victória](https://github.com/navicg) | 20/06/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 20/06/2025  |
+| 1.2 | Adicionando vídeo da inspeção 2 | [Artur Mendonça](https://github.com/ArtyMend07)  | 22/06/2025 |  [Gabriel Lopes](https://github.com/GabrielLopes0) | 22/06/2025 |

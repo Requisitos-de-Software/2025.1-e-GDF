@@ -81,10 +81,10 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 ## Link da Reunião | Inspeção do nosso próprio grupo
 
 <p style="text-align: center">
-  <iframe width="560" height="315" src="https://youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://youtube.com/embed/wj3qd57xQkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
-A gravação da reunião está disponível em: [Link](https://www.youtube.com/)
+A gravação da reunião está disponível em: [Link](https://youtu.be/wj3qd57xQkE)
 
 ## Referências 
 
@@ -96,3 +96,4 @@ A gravação da reunião está disponível em: [Link](https://www.youtube.com/)
 | Versão | Descrição | Autor(es) | Data | Revisor(es) | Data de revisão |
 |--------|-----------|-----------|------|-------------|-----------------|
 | 1.0 | Criando a inspeção 1 do grupo +1 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Karoline Luz](https://github.com/KarolineLuz) | 21/06/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 21/06/2025 |
+| 1.1 | Adicionando vídeo da inspeção 1 do grupo +1 | [Artur Mendonça](https://github.com/ArtyMend07)  | 22/06/2025 |  [Gabriel Lopes](https://github.com/GabrielLopes0) | 22/06/2025 |
