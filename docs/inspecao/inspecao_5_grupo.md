@@ -118,7 +118,7 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 
 ## Referências 
 
-- Lista de verificação elaborada pelo grupo para avaliar todos os artefatos da Entrega 5 do projeto. Disponível em: [Lista de verificação](../verificacao/grupo/entrega05/entrega05grupo.md).
+- Lista de verificação elaborada pelo grupo para avaliar todos os artefatos da Entrega 5 do projeto. Disponível em: [Lista de verificação](../verificacao/grupo/entrega06/entrega06grupo.md).
 
 ## Histórico de Versões
 
