@@ -138,7 +138,7 @@ Parabéns pelo esforço e pela dedicação!
 
 ## Referências 
 
-- Lista de verificação elaborada pelo grupo para avaliar todos os artefatos da Entrega 4 do projeto. Disponível em: [Lista de verificação](../verificacao/grupo/entrega05/entrega05grupo+1.md).
+- Lista de verificação elaborada pelo grupo para avaliar todos os artefatos da Entrega 4 do projeto. Disponível em: [Lista de verificação](../verificacao/grupo/entrega06/entrega06grupo+1.md).
 
 ## Histórico de Versões
 | Versão | Descrição                                                                                          | Autor(es)                                             | Data       | Revisor(es)                                        | Data de revisão |
