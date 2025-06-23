@@ -118,6 +118,17 @@ O participante considerou a funcionalidade de autenticação via gov.br prática
 <p style="text-align: center"><a href="https://www.figma.com/proto/W7ncAD944YfS8IYYBIrbsq/e-GDF-UC15?node-id=1-93&p=f&t=6Ac4W3feqgLCN5Dz-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1" target="blank">Clique aqui para visualizar o protótipo UC15 - Acessar Informações de Agendamento</a></p>
 
 <p style="text-align: center">
+  <iframe
+    style="border: 1px solid rgba(0, 0, 0, 0.1);"
+    width="800"
+    height="450"
+    src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FW7ncAD944YfS8IYYBIrbsq%2Fe-GDF-UC15%3Fnode-id%3D1-93%26p%3Df%26scaling%3Dscale-down%26content-scaling%3Dfixed%26page-id%3D0%253A1"
+    allowfullscreen>
+  </iframe>
+</p>
+
+
+<p style="text-align: center">
   <span style="font-size: 14px;">Fonte: Elaborado por <a href="https://github.com/KarolineLuz">Karoline Luz</a>, 2025.</span>
 </p>
 
@@ -133,6 +144,18 @@ O participante considerou a funcionalidade de autenticação via gov.br prática
 
 <p style="text-align: center"><a href="https://www.figma.com/proto/XHtHQTe1HqTU61qgGZ2Ewg/e-GDF-UC16?node-id=1-88&p=f&t=iB2Fs0Vkwc2C8YgE-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1" target="blank">Clique aqui para visualizar o protótipo UC16 - Mapa Interativo</a></p>
 
+<p style="text-align: center">
+  <iframe
+    style="border: 1px solid rgba(0, 0, 0, 0.1);"
+    width="800"
+    height="450"
+    src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FXHtHQTe1HqTU61qgGZ2Ewg%2Fe-GDF-UC16%3Fnode-id%3D1-24%26p%3Df%26scaling%3Dscale-down%26content-scaling%3Dfixed%26page-id%3D0%253A1"
+    allowfullscreen>
+  </iframe>
+</p>
+
+
+
 
 <p style="text-align: center">
   <span style="font-size: 14px;">Fonte: Elaborado por <a href="https://github.com/KarolineLuz">Karoline Luz</a>, 2025.</span>
@@ -140,7 +163,7 @@ O participante considerou a funcionalidade de autenticação via gov.br prática
 
 **Resumo:**  
 
-**UC15 :** O usuário achou a interface clara e útil para gerenciar agendamentos e reagendamentos em um só lugar. Sugeriu incluir recursos de acessibilidade visual, como contraste, aumento de fonte e navegação simplificada, pensando em pessoas com deficiência visual e idosos.
+**UC15 :** O usuário achou a interface clara e útil para gerenciar agendamentos e reagendamentos em um só lugar. Destacou que a organização das informações facilita a compreensão e o uso da funcionalidade, atendendo bem ao objetivo proposto. A interface foi vista como prática e adequada para o público geral.
 
 **UC16 :** O usuário avaliou o protótipo de forma muito positiva, considerando-o visualmente agradável, intuitivo e fácil de navegar. Destacou que a organização das informações facilita a compreensão e o uso da funcionalidade, atendendo bem ao objetivo proposto. A interface foi vista como prática e adequada para o público geral.
 
