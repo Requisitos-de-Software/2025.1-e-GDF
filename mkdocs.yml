@@ -24,6 +24,7 @@ nav:
     - Ata 8: atas/ata08.md
     - Ata 9: atas/ata9.md
     - Ata 10: atas/ata10.md
+    - Ata 11: atas/ata11.md
   - Pré-Rastreabilidade: 
     - Rich Picture: pre-rastreabilidade/rich_picture.md
   - Planejamento:
@@ -61,8 +62,13 @@ nav:
       - Matriz de Rastreabilidade: rastreabilidade/matriz_rastreabilidade.md  
       - Forward From: rastreabilidade/forward_from.md   
       - Backward From: rastreabilidade/backward_from.md 
+  - Validação:
+      - Prototipação: validacao/prototipacao.md
+      - Comprovação Informal: validacao/comprovacao.md
+      
 
   - Verificação:
+      - Avaliação -1: verificacao/grupo/avaliacao-1.md
       - Grupo:
           - Entrega 1: verificacao/grupo/entrega01/entrega01grupo.md
           - Entrega 2: verificacao/grupo/entrega02/entrega02grupo.md
