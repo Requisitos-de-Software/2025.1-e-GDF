@@ -33,21 +33,7 @@ As avaliações foram realizadas por meio de entrevistas presenciais com usuári
 
 Durante as sessões, um membro do grupo conduziu a apresentação do protótipo, guiando o usuário pelas funcionalidades, enquanto outro membro registrava as observações e comentários relevantes. Ao longo do processo, os usuários tiveram liberdade para sugerir melhorias, apontar dificuldades e expressar suas percepções sobre a interface.
 
-Caso queira visualizar o protótipo, <a href="https://www.figma.com/proto/yyeeVX0sv1XST9EkzWwxlx/E-GDF?node-id=18-1908&starting-point-node-id=18%3A1908" target="blanket">clique aqui</a>.
-
-<p style="text-align: center"><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FyyeeVX0sv1XST9EkzWwxlx%2FE-GDF%3Fnode-id%3D18-1908%26starting-point-node-id%3D18%253A1908" allowfullscreen></iframe></p>
-
-
-**Tabela 1** - Cronograma Planejado.
-
-| Entrevistadores                                                                               | Usuário                                                 | Data       | Início-Fim  | Local |
-| --------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ---------- | ----------- | ----- |
-| [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | <span style = "color: purple"> Marjorie Mitzi </span> | 13/06/2023 | 10:10-10:25 | FGA   |
-| [Luiza da Silva Pugas](https://github.com/Luizaxx) | <span style = "color: purple"> Marjorie Mitzi </span>   | 13/06/2023 | 10:30-10:40 | FGA   |
-
-</center>
-
-<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([João Marcos](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
+Caso queira visualizar o protótipo geral, <a href="https://www.figma.com/proto/yyeeVX0sv1XST9EkzWwxlx/E-GDF?node-id=18-1908&starting-point-node-id=18%3A1908" target="blanket">Clique aqui</a>.
 
 ---
 
@@ -70,7 +56,7 @@ Foram realizadas duas entrevistas com usuários reais que avaliaram a usabilidad
 
 | Participante   | Entrevistador                                             | Data       | Horário       | Local |
 | -------------- | ----------------------------------------------------- | ---------- | ------------- | ----- |
-| Marjorie Mitzi | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 13/06/2025 | 10:10 - 10:25 | FGA   |
+| <span style = "color: purple"> Marjorie Mitzi </span> | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 13/06/2025 | 10:10 - 10:25 | FGA   |
 
 <p style="text-align: center"><a href="https://youtu.be/c36Ysms_HKY" target="blanket">Vídeo 1 - Entrevista com Marjorie Mitzi</a></p>
 
@@ -78,7 +64,13 @@ Foram realizadas duas entrevistas com usuários reais que avaliaram a usabilidad
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor([João Marcos](https://github.com/JJOAOMARCOSS), 2025)</p></font>
 
-**Resumo:**  
+**Protótipo do RF12 e RF14:**
+
+<p style="text-align: center"><a href="https://www.figma.com/proto/yyeeVX0sv1XST9EkzWwxlx/E-GDF?node-id=18-1908&starting-point-node-id=18%3A1908" target="blank">Clique aqui para visualizar o protótipo</a></p>
+
+<p style="text-align: center"><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FyyeeVX0sv1XST9EkzWwxlx%2FE-GDF%3Fnode-id%3D18-1908%26starting-point-node-id%3D18%253A1908" allowfullscreen></iframe></p>
+
+**Resumo dos RF12 e RF14:**  
 Durante a avaliação, a participante destacou que o fluxo do aplicativo está bem estruturado e as funcionalidades foram compreendidas com facilidade. No entanto, sugeriu que a opção de troca de idioma fosse mais visível na tela inicial, pois inicialmente teve dificuldade para localizá-la. A participante também reforçou que as mensagens curtas para lembretes seriam muito úteis no dia a dia.
 
 ---
@@ -95,7 +87,13 @@ Durante a avaliação, a participante destacou que o fluxo do aplicativo está b
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
 
-**Resumo:**  
+**Protótipo do RF10 e RF22:**
+
+<p style="text-align: center"><a href="https://www.figma.com/proto/yyeeVX0sv1XST9EkzWwxlx/E-GDF?node-id=18-1908&starting-point-node-id=18%3A1908" target="blank">Clique aqui para visualizar o protótipo</a></p>
+
+<p style="text-align: center"><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FyyeeVX0sv1XST9EkzWwxlx%2FE-GDF%3Fnode-id%3D18-1908%26starting-point-node-id%3D18%253A1908" allowfullscreen></iframe></p>
+
+**Resumo dos RF10 e RF22:**  
 O participante considerou a funcionalidade de autenticação via gov.br prática e relevante, principalmente a opção de reconhecimento facial. Marjorie ressaltou que a possibilidade de salvar e compartilhar informações importantes é um diferencial positivo, mas sugeriu adicionar um botão de confirmação visual mais destacado ao concluir o compartilhamento.
 
 ---
@@ -447,3 +445,4 @@ Esses pontos serão considerados no planejamento das próximas versões do prot�
 | 1.8   | Adicionando os protótipos dos casos de uso RF01 e RF03, juntamente com a validação de ambos.| [Ana Victória Guedes da Costa](https://github.com/navicg) | 22/06/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 22/06/2025      |
 | 1.9   | Adicionando a validação do protótipo dos casos de uso 07,08,09| [Gabriel Lopes](https://github.com/BrzGab) | 22/06/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 22/06/2025      |
 | 1.10   | Adicionando a validação do protótipo dos casos de uso 13,14| [Lucas Mendonça](https://github.com/lucasarruda9)  | 22/06/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 22/06/2025      |
+| 1.11   | Formantando o inicio | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 22/06/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 22/06/2025      |

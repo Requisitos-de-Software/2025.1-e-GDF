@@ -84,6 +84,8 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 
 ---
 
+> **OBJETOS**
+
 - **Agendamento**
 
 | Campo     | Descrição |
@@ -92,7 +94,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 | **Noção**     | Marcação de horário para serviços específicos, como atendimentos em órgãos públicos. |
 | **Impacto**   | Permite ao usuário organizar seus compromissos com serviços públicos de forma centralizada e eficiente. |
 | **Sinônimos** | Marcação, Agenda |
-| **Tipo**      | **Verbo** |
+| **Tipo**      | **Objeto** |
 
 
 <p style="text-align: center"><b>Tabela 4:</b> Léxico de Agendamento</p>
@@ -100,9 +102,8 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 <font size="3"><p style="text-align: center">Fonte: Elaborado pelos autores (<a href="https://github.com/ArtyMend07">Artur Mendonça</a> e <a href="https://github.com/lucasarruda9">Lucas Mendonça</a>, 2025).</p></font>
 
 
-
-
 ---
+
 - **Serviços**
 
 | Campo     | Descrição |
@@ -111,7 +112,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 | **Noção**     | Sistema que permite ao usuário avaliar e comentar sobre os serviços públicos utilizados. |
 | **Impacto**   | Fornece feedback para melhorias nos serviços e transparência na gestão pública. |
 | **Sinônimos** | Feedback, Avaliação |
-| **Tipo**      | **Verbo** |
+| **Tipo**      | **Objeto** |
 
 
 <p style="text-align: center"><b>Tabela 5:</b> Léxico de Serviços</p>
@@ -128,7 +129,7 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 | **Símbolo**   | [Compartilhamento](../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) |
 | **Noção**     | Ação de distribuir informações do sistema com outros usuários, como protocolomunicação e troca de informações entre usuários, promovendo colaboração. |
 | **Sinônimos** | Distribuição, Envio |
-| **Tipo**      | **Verbo** |
+| **Tipo**      | **Objeto** |
 
 
 <p style="text-align: center"><b>Tabela 7:</b> Léxico de Compartilhamento</p>
@@ -137,8 +138,6 @@ Para a elaboração deste léxico do sistema eGDF, adotou-se a notação do Léx
 
 
 ---
-
-> **OBJETOS**
 
 - **Notificação**
 
@@ -416,3 +415,4 @@ mod_resource/content/1/Aula%2010.pdf. Acesso em: 15 mai. 2025.
 | 1.16.1| Adição de parênteses nas fontes e ajuste do tamanho das imagens | [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/KarolineLuz) | 18/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0) | 18/05/2025 |
 | 1.16.2| Padronização completa do formato das fontes em todas as tabelas | [Artur Mendonça](https://github.com/ArtyMend07) e [Karoline Luz](https://github.com/KarolineLuz) | 18/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) e [Gabriel Lopes](https://github.com/GabrielLopes0) | 18/05/2025 
 | 1.16.3| Ajustando imagens de referencia bibliográfica|[Karoline Luz](https://github.com/KarolineLuz) | 08/06/2025 | [Ana Victória](https://github.com/navicg) | 08/06/2025
+| 1.17| Corrigindo tipo de agendamento, serviços, e compartilhamento, para objeto|[Artur Mendonça](https://github.com/ArtyMend07) | 20/06/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 20/06/2025

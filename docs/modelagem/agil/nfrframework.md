@@ -325,7 +325,16 @@ Este documento confirma que a cidadã Nívea Cecília forneceu seu consentimento
 
 O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](../../assets/termo-img/Assinatura%20Nivea%20.pdf)
 
----
+**Vídeo 1 - 2.0** - Validação e Priorização de NFR com usuário por [Luiza da Silva Pugas](https://github.com/Luizaxx)
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/N9fbh0srbYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/xOqd3H6dOds" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+## Termo de consentimento de imagem 
+Este documento confirma que a cidadã Nívea Cecília forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1Vx3nkS_CSteiuCCOe2M4GVtsV7QjfV8V/view?usp=share_link)
 
 **Vídeo 2** - Validação e Priorização de NFR com usuário por [João Marcos Moraes](https://github.com/JJOAOMARCOSS)
 
@@ -1081,3 +1090,4 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | 1.20   | Adicionando entrevista, imagem, termo de consentimento, e validação do NFR| [Artur Mendonça](https://github.com/ArtyMend07) | 01/06/2025 | [Gabriel Lopes](https://github.com/BrzGab)     | 01/06/2025      |
 | 2.0| Adicionando correções e aba de entrevista presencial| [Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz)| 16/06/2025 |  [João Marcos Moraes](https://github.com/JJOAOMARCOSS)     | 22/06/2025      |
 | 2.1| Adicionando vídeo de entrevista presencial| [Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz)| 18/06/2025 |  [João Marcos Moraes](https://github.com/JJOAOMARCOSS)     | 22/06/2025      |
+| 2.2| Adicionando vídeo de entrevista presencial| [Luiza da Silva Pugas](https://github.com/Luizaxx)| 21/06/2025 |  [João Marcos Moraes](https://github.com/JJOAOMARCOSS)     | 22/06/2025      |

@@ -100,6 +100,28 @@ Neste projeto, a construção de cenários de uso foi orientada pela definição
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Ana Victória](https://github.com/navicg), 2025)</p></font>
 
 ---
+
+**Vídeo 2** - Validação com usuário por: [Ana Victória](https://github.com/navicg).
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/prN14AckMhM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/prN14AckMhM" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+## Termo de consentimento de imagem 
+Este documento confirma que o cidadão Emanuel Maurício Costa forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1DRmSHVGxYbkbGb-_nRkUZgQIXgHz2ZBA/view?usp=drive_link)
+
+
+| Entrevistador(es) |Cidadão|Data prevista| Data Realizada  |Horário Previsto|Horário Realizado|Local|Duração|
+| ---------------------------------------|------------ |------------------------ | ------ |-------|----------|-------|-------|
+|[Ana Victória](https://github.com/navicg)|**Emanuel M.C** |22/06/2025| 22/06/2025| 10:00  | 10:15|   Presencial |  04:52 min |
+
+
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Ana Victória](https://github.com/navicg), 2025).</p></font>
+
+---
+
 ### Cenário 4: Consulta centralizada de agendamentos e serviços
 
 **Rastreabilidade do RF04**: [BR04](https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/)  
@@ -345,9 +367,7 @@ Os Cenário 13 e cenário 14 foram elaborados por Lucas Mendonça foram validado
 | **Restrições** |- O reagendamento só pode ser feito com no mínimo 24 horas de antecedência<br>- É necessário que o usuário esteja autenticado no sistema.         |
 | **Exceção**    | - O usuário tentar reagendar para uma data sem disponibilidade<br>- Erro de conexão à internet |
 
-<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
 
----
 
 ### Cenário 16: Reportar problemas urbanos por meio de um mapa interativo
 
@@ -362,6 +382,24 @@ Os Cenário 13 e cenário 14 foram elaborados por Lucas Mendonça foram validado
 | **Episódios**  | - O usuário abre o aplicativo do eGDF<br> - Acessa a funcionalidade de mapa interativo<br>- Localiza o ponto exato do problema<br>- Adiciona uma descrição e uma foto, e envia o relato<br>- O sistema registra a ocorrência e a encaminha para a secretaria responsável. |
 | **Restrições** | O envio do problema exige conexão com a internet; o usuário precisa conceder permissão de acesso à localização e à câmera.                                |
 | **Exceção**    | Caso a localização não seja detectada automaticamente, o usuário pode selecionar manualmente o local no mapa; se estiver sem internet, o app salva o relato localmente e envia quando a conexão for restabelecida. |
+
+
+**Vídeo 1** - Validação com usuário por [Karoline Luz da Conceição](https://github.com/KarolineLuz)
+
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/5wS5HZrUa54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/5wS5HZrUa54" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+## Termo de consentimento de imagem 
+Este documento confirma que a cidadã Junia Luz de Sousa forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1tAtNRMAKPoStT9ZyOU-DdT1I9mJgC5qK/view?usp=sharing)
+
+| Entrevistador(es) |Cidadão|Data prevista| Data Realizada  |Horário Previsto|Horário Realizado|Local|Duração|
+| ---------------------------------------|------------ |------------------------ | ------ |-------|----------|-------|-------|
+|[Karoline Luz](https://github.com/KarolineLuz)|**Júnia L.S** |19/06/2025| 19/06/2025| 17:00  | 17:20|   Presencial |  05:15 min |
+
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
 
@@ -421,6 +459,25 @@ Os Cenário 13 e cenário 14 foram elaborados por Lucas Mendonça foram validado
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
 
+**Vídeo 7** - Validação dos cenários 17, 18 e 19.
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/_-G0sbH7xmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/_-G0sbH7xmk" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
+
+## Termo de consentimento de imagem 
+Este documento confirma que o cidadão Gabriel Souza forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1Vx3nkS_CSteiuCCOe2M4GVtsV7QjfV8V/view?usp=share_link)
+
+| Entrevistador(es) |Cidadão|Data prevista| Data Realizada  |Horário Previsto|Horário Realizado|Local|Duração|
+| ---------------------------------------|------------ |------------------------ | ------ |-------|----------|-------|-------|
+|[Luiza da Silva Pugas](https://github.com/Luizaxx)|**Gabriel Souza** |19/06/2025| 21/06/2025| 15:00  | 15:15|   Presencial |  2:32 min |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
+
 ---
 
 ## Referências Bibliográficas
@@ -455,3 +512,7 @@ Os Cenário 13 e cenário 14 foram elaborados por Lucas Mendonça foram validado
 | 1.8    | Adicionando os cenários 18, 19 e 20| [Luiza da Silva Pugas](https://github.com/Luizaxx)|17/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 18/05/2025 |
 | 1.9    | Adicionando tabela que identifica o cenário que cada um participou e rastreabilidade dos requisitos elicitados. | [Ana Victória](https://github.com/navicg)|18/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 18/05/2025 |
 | 1.10    | Validação com usuario do cenário 13 e 14. | [Lucas Mendonça](https://github.com/lucasarruda9)|22/06/2025|  [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 22/06/2025 |
+| 2.0    | Adicionando  Entrevista presencial | [Karoline Luz da Conceição](https://github.com/KarolineLuz)|20/06/2025|  [Ana Victória](https://github.com/navicg)|22/06/2025| 18/05/2025 |
+| 2.1    | Adicionando  Entrevista presencial | [Luiza da Silva Pugas](https://github.com/Luizaxx) |21/06/2025|  [Ana Victória](https://github.com/navicg)|22/06/2025| 18/05/2025 |
+| 2.2   | Adidionando validação dos cenários 01, 02 e 03 |[Ana Victória](https://github.com/navicg)                                            | 22/06/2025 | [Karoline Luz](https://github.com/KarolineLuz)                                                | 22/06/2025      |
+
