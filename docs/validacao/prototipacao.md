@@ -184,7 +184,7 @@ Os protótipos UC04 e UC05 foram validados demonstrando as funcionalidades de ce
 </p>
 
 
-### Protótipo do RF01
+**Protótipo do RF01:**
 
 <p style="text-align: center"><a href="https://www.figma.com/proto/Ztqd5ykfFtQWBSWY2Db9KB/UC01---Login-de--forma-simples-e-r%C3%A1pida?node-id=1-45&p=f&t=LsbVa8jppxklxPJy-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A37" target="blank">Clique aqui para visualizar o protótipo UC01 - Login de forma simples e rápida</a></p>
 
@@ -198,7 +198,7 @@ Os protótipos UC04 e UC05 foram validados demonstrando as funcionalidades de ce
   </iframe>
 </p>
 
-### Protótipo do RF03
+**Protótipo do RF03:**
 
 <p style="text-align: center"><a href="https://www.figma.com/proto/yItFd5elSueePbfDIN7dxM/UC03---Notifica%C3%A7%C3%B5es-personalizadas-baseadas-na-localiza%C3%A7%C3%A3o?node-id=7-34&p=f&t=d87NmFKHPiOSJE9R-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=7%3A34" target="blank">Clique aqui para visualizar o protótipo UC03 - Notificações baseadas na localização do usuário</a></p>
 
@@ -264,37 +264,7 @@ Este protótipo valida o [RF10](../elicitacao/req_elicitados.md#anchor_RF) - "Ge
   <span style="font-size: 14px;">Fonte: Elaborado por <a href="https://github.com/BrzGab">Gabriel Lopes</a>, 2025.</span>
 </p>
 
-
-
-
-
-
-## Protótipos dos Casos de Uso UC15 e UC16
-Foram desenvolvidos protótipos específicos para validar funcionalidades de gestão de agendamentos e reporte de problemas urbanos, elaborados por [Karoline Luz](https://github.com/KarolineLuz), focando nos casos de uso UC15 e UC16.
-
-### UC15 – Acessar Informações de Agendamento Centralizadas
-
-Este protótipo valida o [RF16](../elicitacao/req_elicitados.md#anchor_RF) – "O sistema deve disponibilizar, em uma única interface, o acesso às informações de agendamentos e reagendamentos realizados pelo usuário autenticado", apresentando uma visão centralizada para facilitar o gerenciamento dos compromissos agendados.
-
-<p style="text-align: center"><a href="https://www.figma.com/proto/W7ncAD944YfS8IYYBIrbsq/e-GDF-UC15?node-id=1-93&p=f&t=6Ac4W3feqgLCN5Dz-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1" target="blank">Clique aqui para visualizar o protótipo UC15 - Acessar Informações de Agendamento</a></p>
-
-
-<p style="text-align: center"><font size="3">Fonte:Protótipos elaborados por (<a href="https://github.com/KarolineLuz">Karoline Luz</a>, 2025).</font></p>
 ---
-
-### UC16 – Reportar Problemas da Cidade via Mapa Interativo
-
-Este protótipo valida o [RF25](../elicitacao/req_elicitados.md#anchor_RF) – "O sistema deve permitir que usuários autenticados reportem problemas urbanos selecionando um ponto no mapa interativo e preenchendo um formulário com tipo, descrição e, opcionalmente, imagem do problema", demonstrando a interação com o mapa e o registro dos problemas de forma geolocalizada.
-
-
-<p style="text-align: center"><a href="https://www.figma.com/proto/XHtHQTe1HqTU61qgGZ2Ewg/e-GDF-UC16?node-id=1-88&p=f&t=iB2Fs0Vkwc2C8YgE-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1" target="blank">Clique aqui para visualizar o protótipo UC16 - Mapa Interativo</a></p>
-
-
-<p style="text-align: center"><font size="3">Fonte:Protótipos elaborados por (<a href="https://github.com/KarolineLuz">Karoline Luz</a>, 2025).</font></p>
-
----
-
-
 
 ## Considerações Finais
 
@@ -324,5 +294,5 @@ Esses pontos serão considerados no planejamento das próximas versões do prot�
 | 1.5   | Preparando documentos para receber video e protótipos uc15 e uc16 | [Karoline Luz](https://github.com/KarolineLuz)| 21/06/2025 |  [Ana Victória Guedes da Costa](https://github.com/navicg)| 22/06/2025      |
 | 1.6   | Adicionando videos dos protótipos uc15 e uc16 | [Karoline Luz](https://github.com/KarolineLuz)| 22/06/2025 |  [Ana Victória Guedes da Costa](https://github.com/navicg)| 22/06/2025      |
 | 1.7   | Adicionando protótipos UC04 e UC05 | [Artur Mendonça](https://github.com/ArtyMend07) | 22/06/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 22/06/2025      |
-| 1.8   | Adicionando os protótipos dos casos de uso UC01 e UC03, juntamente com a validação de ambos.| [Ana Victória Guedes da Costa](https://github.com/navicg) | 22/06/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 22/06/2025      |
+| 1.8   | Adicionando os protótipos dos casos de uso RF01 e RF03, juntamente com a validação de ambos.| [Ana Victória Guedes da Costa](https://github.com/navicg) | 22/06/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 22/06/2025      |
 | 1.8   | Adicionando a validação do protótipo dos casos de uso 07,08,09| [Gabriel Lopes](https://github.com/BrzGab) | 22/06/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 22/06/2025      |
