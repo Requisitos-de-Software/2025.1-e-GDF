@@ -66,7 +66,7 @@ Foram realizadas duas entrevistas com usuários reais que avaliaram a usabilidad
 
 **Protótipo do RF12 e RF14:**
 
-<p style="text-align: center"><a href="https://www.figma.com/proto/yyeeVX0sv1XST9EkzWwxlx/E-GDF?node-id=18-1908&starting-point-node-id=18%3A1908" target="blank">Clique aqui para visualizar o protótipo UC01 - Login de forma simples e rápida</a></p>
+<p style="text-align: center"><a href="https://www.figma.com/proto/yyeeVX0sv1XST9EkzWwxlx/E-GDF?node-id=18-1908&starting-point-node-id=18%3A1908" target="blank">Clique aqui para visualizar o protótipo</a></p>
 
 <p style="text-align: center"><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FyyeeVX0sv1XST9EkzWwxlx%2FE-GDF%3Fnode-id%3D18-1908%26starting-point-node-id%3D18%253A1908" allowfullscreen></iframe></p>
 
@@ -89,7 +89,7 @@ Durante a avaliação, a participante destacou que o fluxo do aplicativo está b
 
 **Protótipo do RF10 e RF22:**
 
-<p style="text-align: center"><a href="https://www.figma.com/proto/yyeeVX0sv1XST9EkzWwxlx/E-GDF?node-id=18-1908&starting-point-node-id=18%3A1908" target="blank">Clique aqui para visualizar o protótipo UC01 - Login de forma simples e rápida</a></p>
+<p style="text-align: center"><a href="https://www.figma.com/proto/yyeeVX0sv1XST9EkzWwxlx/E-GDF?node-id=18-1908&starting-point-node-id=18%3A1908" target="blank">Clique aqui para visualizar o protótipo</a></p>
 
 <p style="text-align: center"><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FyyeeVX0sv1XST9EkzWwxlx%2FE-GDF%3Fnode-id%3D18-1908%26starting-point-node-id%3D18%253A1908" allowfullscreen></iframe></p>
 
