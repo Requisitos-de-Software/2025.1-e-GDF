@@ -67,7 +67,7 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 ## Link da Reunião | Inspeção do nosso próprio grupo
 
 <p style="text-align: center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/JiFU2yivHX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
 ## Referências 
