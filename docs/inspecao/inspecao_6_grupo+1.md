@@ -69,6 +69,12 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 
 ---
 
+## Link da Reunião | Inspeção do Grupo + 1(GDF-Saúde)
+
+<p style="text-align: center">
+  <iframe width="560" height="315" src="https://youtube.com/embed/G3PswVjT2oI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
 ## Referências 
 
 - Lista de verificação elaborada pelo grupo para avaliar todos os artefatos da Entrega 5 do projeto. Disponível em: [Lista de verificação](../verificacao/grupo/entrega05/entrega05grupo.md).
