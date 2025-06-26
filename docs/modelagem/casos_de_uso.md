@@ -329,6 +329,18 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 <font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Lucas Mendonça](https://github.com/lucasarruda9), 2025).</p></font>
 
+## Validação dos Casos de Uso - Lucas Mendonça
+
+Os casos de uso UC13 UC14 elaborados por Lucas Mendonça foram validados através de entrevista com usuário do sistema eGDF.
+
+### Gravação da validação - Tiago M:
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/pt2Nl6jnv6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/pt2Nl6jnv6I" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Lucas Mendonça](https://github.com/lucasarruda9), 2025).</p></font>
+
 | UC15 | Acessar Informações de Agendamento Centralizadas |
 | ----- | ---------- |
 | Descrição | O usuário acessa informações de agendamento e reagendamento de forma centralizada |
@@ -478,4 +490,5 @@ Acessado em: 13 de Maio. de 2025.
 | 2.1    |Adicionando Entrevista presencial | [Luiza da Silva Pugas](https://github.com/Luizaxx)|21/06/2025|[Ana Victória](https://github.com/navicg)| 22/06/2025 |
 | 2.2   | Adidionando validação dos Casos de Uso 01, 02 e 03 |[Ana Victória](https://github.com/navicg)                                            | 22/06/2025 | [Karoline Luz](https://github.com/KarolineLuz)                                                | 22/06/2025      |
 | 2.3    | Adição da seção de validação dos casos de uso do Artur Mendonça | [Artur Mendonça](https://github.com/ArtyMend07)|22/06/2025| [Lucas Mendonça](https://github.com/lucasarruda9) | 22/06/2025 |
+
 
