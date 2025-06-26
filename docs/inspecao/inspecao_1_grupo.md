@@ -26,7 +26,7 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 
 ## Lista de Inspeção - Baseada no plano de ensino 
 
-<p align="center"> Tabela 1 - Lista de Inspeção Baseada no Plano de Ensino </p>
+<p align="center"> Tabela 1 - Lista de Inspeção para os Itens Gerais </p>
 
 | ID  | Item de Verificação | Autor | Revisores | Evidência | Conforme / Não Conforme / Incompleto |
 |-----|---------------------|--------|-----------|-----------|----------|
