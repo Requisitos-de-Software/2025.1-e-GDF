@@ -25,7 +25,7 @@ A metodologia escolhida para esta verificação é uma adaptação da inspeção
 <p align="center"> Figura 1 - Etapas da Inspeção de acordo com Fagan </p>
 
 <div style="text-align: center">
-<img src="">
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/artefato-reorganiza%C3%A7%C3%A3o/docs/assets/inspecao-fagan-e.png">
 </div>
 
 <font size="3"><p style="text-align: center"> Fonte: SOMMERVILLE (2007)<a id="anchor_4" href="#REF4">[4]</a></p></font>
