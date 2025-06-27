@@ -24,56 +24,62 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 - Lucas Mendonça Arruda
 - Luiza da Silva Pugas
 
-## Lista de Inspeção - Baseada no plano de ensino 
-
-
-<p align="center"> Tabela 1 - Lista de Inspeção Baseada no Plano de Ensino </p>
-
-| ID  | Item                                                                           | Autor                                                                                       | Revisores                                                                                                                                                                                                                                                                                 | Conforme/Não Conforme/Incompleto                        |
-| --- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
-| 1   | As Histórias de Usuário?                                 | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <input type="checkbox" checked>Conforme |
-| 2   |  Os títulos das histórias de usuário são auto-explicativo?                       | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <input type="checkbox" checked>Conforme |
-| 3   | O “quem”, “o que” e o “por que” estão definidos na história de usuário?                                                  | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <input type="checkbox" checked>Conforme |
-| 4   |  A participação do cliente e/ou persona na validação das histórias de usuário?                                            | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <input type="checkbox" checked>Conforme |
-| 5   | A história possui critérios de aceitação?                            | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <input type="checkbox" checked>Conforme |
-| 6   | A participação do cliente e/ou persona na elicitação de requisitos?         | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <input type="checkbox" checked>Conforme |
-| 7   |  Todas as histórias de usuários podem ser testadas?  especificação do caso de uso.                                                | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <input type="checkbox" checked>Conforme |
-| 8   | O backlogs?      | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <input type="checkbox" checked>Conforme |
-| 9   |  O backlog possui épicos e temas bem definidos e descritos?    | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <input type="checkbox" checked>Conforme |
-| 10  | As Histórias de Usuário seguem algum modelo ou padrão?  | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <input type="checkbox" checked>Conforme |
-| 11  | NFR Framework?  | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <input type="checkbox" checked>Conforme |
-| 12  |  A definição do RNF e as fontes de evidência na literatura?  | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <input type="checkbox" checked>Conforme |
-| 13  |  O cartão de especificação do RNF?  | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <input type="checkbox" checked>Conforme |
-| 14  | Os softgoals condizem com o contexto?  | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <input type="checkbox" checked>Conforme |
-| 15  | Softgoals representam metas bem definidas?  | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <input type="checkbox" checked>Conforme |
-| 16  | Os impactos foram corretamente propagados?  | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <input type="checkbox" checked>Conforme |
-
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ( [Ana Victória](https://github.com/navicg), 2025)</p></font>
-
--------
 
 ## Lista de Inspeção de Itens Técnicos e Documentais 
 
-<p align="center">Tabela 2 – Lista de Inspeção de Itens Técnicos e Documentais </p>
+<p align="center">Tabela 1 – Lista de Inspeção de Itens Técnicos e Documentais </p>
 
-| ID  | Item de Inspeção                                                                                                                                                          | Autor                                                                                       | Revisores                                                                                                                                                                                                                                                                                | Conforme/Não Conforme/Incompleto                        |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
-| 1   | O histórico de versão está padronizado no repositório? - Uso de convenções consistentes para registrar alterações no repositório do projeto.                              | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <input type="checkbox" checked>Conforme |
-| 2   | Referências e bibliografia estão incluídas nos artefatos? - Citação correta de fontes utilizadas para fundamentar o projeto e seus artefatos.                             | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <input type="checkbox" checked>Conforme |
-| 3   | Tabelas e imagens possuem legenda e fonte, e são citadas no texto? - Elementos visuais devidamente legendados, com fontes citadas e contextualizadas no texto.            | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <input type="checkbox" checked>Conforme |
-| 4   | Existe introdução explicando os artefatos desenvolvidos? - Texto introdutório explicando a função e o conteúdo dos artefatos apresentados.                                | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <input type="checkbox" checked>Conforme |
-| 5   | O cronograma executado possui responsáveis e datas? - Planejamento real com datas e responsáveis, refletindo o que foi efetivamente feito.                                | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <input type="checkbox" checked>Conforme |
-| 6   | As atas de reunião contêm data, horário, participantes e objetivos? - Documentos com registro formal das reuniões, contendo data, hora, participantes e objetivos.        | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <input type="checkbox" checked>Conforme |
-| 7   | As gravações de reuniões foram salvas? - Arquivos de vídeo das reuniões, armazenados para consulta futura.                                                                | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <input type="checkbox" checked>Conforme |
-| 8   | As apresentações no YouTube estão configuradas como "não listado"? - Garantia de que os vídeos estão acessíveis apenas para quem tiver o link, respeitando a privacidade. | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <input type="checkbox" checked>Conforme |
+| ID  | Item de Verificação | Autor | Revisores | Evidência | Conforme / Não Conforme / Incompleto |
+|-----|---------------------|--------|-----------|-----------|----------|
+| 1 | Referências e bibliografia estão incluídas nos artefatos? - Citação correta de fontes utilizadas para fundamentar o projeto e seus artefatos. | [Ana Victória](https://github.com/navicg) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) |  | <input type="checkbox" checked> Conforme |
+| 2 | Tabelas e imagens possuem legenda e fonte, e são citadas no texto? - Elementos visuais devidamente legendados, com fontes citadas e contextualizadas no texto. | [Artur Mendonça](https://github.com/ArtyMend07) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) |  | <input type="checkbox" checked> Conforme |
+| 3 | Existe introdução explicando os artefatos desenvolvidos? - Texto introdutório explicando a função e o conteúdo dos artefatos apresentados. | [Gabriel Lopes](https://github.com/BrzGab) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) |  | <input type="checkbox" checked> Conforme |
+| 4 | O cronograma executado possui responsáveis e datas? - Planejamento real com datas e responsáveis, refletindo o que foi efetivamente feito. | [João Marcos](https://github.com/JJOAOMARCOSS) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) |  | <input type="checkbox" checked> Conforme |
+| 5 | As atas de reunião contêm data, horário, participantes e objetivos? - Documentos com registro formal das reuniões, contendo data, hora, participantes e objetivos. | [Lucas Mendonça](https://github.com/lucasarruda9) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) |  | <input type="checkbox" checked> Conforme |
+| 6 | As gravações de reuniões foram salvas? - Arquivos de vídeo das reuniões, armazenados para consulta futura. | [Luiza da Silva Pugas](https://github.com/Luizaxx) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) |  | <input type="checkbox" checked> Conforme |
+| 7 | As apresentações no YouTube estão configuradas como "não listado"? - Garantia de que os vídeos estão acessíveis apenas para quem tiver o link, respeitando a privacidade. | [Karoline Luz](https://github.com/KarolineLuz) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) |  | <input type="checkbox" checked> Conforme |
 
-<font size="3"><p align="center">Elaborado pelo autor: ([João Marcos](https://github.com/JJOAOMARCOSS), 2025).</p></font>
+
+<font size="3"><p style="text-align: center">Elaborado por: [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz).</p></font>
+
+## Gráfico de Conformidade – Intens Técnicos e Documentais
+
+<div 
+  style="width: 200px; height: 200px; margin: 0 auto; border-radius: 50%; background: conic-gradient(
+    #4caf50 100%,    /* Conforme */
+    #f44336 0%,      /* Não Conforme */
+    #ff9800 0%,      /* Incompleto */
+    #9e9e9e 0%       /* Não se Aplica */
+  );" 
+  title="✅ 7 itens Conformes"
+></div>
+
+<div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px; font-family: sans-serif;">
+  <div style="display: flex; align-items: center; gap: 5px;">
+    <div style="width: 15px; height: 15px; background: #4caf50; border-radius: 3px;"></div>
+    <span>Conforme (7)</span>
+  </div>
+  <div style="display: flex; align-items: center; gap: 5px;">
+    <div style="width: 15px; height: 15px; background: #f44336; border-radius: 3px;"></div>
+    <span>Não Conforme (0)</span>
+  </div>
+  <div style="display: flex; align-items: center; gap: 5px;">
+    <div style="width: 15px; height: 15px; background: #ff9800; border-radius: 3px;"></div>
+    <span>Incompleto (0)</span>
+  </div>
+  <div style="display: flex; align-items: center; gap: 5px;">
+    <div style="width: 15px; height: 15px; background: #9e9e9e; border-radius: 3px;"></div>
+    <span>Não se Aplica (0)</span>
+  </div>
+</div>
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
 
 ---
 ### Lista de Inspeção – História de Usuário
 
 
-<p align="center">Tabela 3 – Lista de Inspeção – História de Usuários </p>
+<p align="center">Tabela 2 – Lista de Inspeção – História de Usuários </p>
 
 
 | ID  | Item de Verificação                                                                                         | Autor                                                                                      | Revisores | Evidência | Conforme / Não Conforme / Incompleto                       |
@@ -89,16 +95,46 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 
 
 
-
 <font size="3"><p style="text-align: center"> Elaborado pelos(as) autores(as): ( [Ana Victória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz), 2025)</p></font>
 
+## Gráfico de Conformidade – Histórias de Usuário
 
+<div 
+  style="width: 200px; height: 200px; margin: 0 auto; border-radius: 50%; background: conic-gradient(
+    #4caf50 100%,    /* Conforme */
+    #f44336 0%,      /* Não Conforme */
+    #ff9800 0%,      /* Incompleto */
+    #9e9e9e 0%       /* Não se Aplica */
+  );" 
+  title="✅ 8 itens Conformes"
+></div>
+
+<div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px; font-family: sans-serif;">
+  <div style="display: flex; align-items: center; gap: 5px;">
+    <div style="width: 15px; height: 15px; background: #4caf50; border-radius: 3px;"></div>
+    <span>Conforme (8)</span>
+  </div>
+  <div style="display: flex; align-items: center; gap: 5px;">
+    <div style="width: 15px; height: 15px; background: #f44336; border-radius: 3px;"></div>
+    <span>Não Conforme (0)</span>
+  </div>
+  <div style="display: flex; align-items: center; gap: 5px;">
+    <div style="width: 15px; height: 15px; background: #ff9800; border-radius: 3px;"></div>
+    <span>Incompleto (0)</span>
+  </div>
+  <div style="display: flex; align-items: center; gap: 5px;">
+    <div style="width: 15px; height: 15px; background: #9e9e9e; border-radius: 3px;"></div>
+    <span>Não se Aplica (0)</span>
+  </div>
+</div>
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
 
 
 ### Lista de Inspeção – NFR FrameWork
 
 
-<p align="center">Tabela 4 – Lista de Inspeção – NFR FrameWork</p>
+<p align="center">Tabela 3 – Lista de Inspeção – NFR FrameWork</p>
 
 | ID  | Item de Verificação                                                                                                                                  | Autor                                                                                            | Revisores                                                                                                                                                                                                                                                                                                                            | Evidência                                                                                                                                                                        | Conforme / Não Conforme / Incompleto |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
@@ -118,10 +154,48 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 
 <font size="3"><p style="text-align: center"> Elaborado pelos(as) autores(as): ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
 
+<h3 style="text-align: center;">Gráfico de Conformidade – SIG (Softgoals)</h3>
+
+<div 
+  style="
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+    background: conic-gradient(
+      #4caf50 100%,    /* Conforme */
+      #f44336 0%,      /* Não Conforme */
+      #ff9800 0%,      /* Incompleto */
+      #9e9e9e 0%       /* Não se Aplica */
+    );
+  "
+  title='✅ 12 itens "Conforme"'
+></div>
+
+<div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px; font-family: sans-serif;">
+  <div style="display: flex; align-items: center; gap: 5px;">
+    <div style="width: 15px; height: 15px; background: #4caf50; border-radius: 3px;"></div>
+    <span>Conforme (12)</span>
+  </div>
+  <div style="display: flex; align-items: center; gap: 5px;">
+    <div style="width: 15px; height: 15px; background: #f44336; border-radius: 3px;"></div>
+    <span>Não Conforme (0)</span>
+  </div>
+  <div style="display: flex; align-items: center; gap: 5px;">
+    <div style="width: 15px; height: 15px; background: #ff9800; border-radius: 3px;"></div>
+    <span>Incompleto (0)</span>
+  </div>
+  <div style="display: flex; align-items: center; gap: 5px;">
+    <div style="width: 15px; height: 15px; background: #9e9e9e; border-radius: 3px;"></div>
+    <span>Não se Aplica (0)</span>
+  </div>
+</div>
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
 
 ### Lista de Inspeção - Backlog
 
-<p align="center">Tabela 5 – Lista de Inspeção – Backlog</p>
+<p align="center">Tabela  – Lista de Inspeção – Backlog</p>
 
 | ID  | Item de Verificação | Autor | Revisor(es) | Evidência | Conforme / Não Conforme / Incompleto |
 | --- | ------------------- | ----- | ----------- | --------- | ------------------------------------ |
@@ -134,6 +208,45 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 
 
 <font size="3"><p style="text-align: center"> Elaborado pelo autor: ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
+
+<h3 style="text-align: center;">Gráfico de Conformidade – Backlog</h3>
+
+<div 
+  style="
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+    background: conic-gradient(
+      #4caf50 100%,    /* Conforme */
+      #f44336 0%,      /* Não Conforme */
+      #ff9800 0%,      /* Incompleto */
+      #9e9e9e 0%       /* Não se Aplica */
+    );
+  "
+  title='✅ 5 itens "Conforme"'
+></div>
+
+<div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px; font-family: sans-serif;">
+  <div style="display: flex; align-items: center; gap: 5px;">
+    <div style="width: 15px; height: 15px; background: #4caf50; border-radius: 3px;"></div>
+    <span>Conforme (5)</span>
+  </div>
+  <div style="display: flex; align-items: center; gap: 5px;">
+    <div style="width: 15px; height: 15px; background: #f44336; border-radius: 3px;"></div>
+    <span>Não Conforme (0)</span>
+  </div>
+  <div style="display: flex; align-items: center; gap: 5px;">
+    <div style="width: 15px; height: 15px; background: #ff9800; border-radius: 3px;"></div>
+    <span>Incompleto (0)</span>
+  </div>
+  <div style="display: flex; align-items: center; gap: 5px;">
+    <div style="width: 15px; height: 15px; background: #9e9e9e; border-radius: 3px;"></div>
+    <span>Não se Aplica (0)</span>
+  </div>
+</div>
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
 
 # Link da Reunião | Inspeção do nosso próprio grupo
 
@@ -152,3 +265,5 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 | 1.0    | Adicionando tabelas da lista de inspeção da entrega 4 do eGDF| [Ana Victória](https://github.com/navicg) | 01/06/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 01/06/2025  |
 | 1.1    | Adicionando os prints | [Gabriel Lopes](https://github.com/BrzGab) | 01/06/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 01/06/2025  |
 | 1.2   | Adicionando link da reunião e status do item de verificação | [Ana Victória](https://github.com/navicg) | 01/06/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 01/06/2025  |
+| 2.0 | Adicionando gráficos de conformidade itens técnicos e documentais | [Luiza da Silva Pugas](https://github.com/Luizaxx)  | 26/06/2025 |  [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 07/07/2025 |
+| 2.1 | Adicionando gráficos de conformidade da entrega 4: Histórias de usuário, NFR e backlog | [Luiza da Silva Pugas](https://github.com/Luizaxx)  | 26/06/2025 |  [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 07/07/2025 |
