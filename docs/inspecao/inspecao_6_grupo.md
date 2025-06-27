@@ -31,17 +31,49 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 
 | ID  | Item de Verificação                                                                                                                                                       | Autor                                                                                       | Revisores                                                                                                                                                                                                                                                                                                                                      | Evidência                                                                                                                                                                                                             | Conforme / Não Conforme / Incompleto |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-| 1   | Referências e bibliografia estão incluídas nos artefatos? - Citação correta de fontes utilizadas para fundamentar o projeto e seus artefatos.                             | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/lista-de-inspe%C3%A7%C3%A3o-entrega-5/docs/assets/lista-de-insp-prof-5/q1.png"></div>                            | <input type="checkbox" checked>  Conforme    |
-| 2   | Tabelas e imagens possuem legenda e fonte, e são citadas no texto? - Elementos visuais devidamente legendados, com fontes citadas e contextualizadas no texto.            | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/lista-de-inspe%C3%A7%C3%A3o-entrega-5/docs/assets/lista-de-insp-prof-5/q2.png"></div>                            | <input type="checkbox" checked>  Conforme    |
-| 3   | Existe introdução explicando os artefatos desenvolvidos? - Texto introdutório explicando a função e o conteúdo dos artefatos apresentados.                                | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/lista-de-inspe%C3%A7%C3%A3o-entrega-5/docs/assets/lista-de-insp-prof-5/q3.png"></div>                            | <input type="checkbox" checked>  Conforme    |
-| 4   | O cronograma executado possui responsáveis e datas? - Planejamento real com datas e responsáveis, refletindo o que foi efetivamente feito.                                | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/lista-de-inspe%C3%A7%C3%A3o-entrega-5/docs/assets/lista-de-insp-prof-5/inspecao_cronograma_executado.png"></div> | <input type="checkbox" checked>  Conforme    |
-| 5   | As atas de reunião contêm data, horário, participantes e objetivos? - Documentos com registro formal das reuniões, contendo data, hora, participantes e objetivos.        | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/lista-de-inspe%C3%A7%C3%A3o-entrega-5/docs/assets/lista-de-insp-prof-5/q5.png"></div>                            | <input type="checkbox" checked>  Conforme    |
-| 6   | As gravações de reuniões foram salvas? - Arquivos de vídeo das reuniões, armazenados para consulta futura.                                                                | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/lista-de-inspe%C3%A7%C3%A3o-entrega-5/docs/assets/lista-de-insp-prof-5/q6-q7.png"></div>                         | <input type="checkbox" checked>  Conforme    |
-| 7   | As apresentações no YouTube estão configuradas como "não listado"? - Garantia de que os vídeos estão acessíveis apenas para quem tiver o link, respeitando a privacidade. | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/lista-de-inspe%C3%A7%C3%A3o-entrega-5/docs/assets/lista-de-insp-prof-5/q6-q7.png"></div>                         | <input type="checkbox" checked>  Conforme    |
+| 1   | Referências e bibliografia estão incluídas nos artefatos? - Citação correta de fontes utilizadas para fundamentar o projeto e seus artefatos.                             |  [Ana Victória](https://github.com/navicg) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/lista-de-inspe%C3%A7%C3%A3o-entrega-5/docs/assets/lista-de-insp-prof-5/q1.png"></div>                            | <input type="checkbox" checked>  Conforme    |
+| 2   | Tabelas e imagens possuem legenda e fonte, e são citadas no texto? - Elementos visuais devidamente legendados, com fontes citadas e contextualizadas no texto.            | [Artur Mendonça](https://github.com/ArtyMend07) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/lista-de-inspe%C3%A7%C3%A3o-entrega-5/docs/assets/lista-de-insp-prof-5/q2.png"></div>                            | <input type="checkbox" checked>  Conforme    |
+| 3   | Existe introdução explicando os artefatos desenvolvidos? - Texto introdutório explicando a função e o conteúdo dos artefatos apresentados.                                | [Gabriel Lopes](https://github.com/BrzGab) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/lista-de-inspe%C3%A7%C3%A3o-entrega-5/docs/assets/lista-de-insp-prof-5/q3.png"></div>                            | <input type="checkbox" checked>  Conforme    |
+| 4   | O cronograma executado possui responsáveis e datas? - Planejamento real com datas e responsáveis, refletindo o que foi efetivamente feito.                                | [João Marcos](https://github.com/JJOAOMARCOSS) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/lista-de-inspe%C3%A7%C3%A3o-entrega-5/docs/assets/lista-de-insp-prof-5/inspecao_cronograma_executado.png"></div> | <input type="checkbox" checked>  Conforme    |
+| 5   | As atas de reunião contêm data, horário, participantes e objetivos? - Documentos com registro formal das reuniões, contendo data, hora, participantes e objetivos.        | [Lucas Mendonça](https://github.com/lucasarruda9) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/lista-de-inspe%C3%A7%C3%A3o-entrega-5/docs/assets/lista-de-insp-prof-5/q5.png"></div>                            | <input type="checkbox" checked>  Conforme    |
+| 6   | As gravações de reuniões foram salvas? - Arquivos de vídeo das reuniões, armazenados para consulta futura.                                                                | [Luiza da Silva Pugas](https://github.com/Luizaxx) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/lista-de-inspe%C3%A7%C3%A3o-entrega-5/docs/assets/lista-de-insp-prof-5/q6-q7.png"></div>                         | <input type="checkbox" checked>  Conforme    |
+| 7   | As apresentações no YouTube estão configuradas como "não listado"? - Garantia de que os vídeos estão acessíveis apenas para quem tiver o link, respeitando a privacidade. | [Karoline Luz](https://github.com/KarolineLuz) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/lista-de-inspe%C3%A7%C3%A3o-entrega-5/docs/assets/lista-de-insp-prof-5/q6-q7.png"></div>                         | <input type="checkbox" checked>  Conforme    |
 
 
 
 <font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([João Marcos](https://github.com/JJOAOMARCOSS), 2025)</p></font>
+## Gráfico de Conformidade – Itens Técnicos e Documentais
+
+<div 
+  style="width: 200px; height: 200px; margin: 0 auto; border-radius: 50%; background: conic-gradient(
+    #4caf50 100%,    /* Conforme */
+    #f44336 0%,      /* Não Conforme */
+    #ff9800 0%,      /* Incompleto */
+    #9e9e9e 0%       /* Não se Aplica */
+  );" 
+  title="✅ 7 itens Conformes"
+></div>
+
+<div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px; font-family: sans-serif;">
+  <div style="display: flex; align-items: center; gap: 5px;">
+    <div style="width: 15px; height: 15px; background: #4caf50; border-radius: 3px;"></div>
+    <span>Conforme (7)</span>
+  </div>
+  <div style="display: flex; align-items: center; gap: 5px;">
+    <div style="width: 15px; height: 15px; background: #f44336; border-radius: 3px;"></div>
+    <span>Não Conforme (0)</span>
+  </div>
+  <div style="display: flex; align-items: center; gap: 5px;">
+    <div style="width: 15px; height: 15px; background: #ff9800; border-radius: 3px;"></div>
+    <span>Incompleto (0)</span>
+  </div>
+  <div style="display: flex; align-items: center; gap: 5px;">
+    <div style="width: 15px; height: 15px; background: #9e9e9e; border-radius: 3px;"></div>
+    <span>Não se Aplica (0)</span>
+  </div>
+</div>
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
 
 ---
 
@@ -65,7 +97,44 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 | 14  | O protótipo transformou as funcionalidades do campo das ideias em representações físicas que facilitam a compreensão e minimizam mal-entendidos? | [Gabriel Lopes](https://github.com/BrzGab) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [João Marcos Moraes](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx), [Karoline Luz](https://github.com/KarolineLuz) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/criando-insp-5/docs/assets/ins6/1%2C2%2C4%2C7%2C8%2C9%2C10%2C11.png" width="100px" checked></div> | <input type="checkbox" checked> Conforme |
 
 <font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([João Marcos](https://github.com/JJOAOMARCOSS), 2025)</p></font>
+<h3 style="text-align: center;">Gráfico de Conformidade – Protótipo</h3>
 
+<div 
+  style="
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+    background: conic-gradient(
+      #4caf50 100%,    /* Conforme */
+      #f44336 0%,      /* Não Conforme */
+      #ff9800 0%,      /* Incompleto */
+      #9e9e9e 0%       /* Não se Aplica */
+    );
+  "
+  title='✅ 14 itens "Conforme"'
+></div>
+
+<div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px; font-family: sans-serif;">
+  <div style="display: flex; align-items: center; gap: 5px;">
+    <div style="width: 15px; height: 15px; background: #4caf50; border-radius: 3px;"></div>
+    <span>Conforme (14)</span>
+  </div>
+  <div style="display: flex; align-items: center; gap: 5px;">
+    <div style="width: 15px; height: 15px; background: #f44336; border-radius: 3px;"></div>
+    <span>Não Conforme (0)</span>
+  </div>
+  <div style="display: flex; align-items: center; gap: 5px;">
+    <div style="width: 15px; height: 15px; background: #ff9800; border-radius: 3px;"></div>
+    <span>Incompleto (0)</span>
+  </div>
+  <div style="display: flex; align-items: center; gap: 5px;">
+    <div style="width: 15px; height: 15px; background: #9e9e9e; border-radius: 3px;"></div>
+    <span>Não se Aplica (0)</span>
+  </div>
+</div>
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
 ---
 
 ## Link da Reunião | Inspeção do nosso próprio grupo
@@ -83,3 +152,5 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 | Versão | Descrição                                                     | Autor(es)                                      | Data       | Revisor(es)                                    | Data de revisão |
 | ------ | ------------------------------------------------------------- | ---------------------------------------------- | ---------- | ---------------------------------------------- | --------------- |
 | 1.0    | Adicionando tabelas da lista de inspeção da entrega 5 do eGDF | [João Marcos](https://github.com/JJOAOMARCOSS) | 22/06/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 22/06/2025      |
+| 2.0 | Adicionando gráficos de conformidade itens técnicos e documentais | [Luiza da Silva Pugas](https://github.com/Luizaxx)  | 26/06/2025 |  [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 07/07/2025 |
+| 2.1 | Adicionando gráficos de conformidade da entrega 6: Protótipos | [Luiza da Silva Pugas](https://github.com/Luizaxx)  | 26/06/2025 |  [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 07/07/2025 |
