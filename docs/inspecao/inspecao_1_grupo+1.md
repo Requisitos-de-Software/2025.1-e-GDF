@@ -142,11 +142,42 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 | 5 | Ele conta uma história? | [João Marcos](https://github.com/JJOAOMARCOSS) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx), [Karoline Luz](https://github.com/KarolineLuz) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/artefato-reorganiza%C3%A7%C3%A3o/docs/assets/lista-1/RP-GDF.png" width="100px"></div> | <input type="checkbox" checked> Conforme |
 | 6 | O Rich Picture diz qual dado está sendo processado, qual está chegando ao sistema e qual informação está saindo? | [João Marcos](https://github.com/JJOAOMARCOSS) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx), [Karoline Luz](https://github.com/KarolineLuz) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/artefato-reorganiza%C3%A7%C3%A3o/docs/assets/lista-1/RP-GDF.png" width="100px"></div> | <input type="checkbox" checked> Conforme |
 | 7 | O Rich Picture dá uma ideia do que realmente está acontecendo? | [Luiza da Silva Pugas](https://github.com/Luizaxx) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx), [Karoline Luz](https://github.com/KarolineLuz) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/artefato-reorganiza%C3%A7%C3%A3o/docs/assets/lista-1/RP-GDF.png" width="100px"></div> | <input type="checkbox" checked> Conforme |
-| 8 | Contém palavras-chave relevantes? | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx), [Karoline Luz](https://github.com/KarolineLuz) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/artefato-reorganiza%C3%A7%C3%A3o/docs/assets/lista-1/RP-GDF.png" width="100px"></div> | <input type="checkbox" checked> Conforme |
-| 9 | Comunica mais ideias do que palavras? |[Lucas Mendonça](https://github.com/lucasarruda9) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx), [Karoline Luz](https://github.com/KarolineLuz) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/artefato-reorganiza%C3%A7%C3%A3o/docs/assets/lista-1/RP-GDF.png" width="100px"></div> | <input type="checkbox" checked> Conforme |
+| 8 | Contém palavras-chave relevantes? | [João Marcos](https://github.com/JJOAOMARCOSS) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx), [Karoline Luz](https://github.com/KarolineLuz) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/artefato-reorganiza%C3%A7%C3%A3o/docs/assets/lista-1/RP-GDF.png" width="100px"></div> | <input type="checkbox" checked> Conforme |
+| 9 | Comunica mais ideias do que palavras? | [Lucas Mendonça](https://github.com/lucasarruda9) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx), [Karoline Luz](https://github.com/KarolineLuz) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/artefato-reorganiza%C3%A7%C3%A3o/docs/assets/lista-1/RP-GDF.png" width="100px"></div> | <input type="checkbox" checked> Conforme |
 | 10 | Contém a explicação dos componentes? | [Karoline Luz](https://github.com/KarolineLuz) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx), [Karoline Luz](https://github.com/KarolineLuz) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/artefato-reorganiza%C3%A7%C3%A3o/docs/assets/lista-1/RP-GDF.png" width="100px"></div> | <input type="checkbox" checked> Conforme |
 
 <font size="3"><p style="text-align: center">Elaborado por: [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz).</p></font>
+
+---
+
+## Gráfico de Acompanhamento lista de Inspeção do Rich Picture
+
+<div 
+  style="width: 200px; height: 200px; margin: 0 auto; border-radius: 50%; background: conic-gradient(
+    #4caf50 100%,    /* Conforme */
+    #f44336 0%,      /* Não Conforme */
+    #ff9800 0%,      /* Incompleto */
+    #9e9e9e 0%       /* Não se Aplica */
+  );" 
+  title="✅ 10 itens Conformes"
+></div>
+
+<div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px; font-family: sans-serif;">
+  <div style="display: flex; align-items: center; gap: 5px;">
+    <div style="width: 15px; height: 15px; background: #4caf50; border-radius: 3px;"></div>
+    <span>Conforme (10)</span>
+  </div>
+  <div style="display: flex; align-items: center; gap: 5px;">
+    <div style="width: 15px; height: 15px; background: #f44336; border-radius: 3px;"></div>
+    <span>Não Conforme (0)</span>
+  </div>
+  <div style="display: flex; align-items: center; gap: 5px;">
+    <div style="width: 15px; height: 15px; background: #ff9800; border-radius: 3px;"></div>
+    <span>Incompleto (0)</span>
+  </div>
+</div>
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([João Marcos](https://github.com/JJOAOMARCOSS), 2025)</p></font>
 
 ---
 
@@ -170,3 +201,4 @@ A gravação da reunião está disponível em: [Link](https://youtu.be/wj3qd57xQ
 | 1.0 | Criando a inspeção 1 do grupo +1 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Karoline Luz](https://github.com/KarolineLuz) | 21/06/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 21/06/2025 |
 | 1.1 | Adicionando vídeo da inspeção 1 do grupo +1 | [Artur Mendonça](https://github.com/ArtyMend07)  | 22/06/2025 |  [Gabriel Lopes](https://github.com/GabrielLopes0) | 22/06/2025 |
 | 1.2 | Arrumando a primeira tabela com base na revisão do professor | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 27/06/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 27/06/2025 |
+| 1.3 | Adicionando as imgs restantes | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 27/06/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 27/06/2025 |
