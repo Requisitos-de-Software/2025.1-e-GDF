@@ -126,11 +126,9 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 
 ---
 
-## Itens do conteúdo da Disciplina 
+## Lista de Inspeção Rich Picture
 
-<p align="center">Tabela 3 – Lista de Verificação de Itens do conteúdo da Disciplina</p>
-
-## Lista de Verificação – Rich Picture (Detalhada)
+<p align="center">Tabela 3 – Lista de Inspeção Rich Picture</p>
 
 | ID  | Item de Verificação | Autor | Revisores | Evidência | Conforme / Não Conforme / Incompleto |
 |-----|---------------------|--------|-----------|-----------|----------|
