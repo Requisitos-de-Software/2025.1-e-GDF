@@ -30,7 +30,13 @@ A metodologia escolhida para esta verificação é uma adaptação da inspeção
 
 <font size="3"><p style="text-align: center"> Fonte: SOMMERVILLE (2007)<a id="anchor_4" href="#REF4">[4]</a></p></font>
 
+## Cronograma de Participantes
 
+| Nome | Data | Hora | Artefato|
+| ------------- | ----------- | ------------- | ----------- |
+| João Marcos | 26/06/2025 | 10:00 | Planejamento Geral de Verificação |
+
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([João Marcos](https://github.com/JJOAOMARCOSS), 2025)</p></font>
 
 ## Participantes
 
