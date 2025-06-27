@@ -22,19 +22,15 @@ A metodologia escolhida para esta verificação é uma adaptação da inspeção
 
 É importante ressaltar que a verificação é, primariamente, uma preocupação para os engenheiros de software, e o cliente não precisa se envolver diretamente nesse processo, pois ela foca na consistência interna do modelo e na sua aderência às regras do projeto <a href="#REF1">1</a>.
 
-<center>
+<p align="center"> Figura 1 - Etapas da Inspeção de acordo com Fagan </p>
 
-**Figura 1** - Etapas da Inspeção de acordo com Fagan.
+<div style="text-align: center">
+<img src="">
+</div>
 
-<figure markdown class="usecaseElement">
+<font size="3"><p style="text-align: center"> Fonte: SOMMERVILLE (2007)<a id="anchor_4" href="#REF4">[4]</a></p></font>
 
-![inspecao-fagan](../../../assets/verificacao/inspecao-fagan.png)
 
-</figure>
-
-_Fonte: SOMMERVILLE (2007)._<a id="anchor_4" href="#REF4">^4^</a>
-
-</center>
 
 ## Participantes
 
@@ -48,6 +44,8 @@ _Fonte: SOMMERVILLE (2007)._<a id="anchor_4" href="#REF4">^4^</a>
 |[Luiza da Silva Pugas](https://github.com/Luizaxx)| Verificação das Entregas 1,2,3,4 e 5 |
 |[Lucas Mendonça](https://github.com/lucasarruda9)| Verificação das Entregas 1,2,3,4 e 5 |
 
+
+<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([João Marcos](https://github.com/JJOAOMARCOSS), 2025)</p></font>
 
 ## Referências Bibliográficas
 
@@ -65,3 +63,5 @@ _Fonte: SOMMERVILLE (2007)._<a id="anchor_4" href="#REF4">^4^</a>
 | Versão | Descrição | Autor(es) | Data | Revisor(es) | Data de revisão |
 |--------|-----------|-----------|------|-------------|-----------------|
 | 1.0 | Criando o Planejamento Geral | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 21/06/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 21/06/2025 |
+| 1.1 | Adicioando a tabela | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 21/06/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 21/06/2025 |
+| 1.2 | Adicioando a img 1 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 27/06/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 27/06/2025 |
