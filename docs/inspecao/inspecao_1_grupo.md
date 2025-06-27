@@ -105,19 +105,19 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px; font-family: sans-serif;">
   <div style="display: flex; align-items: center; gap: 5px;">
     <div style="width: 15px; height: 15px; background: #4caf50; border-radius: 3px;"></div>
-    <span>Conforme (100%)</span>
+    <span>Conforme (10)</span>
   </div>
   <div style="display: flex; align-items: center; gap: 5px;">
     <div style="width: 15px; height: 15px; background: #f44336; border-radius: 3px;"></div>
-    <span>Não Conforme (0%)</span>
+    <span>Não Conforme (0)</span>
   </div>
   <div style="display: flex; align-items: center; gap: 5px;">
     <div style="width: 15px; height: 15px; background: #ff9800; border-radius: 3px;"></div>
-    <span>Incompleto (0%)</span>
+    <span>Incompleto (0)</span>
   </div>
   <div style="display: flex; align-items: center; gap: 5px;">
     <div style="width: 15px; height: 15px; background: #9e9e9e; border-radius: 3px;"></div>
-    <span>Não se Aplica (0%)</span>
+    <span>Não se Aplica (0)</span>
   </div>
 </div>
 
