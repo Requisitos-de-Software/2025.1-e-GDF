@@ -98,6 +98,9 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 | 14  | O protótipo transformou as funcionalidades do campo das ideias em representações físicas que facilitam a compreensão e minimizam mal-entendidos? | [Gabriel Lopes](https://github.com/BrzGab) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [João Marcos Moraes](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx), [Karoline Luz](https://github.com/KarolineLuz) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/criando-insp-5/docs/assets/ins6/1%2C2%2C4%2C7%2C8%2C9%2C10%2C11.png" width="100px" checked></div> | <input type="checkbox" checked> Conforme |
 
 <font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([João Marcos](https://github.com/JJOAOMARCOSS), 2025)</p></font>
+
+---
+
 <h3 style="text-align: center;">Gráfico de Conformidade – Protótipo</h3>
 
 <div 
@@ -136,6 +139,7 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 </div>
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+
 ---
 
 ## Link da Reunião | Inspeção do nosso próprio grupo

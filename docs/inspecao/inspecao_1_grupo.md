@@ -70,7 +70,7 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
   </div>
 </div>
 
-
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([João Marcos](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
 
 
 ---
@@ -175,6 +175,7 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
   </div>
 </div>
 
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([João Marcos](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
 
 ---
 

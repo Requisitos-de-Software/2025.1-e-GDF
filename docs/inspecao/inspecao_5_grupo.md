@@ -42,6 +42,8 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 
 <font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
 
+---
+
 ## Gráfico de Conformidade – Itens Técnicos e Documentais
 
 <div 
@@ -75,8 +77,9 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
 
-## Lista de Inspeção - Backward From 
+---
 
+## Lista de Inspeção - Backward From 
 
 <p align="center"> Tabela 2 - Lista de Inspeção - Backward From  </p>
 
@@ -94,6 +97,8 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 | 10  | A fonte do requisito é compreendida por todos os envolvidos no projeto?                               | [Gabriel Lopes](https://github.com/BrzGab) e [Artur Mendonça](https://github.com/ArtyMend07) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) |<div><img src="https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/docs/lista-de-inspe%C3%A7%C3%A3o-entrega-5/docs/assets/fonte-inspecao-backward2.png?raw=true"></div>  | <input type="checkbox" checked> |
 
 <font size="3"><p style="text-align: center"> Elaborado pelos(as) autores(as): ([Gabriel Lopes](https://github.com/BrzGab) e [Artur Mendonça](https://github.com/ArtyMend07), 2025).</p></font>
+
+---
 
 <h3 style="text-align: center;">Gráfico de Conformidade – Backward From</h3>
 
@@ -134,8 +139,9 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
 
-## Lista de Inspeção - Fordward From 
+---
 
+## Lista de Inspeção - Fordward From 
 
 <p align="center"> Tabela 3 - Lista de Inspeção - Fordward From  </p>
 
@@ -154,6 +160,8 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 | 10 | O requisito contribui para rastreabilidade da qualidade e validação do sistema? | [Karoline Luz](https://github.com/KarolineLuz) e [Ana Victória](https://github.com/navicg) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/lista-de-inspe%C3%A7%C3%A3o-entrega-5/docs/assets/lista-de-insp-prof-5/inspecao_forward1_2_3_5_9_10.png"></div> | <input type="checkbox" checked> |
 
 <font size="3"><p style="text-align: center"> Elaborado pelos(as) autores(as): ([Karoline Luz](https://github.com/KarolineLuz) e [Ana Victória](https://github.com/navicg), 2025)</p></font>
+
+---
 
 <h3 style="text-align: center;">Gráfico de Conformidade – Forward Tracing</h3>
 
@@ -194,8 +202,9 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
 
-## Lista de Inspeção - Matriz de Rastreabilidade
+---
 
+## Lista de Inspeção - Matriz de Rastreabilidade
 
 <p align="center"> Tabela 4 - Lista de Inspeção - Matriz de Rastreabilidade  </p>
 
@@ -214,6 +223,8 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 | 10 | A matriz é revisada periodicamente como parte do processo de qualidade? | [João Marcos Moraes](https://github.com/JJOAOMARCOSS), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Lucas Mendonça](https://github.com/lucasarruda9) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/lista-de-inspe%C3%A7%C3%A3o-entrega-5/docs/assets/lista-de-insp-prof-5/mt-q10.png"></div> | <input type="checkbox" checked> |
 
 <font size="3"><p style="text-align: center"> Elaborado pelos(as) autores(as): ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
+
+---
 
 <h3 style="text-align: center;">Gráfico de Conformidade – Matriz de Rastreabilidade</h3>
 
@@ -254,12 +265,15 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
 
+---
+
 ## Link da Reunião | Inspeção do nosso próprio grupo
 
 <p style="text-align: center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/bwLlEudMYcg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
+---
 
 ## Referências 
 

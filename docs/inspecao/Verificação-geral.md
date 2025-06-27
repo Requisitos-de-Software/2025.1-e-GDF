@@ -20,7 +20,7 @@ A metodologia escolhida para esta verificação é uma adaptação da inspeção
 
 - **Acompanhamento**: para assegurar que todas as correções foram implementadas satisfatoriamente. 
 
-É importante ressaltar que a verificação é, primariamente, uma preocupação para os engenheiros de software, e o cliente não precisa se envolver diretamente nesse processo, pois ela foca na consistência interna do modelo e na sua aderência às regras do projeto <a href="#REF1">1</a>.
+É importante ressaltar que a verificação é, primariamente, uma preocupação para os engenheiros de software, e o cliente não precisa se envolver diretamente nesse processo, pois ela foca na consistência interna do modelo e na sua aderência às regras do projeto<a href="#REF1">[1]</a>.
 
 <p align="center"> Figura 1 - Etapas da Inspeção de acordo com Fagan </p>
 
