@@ -42,7 +42,7 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 
 <font size="3"><p style="text-align: center">Elaborado por: [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz).</p></font>
 
-## Gráfico de Conformidade – Intens Técnicos e Documentais
+## Gráfico de Conformidade – Itens Técnicos e Documentais
 
 <div 
   style="width: 200px; height: 200px; margin: 0 auto; border-radius: 50%; background: conic-gradient(
