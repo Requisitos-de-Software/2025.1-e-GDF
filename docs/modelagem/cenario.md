@@ -331,6 +331,18 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
 
+## Validação dos Cenários - Lucas Mendonça
+
+Os Cenário 13 e cenário 14 foram elaborados por Lucas Mendonça foram validados através de entrevista com usuário do sistema eGDF.
+
+### Gravação da validação - Gabriel.G.F:
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/nTrafXdh1k0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/nTrafXdh1k0" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Lucas Mendonça](https://github.com/lucasarruda9), 2025).</p></font>
+
 ---
 
 ### Cenário 14: Notificações por categorias do aplicativo
@@ -513,3 +525,4 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | 2.1    | Adicionando  Entrevista presencial | [Luiza da Silva Pugas](https://github.com/Luizaxx) |21/06/2025|  [Ana Victória](https://github.com/navicg)|22/06/2025| 18/05/2025 |
 | 2.2   | Adidionando validação dos cenários 01, 02 e 03 |[Ana Victória](https://github.com/navicg)                                            | 22/06/2025 | [Karoline Luz](https://github.com/KarolineLuz)                                                | 22/06/2025      |
 | 2.3    | Adicionando vídeo de validação dos cenários 4, 5 e 6. | [Artur Mendonça Arruda](https://github.com/ArtyMend07) |22/06/2025| [Lucas Mendonça](https://github.com/lucasarruda9) | 22/06/2025 |
+| 2.4    | Adição da validação dos cenários13 e 14 | [Lucas Mendonça](https://github.com/lucasarruda9) |22/06/2025| [Artur Mendonça](https://github.com/ArtyMend07) | 22/06/2025 |
