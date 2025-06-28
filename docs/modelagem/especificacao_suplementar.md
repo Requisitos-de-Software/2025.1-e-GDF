@@ -31,6 +31,8 @@ Esse tópico diz respeito aos requisitos relacionados a facilidade do usuário d
 
 Para essa categoria os requisitos identificados estão representados na tabela 1 a seguir.
 
+<font><p style="text-align: center">**Tabela 1** - Requisitos de Usabilidade.</p></font>
+
 | Requisito | Texto original |
 |-----------|----------------|
 | U01 | O sistema deve ter uma interface intuitiva. |
@@ -45,7 +47,7 @@ Para essa categoria os requisitos identificados estão representados na tabela 1
 | U10 | O aplicativo deve ter uma aparência profissional e confiável para transmitir segurança aos usuários. |
 | U11 | A interface deve ser simples, objetiva e utilizar linguagem acessível a usuários com diferentes níveis de escolaridade. |
 
-<font><p style="text-align: center">**Tabela 1** - Requisitos de Usabilidade.</p></font>
+
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Ana Victória](https://github.com/navicg) e [Artur Mendonça](https://github.com/ArtyMend07), 2025)</p></font>
 
@@ -79,6 +81,8 @@ Diz respeito ao quão confiável é o sistema, ou seja, qual é a frequência de
 
 Para essa categoria os requisitos identificados estão representados na tabela 2 a seguir.
 
+<font><p style="text-align: center">**Tabela 2** - Requisitos de Confiabilidade.</p></font>
+
 | Requisito | Texto original |
 |-----------|----------------|
 | R01 | O sistema deve estar em conformidade com a Lei Geral de Proteção de Dados (LGPD). |
@@ -86,9 +90,6 @@ Para essa categoria os requisitos identificados estão representados na tabela 2
 | R03 | O aplicativo deve apresentar estabilidade, evitando travamentos ou falhas de carregamento, especialmente em redes móveis. |
 | R04 | O aplicativo deve garantir proteção de dados pessoais, reforçando a confiança do usuário quanto à privacidade e segurança. |
 | R05 | O sistema deve proteger as informações pessoais com criptografia de dados e autenticação segura. |
-
-<font><p style="text-align: center">**Tabela 2** - Requisitos de Confiabilidade.</p></font>
-
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Gabriel Lopes](https://github.com/BrzGab) e [Karoline Luz](https://github.com/karol), 2025)</p></font>
 
@@ -117,6 +118,8 @@ Diz respeito às condições que os requisitos devem operar. A velocidade, limit
 
 Para essa categoria os requisitos identificados estão representados na tabela 3 a seguir.
 
+<font><p style="text-align: center">**Tabela 3** - Requisitos de Desempenho.</p></font>
+
 | Requisito | Texto original |
 |-----------|----------------|
 | P01 | A navegação deve ser rápida e fluida entre telas, sem necessidade de redirecionamentos excessivos. |
@@ -125,7 +128,7 @@ Para essa categoria os requisitos identificados estão representados na tabela 3
 | P04 | As funcionalidades principais devem responder em, no máximo, dois segundos para garantir boa experiência. |
 | P05 | As imagens capturadas pelo usuário devem ser otimizadas para upload rápido mesmo em conexões móveis. |
 
-<font><p style="text-align: center">**Tabela 3** - Requisitos de Desempenho.</p></font>
+
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([João Marcos](https://github.com/JJOAOMARCOSS) e [Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
 
@@ -135,14 +138,14 @@ Envolve os requisitos relacionados ao suporte e manutenção do sistema. Isso in
 
 Para essa categoria os requisitos identificados estão representados na tabela 4 a seguir.
 
+<font><p style="text-align: center">**Tabela 4** - Requisitos de Suportabilidade.</p></font>
+
 | Requisito | Texto original |
 |-----------|----------------|
 | S01 | O sistema deve ser compatível com vários dispositivos como Android e iOS. |
 | S02 | O sistema deve funcionar mesmo em dispositivos com baixa capacidade de hardware. |
 | S03 | O aplicativo deve ser compatível com as versões mais recentes dos sistemas Android e iOS. |
 | S04 | Deve funcionar em modo offline para consulta de registros ou informações previamente acessadas. |
-
-<font><p style="text-align: center">**Tabela 4** - Requisitos de Suportabilidade.</p></font>
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
 
@@ -189,5 +192,6 @@ iOS: Objective-C, Swift.
 | 1.3    | Adição da tabela Confiabilidade  | [Gabriel Lopes](https://github.com/BrzGab), [Karoline Luz](https://github.com/KarolineLuz)          | 16/05/2025 | [Ana Victória](https://github.com/navicg), [Luiza da Silva Pugas](https://github.com/Luizaxx)       | 17/05/2025      |
 | 1.4    | Adição da tabela Usabilidade     | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07)          | 16/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS), [Gabriel Lopes](https://github.com/BrzGab)    | 17/05/2025      |
 | 1.5    | Adição da tabela Suportabilidade | [Luiza da Silva Pugas](https://github.com/Luizaxx)                                                | 16/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9)                                                  | 17/05/2025      |
+| 1.6    | Arrumando nome das tabelas | [Lucas Mendonça](https://github.com/lucasarruda9)                                              | 21/06/2025 |             [Gabriel Lopes](https://github.com/BrzGab)                                      | 22/06/2025      |
 | 2.0    | Adidionando entrevista e termo de conscentimento| [Karoline Luz](https://github.com/KarolineLuz)                                          | 20/06/2025 | [Ana Victória](https://github.com/navicg)                                                 | 20/06/2025      |
 | 2.1   | Adidionando validação da Usabilidade |[Ana Victória](https://github.com/navicg)                                            | 22/06/2025 | [Karoline Luz](https://github.com/KarolineLuz)                                                | 22/06/2025      |
