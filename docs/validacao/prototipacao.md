@@ -355,11 +355,11 @@ Durante a validação dos protótipos UC07, UC08 e UC09, a participante demonstr
 | Gabriel.G.F  | [Lucas Mendonça](https://github.com/lucasarruda9) | 22/06/2025 | 18:00 – 18:10 | Presencial |
 
 <p align="center">
-  <a href="https://youtu.be/l8u6Vslz7Vw" target="_blank">🎥 Vídeo 7 – Entrevista com Gabriel</a>
+  <a href="https://youtu.be/UClT0cKSLU4" target="_blank">🎥 Vídeo 7 – Entrevista com Gabriel</a>
 </p>
 
 <p align="center">
-  <iframe width="560" height="315" src="https://youtube.com/embed/l8u6Vslz7Vw" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://youtube.com/embed/UClT0cKSLU4" allowfullscreen></iframe>
 </p>
 
 <p align="center">
