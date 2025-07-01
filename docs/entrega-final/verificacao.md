@@ -2,356 +2,353 @@
 
 ## Introdução
 
-O objetivo desta página é sintetizar sobre o artefato de verificação do Grupo 9 e do nosso próprio grupo.
+O objetivo desta página é apresentar uma síntese do processo de verificação dos artefatos do Grupo 8 e do Grupo 9.
 
-Como explicado no documento do artefato, o método utilizado foi a técnica de inspeção através de checklists, desenvolvida originalmente por Fagan.
-
-A estratégia de planejamento adotada envolveu a verificação de cada artefato por um membro do grupo que não foi responsável por sua criação. Esse membro foi encarregado de elaborar uma lista de verificação (checklist) específica para o artefato em questão. Após a conclusão da verificação, o membro responsável pela criação do artefato ou da verificação assumiu a responsabilidade de corrigí-lo, levando em consideração as melhorias solicitadas durante a verificação e a validação das correções propostas.
+Como explicado nos documentos individuais de verificação, o método utilizado foi a técnica de inspeção com checklists, originalmente desenvolvida por Fagan. A estratégia de planejamento adotada envolveu a verificação de cada artefato por um membro do grupo que **não** participou diretamente de sua criação. Esse membro elaborou uma lista de verificação específica para o artefato e, após a conclusão da inspeção, o responsável pela produção ou pela verificação ficou encarregado de realizar as correções com base nas melhorias sugeridas.
 
 ## Verificação do Próprio Grupo
 
-Abaixo é possível encontrar os link para os planejamentos da verificação dos artefatos entregues até o momento da verificação e do [Planejamento Geral](../../docs/verificacao/).
+A seguir, estão os links para os planejamentos das verificações dos artefatos entregues pelo Grupo 8, organizados por entrega. Também está disponível o link para o [Planejamento Geral](../verificacao/) e para a [Avaliação do Grupo -1 (nosso grupo)](../verificacao/grupo/avaliacao-1.md).
 
-Planejamento da Verificação:
+### Planejamento da Verificação:
 
-- [Entrega 1](../../docs/verificacao/grupo/entrega01/entrega01grupo.md)
-- [Entrega 2](../../docs/verificacao/grupo/entrega02/entrega02grupo.md)
-- [Entrega 3](../../docs/verificacao/grupo/entrega03/entrega03grupo.md)
-- [Entrega 4](../../docs/verificacao/grupo/entrega04/entrega04grupo.md)
-- [Entrega 5](../../docs/verificacao/grupo/entrega06/entrega06grupo.md)
-- [Entrega 6](../../docs/verificacao/grupo/entrega05/entrega05grupo.md)
+- [Entrega 1](../verificacao/grupo/entrega01/entrega01grupo.md)
+- [Entrega 2](../verificacao/grupo/entrega02/entrega02grupo.md)
+- [Entrega 3](../verificacao/grupo/entrega03/entrega03grupo.md)
+- [Entrega 4](../verificacao/grupo/entrega04/entrega04grupo.md)
+- [Entrega 5](../verificacao/grupo/entrega06/entrega06grupo.md)
+- [Entrega 6](../verificacao/grupo/entrega05/entrega05grupo.md)
 
-<center>
-
-<details>
-<summary>Tabela 1: Artefatos verficados do grupo 1 na Entrega 1</summary>
-
-<table>
-  <tr>
-    <th>Artefato</th>
-    <th>Autor</th>
-    <th>Revisor</th>
-  </tr>
-  <tr>
-    <td><a href="../../docs/pre-rastreabilidade/rich_picture.md">Rich Picture</a></td>
-    <td><a href="https://github.com/BrzGab">Gabriel Lopes</a> e <a href="https://github.com/lucasarruda9">Lucas Mendonça</a></td>
-    <td><a href="https://github.com/navicg">Ana Victória</a></td>
-  </tr>
-  <tr>
-        <td><a href="../../docs/planejamento/aplicativos_selecionados.md">Aplicativos Selecionados</a></td>
-        <td><a href="https://github.com/SeuNome">Seu Nome</a></td>
-        <td><a href="https://github.com/NomedoRevisor">Nome do seu revisor</a></td>
-    </tr>
-    <tr>
-        <td><a href="../../docs">Aplicativo Escolhido</a></td>
-        <td><a href="https://github.com/SeuNome">Seu Nome</a></td>
-        <td><a href="https://github.com/NomedoRevisor">Nome do seu revisor</a></td>
-    </tr>
-    <tr>
-        <td><a href="../../verificacao/grupo/entrega2/verificacao-introspeccao">Ferramentas</a></td>
-        <td><a href="https://github.com/Luizaxx">Luiza da Silva</a></td>
-        <td><a href="https://github.com/JJOAOMARCOSS">João Marcos</a></td>
-    </tr>
-    <tr>
-        <td><a href="../../docs/planejamento/heatmap.md">Heat Map</a></td>
-        <td><a href="https://github.com/JJOAOMARCOSS">João Marcos</a></td>
-        <td><a href="https://github.com/Luizaxx">Luiza da Silva</a></td>
-    </tr>
-    <tr>
-        <td><a href="../../docs">Cronograma</a></td>
-        <td><a href="https://github.com/SeuNome">Seu Nome</a></td>
-        <td><a href="https://github.com/NomedoRevisor">Nome do seu revisor</a></td>
-    </tr>
-    <tr>
-        <td><a href="../../docs">Cronograma Executado</a></td>
-        <td><a href="https://github.com/SeuNome">Seu Nome</a></td>
-        <td><a href="https://github.com/NomedoRevisor">Nome do seu revisor</a></td>
-    </tr>
-    <tr>
-        <td><a href="../../docs">Metodologia</a></td>
-        <td><a href="https://github.com/SeuNome">Seu Nome</a></td>
-        <td><a href="https://github.com/NomedoRevisor">Nome do seu revisor</a></td>
-    </tr>
-    <tr>
-        <td><a href="../../docs">Termo de Uso</a></td>
-        <td><a href="https://github.com/SeuNome">Seu Nome</a></td>
-        <td><a href="https://github.com/NomedoRevisor">Nome do seu revisor</a></td>
-    </tr>
-</table>
-<font>Fonte: <a href='https://github.com/JJOAOMARCOSS'>João Marcos</a></font>
-</details>
-
-<details>
-<summary>Tabela 2: Artefatos verficados do grupo 1 na Entrega 2</summary>
-
-<table>
-    <tr>
-        <td colspan="3" align="center"><strong>Elicitação</strong></td>
-    </tr>
-    <tr>
-        <th>Artefato</th>
-        <th>Autor</th>
-        <th>Revisor</th>
-    </tr>
-    <tr>
-        <td><a href="../../docs/elicitacao/perfil_de_usuario.md">Perfil de Usuário</a></td>
-        <td><a href="https://github.com/KarolineLuz">Karoline Luz</a> e <a href="https://github.com/navicg">Ana Victória</a></td>
-        <td><a href="https://github.com/ArtyMend07">Artur Mendonça</a></td>
-    </tr>
-    <tr>
-        <td><a href="../../docs">Introspecção</a></td>
-        <td><a href="https://github.com/SeuNome">Seu Nome</a></td>
-        <td><a href="https://github.com/NomedoRevisor">Nome do seu revisor</a></td>
-    </tr>
-    <tr>
-        <td><a href="../../docs">Analise de Documentos</a></td>
-        <td><a href="https://github.com/SeuNome">Seu Nome</a></td>
-        <td><a href="https://github.com/NomedoRevisor">Nome do seu revisor</a></td>
-    </tr>
-    <tr>
-        <td><a href="../../verificacao/grupo/entrega2/verificacao-brainstorming">Brainstorm</a></td>
-        <td><a href="https://github.com/JJOAOMARCOSS">João Marcos</a> e <a href="https://github.com/Luizaxx">Luiza da Silva</a></td>
-        <td><a href="https://github.com/navicg">Ana Victória</a></td>
-    </tr>
-    <tr>
-        <td><a href="../../docs/elicitacao/tec_elicitacao/entrevista.md">Entrevista</a></td>
-        <td><a href="https://github.com/mathonaut">Matheus Henrique</a></td>
-        <td><a href="https://github.com/manuziny">Geovanna Maciel</a></td>
-    </tr>
-    <tr>
-        <td colspan="3" align="center"><strong>Priorização</strong></td>
-    </tr>
-    <tr>
-        <th>Artefato</th>
-        <th>Autor</th>
-        <th>Revisor</th>
-    </tr>
-    <tr>
-        <td><a href="../../verificacao/grupo/entrega2/verificacao-$100">$100</a></td>
-        <td><a href="https://github.com/g16c">Gabriel Campello</a></td>
-        <td><a href="https://github.com/mathonaut">Matheus Henrique</a></td>
-    </tr>
-    <tr>
-        <td><a href="../../verificacao/grupo/entrega2/verificacao-ftf">First Things First</a></td>
-        <td><a href="https://github.com/mathonaut">Matheus Henrique</a></td>
-        <td><a href="https://github.com/manuziny">Geovanna Maciel</a></td>
-    </tr>
-    <tr>
-        <td><a href="../../verificacao/grupo/entrega2/verificacao-three-level-scale">Three Level-Scale</a></td>
-        <td><a href="https://github.com/RafaelCLG0">Rafel Ferreira</a></td>
-        <td><a href="https://github.com/g16c">Gabriel Campello</a></td>
-    </tr>
-</table>
-<font>Fonte: <a href='https://github.com/JJOAOMARCOSS'>João Marcos</a></font>
-</details>
-
-<details>
-<summary>Tabela 7: Artefatos verficados do grupo 1 na Entrega 3</summary>
-
-<table>
-  <tr>
-    <th>Artefato</th>
-    <th>Autor</th>
-    <th>Revisor</th>
-  </tr>
-  <tr>
-    <td><a href="../../verificacao/grupo/entrega3/verificacao-caso-de-uso">Caso de Uso</a></td>
-    <td><a href="https://github.com/mathonaut">Matheus Henrique</a></td>
-    <td><a href="https://github.com/dougAlvs">Douglas Alves</a></td>
-  </tr>
-  <tr>
-    <td><a href="../../verificacao/grupo/entrega3/cenarios">Cenários</a></td>
-    <td><a href="https://github.com/arthurmlv">Arthur de Melo</a></td>
-    <td><a href="https://github.com/RafaelCLG0">Rafael Ferreira</a></td>
-  </tr>
-  <tr>
-    <td><a href="../../verificacao/grupo/entrega3/lexicos">Léxicos</a></td>
-    <td><a href="https://github.com/arthurmlv">Arthur de Melo</a></td>
-    <td><a href="https://github.com/RafaelCLG0">Rafael Ferreira</a></td>
-  </tr>
-  <tr>
-    <td><a href="../../verificacao/grupo/entrega3/especificacao-suplementar">Especificação Suplementar</a></td>
-    <td><a href="https://github.com/arthurmlv">Arthur de Melo</a></td>
-    <td><a href="https://github.com/RafaelCLG0">Rafael Ferreira</a></td>
-  </tr>
-</table>
-<font>Fonte: <a href='https://github.com/JJOAOMARCOSS'>João Marcos</a></font>
-</details>
-
-<details>
-<summary>Tabela 8: Artefatos verficados do grupo 1 na Entrega 4</summary>
-
-<table>
-  <tr>
-    <th>Artefato</th>
-    <th>Autor</th>
-    <th>Revisor</th>
-  </tr>
-  <tr>
-    <td><a href="../../verificacao/grupo/entrega4/nfrframework">NFR Framework</a></td>
-    <td><a href="https://github.com/arthurmlv">Arthur de Melo</a></td>
-    <td><a href="https://github.com/RafaelCLG0">Rafael Ferreira</a></td>
-  </tr>
-  <tr>
-    <td><a href="../../verificacao/grupo/entrega4/verificacao-pdbacklog">Backlog</a></td>
-    <td><a href="https://github.com/RafaelCLG0">Rafael Ferreira</a></td>
-    <td><a href="https://github.com/mathonaut">Matheus Henrique</a></td>
-  </tr>
-  <tr>
-    <td><a href="../../verificacao/grupo/entrega4/verificacao-historia-de-usuario">Histórias de Usuário</a></td>
-    <td><a href="https://github.com/mathonaut">Matheus Henrique</a></td>
-    <td><a href="https://github.com/RafaelCLG0">Rafael Ferreira</a></td>
-  </tr>
-</table>
-<font>Fonte: <a href='https://github.com/JJOAOMARCOSS'>João Marcos</a></font>
-</details>
-
-</center>
-
-## Verificação do Grupo 2
-
-Abaixo é possível encontrar os link para os planejamentos da verificação dos artefatos entregues até o momento da verifcação. Além disso, as tabelas de 1 a 4 mostram os artefatos verificados e os respectivos autores da checklist.
-
-Planejamento da Verificação:
-
-- [Entrega 1](../../verificacao/grupo2/entrega1/planejamento-verificacao-e1-grupo2)
-- [Entrega 2](../../verificacao/grupo2/entrega2/planejamento-verificacao-e2-grupo2)
-- [Entrega 3](../../verificacao/grupo2/entrega3/planejamento-verificacao-e3-grupo2)
-- [Entrega 4](../../verificacao/grupo2/entrega4/planejamento-verificacao-e4-grupo2)
+## Principais Resultados da Verificação
 
 <center>
 
-|                                 <!--                                  | Artefato  |                    Entrega                     | Autor |
-| :-------------------------------------------------------------------: | :-------: | :--------------------------------------------: |
-|    [Rich Picture](../../verificacao/grupo2/entrega1/rich-picture)     | Entrega 1 | [Geovanna Maciel](https://github.com/manuziny) |
-| [Perfil de Usuário](../../verificacao/grupo2/entrega2/perfilusuario2) | Entrega 2 |  [Gabriel Campello](https://github.com/g16c)   |
-|        [Personas](../../verificacao/grupo2/entrega2/personas2)        | Entrega 2 |  [Gabriel Campello](https://github.com/g16c)   |
-|      [Brainstorm](../../verificacao/grupo2/entrega2/brainstorm2)      | Entrega 2 | [Sidney Fernando](https://github.com/nando3d3) |
-|      [Observação](../../verificacao/grupo2/entrega2/observacao2)      | Entrega 2 | [Sidney Fernando](https://github.com/nando3d3) |
-|    [Storytelling](../../verificacao/grupo2/entrega2/storytelling2)    | Entrega 2 | [Sidney Fernando](https://github.com/nando3d3) | -->   |
-
 <details>
-    <summary> Tabela 1: Artefato verificados do grupo 2 na Entrega 1</summary>
+    <summary> Entrega 1: Rich picture</summary>
     <table>
   <tr>
     <th>Artefato</th>
     <th>Autor</th>
+    <th>Correções</th>
+    <th>Revisor(es)</th>
   </tr>
   <tr>
     <td><a href="../../verificacao/grupo2/entrega1/rich-picture">Rich Picture</a></td>
-    <td><a href="https://github.com/manuziny">Geovanna Maciel</a></td>
+    <td><a href="https://github.com/BrzGab">Gabriel Lopes</a></td>
+    <td><a>Melhorias no alinhamento do diagrama e inclusão dos Rich Pictures de todos os integrates do grupo junto com um video de validação do Rich Picture com o Usuário.</a></td>
+    <td><a href="https://github.com/JJOAOMARCOSS">João Marcos</a></td>
   </tr>
 </table>
 <font>Fonte: <a href='https://github.com/JJOAOMARCOSS'>João Marcos</a></font>
 </details>
 
 <details>
-    <summary> Tabela 2: Artefatos verificados do grupo 2 na Entrega 2</summary>
-    
-<table>
+  <summary>Entrega 2: Perfil de Usuário, Técnicas de Elicitação e Técnicas de Priorização</summary>
+  <table>
     <tr>
-        <td colspan="2" align="center"><strong>Elicitação</strong></td>
-  </tr>
-  <tr>
-    <th>Artefato</th>
-    <th>Autor</th>
-  </tr>
-  <tr>
-    <td><a href="../../verificacao/grupo2/entrega2/perfilusuario2">Perfil de Usuário</a></td>
-    <td><a href="https://github.com/g16c">Gabriel Campello</a></td>
-  </tr>
-  <tr>
-    <td><a href="../../verificacao/grupo2/entrega2/personas2">Personas</a></td>
-    <td><a href="https://github.com/g16c">Gabriel Campello</a></td>
-  </tr>
-  <tr>
-    <td><a href="../../verificacao/grupo2/entrega2/brainstorm2">Brainstorm</a></td>
-    <td><a href="https://github.com/nando3d3">Sidney Fernando</a></td>
-  </tr>
-  <tr>
-    <td><a href="../../verificacao/grupo2/entrega2/observacao2">Observação</a></td>
-    <td><a href="https://github.com/nando3d3">Sidney Fernando</a></td>
-  </tr>
-  <tr>
-    <td><a href="../../verificacao/grupo2/entrega2/storytelling2">Storytelling</a></td>
-    <td><a href="https://github.com/nando3d3">Sidney Fernando</a></td>
-  </tr>
-  <tr>
-        <td colspan="2" align="center"><strong>Priorização</strong></td>
-  </tr>
-  <tr>
-    <th>Artefato</th>
-    <th>Autor</th>
-  </tr>
-  <tr>
-    <td><a href="../../verificacao/grupo2/entrega2/threelvlscale2">Three Level-Scale</a></td>
-    <td><a href="https://github.com/g16c">Gabriel Campello</a></td>
-  </tr>
-  <tr>
-    <td><a href="../../verificacao/grupo2/entrega2/moscow2">Moscow</a></td>
-    <td><a href="https://github.com/nando3d3">Sidney Fernando</a></td>
-  </tr>
-  <tr>
-    <td><a href="../../verificacao/grupo2/entrega2/inorout2">In or Out</a></td>
-    <td><a href="https://github.com/g16c">Gabriel Campello</a></td>
-  </tr>
-</table>
-<font>Fonte: <a href='https://github.com/JJOAOMARCOSS'>João Marcos</a></font>
+      <th>Artefato</th>
+      <th>Autor(es)</th>
+      <th>Correções</th>
+      <th>Revisor(es)</th>
+    </tr>
+    <tr>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/perfil_de_usuario/">Perfil de Usuário</a></td>
+      <td><a href="https://github.com/KarolineLuz">Karoline Luz</a>, <a href="https://github.com/navicg">Ana Victória</a></td>
+      <td>Correções na formatação dos perfis e clareza nas descrições após avaliação da monitora.</td>
+      <td><a href="https://github.com/ArtyMend07">Artur Mendonça</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/tec_elicitacao/">Técnicas de Elicitação</a></td>
+      <td>
+        <a href="https://github.com/lucasarruda9">Lucas Mendonça</a>, 
+        <a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes</a>, 
+        <a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a>, 
+        <a href="https://github.com/navicg">Ana Victória</a>, 
+        <a href="https://github.com/ArtyMend07">Artur Mendonça</a>, 
+        <a href="https://github.com/KarolineLuz">Karoline Luz</a>, 
+        <a href="https://github.com/BrzGab">Gabriel Lopes</a>
+      </td>
+      <td>Padronização textual, inclusão de justificativas e referências a sessões gravadas no YouTube e FigJam. A regravação para presencial de algumas técnicas seguindo a orientação do professor.</td>
+      <td><a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/tec_priorizacao/">Técnicas de Priorização</a></td>
+      <td>
+        <a href="https://github.com/lucasarruda9">Lucas Mendonça</a>, 
+        <a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes</a>, 
+        <a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a>, 
+        <a href="https://github.com/navicg">Ana Victória</a>, 
+        <a href="https://github.com/ArtyMend07">Artur Mendonça</a>, 
+        <a href="https://github.com/KarolineLuz">Karoline Luz</a>, 
+        <a href="https://github.com/BrzGab">Gabriel Lopes</a>
+      </td>
+      <td>Revisão da estrutura das técnicas, adição de links e categorização correta entre métodos qualitativos e quantitativos seguindo as dicas da nossa monitora. A regravação para presencial de algumas técnicas seguindo a orientação do professor.</td>
+      <td><a href="https://github.com/lucasarruda9">Lucas Mendonça</a></td>
+    </tr>
+  </table>
+  <font>Fonte: <a href='https://github.com/JJOAOMARCOSS'>João Marcos</a></font>
 </details>
 
 <details>
-    <summary> Tabela 3: Artefatos verificados do grupo 2 na Entrega 3</summary>
-    
-<table>
-  <tr>
-    <th>Artefato</th>
-    <th>Autor</th>
-  </tr>
-  <tr>
-    <td><a href="../../verificacao/grupo2/entrega3/caso-de-uso">Caso de Uso</a></td>
-    <td><a href="https://github.com/manuziny">Geovanna Maciel</a></td>
-  </tr>
-  <tr>
-    <td><a href="../../verificacao/grupo2/entrega3/lexicos">Léxicos</a></td>
-    <td><a href="https://github.com/arthurmlv">Arthur de Melo</a></td>
-  </tr>
-  <tr>
-    <td><a href="../../verificacao/grupo2/entrega3/especificacao-suplementar">Especificação Suplementar</a></td>
-    <td><a href="https://github.com/mathonaut">Matheus Henrique</a></td>
-  </tr>
-  <tr>
-    <td><a href="../../verificacao/grupo2/entrega3/cenarios">Cenários</a></td>
-    <td><a href="https://github.com/dougAlvs">Douglas Alves</a></td>
-  </tr>
-</table>
-<font>Fonte: <a href='https://github.com/JJOAOMARCOSS'>João Marcos</a></font>
+  <summary>Entrega 3: Modelagem (Casos de Uso, Cenários, Especificação Suplementar, Léxico)</summary>
+  <table>
+    <tr>
+      <th>Artefato</th>
+      <th>Autor(es)</th>
+      <th>Correções</th>
+      <th>Revisor(es)</th>
+    </tr>
+    <tr>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/casos_de_uso/">Casos de Uso</a></td>
+      <td><a href="https://github.com/BrzGab">Gabriel Lopes</a> e <a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a></td>
+      <td>Ajustes em fluxos alternativos e nomenclaturas</td>
+      <td><a href="https://github.com/navicg">Ana Victória</a> e <a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/cenario/">Cenários</a></td>
+      <td><a href="https://github.com/navicg">Ana Victória</a> e <a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes</a></td>
+      <td>Correção de ortografia e padronização dos títulos</td>
+      <td><a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a> e <a href="https://github.com/ArtyMend07">Artur Mendonça</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/especificacao_suplementar/">Especificação Suplementar</a></td>
+      <td><a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes</a> e <a href="https://github.com/lucasarruda9">Lucas Mendonça</a></td>
+      <td>Melhorias nos requisitos não funcionais e inclusão de justificativas</td>
+      <td><a href="https://github.com/KarolineLuz">Karoline Luz</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/lexico/">Léxico</a></td>
+      <td><a href="https://github.com/ArtyMend07">Artur Mendonça</a> e <a href="https://github.com/KarolineLuz">Karoline Luz</a></td>
+      <td>Reorganização e padronização dos termos</td>
+      <td><a href="https://github.com/lucasarruda9">Lucas Mendonça</a> e <a href="https://github.com/BrzGab">Gabriel Lopes</a></td>
+    </tr>
+  </table>
+  <font>Fonte: <a href='https://github.com/JJOAOMARCOSS'>João Marcos</a>, 2025</font>
+</details>
+
+
+<details>
+  <summary>Entrega 4: Modelagem Ágil (NFR Framework, Backlog, Histórias de Usuário)</summary>
+  <table>
+    <tr>
+      <th>Artefato</th>
+      <th>Autor(es)</th>
+      <th>Correções</th>
+      <th>Revisor(es)</th>
+    </tr>
+    <tr>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/agil/nfrframework/">NFR Framework</a></td>
+      <td>
+        <a href="https://github.com/KarolineLuz">Karoline Luz</a>, 
+        <a href="https://github.com/lucasarruda9">Lucas Mendonça</a>, 
+        <a href="https://github.com/navicg">Ana Victória</a>, 
+        <a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes</a>, 
+        <a href="https://github.com/BrzGab">Gabriel Lopes</a>, 
+        <a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a>
+      </td>
+      <td>Refinamento das metas, inclusão de justificativas e melhorias na estrutura de refinamento</td>
+      <td>
+        <a href="https://github.com/KarolineLuz">Karoline Luz</a>, 
+        <a href="https://github.com/lucasarruda9">Lucas Mendonça</a>, 
+        <a href="https://github.com/navicg">Ana Victória</a>, 
+        <a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes</a>, 
+        <a href="https://github.com/BrzGab">Gabriel Lopes</a>, 
+        <a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/agil/backlog/">Backlog</a></td>
+      <td>
+        <a href="https://github.com/KarolineLuz">Karoline Luz</a>, 
+        <a href="https://github.com/lucasarruda9">Lucas Mendonça</a>, 
+        <a href="https://github.com/navicg">Ana Victória</a>, 
+        <a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes</a>, 
+        <a href="https://github.com/BrzGab">Gabriel Lopes</a>, 
+        <a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a>
+      </td>
+      <td>Reorganização das histórias, adição de critérios de aceitação e validação com técnicas ágeis</td>
+      <td>
+        <a href="https://github.com/KarolineLuz">Karoline Luz</a>, 
+        <a href="https://github.com/lucasarruda9">Lucas Mendonça</a>, 
+        <a href="https://github.com/navicg">Ana Victória</a>, 
+        <a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes</a>, 
+        <a href="https://github.com/BrzGab">Gabriel Lopes</a>, 
+        <a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/agil/historia-de-usuario/">Histórias de Usuário</a></td>
+      <td>
+        <a href="https://github.com/KarolineLuz">Karoline Luz</a>, 
+        <a href="https://github.com/lucasarruda9">Lucas Mendonça</a>, 
+        <a href="https://github.com/navicg">Ana Victória</a>, 
+        <a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes</a>, 
+        <a href="https://github.com/BrzGab">Gabriel Lopes</a>, 
+        <a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a>
+      </td>
+      <td>Melhoria na descrição das histórias, inclusão de rastreabilidade e esforço estimado</td>
+      <td>
+        <a href="https://github.com/KarolineLuz">Karoline Luz</a>, 
+        <a href="https://github.com/lucasarruda9">Lucas Mendonça</a>, 
+        <a href="https://github.com/navicg">Ana Victória</a>, 
+        <a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes</a>, 
+        <a href="https://github.com/BrzGab">Gabriel Lopes</a>, 
+        <a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a>
+      </td>
+    </tr>
+  </table>
+  <font>Fonte: <a href='https://github.com/JJOAOMARCOSS'>João Marcos</a>, 2025</font>
 </details>
 
 <details>
-    <summary> Tabela 4: Artefatos verificados do grupo 2 na Entrega 4</summary>
-    
-<table>
-  <tr>
-    <th>Artefato</th>
-    <th>Autor</th>
-  </tr>
-  <tr>
-    <td><a href="../../verificacao/grupo2/entrega4/nfrframework">NFR Framework</a></td>
-    <td><a href="https://github.com/arthurmlv">Arthur de Melo</a></td>
-  </tr>
-  <tr>
-    <td><a href="../../verificacao/grupo2/entrega4/verificacao-backlog">Backlog</a></td>
-    <td><a href="https://github.com/RafaelCLG0">Rafael Ferreira</a></td>
-  </tr>
-  <tr>
-    <td><a href="../../verificacao/grupo2/entrega4/verificacao-historias-de-usuario">Histórias de Usuário</a></td>
-    <td><a href="https://github.com/dougAlvs">Douglas Alves</a></td>
-  </tr>
-</table>
-<font>Fonte: <a href='https://github.com/JJOAOMARCOSS'>João Marcos</a></font>
+  <summary>Entrega 5: Validação (Prototipação e Validação com o Usuário)</summary>
+  <table>
+    <tr>
+      <th>Artefato</th>
+      <th>Autor(es)</th>
+      <th>Correções</th>
+      <th>Revisor(es)</th>
+    </tr>
+    <tr>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/validacao/prototipacao/">Prototipação</a></td>
+      <td>
+        <a href="https://github.com/navicg">Ana Victória Guedes da Costa</a>, 
+        <a href="https://github.com/ArtyMend07">Artur Mendonça</a>, 
+        <a href="https://github.com/BrzGab">Gabriel Lopes</a>, 
+        <a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes</a>, 
+        <a href="https://github.com/KarolineLuz">Karoline Luz</a>, 
+        <a href="https://github.com/lucasarruda9">Lucas Mendonça</a>, 
+        <a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a>
+      </td>
+      <td>Atualização dos vídeos de validação e melhorias na descrição dos feedbacks obtidos</td>
+      <td>
+        <a href="https://github.com/navicg">Ana Victória Guedes da Costa</a>, 
+        <a href="https://github.com/ArtyMend07">Artur Mendonça</a>, 
+        <a href="https://github.com/BrzGab">Gabriel Lopes</a>, 
+        <a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes</a>, 
+        <a href="https://github.com/KarolineLuz">Karoline Luz</a>, 
+        <a href="https://github.com/lucasarruda9">Lucas Mendonça</a>, 
+        <a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/validacao/comprovacao/">Validação com o usuário</a></td>
+      <td>
+        <a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a>
+      </td>
+      <td>Complementação com prints dos e-mails enviados e inclusão de justificativas sobre a tentativa de contato</td>
+      <td>
+        <a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes</a>
+      </td>
+    </tr>
+  </table>
+  <font>Fonte: <a href='https://github.com/JJOAOMARCOSS'>João Marcos</a>, 2025</font>
+</details>
+
+<details>
+  <summary>Entrega 6: Rastreabilidade (Backward From, Forward From e Matriz de Rastreabilidade)</summary>
+  <table>
+    <tr>
+      <th>Artefato</th>
+      <th>Autor(es)</th>
+      <th>Correções</th>
+      <th>Revisor(es)</th>
+    </tr>
+    <tr>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/rastreabilidade/backward_from/">Backward From</a></td>
+      <td>
+        <a href="https://github.com/ArtyMend07">Artur Mendonça</a>, 
+        <a href="https://github.com/BrzGab">Gabriel Lopes</a>
+      </td>
+      <td>Revisão de links quebrados e ajustes nas referências aos artefatos</td>
+      <td>
+        <a href="https://github.com/navicg">Ana Victória Guedes da Costa</a>, 
+        <a href="https://github.com/ArtyMend07">Artur Mendonça</a>, 
+        <a href="https://github.com/BrzGab">Gabriel Lopes</a>, 
+        <a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes</a>, 
+        <a href="https://github.com/KarolineLuz">Karoline Luz</a>, 
+        <a href="https://github.com/lucasarruda9">Lucas Mendonça</a>, 
+        <a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/rastreabilidade/forward_from/">Forward From</a></td>
+      <td>
+        <a href="https://github.com/navicg">Ana Victória</a>, 
+        <a href="https://github.com/KarolineLuz">Karoline Luz</a>
+      </td>
+      <td>Melhoria na descrição dos vínculos entre fontes e requisitos</td>
+      <td>
+        <a href="https://github.com/navicg">Ana Victória Guedes da Costa</a>, 
+        <a href="https://github.com/ArtyMend07">Artur Mendonça</a>, 
+        <a href="https://github.com/BrzGab">Gabriel Lopes</a>, 
+        <a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes</a>, 
+        <a href="https://github.com/KarolineLuz">Karoline Luz</a>, 
+        <a href="https://github.com/lucasarruda9">Lucas Mendonça</a>, 
+        <a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/rastreabilidade/matriz_rastreabilidade/">Matriz de Rastreabilidade</a></td>
+      <td>
+        <a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes</a>, 
+        <a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a>
+      </td>
+      <td>Padronização dos requisitos e atualização da legenda da matriz</td>
+      <td>
+        <a href="https://github.com/navicg">Ana Victória Guedes da Costa</a>, 
+        <a href="https://github.com/ArtyMend07">Artur Mendonça</a>, 
+        <a href="https://github.com/BrzGab">Gabriel Lopes</a>, 
+        <a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes</a>, 
+        <a href="https://github.com/KarolineLuz">Karoline Luz</a>, 
+        <a href="https://github.com/lucasarruda9">Lucas Mendonça</a>, 
+        <a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a>
+      </td>
+    </tr>
+  </table>
+  <font>Fonte: <a href='https://github.com/JJOAOMARCOSS'>João Marcos</a>, 2025</font>
 </details>
 
 </center>
+
+## Acompanhamento Geral dos Itens
+
+<div style="width: 80%; margin: auto; background: #eee; border-radius: 8px; overflow: hidden; height: 25px; box-shadow: inset 0 0 3px #ccc;">
+  <div style="width: 83.3%; height: 100%; background-color: #4caf50; float: left;"></div>
+  <div style="width: 8.3%; height: 100%; background-color: #f44336; float: left;"></div>
+  <div style="width: 8.3%; height: 100%; background-color: #ff9800; float: left;"></div>
+</div>
+
+<p style="text-align: center; font-size: 14px; margin-top: 10px;">
+  ✅ Conforme: 10 &nbsp;&nbsp;|&nbsp;&nbsp; ❌ Não Conforme: 1 &nbsp;&nbsp;|&nbsp;&nbsp; ⚠️ Incompleto: 1
+</p>
+<p style="text-align: center;"><sub>Fonte: João Marcos e Luiza da Silva Pugas (2025)</sub></p>
+
+
+---
+
+## Verificação do Grupo 9
+
+Abaixo é possível encontrar os link para os planejamentos da verificação dos artefatos entregues até o momento da verifcação. Além disso, as tabelas de 1 a 6 mostram os artefatos verificados e os respectivos autores da checklist.
+
+### Planejamento da Verificação:
+
+- [Entrega 1](../verificacao/grupo/entrega01/entrega01grupo+1.md)
+- [Entrega 2](../verificacao/grupo/entrega02/entrega02grupo+1.md)
+- [Entrega 3](../verificacao/grupo/entrega03/entrega03grupo+1.md)
+- [Entrega 4](../verificacao/grupo/entrega04/entrega04grupo+1.md)
+- [Entrega 5](../verificacao/grupo/entrega06/entrega06grupo+1.md)
+- [Entrega 6](../verificacao/grupo/entrega05/entrega05grupo+1.md)
+
+---
+
+## Reflexão Final
+
+A aplicação da verificação sistemática por meio de checklists se mostrou essencial para garantir a qualidade dos nossos artefatos. Identificamos diversos pontos de melhoria que inicialmente haviam passado despercebidos, como falta de consistência entre artefatos, erros de digitação, ou ausência de justificativas em decisões críticas.
+
+O uso da técnica de inspeção permitiu não só detectar defeitos, mas também promover um aprendizado mútuo entre os membros do grupo. Além disso, ao revisar artefatos de outro grupo, conseguimos compreender diferentes abordagens para os mesmos problemas e refletir sobre o nosso próprio processo.
+
+---
 
 ## Bibliografia
 
