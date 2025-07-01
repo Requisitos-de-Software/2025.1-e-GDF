@@ -132,11 +132,11 @@
 
 <details>
 
-<summary> Artefatos da etapa 2 </summary>
+<summary>  Artefatos da etapa 2 </summary>
 
 <center>
 
-Tabela 2 - Artefatos da etapa 2
+<b> Tabela 2 - Artefatos da etapa 2 </b>
 
 <table>
 <thead>
@@ -224,7 +224,7 @@ Tabela 2 - Artefatos da etapa 2
 
 <center>
 
-**Tabela 3 - Artefatos da etapa 3**
+<b> Tabela 3 - Artefatos da etapa 3 </b>
 
 <table>
 <thead>
@@ -280,7 +280,7 @@ Tabela 2 - Artefatos da etapa 2
 
 <center>
 
-**Tabela 4 - Artefatos da Etapa 4**
+<b> Tabela 4 - Artefatos da Etapa 4 </b> 
 
 <table>
 <thead>
@@ -369,6 +369,8 @@ Tabela 2 - Artefatos da etapa 2
 <details>
 <summary> Artefatos da etapa 5 </summary>
 
+<b> Tabela 5 - Artefatos da Etapa 5 </b> 
+
 <center>
 <table>
   <thead>
@@ -439,7 +441,7 @@ Tabela 2 - Artefatos da etapa 2
 
 <center>
 
-#### Tabela 6 - Artefatos da etapa 6
+<b>  Tabela 6 - Artefatos da etapa 6 </b>
 
 <table>
 <thead>
@@ -492,3 +494,4 @@ Durante o desenvolvimento do projeto, foram elaborados diversos artefatos que re
 | 1.0    |  Criando documento sobre artefatos criados | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 27/06/2025|  [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 07/072025 |
 | 1.1    |  Adicionando tabelas de todas entregas referentes ao grupo| [Luiza da Silva Pugas](https://github.com/Luizaxx) |  27/06/2025| [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 07/07/2025 |
 | 1.2    |  Adicionando conclusåo todos artefatos criados| [Luiza da Silva Pugas](https://github.com/Luizaxx) |  27/06/2025| [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 07/07/2025 |
+| 1.3   |  Revisando tabelas e melhorando títulos| [Luiza da Silva Pugas](https://github.com/Luizaxx) |  01/07/2025| [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 07/07/2025 |
