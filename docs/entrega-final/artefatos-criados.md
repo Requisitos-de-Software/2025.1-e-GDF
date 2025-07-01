@@ -211,9 +211,9 @@
 </tbody>
 </table>
 
-</center>
-
 <font>Fonte: Adaptado por <a href='https://github.com/Luizaxx'>Luiza Pugas</a>, 2025.</font>
+
+</center>
 
 </details>
 
