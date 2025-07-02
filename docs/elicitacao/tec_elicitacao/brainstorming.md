@@ -71,7 +71,7 @@ Os usuários foram submetidos a uma série de perguntas e para o compartilhament
 
 # Respostas dos usuários para as perguntas
 
-![](https://i.ibb.co/Qvm7C25c/Ideas-here-1.png)
+![](https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/artefato-reorganização/docs/assets/brainstorming/TecBrainstorming2.png)
 
 <p style="text-align: center"><a href="https://www.figma.com/board/r0BuvzjETtZ4NHreKd4tX6/Brainstorming-E-GDF?node-id=0-1&t=5c5GYhgNaWTHTTsG-1" target="_blank">Link FigJam</a></p> 
 
@@ -93,27 +93,21 @@ Legenda da Tabela:
 
 ### Tabela 1: Requisitos Funcionais
 
-| <a id="anchor_BS" style="color:black;">ID</a> | Descrição                                                                                                 | Código | Implementado |
-| --------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------ | ------------ |
-| BR01                                          | O usuário deve conseguir realizar login de forma simples e rápida                                         | RF01   | Não          |
-| BR02                                          | O usuário deve conseguir acessar funcionalidades mesmo com pouca familiaridade com tecnologia             | RF02   | Não          |
-| BR03                                          | O usuário deve poder receber notificações personalizadas com base em sua localização                      | RF03   | Não          |
-| BR04                                          | O usuário deve poder consultar agendamentos e serviços em um único local centralizado                     | RF04   | Não          |
-| BR05                                          | O usuário deve ter acesso a um assistente virtual com acessibilidade por voz                              | RF05   | Não          |
-| BR06                                          | O usuário deve poder acessar tutoriais passo a passo sobre como usar o app                                | RF06   | Não          |
-| BR07                                          | O usuário deve poder alterar o tamanho da fonte e o contraste de cores                                    | RF07   | Não          |
-| BR08                                          | O aplicativo deve permitir modo escuro                                                                    | RF08   | Não          |
-| BR10                                          | O usuário deve poder acessar e visualizar notícias relevantes                                             | RF10   | Sim          |
-| BR11                                          | O usuário deve poder gerar relatórios e visualizar comprovantes de agendamentos                           | RF11   | Não          |
-| BR12                                          | O aplicativo deve permitir a integração com serviços de saúde, educação e mobilidade                      | RF12   | Sim          |
-| BR13                                          | O usuário deve poder alterar o idioma do aplicativo                                                       | RF13   | Não          |
-| BR14                                          | O usuário deve poder personalizar suas preferências e perfis para recomendações de serviços               | RF14   | Não          |
-| BR15                                          | O aplicativo deve permitir o envio de mensagens curtas sobre vencimentos e lembretes importantes          | RF15   | Não          |
-| BR16                                          | O usuário deve poder acessar um menu com as principais funções logo na tela inicial                       | RF16   | Sim          |
-| BR17                                          | O usuário deve poder acessar informações de agendamento e reagendamento de forma centralizada             | RF17   | Não          |
-| BR18                                          | O usuário deve poder utilizar chatbot para tirar dúvidas                                                  | RF18   | Sim          |
-| BR19                                          | O aplicativo deve permitir notificações por categorias como saúde, educação, transporte                   | RF19   | Não          |
-| BR20                                          | O usuário deve conseguir compartilhar ou salvar informações importantes (como protocolos ou comprovantes) | RF20   | Não          |
+| <a id="anchor_BS" style="color:black;">ID</a> | Descrição                                                                                                                                         | Código | Implementado |
+|----------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------------|
+| BR01                                         | O chatbot deve responder em até 2 segundos e oferecer respostas objetivas em pelo menos 90% dos testes realizados                               | RF01   | Não          |
+| BR02                                         | O sistema deve permitir autenticação via biometria, senha ou reconhecimento facial em pelo menos 95% dos dispositivos testados                  | RF02   | Não          |
+| BR03                                         | O aplicativo deve integrar com a API do Moovit, exibindo rotas e horários de transporte público a partir da localização do usuário               | RF03   | Não          |
+| BR04                                         | O aplicativo deve exibir os dados da CNH digital autenticada do usuário, quando este realizar login com GOV.BR                                   | RF04   | Não          |
+| BR05                                         | O app deve redirecionar corretamente o usuário ao formulário de boletim de ocorrência ao acessar a aba de segurança pública                      | RF05   | Não          |
+| BR06                                         | O sistema deve apresentar um tutorial interativo na primeira execução, cobrindo pelo menos 80% das funcionalidades principais                    | RF06   | Não          |
+| BR07                                         | O aplicativo deve permitir ao usuário configurar o tamanho da fonte entre três níveis: padrão, médio e grande                                    | RF07   | Não          |
+| BR08                                         | O sistema deve oferecer opção de alternar entre modo claro e escuro nas configurações do aplicativo                                              | RF08   | Não          |
+| BR09                                         | O sistema deve apresentar um mapa com as principais ocorrências de criminalidade e trânsito atualizado ao menos uma vez por dia                  | RF09   | Não          |
+| BR10                                         | O aplicativo deve apresentar pelo menos 5 funcionalidades nativas que não dependem de redirecionamento externo                                   | RF10   | Não          |
+| BR11                                         | O usuário deve ser informado se será redirecionado a outro site ou se o serviço está disponível dentro do app ao clicar em um serviço           | RF11   | Não          |
+| BR12                                         | O aplicativo deve conter, na tela inicial, um menu com no máximo 5 links externos e priorizar navegação por funções nativas                      | RF12   | Não          |
+
 
 <font size="3"><p style="text-align: center">Elaborado por: [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx).</p></font>
 
