@@ -1239,13 +1239,49 @@ Abaixo estão os vídeos organizados por categoria do projeto, com versão e des
 ## Validação
 
 <details>
-  <summary>Validação - Protótipo com Feedback</summary>
+  <summary>Validação - Protótipo com Usuário</summary>
 
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SEU_VIDEO_ID" title="Validação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c36Ysms_HKY" title="Validação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
-<p align="center"><a href="https://youtu.be/SEU_VIDEO_ID" target="_blank">Clique aqui para assistir no YouTube</a></p>
+<p align="center"><a href="https://youtu.be/c36Ysms_HKY" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0niyimyvG1Q" title="Validação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/0niyimyvG1Q" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IU0yfmsoc8A" title="Validação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/IU0yfmsoc8A" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lnTaaoML3Xo" title="Validação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/lnTaaoML3Xo" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c9r46_TD8d4" title="Validação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/c9r46_TD8d4" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kNhCgv2YzNo" title="Validação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/kNhCgv2YzNo" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed//l8u6Vslz7Vw" title="Validação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be//l8u6Vslz7Vw" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
 <br>
 
@@ -1267,6 +1303,9 @@ Abaixo estão os vídeos organizados por categoria do projeto, com versão e des
 
 </details>
 
+---
+
+---
 
 ## Histórico de Versões
 
@@ -1279,3 +1318,4 @@ Abaixo estão os vídeos organizados por categoria do projeto, com versão e des
 | 1.4    | Colocando os videos das tecnicas de Priorização | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 02/07/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 02/07/2025      |
 | 1.5    | Colocando os videos das Modelagem | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 02/07/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 02/07/2025      |
 | 1.6    | Colocando os videos das Modelagem Ágil | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 02/07/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 02/07/2025      |
+| 1.7    | Colocando os videos da Prototipação | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 02/07/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 02/07/2025      |
