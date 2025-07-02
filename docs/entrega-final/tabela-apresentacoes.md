@@ -1305,6 +1305,388 @@ Abaixo estão os vídeos organizados por categoria do projeto, com versão e des
 
 ---
 
+## Inspeção do Grupo
+
+<details>
+  <summary>Inspeção do Grupo: Entrega 1</summary>
+
+<p align="center"><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/inspecao/inspecao_1_grupo/" target="_blank">📄 Ver artefato relacionado</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JP0LShltSl0" title="Entrega 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/JP0LShltSl0" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<br>
+
+<p align="center"><strong>👥 Participantes:</strong></p>
+
+<p align="center">
+<table>
+  <tr>
+    <td><a href="https://github.com/navicg">Ana Victória Guedes da Costa</a></td>
+    <td><a href="https://github.com/ArtyMend07">Artur Mendonça Arruda</a></td>
+    <td><a href="https://github.com/BrzGab">Gabriel Lopes</a></td>
+    <td><a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes de Andrade</a></td>
+    <td><a href="https://github.com/KarolineLuz">Karoline Luz da Conceição</a></td>
+    <td><a href="https://github.com/lucasarruda9">Lucas Mendonça Arruda</a></td>
+    <td><a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a></td>
+  </tr>
+</table>
+</p>
+
+</details>
+
+<details>
+  <summary>Inspeção do Grupo: Entrega 2</summary>
+
+<p align="center"><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/inspecao/inspecao_2_grupo/" target="_blank">📄 Ver artefato relacionado</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0qah3d35XXQ" title="Entrega 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/0qah3d35XXQ" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<br>
+
+<p align="center"><strong>👥 Participantes:</strong></p>
+
+<p align="center">
+<table>
+  <tr>
+    <td><a href="https://github.com/navicg">Ana Victória Guedes da Costa</a></td>
+    <td><a href="https://github.com/ArtyMend07">Artur Mendonça Arruda</a></td>
+    <td><a href="https://github.com/BrzGab">Gabriel Lopes</a></td>
+    <td><a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes de Andrade</a></td>
+    <td><a href="https://github.com/KarolineLuz">Karoline Luz da Conceição</a></td>
+    <td><a href="https://github.com/lucasarruda9">Lucas Mendonça Arruda</a></td>
+    <td><a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a></td>
+  </tr>
+</table>
+</p>
+
+</details>
+
+<details>
+  <summary>Inspeção do Grupo: Entrega 3</summary>
+
+<p align="center"><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/inspecao/inspecao_3_grupo/" target="_blank">📄 Ver artefato relacionado</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xBIYM-60qOk" title="Entrega 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/xBIYM-60qOk" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<br>
+
+<p align="center"><strong>👥 Participantes:</strong></p>
+
+<p align="center">
+<table>
+  <tr>
+    <td><a href="https://github.com/navicg">Ana Victória Guedes da Costa</a></td>
+    <td><a href="https://github.com/ArtyMend07">Artur Mendonça Arruda</a></td>
+    <td><a href="https://github.com/BrzGab">Gabriel Lopes</a></td>
+    <td><a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes de Andrade</a></td>
+    <td><a href="https://github.com/KarolineLuz">Karoline Luz da Conceição</a></td>
+    <td><a href="https://github.com/lucasarruda9">Lucas Mendonça Arruda</a></td>
+    <td><a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a></td>
+  </tr>
+</table>
+</p>
+
+</details>
+
+<details>
+  <summary>Inspeção do Grupo: Entrega 4</summary>
+
+<p align="center"><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/inspecao/inspecao_4_grupo/" target="_blank">📄 Ver artefato relacionado</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4QCgzsTdgis" title="Entrega 4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/4QCgzsTdgis" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<br>
+
+<p align="center"><strong>👥 Participantes:</strong></p>
+
+<p align="center">
+<table>
+  <tr>
+    <td><a href="https://github.com/navicg">Ana Victória Guedes da Costa</a></td>
+    <td><a href="https://github.com/ArtyMend07">Artur Mendonça Arruda</a></td>
+    <td><a href="https://github.com/BrzGab">Gabriel Lopes</a></td>
+    <td><a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes de Andrade</a></td>
+    <td><a href="https://github.com/KarolineLuz">Karoline Luz da Conceição</a></td>
+    <td><a href="https://github.com/lucasarruda9">Lucas Mendonça Arruda</a></td>
+    <td><a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a></td>
+  </tr>
+</table>
+</p>
+
+</details>
+
+<details>
+  <summary>Inspeção do Grupo: Entrega 5</summary>
+
+<p align="center"><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/inspecao/inspecao_5_grupo/" target="_blank">📄 Ver artefato relacionado</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bwLlEudMYcg" title="Entrega 5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/bwLlEudMYcg" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<br>
+
+<p align="center"><strong>👥 Participantes:</strong></p>
+
+<p align="center">
+<table>
+  <tr>
+    <td><a href="https://github.com/navicg">Ana Victória Guedes da Costa</a></td>
+    <td><a href="https://github.com/ArtyMend07">Artur Mendonça Arruda</a></td>
+    <td><a href="https://github.com/BrzGab">Gabriel Lopes</a></td>
+    <td><a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes de Andrade</a></td>
+    <td><a href="https://github.com/KarolineLuz">Karoline Luz da Conceição</a></td>
+    <td><a href="https://github.com/lucasarruda9">Lucas Mendonça Arruda</a></td>
+    <td><a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a></td>
+  </tr>
+</table>
+</p>
+
+</details>
+
+<details>
+  <summary>Inspeção do Grupo: Entrega 6</summary>
+
+<p align="center"><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/inspecao/inspecao_6_grupo/" target="_blank">📄 Ver artefato relacionado</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JiFU2yivHX8" title="Entrega 6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/JiFU2yivHX8" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<br>
+
+<p align="center"><strong>👥 Participantes:</strong></p>
+
+<p align="center">
+<table>
+  <tr>
+    <td><a href="https://github.com/navicg">Ana Victória Guedes da Costa</a></td>
+    <td><a href="https://github.com/ArtyMend07">Artur Mendonça Arruda</a></td>
+    <td><a href="https://github.com/BrzGab">Gabriel Lopes</a></td>
+    <td><a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes de Andrade</a></td>
+    <td><a href="https://github.com/KarolineLuz">Karoline Luz da Conceição</a></td>
+    <td><a href="https://github.com/lucasarruda9">Lucas Mendonça Arruda</a></td>
+    <td><a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a></td>
+  </tr>
+</table>
+</p>
+
+</details>
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor([João Marcos](https://github.com/JJOAOMARCOSS), 2025)</p></font>
+
+---
+
+## Inspeção do Grupo +1
+
+<details>
+  <summary>Inspeção do Grupo +1: Entrega 1</summary>
+
+<p align="center"><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/inspecao/inspecao_1_grupo%2B1/" target="_blank">📄 Ver artefato relacionado</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wj3qd57xQkE" title="Entrega 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/wj3qd57xQkE" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<br>
+
+<p align="center"><strong>👥 Participantes:</strong></p>
+
+<p align="center">
+<table>
+  <tr>
+    <td><a href="https://github.com/navicg">Ana Victória Guedes da Costa</a></td>
+    <td><a href="https://github.com/ArtyMend07">Artur Mendonça Arruda</a></td>
+    <td><a href="https://github.com/BrzGab">Gabriel Lopes</a></td>
+    <td><a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes de Andrade</a></td>
+    <td><a href="https://github.com/KarolineLuz">Karoline Luz da Conceição</a></td>
+    <td><a href="https://github.com/lucasarruda9">Lucas Mendonça Arruda</a></td>
+    <td><a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a></td>
+  </tr>
+</table>
+</p>
+
+</details>
+
+<details>
+  <summary>Inspeção do Grupo + 1: Entrega 2</summary>
+
+<p align="center"><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/inspecao/inspecao_2_grupo%2B1/" target="_blank">📄 Ver artefato relacionado</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zmu4ymFXeIk" title="Entrega 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/Zmu4ymFXeIk" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<br>
+
+<p align="center"><strong>👥 Participantes:</strong></p>
+
+<p align="center">
+<table>
+  <tr>
+    <td><a href="https://github.com/navicg">Ana Victória Guedes da Costa</a></td>
+    <td><a href="https://github.com/ArtyMend07">Artur Mendonça Arruda</a></td>
+    <td><a href="https://github.com/BrzGab">Gabriel Lopes</a></td>
+    <td><a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes de Andrade</a></td>
+    <td><a href="https://github.com/KarolineLuz">Karoline Luz da Conceição</a></td>
+    <td><a href="https://github.com/lucasarruda9">Lucas Mendonça Arruda</a></td>
+    <td><a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a></td>
+  </tr>
+</table>
+</p>
+
+</details>
+
+<details>
+  <summary>Inspeção do Grupo + 1: Entrega 3</summary>
+
+<p align="center"><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/inspecao/inspecao_3_grupo%2B1/" target="_blank">📄 Ver artefato relacionado</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wWzurTOGO1o" title="Entrega 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/wWzurTOGO1o" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<br>
+
+<p align="center"><strong>👥 Participantes:</strong></p>
+
+<p align="center">
+<table>
+  <tr>
+    <td><a href="https://github.com/navicg">Ana Victória Guedes da Costa</a></td>
+    <td><a href="https://github.com/ArtyMend07">Artur Mendonça Arruda</a></td>
+    <td><a href="https://github.com/BrzGab">Gabriel Lopes</a></td>
+    <td><a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes de Andrade</a></td>
+    <td><a href="https://github.com/KarolineLuz">Karoline Luz da Conceição</a></td>
+    <td><a href="https://github.com/lucasarruda9">Lucas Mendonça Arruda</a></td>
+    <td><a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a></td>
+  </tr>
+</table>
+</p>
+
+</details>
+
+<details>
+  <summary>Inspeção do Grupo + 1: Entrega 4</summary>
+
+<p align="center"><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/inspecao/inspecao_4_grupo%2B1/" target="_blank">📄 Ver artefato relacionado</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ep24bYeptWA" title="Entrega 4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/ep24bYeptWA" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<br>
+
+<p align="center"><strong>👥 Participantes:</strong></p>
+
+<p align="center">
+<table>
+  <tr>
+    <td><a href="https://github.com/navicg">Ana Victória Guedes da Costa</a></td>
+    <td><a href="https://github.com/ArtyMend07">Artur Mendonça Arruda</a></td>
+    <td><a href="https://github.com/BrzGab">Gabriel Lopes</a></td>
+    <td><a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes de Andrade</a></td>
+    <td><a href="https://github.com/KarolineLuz">Karoline Luz da Conceição</a></td>
+    <td><a href="https://github.com/lucasarruda9">Lucas Mendonça Arruda</a></td>
+    <td><a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a></td>
+  </tr>
+</table>
+</p>
+
+</details>
+
+<details>
+  <summary>Inspeção do Grupo + 1: Entrega 5</summary>
+
+<p align="center"><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/inspecao/inspecao_5_grupo%2B1/" target="_blank">📄 Ver artefato relacionado</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jgNUwiaMLJA"" title="Entrega 5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/jgNUwiaMLJA" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<br>
+
+<p align="center"><strong>👥 Participantes:</strong></p>
+
+<p align="center">
+<table>
+  <tr>
+    <td><a href="https://github.com/navicg">Ana Victória Guedes da Costa</a></td>
+    <td><a href="https://github.com/ArtyMend07">Artur Mendonça Arruda</a></td>
+    <td><a href="https://github.com/BrzGab">Gabriel Lopes</a></td>
+    <td><a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes de Andrade</a></td>
+    <td><a href="https://github.com/KarolineLuz">Karoline Luz da Conceição</a></td>
+    <td><a href="https://github.com/lucasarruda9">Lucas Mendonça Arruda</a></td>
+    <td><a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a></td>
+  </tr>
+</table>
+</p>
+
+</details>
+
+<details>
+  <summary>Inspeção do Grupo + 1: Entrega 6</summary>
+
+<p align="center"><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/inspecao/inspecao_6_grupo%2B1/" target="_blank">📄 Ver artefato relacionado</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G3PswVjT2oI" title="Entrega 6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/G3PswVjT2oI" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<br>
+
+<p align="center"><strong>👥 Participantes:</strong></p>
+
+<p align="center">
+<table>
+  <tr>
+    <td><a href="https://github.com/navicg">Ana Victória Guedes da Costa</a></td>
+    <td><a href="https://github.com/ArtyMend07">Artur Mendonça Arruda</a></td>
+    <td><a href="https://github.com/BrzGab">Gabriel Lopes</a></td>
+    <td><a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes de Andrade</a></td>
+    <td><a href="https://github.com/KarolineLuz">Karoline Luz da Conceição</a></td>
+    <td><a href="https://github.com/lucasarruda9">Lucas Mendonça Arruda</a></td>
+    <td><a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a></td>
+  </tr>
+</table>
+</p>
+
+</details>
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor([João Marcos](https://github.com/JJOAOMARCOSS), 2025)</p></font>
+
 ---
 
 ## Histórico de Versões
@@ -1319,3 +1701,5 @@ Abaixo estão os vídeos organizados por categoria do projeto, com versão e des
 | 1.5    | Colocando os videos das Modelagem | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 02/07/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 02/07/2025      |
 | 1.6    | Colocando os videos das Modelagem Ágil | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 02/07/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 02/07/2025      |
 | 1.7    | Colocando os videos da Prototipação | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 02/07/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 02/07/2025      |
+| 1.8    | Colocando os videos da Inspeção | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 02/07/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 02/07/2025      |
+| 1.9    | Colocando os videos da Inspeção do grupo +1 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 02/07/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 02/07/2025      |
