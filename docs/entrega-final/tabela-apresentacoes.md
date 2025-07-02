@@ -836,11 +836,401 @@ Abaixo estão os vídeos organizados por categoria do projeto, com versão e des
 <details>
   <summary>Modelagem - Casos de Uso</summary>
 
+<p align="center"><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/casos_de_uso/" target="_blank">📄 Ver artefato relacionado</a></p>
+
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SEU_VIDEO_ID" title="Modelagem de Casos de Uso" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MoVBjUtkhXk" title="Modelagem de Casos de Uso" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
-<p align="center"><a href="https://youtu.be/SEU_VIDEO_ID" target="_blank">Clique aqui para assistir no YouTube</a></p>
+<p align="center"><a href="https://youtu.be/MoVBjUtkhXk" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NxpuBvQZubI" title="Modelagem de Casos de Uso" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/NxpuBvQZubI" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1e08GOCXsCU" title="Modelagem de Casos de Uso" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/1e08GOCXsCU" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5zFdG7kKD6s" title="Modelagem de Casos de Uso" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/5zFdG7kKD6s" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2RsMT-1wq4M" title="Modelagem de Casos de Uso" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/2RsMT-1wq4M" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<br>
+
+<p align="center"><strong>👥 Participantes:</strong></p>
+
+<p align="center">
+<table>
+  <tr>
+    <td><a href="https://github.com/navicg">Ana Victória Guedes da Costa</a></td>
+    <td><a href="https://github.com/ArtyMend07">Artur Mendonça Arruda</a></td>
+    <td><a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes de Andrade</a></td>
+    <td><a href="https://github.com/KarolineLuz">Karoline Luz da Conceição</a></td>
+    <td><a href="https://github.com/lucasarruda9">Lucas Mendonça Arruda</a></td>
+    <td><a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a></td>
+  </tr>
+</table>
+</p>
+
+</details>
+
+<details>
+  <summary>Modelagem - Casos de Uso</summary>
+
+<p align="center"><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/casos_de_uso/" target="_blank">📄 Ver artefato relacionado</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MoVBjUtkhXk" title="Modelagem de Casos de Uso" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/MoVBjUtkhXk" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NxpuBvQZubI" title="Modelagem de Casos de Uso" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/NxpuBvQZubI" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1e08GOCXsCU" title="Modelagem de Casos de Uso" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/1e08GOCXsCU" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5zFdG7kKD6s" title="Modelagem de Casos de Uso" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/5zFdG7kKD6s" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2RsMT-1wq4M" title="Modelagem de Casos de Uso" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/2RsMT-1wq4M" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<br>
+
+<p align="center"><strong>👥 Participantes:</strong></p>
+
+<p align="center">
+<table>
+  <tr>
+    <td><a href="https://github.com/navicg">Ana Victória Guedes da Costa</a></td>
+    <td><a href="https://github.com/ArtyMend07">Artur Mendonça Arruda</a></td>
+    <td><a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes de Andrade</a></td>
+    <td><a href="https://github.com/KarolineLuz">Karoline Luz da Conceição</a></td>
+    <td><a href="https://github.com/lucasarruda9">Lucas Mendonça Arruda</a></td>
+    <td><a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a></td>
+  </tr>
+</table>
+</p>
+
+</details>
+
+<details>
+  <summary>Modelagem - Cenários</summary>
+
+<p align="center"><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/cenario/" target="_blank">📄 Ver artefato relacionado</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/prN14AckMhM" title="Modelagem de Cenários" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/prN14AckMhM" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ekkh39w2HCQ" title="Modelagem de Cenários" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/ekkh39w2HCQ" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uetRdOUmZXI" title="Modelagem de Cenários" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/uetRdOUmZXI" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5wS5HZrUa54" title="Modelagem de Cenários" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/5wS5HZrUa54" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_-G0sbH7xmk" title="Modelagem de Cenários" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/_-G0sbH7xmk" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nTrafXdh1k0" title="Modelagem de Cenários" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/nTrafXdh1k0" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<br>
+
+<p align="center"><strong>👥 Participantes:</strong></p>
+
+<p align="center">
+<table>
+  <tr>
+    <td><a href="https://github.com/navicg">Ana Victória Guedes da Costa</a></td>
+    <td><a href="https://github.com/ArtyMend07">Artur Mendonça Arruda</a></td>
+    <td><a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes de Andrade</a></td>
+    <td><a href="https://github.com/KarolineLuz">Karoline Luz da Conceição</a></td>
+    <td><a href="https://github.com/lucasarruda9">Lucas Mendonça Arruda</a></td>
+    <td><a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a></td>
+  </tr>
+</table>
+</p>
+
+</details>
+
+<details>
+  <summary>Modelagem - Especificação Suplementar</summary>
+
+<p align="center"><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/especificacao_suplementar/" target="_blank">📄 Ver artefato relacionado</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5cCeb5eTN6M" title="Modelagem de Especificação Suplementar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/5cCeb5eTN6M" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k--cQShnJVY" title="Modelagem de Especificação Suplementar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/k--cQShnJVY" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<br>
+
+<p align="center"><strong>👥 Participantes:</strong></p>
+
+<p align="center">
+<table>
+  <tr>
+    <td><a href="https://github.com/navicg">Ana Victória Guedes da Costa</a></td>
+    <td><a href="https://github.com/KarolineLuz">Karoline Luz da Conceição</a></td>
+  </tr>
+</table>
+</p>
+
+</details>
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor([João Marcos](https://github.com/JJOAOMARCOSS), 2025)</p></font>
+
+---
+
+## Modelagem Ágil
+
+<details>
+  <summary>Modelagem Ágil - História de Usuário</summary>
+
+<p align="center"><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/agil/historia-de-usuario/" target="_blank">📄 Ver artefato relacionado</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCb6uHoCcfY" title="História de Usuário" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/lCb6uHoCcfY" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ph5jpFJNuxY" title="História de Usuário" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/Ph5jpFJNuxY" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gRrLrG8Su2A" title="História de Usuário" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/gRrLrG8Su2A" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/826kOaNpEEc" title="História de Usuário" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/826kOaNpEEc" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gzX2Ucv4jaw" title="História de Usuário" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/gzX2Ucv4jaw" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KnZz2TXLhOI" title="História de Usuário" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/KnZz2TXLhOI" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ToXDVRxCUCk" title="História de Usuário" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/ToXDVRxCUCk" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V2vTp1LULbI?si=xEAsK0MRSV45BRNN" title="História de Usuário" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/V2vTp1LULbI?si=xEAsK0MRSV45BRNN" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<br>
+
+<p align="center"><strong>👥 Participantes:</strong></p>
+
+<p align="center">
+<table>
+  <tr>
+    <td><a href="https://github.com/navicg">Ana Victória Guedes da Costa</a></td>
+    <td><a href="https://github.com/ArtyMend07">Artur Mendonça Arruda</a></td>
+    <td><a href="https://github.com/BrzGab">Gabriel Lopes</a></td>
+    <td><a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes de Andrade</a></td>
+    <td><a href="https://github.com/KarolineLuz">Karoline Luz da Conceição</a></td>
+    <td><a href="https://github.com/lucasarruda9">Lucas Mendonça Arruda</a></td>
+    <td><a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a></td>
+  </tr>
+</table>
+</p>
+
+</details>
+
+<details>
+  <summary>Modelagem Ágil - Backlog</summary>
+
+<p align="center"><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/agil/backlog/" target="_blank">📄 Ver artefato relacionado</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yfFuc19aF20" title="Modelagem de Backlog" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/yfFuc19aF20" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1U298AC6rZ8" title="Modelagem de Backlog" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/1U298AC6rZ8" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GdncDHMK1DQ" title="Modelagem Backlog" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/GdncDHMK1DQ" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jNa4ZpVfA0M" title="Modelagem de Backlog" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/jNa4ZpVfA0M" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E0MSih6ABqg" title="Modelagem de Backlog" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/E0MSih6ABqg" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R7kMTJI2olg?si=4KrjLObnLS1_vVUL" title="Modelagem de Backlog" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/R7kMTJI2olg?si=4KrjLObnLS1_vVUL" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7lg5Khu2J6s" title="Modelagem de Backlog" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/7lg5Khu2J6s" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<br>
+
+<p align="center"><strong>👥 Participantes:</strong></p>
+
+<p align="center">
+<table>
+  <tr>
+    <td><a href="https://github.com/navicg">Ana Victória Guedes da Costa</a></td>
+    <td><a href="https://github.com/ArtyMend07">Artur Mendonça Arruda</a></td>
+    <td><a href="https://github.com/BrzGab">Gabriel Lopes</a></td>
+    <td><a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes de Andrade</a></td>
+    <td><a href="https://github.com/KarolineLuz">Karoline Luz da Conceição</a></td>
+    <td><a href="https://github.com/lucasarruda9">Lucas Mendonça Arruda</a></td>
+    <td><a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a></td>
+  </tr>
+</table>
+</p>
+
+</details>
+
+<details>
+  <summary>Modelagem Ágil - NFR Framework</summary>
+
+<p align="center"><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/agil/nfrframework/" target="_blank">📄 Ver artefato relacionado</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xOqd3H6dOds" title="NFR Framework" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/xOqd3H6dOds" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N9fbh0srbYM" title="NFR Framework" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/N9fbh0srbYM" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yuTljJG5Xr8" title="NFR Framework" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/yuTljJG5Xr8" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wxBJ2hGhygs" title="NFR Framework" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/wxBJ2hGhygs" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Izlb7lYmxLk" title="NFR Framework" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/Izlb7lYmxLk" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/84UQW38g9vI" title="NFR Framework" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/84UQW38g9vI" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ry4nA8fRX_4" title="NFR Framework" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/ry4nA8fRX_4" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2zSk5e3hW_k" title="NFR Framework" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/2zSk5e3hW_k" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<br>
+
+<p align="center"><strong>👥 Participantes:</strong></p>
+
+<p align="center">
+<table>
+  <tr>
+    <td><a href="https://github.com/navicg">Ana Victória Guedes da Costa</a></td>
+    <td><a href="https://github.com/ArtyMend07">Artur Mendonça Arruda</a></td>
+    <td><a href="https://github.com/BrzGab">Gabriel Lopes</a></td>
+    <td><a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes de Andrade</a></td>
+    <td><a href="https://github.com/KarolineLuz">Karoline Luz da Conceição</a></td>
+    <td><a href="https://github.com/lucasarruda9">Lucas Mendonça Arruda</a></td>
+    <td><a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a></td>
+  </tr>
+</table>
+</p>
 
 </details>
 
@@ -857,6 +1247,24 @@ Abaixo estão os vídeos organizados por categoria do projeto, com versão e des
 
 <p align="center"><a href="https://youtu.be/SEU_VIDEO_ID" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
+<br>
+
+<p align="center"><strong>👥 Participantes:</strong></p>
+
+<p align="center">
+<table>
+  <tr>
+    <td><a href="https://github.com/navicg">Ana Victória Guedes da Costa</a></td>
+    <td><a href="https://github.com/ArtyMend07">Artur Mendonça Arruda</a></td>
+    <td><a href="https://github.com/BrzGab">Gabriel Lopes</a></td>
+    <td><a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes de Andrade</a></td>
+    <td><a href="https://github.com/KarolineLuz">Karoline Luz da Conceição</a></td>
+    <td><a href="https://github.com/lucasarruda9">Lucas Mendonça Arruda</a></td>
+    <td><a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a></td>
+  </tr>
+</table>
+</p>
+
 </details>
 
 
@@ -869,3 +1277,5 @@ Abaixo estão os vídeos organizados por categoria do projeto, com versão e des
 | 1.2    | Colocando os videos das apresentações | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 02/07/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 02/07/2025      |
 | 1.3    | Colocando os videos das tecnicas de Elicitação | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 02/07/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 02/07/2025      |
 | 1.4    | Colocando os videos das tecnicas de Priorização | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 02/07/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 02/07/2025      |
+| 1.5    | Colocando os videos das Modelagem | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 02/07/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 02/07/2025      |
+| 1.6    | Colocando os videos das Modelagem Ágil | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 02/07/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 02/07/2025      |

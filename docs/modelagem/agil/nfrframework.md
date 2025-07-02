@@ -329,7 +329,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](../../
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/N9fbh0srbYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
-<p style="text-align: center"><a href="https://youtu.be/xOqd3H6dOds" target="_blank">Clique aqui para assistir no YouTube</a></p>
+<p style="text-align: center"><a href="https://youtu.be/N9fbh0srbYM" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
 ## Termo de consentimento de imagem 
 Este documento confirma que a cidadã Nívea Cecília forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
