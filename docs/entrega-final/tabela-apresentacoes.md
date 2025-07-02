@@ -353,6 +353,8 @@ Abaixo estão os vídeos organizados por categoria do projeto, com versão e des
 
 </details>
 
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor([João Marcos](https://github.com/JJOAOMARCOSS), 2025)</p></font>
+
 ---
 
 ## Apresentações
@@ -543,6 +545,8 @@ Abaixo estão os vídeos organizados por categoria do projeto, com versão e des
 
 </details>
 
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor([João Marcos](https://github.com/JJOAOMARCOSS), 2025)</p></font>
+
 ---
 
 ## Rich Picture
@@ -600,6 +604,8 @@ Abaixo estão os vídeos organizados por categoria do projeto, com versão e des
 </p>
 
 </details>
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor([João Marcos](https://github.com/JJOAOMARCOSS), 2025)</p></font>
 
 ---
 
@@ -684,6 +690,145 @@ Abaixo estão os vídeos organizados por categoria do projeto, com versão e des
 
 </details>
 
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor([João Marcos](https://github.com/JJOAOMARCOSS), 2025)</p></font>
+
+---
+
+## Priorização
+
+<details>
+  <summary>Priorização - First Things First (FTF)</summary>
+
+<p align="center"><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/tec_priorizacao/first_things_first/" target="_blank">📄 Ver artefato relacionado</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g1nRaqaymdE" title="Priorização" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/g1nRaqaymdE" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9PtmtIjqJJs" title="Priorização" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/9PtmtIjqJJs" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LinkdoVideo" title="Priorização" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/LinkdoVideo" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<p align="center"><strong>👥 Participantes:</strong></p>
+
+<p align="center">
+<table>
+  <tr>
+    <td><a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes de Andrade</a></td>
+    <td><a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a></td>
+  </tr>
+</table>
+</p>
+
+</details>
+
+<details>
+  <summary>Priorização - MoSCoW</summary>
+
+<p align="center"><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/tec_priorizacao/moscow/" target="_blank">📄 Ver artefato relacionado</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rZacw2V8qPA" title="Priorização" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/rZacw2V8qPA" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d1uOevkzENU" title="Priorização" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/d1uOevkzENU" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/geuU74GRs14" title="Priorização" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/geuU74GRs14" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<p align="center"><strong>👥 Participantes:</strong></p>
+
+<p align="center">
+<table>
+  <tr>
+    <td><a href="https://github.com/navicg">Ana Victória Guedes da Costa</a></td>
+    <td><a href="https://github.com/BrzGab">Gabriel Lopes</a></td>
+    <td><a href="https://github.com/KarolineLuz">Karoline Luz da Conceição</a></td>
+  </tr>
+</table>
+</p>
+
+</details>
+
+<details>
+  <summary>Priorização - ROI</summary>
+
+<p align="center"><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/tec_priorizacao/roi/" target="_blank">📄 Ver artefato relacionado</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eH5Uf2jb0g8" title="Priorização" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/eH5Uf2jb0g8" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t0iZhyftfzo" title="Priorização" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/t0iZhyftfzo" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/geuU74GRs14" title="Priorização" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/geuU74GRs14" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<p align="center"><strong>👥 Participantes:</strong></p>
+
+<p align="center">
+<table>
+  <tr>
+    <td><a href="https://github.com/ArtyMend07">Artur Mendonça Arruda</a></td>
+  </tr>
+</table>
+</p>
+
+</details>
+
+<details>
+  <summary>Priorização - 100</summary>
+
+<p align="center"><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/tec_priorizacao/100/" target="_blank">📄 Ver artefato relacionado</a></p>
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NgQ3NoHkDZQ" title="Priorização" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+<p align="center"><a href="https://youtu.be/NgQ3NoHkDZQ" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<p align="center"><strong>👥 Participantes:</strong></p>
+
+<p align="center">
+<table>
+  <tr>
+    <td><a href="https://github.com/lucasarruda9">Lucas Mendonça Arruda</a></td>
+  </tr>
+</table>
+</p>
+
+</details>
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor([João Marcos](https://github.com/JJOAOMARCOSS), 2025)</p></font>
+
 ---
 
 ## Modelagem
@@ -722,4 +867,5 @@ Abaixo estão os vídeos organizados por categoria do projeto, com versão e des
 | 1.0    | Criação da página | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 02/07/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 02/07/2025      |
 | 1.1    | Colocando os videos das atas | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 02/07/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 02/07/2025      |
 | 1.2    | Colocando os videos das apresentações | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 02/07/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 02/07/2025      |
-| 1.3    | Colocando os videos das tecnicas de elicitação | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 02/07/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 02/07/2025      |
+| 1.3    | Colocando os videos das tecnicas de Elicitação | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 02/07/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 02/07/2025      |
+| 1.4    | Colocando os videos das tecnicas de Priorização | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 02/07/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 02/07/2025      |
