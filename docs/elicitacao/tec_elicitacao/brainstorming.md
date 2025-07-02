@@ -216,6 +216,13 @@ Legenda da Tabela:
 <font size="3"><p style="text-align: center">Elaborado por: [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx).</p></font>
 
 ---
+## Revisão da Técnica de Brainstorming
+
+Após sugestão do professor durante a avaliação dos artefatos de requisitos, realizamos uma nova sessão da técnica de **Brainstorming**, desta vez de forma **presencial**, com o objetivo de enriquecer ainda mais o processo de elicitação. 
+
+Optamos por **manter os registros anteriores** da técnica já documentados, e, a partir disso, **repetimos o processo com os mesmos participantes**, agora em ambiente presencial. Essa abordagem permitiu identificar novos pontos e discutir de forma mais dinâmica as ideias levantadas anteriormente.
+
+A seguir, apresentamos a gravação da nova sessão presencial, dividida em duas partes:
 
 ## Gravação da reunião de Brainstorming Presencial
 
@@ -310,4 +317,4 @@ Disponível em: <https://www.academia.edu/41857244/INTERA%C3%87%C3%83O_HUMANO_CO
 | 1.0    | Criação da documentação do brainstorming           | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 30/04/2025 | [Ana Victória](https://github.com/navicg)          | 30/04/2025      |
 | 2.0    | Correção e padronização das tabelas, fontes e ajustes gerais | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 11/05/2025 | [Ana Victória](https://github.com/navicg)          | 12/05/2025      |
 | 3.0    | Refazendo a tecnica presencialmente | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 21/06/2025 | [Ana Victória](https://github.com/navicg)          | 21/06/2025      |
-| 3.1    | Arruamando os reqs elicitados adicionando tabelas e melhorias para vizualização | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 01/06/2025 | [Ana Victória](https://github.com/navicg)          | 01/06/2025      |
+| 3.1    | Arruamando os reqs elicitados adicionando tabelas e melhorias para vizualização | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 01/07/2025 | [Ana Victória](https://github.com/navicg)          | 01/07/2025      |
