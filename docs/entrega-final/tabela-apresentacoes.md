@@ -23,7 +23,7 @@ Abaixo estão os vídeos organizados por categoria do projeto, com versão e des
 
 <br>
 
-<p align="center"><strong>Participantes da Reunião ata:</strong></p>
+<p align="center"><strong>👥 Participantes:</strong></p>
 
 <p align="center">
 <table>
@@ -50,6 +50,10 @@ Abaixo estão os vídeos organizados por categoria do projeto, com versão e des
 
 <p align="center"><a href="https://youtu.be/CwQa5EshHGc" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
+<br>
+
+<p align="center"><strong>👥 Participantes:</strong></p>
+
 <p align="center">
 <table>
   <tr>
@@ -74,6 +78,10 @@ Abaixo estão os vídeos organizados por categoria do projeto, com versão e des
 </p>
 
 <p align="center"><a href="https://youtu.be/QyOagQC9pRs" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<br>
+
+<p align="center"><strong>👥 Participantes:</strong></p>
 
 <p align="center">
 <table>
@@ -100,6 +108,10 @@ Abaixo estão os vídeos organizados por categoria do projeto, com versão e des
 
 <p align="center"><a href="https://youtu.be/We15Y_eUA1k" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
+<br>
+
+<p align="center"><strong>👥 Participantes:</strong></p>
+
 <p align="center">
 <table>
   <tr>
@@ -124,6 +136,10 @@ Abaixo estão os vídeos organizados por categoria do projeto, com versão e des
 </p>
 
 <p align="center"><a href="https://youtu.be/" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<br>
+
+<p align="center"><strong>👥 Participantes:</strong></p>
 
 <p align="center">
 <table>
@@ -150,6 +166,10 @@ Abaixo estão os vídeos organizados por categoria do projeto, com versão e des
 
 <p align="center"><a href="https://youtu.be/Jx61bed9OVE" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
+<br>
+
+<p align="center"><strong>👥 Participantes:</strong></p>
+
 <p align="center">
 <table>
   <tr>
@@ -174,6 +194,10 @@ Abaixo estão os vídeos organizados por categoria do projeto, com versão e des
 </p>
 
 <p align="center"><a href="https://youtu.be/DxQvXrulRZc" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<br>
+
+<p align="center"><strong>👥 Participantes:</strong></p>
 
 <p align="center">
 <table>
@@ -200,6 +224,10 @@ Abaixo estão os vídeos organizados por categoria do projeto, com versão e des
 
 <p align="center"><a href="https://youtu.be/DxQvXrulRZc" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
+<br>
+
+<p align="center"><strong>👥 Participantes:</strong></p>
+
 <p align="center">
 <table>
   <tr>
@@ -224,6 +252,10 @@ Abaixo estão os vídeos organizados por categoria do projeto, com versão e des
 </p>
 
 <p align="center"><a href="https://youtu.be/lQY-0yWOFKY" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<br>
+
+<p align="center"><strong>👥 Participantes:</strong></p>
 
 <p align="center">
 <table>
@@ -250,30 +282,9 @@ Abaixo estão os vídeos organizados por categoria do projeto, com versão e des
 
 <p align="center"><a href="https://youtu.be/OMEnsh0BPWU" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
-<p align="center">
-<table>
-  <tr>
-    <td><a href="https://github.com/navicg">Ana Victória Guedes da Costa</a></td>
-    <td><a href="https://github.com/ArtyMend07">Artur Mendonça Arruda</a></td>
-    <td><a href="https://github.com/BrzGab">Gabriel Lopes</a></td>
-    <td><a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes de Andrade</a></td>
-    <td><a href="https://github.com/KarolineLuz">Karoline Luz da Conceição</a></td>
-    <td><a href="https://github.com/lucasarruda9">Lucas Mendonça Arruda</a></td>
-    <td><a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a></td>
-  </tr>
-</table>
-</p>
+<br>
 
-</details>
-
-<details>
-  <summary>Ata x - </summary>
-
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" title="Reunião ata" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</p>
-
-<p align="center"><a href="https://youtu.be/" target="_blank">Clique aqui para assistir no YouTube</a></p>
+<p align="center"><strong>👥 Participantes:</strong></p>
 
 <p align="center">
 <table>
@@ -299,6 +310,10 @@ Abaixo estão os vídeos organizados por categoria do projeto, com versão e des
 </p>
 
 <p align="center"><a href="https://youtu.be/2mjrhFlQDrk" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<br>
+
+<p align="center"><strong>👥 Participantes:</strong></p>
 
 <p align="center">
 <table>
@@ -329,6 +344,10 @@ Abaixo estão os vídeos organizados por categoria do projeto, com versão e des
 
 <p align="center"><a href="https://youtu.be/0ls2YWeW324" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
+<br>
+
+<p align="center"><strong>👥 Participantes:</strong></p>
+
 <p align="center">
 <table>
   <tr>
@@ -353,6 +372,10 @@ Abaixo estão os vídeos organizados por categoria do projeto, com versão e des
 </p>
 
 <p align="center"><a href="https://youtu.be/OpUQ1KN-e1A" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<br>
+
+<p align="center"><strong>👥 Participantes:</strong></p>
 
 <p align="center">
 <table>
@@ -379,6 +402,10 @@ Abaixo estão os vídeos organizados por categoria do projeto, com versão e des
 
 <p align="center"><a href="https://youtu.be/mzTBOV_Q2ZI" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
+<br>
+
+<p align="center"><strong>👥 Participantes:</strong></p>
+
 <p align="center">
 <table>
   <tr>
@@ -403,6 +430,10 @@ Abaixo estão os vídeos organizados por categoria do projeto, com versão e des
 </p>
 
 <p align="center"><a href="https://youtu.be/5jdJ3wkB3QM" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<br>
+
+<p align="center"><strong>👥 Participantes:</strong></p>
 
 <p align="center">
 <table>
@@ -429,6 +460,10 @@ Abaixo estão os vídeos organizados por categoria do projeto, com versão e des
 
 <p align="center"><a href="https://youtu.be/uAN0oXEAZQo" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
+<br>
+
+<p align="center"><strong>👥 Participantes:</strong></p>
+
 <p align="center">
 <table>
   <tr>
@@ -453,6 +488,10 @@ Abaixo estão os vídeos organizados por categoria do projeto, com versão e des
 </p>
 
 <p align="center"><a href="https://youtu.be/TAbvk1g30t4" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<br>
+
+<p align="center"><strong>👥 Participantes:</strong></p>
 
 <p align="center">
 <table>
@@ -482,6 +521,22 @@ Abaixo estão os vídeos organizados por categoria do projeto, com versão e des
 </p>
 
 <p align="center"><a href="https://youtu.be/SEU_VIDEO_ID" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<p align="center"><strong>👥 Participantes:</strong></p>
+
+<p align="center">
+<table>
+  <tr>
+    <td><a href="https://github.com/navicg">Ana Victória Guedes da Costa</a></td>
+    <td><a href="https://github.com/ArtyMend07">Artur Mendonça Arruda</a></td>
+    <td><a href="https://github.com/BrzGab">Gabriel Lopes</a></td>
+    <td><a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes de Andrade</a></td>
+    <td><a href="https://github.com/KarolineLuz">Karoline Luz da Conceição</a></td>
+    <td><a href="https://github.com/lucasarruda9">Lucas Mendonça Arruda</a></td>
+    <td><a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a></td>
+  </tr>
+</table>
+</p>
 
 </details>
 
