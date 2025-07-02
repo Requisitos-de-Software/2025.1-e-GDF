@@ -55,7 +55,7 @@ A seguir, estão os links para os planejamentos das verificações dos artefatos
       <td><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/perfil_de_usuario/">Perfil de Usuário</a></td>
       <td><a href="https://github.com/KarolineLuz">Karoline Luz</a>, <a href="https://github.com/navicg">Ana Victória</a></td>
       <td>Correções na formatação dos perfis e clareza nas descrições após avaliação da monitora.</td>
-      <td><a href="https://github.com/ArtyMend07">Artur Mendonça</a></td>
+      <td><a href="https://github.com/JJOAOMARCOSS">João Marcos</a></td>
     </tr>
     <tr>
       <td><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/tec_elicitacao/">Técnicas de Elicitação</a></td>
@@ -83,7 +83,7 @@ A seguir, estão os links para os planejamentos das verificações dos artefatos
         <a href="https://github.com/BrzGab">Gabriel Lopes</a>
       </td>
       <td>Revisão da estrutura das técnicas, adição de links e categorização correta entre métodos qualitativos e quantitativos seguindo as dicas da nossa monitora. A regravação para presencial de algumas técnicas seguindo a orientação do professor.</td>
-      <td><a href="https://github.com/lucasarruda9">Lucas Mendonça</a></td>
+      <td><a href="https://github.com/JJOAOMARCOSS">João Marcos</a></td>
     </tr>
   </table>
   <font>Fonte: <a href='https://github.com/JJOAOMARCOSS'>João Marcos</a></font>
@@ -114,13 +114,13 @@ A seguir, estão os links para os planejamentos das verificações dos artefatos
       <td><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/especificacao_suplementar/">Especificação Suplementar</a></td>
       <td><a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes</a> e <a href="https://github.com/lucasarruda9">Lucas Mendonça</a></td>
       <td>Melhorias nos requisitos não funcionais e inclusão de justificativas</td>
-      <td><a href="https://github.com/KarolineLuz">Karoline Luz</a></td>
+      <td><a href="https://github.com/JJOAOMARCOSS">João Marcos</a></td>
     </tr>
     <tr>
       <td><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/modelagem/lexico/">Léxico</a></td>
       <td><a href="https://github.com/ArtyMend07">Artur Mendonça</a> e <a href="https://github.com/KarolineLuz">Karoline Luz</a></td>
       <td>Reorganização e padronização dos termos</td>
-      <td><a href="https://github.com/lucasarruda9">Lucas Mendonça</a> e <a href="https://github.com/BrzGab">Gabriel Lopes</a></td>
+      <td><a href="https://github.com/JJOAOMARCOSS">João Marcos</a></td>
     </tr>
   </table>
   <font>Fonte: <a href='https://github.com/JJOAOMARCOSS'>João Marcos</a>, 2025</font>
@@ -292,7 +292,7 @@ A seguir, estão os links para os planejamentos das verificações dos artefatos
       <td><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/rastreabilidade/matriz_rastreabilidade/">Matriz de Rastreabilidade</a></td>
       <td>
         <a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes</a>, 
-        <a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a>
+        <a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a> e <a href="https://github.com/lucasarruda9">Lucas Mendonça</a>
       </td>
       <td>Padronização dos requisitos e atualização da legenda da matriz</td>
       <td>
@@ -311,7 +311,7 @@ A seguir, estão os links para os planejamentos das verificações dos artefatos
 
 </center>
 
-## Acompanhamento Geral dos Itens
+## Acompanhamento Geral da nossa Verificação
 
 <div style="width: 80%; margin: auto; background: #eee; border-radius: 8px; overflow: hidden; height: 25px; box-shadow: inset 0 0 3px #ccc;">
   <div style="width: 83.3%; height: 100%; background-color: #4caf50; float: left;"></div>
@@ -320,10 +320,9 @@ A seguir, estão os links para os planejamentos das verificações dos artefatos
 </div>
 
 <p style="text-align: center; font-size: 14px; margin-top: 10px;">
-  ✅ Conforme: 10 &nbsp;&nbsp;|&nbsp;&nbsp; ❌ Não Conforme: 1 &nbsp;&nbsp;|&nbsp;&nbsp; ⚠️ Incompleto: 1
+  ✅ Conforme: 50 &nbsp;&nbsp;|&nbsp;&nbsp; ❌ Não Conforme: 1 &nbsp;&nbsp;|&nbsp;&nbsp; ⚠️ Incompleto: 1
 </p>
 <p style="text-align: center;"><sub>Fonte: João Marcos e Luiza da Silva Pugas (2025)</sub></p>
-
 
 ---
 
@@ -339,6 +338,20 @@ Abaixo é possível encontrar os link para os planejamentos da verificação dos
 - [Entrega 4](../verificacao/grupo/entrega04/entrega04grupo+1.md)
 - [Entrega 5](../verificacao/grupo/entrega06/entrega06grupo+1.md)
 - [Entrega 6](../verificacao/grupo/entrega05/entrega05grupo+1.md)
+
+## Acompanhamento Geral da Verificação do Grupo 9
+
+<div style="width: 80%; margin: auto; background: #eee; border-radius: 8px; overflow: hidden; height: 25px; box-shadow: inset 0 0 3px #ccc;">
+  <div style="width: 83.3%; height: 100%; background-color: #4caf50; float: left;"></div>
+  <div style="width: 8.3%; height: 100%; background-color: #f44336; float: left;"></div>
+  <div style="width: 8.3%; height: 100%; background-color: #ff9800; float: left;"></div>
+</div>
+
+<p style="text-align: center; font-size: 14px; margin-top: 10px;">
+  ✅ Conforme: 50 &nbsp;&nbsp;|&nbsp;&nbsp; ❌ Não Conforme: 1 &nbsp;&nbsp;|&nbsp;&nbsp; ⚠️ Incompleto: 1
+</p>
+<p style="text-align: center;"><sub>Fonte: João Marcos e Luiza da Silva Pugas (2025)</sub></p>
+
 
 ---
 
