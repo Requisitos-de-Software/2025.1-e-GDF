@@ -170,7 +170,7 @@ O processo de priorização FTF foi conduzido a partir de sessões de brainstorm
 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | Mediador      | 03/07/2025 | 08:30 | Presencial - FGA |
 | [Luiza da Silva Pugas](https://github.com/Luizaxx)    | Mediador      | 03/07/2025 | 08:30 | Presencial - FGA |
 | Danielle                                         | Cliente       | 03/07/2025 | 08:30 | Presencial - FGA |
-| Amiga da Dani                                        | Cliente       | 03/07/2025 | 08:30 | Presencial - FGA |
+
 
 
 <font size="3"><p style="text-align: center">Elaborado por: [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx).</p></font>
@@ -196,7 +196,7 @@ O processo de priorização FTF foi conduzido a partir de sessões de brainstorm
 <p align="center"><b>Tabela 5</b> — Tabela Geral</p>
 
 <figure markdown="span">
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/nfr/docs/assets/tabela_Elicitacao.jpeg">
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/artefato-reorganização/docs/assets/tabelaFTF.jpeg">
 </figure>
 <font size="3"><p style="text-align: center">Elaborado por: [Luiza da Silva Pugas](https://github.com/Luizaxx).</p></font>
 
@@ -204,7 +204,31 @@ O processo de priorização FTF foi conduzido a partir de sessões de brainstorm
 
 <p align="center"><b>Tabela 6</b> — Ordem decrescente de prioridade.</p>
 
-Coloca aqui a tabela aqui depois da Dani ter escolhido
+| US #    | Benefício Relativo | Penalidade Relativa | Valor Total | Valor (%) | Custo Relativo | Risco Relativo | Esforço Total | Custo (%) | Risco (%) | Prioridade |
+|---------|---------------------|----------------------|-------------|-----------|----------------|----------------|----------------|-----------|-----------|------------|
+| RF06    | 9                   | 5                    | 23          | 3,59%     | 2              | 1              | 2,5            | 1,01%     | 0,52%     | 235,99%    |
+| RF11    | 5                   | 9                    | 14          | 2,62%     | 4              | 3              | 5,5            | 2,31%     | 1,81%     | 81,38%     |
+| RNF01   | 9                   | 8                    | 26          | 4,99%     | 5              | 5              | 7,5            | 2,96%     | 3,07%     | 129,21%    |
+| RF10    | 7                   | 7                    | 21          | 3,78%     | 6              | 6              | 7              | 2,26%     | 3,49%     | 111,21%    |
+| RNF02   | 9                   | 7                    | 25          | 5,34%     | 8              | 8              | 12             | 4,88%     | 5,06%     | 73,61%     |
+| RF09    | 8                   | 8                    | 24          | 4,14%     | 6              | 4              | 8              | 3,28%     | 2,27%     | 93,72%     |
+| RNF04   | 8                   | 6                    | 22          | 3,87%     | 4              | 6              | 6,5            | 2,78%     | 3,55%     | 94,54%     |
+| RF08    | 9                   | 9                    | 27          | 4,45%     | 7              | 8              | 11             | 3,68%     | 4,35%     | 80,63%     |
+| RF04    | 9                   | 9                    | 27          | 3,92%     | 8              | 6              | 11             | 3,79%     | 3,00%     | 68,67%     |
+| RF03    | 9                   | 8                    | 26          | 3,64%     | 9              | 8              | 13             | 4,09%     | 3,85%     | 60,55%     |
+| RNF07   | 6                   | 7                    | 19          | 4,97%     | 8              | 8              | 12             | 6,40%     | 6,78%     | 50,81%     |
+| RNF03   | 6                   | 5                    | 17          | 3,84%     | 8              | 8              | 12             | 5,26%     | 5,37%     | 48,28%     |
+| RNF06   | 5                   | 4                    | 14          | 3,54%     | 6              | 6              | 10,5           | 4,58%     | 7,09%     | 44,81%     |
+| RF07    | 4                   | 3                    | 11          | 1,78%     | 7              | 7              | 10,5           | 3,55%     | 3,66%     | 33,05%     |
+| RF02    | 4                   | 4                    | 12          | 1,65%     | 6              | 6              | 9              | 2,65%     | 2,80%     | 30,71%     |
+| RNF05   | 3                   | 2                    | 8           | 1,98%     | 9              | 9              | 13,5           | 6,43%     | 6,20%     | 20,34%     |
+| RF05    | 7                   | 6                    | 20          | 3,03%     | 4              | 2              | 5              | 1,97%     | 1,03%     | 121,71%    |
+| RF12    | 9                   | 5                    | 14          | 2,62%     | 7              | 6              | 8              | 2,31%     | 1,81%     | 81,38%     |
+| RNF04   | 8                   | 6                    | 22          | 3,87%     | 4              | 6              | 6,5            | 2,78%     | 3,55%     | 94,54%     |
+| RF01    | 7                   | 5                    | 0           | 0,00%     | 8              | 6              | 11             | 6,84%     | 5,45%     | 0,00%      |
+
+| **TOTAL** | **133**             | **116**              | **363**     | **67,87%**| **117**         | **110**         | **172**        | **71,29%**| **70,43%**| **1484,06%** |
+
 
 ---
 
