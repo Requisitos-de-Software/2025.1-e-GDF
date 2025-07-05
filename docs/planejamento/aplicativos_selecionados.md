@@ -6,6 +6,10 @@ Durante a disciplina de Requisitos de Software, o grupo analisou diversos aplica
 
 O [e-GDF](https://www.economia.df.gov.br/e-gdf-e-economiadf)  é um aplicativo oficial criado com o objetivo de reunir diversos serviços públicos digitais em uma única plataforma, facilitando o acesso da população a serviços essenciais como saúde, transporte e educação, diretamente pelo celular. Seu propósito é tornar a comunicação entre o cidadão e o governo mais eficiente, transparente e acessível, ao mesmo tempo que contribui para a redução da burocracia e do consumo de papel. Com uma interface simples e de fácil navegação, o aplicativo permite que o usuário consulte rapidamente informações e realize serviços de forma prática, trazendo mais facilidade para o dia a dia.
 
+## Metodologia
+
+Para a avaliação dos aplicativos selecionados pelo grupo, realizamos inicialmente uma triagem com três opções, conforme apresentado na **Tabela 1**. Em seguida, utilizamos uma enquete via *WhatsApp* para auxiliar na decisão. No entanto, após uma sugestão do professor, novos aplicativos foram incluídos na análise, como mostrado na **Tabela 2**. A escolha final foi feita com base em critérios estabelecidos e está detalhada no artefato do [Aplicativo Selecionado](https://requisitos-de-software.github.io/2025.1-e-GDF/planejamento/app_selecionado/), que descreve todo o processo de seleção.
+
 <font size="3"><p style="text-align: left">**Tabela 1** - Tabela de aplicativos avaliados por cada integrante antes da sugestão do professor.</p></font>
 
 | Aplicativos Avaliados| Integrantes |
@@ -14,8 +18,7 @@ O [e-GDF](https://www.economia.df.gov.br/e-gdf-e-economiadf)  é um aplicativo o
 | DETRAN-DF | Lucas, Ana Victória e Luiza |
 | e-Título | Karoline e Artur |
 
-
-<font size="3"><p style="text-align: center">Fonte: [Gabriel Lopes](https://github.com/BrzGab) e [Karoline Luz](https://github.com/KarolineLuz).</p></font>
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Gabriel Lopes](https://github.com/BrzGab) e [Karoline Luz](https://github.com/KarolineLuz), 2025)</p></font>
 
 <font size="3"><p style="text-align: left">**Tabela 2** - Tabela de aplicativos avaliados por cada integrante depois da sugestão do professor.</p></font>
 
@@ -25,10 +28,12 @@ O [e-GDF](https://www.economia.df.gov.br/e-gdf-e-economiadf)  é um aplicativo o
 | Receita Federal | João Marcos, Luiza da Silva e Karoline Luz|
 | e-GDF | Ana Victória e Gabriel Lopes|
 
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Ana Victória](https://github.com/navicg), 2025)</p></font>
 
-<font size="3"><p style="text-align: center">Fonte: [Ana Victória](https://github.com/navicg).</p></font>
+## Aplicativos Selecionados
 
-## e-GDF
+### e-GDF
+
 O [e-GDF](https://www.economia.df.gov.br/e-gdf-e-economiadf) é um aplicativo oficial do Governo do Distrito Federal, criado para centralizar e facilitar o acesso da população a diversos serviços públicos digitais, promovendo mais agilidade, transparência e comodidade no relacionamento entre o cidadão e o governo. O aplicativo permite aos usuários:
 - Acesso a impostos e taxas
 - Agendamentos de serviços públicos
@@ -41,7 +46,8 @@ O [e-GDF](https://www.economia.df.gov.br/e-gdf-e-economiadf) é um aplicativo of
 
 Seu foco é promover a transformação digital e aproximar o governo da população, oferecendo uma plataforma prática e acessível para diversas solicitações e acompanhamentos.
 
-## Dentran-DF
+### Dentran-DF
+
 O [DETRAN-DF](https://www.detran.df.gov.br/) é o portal oficial de serviços do trânsito no Distrito Federal. O site oferece:
 - Agendamento de serviços presenciais
 - Consultas de multas e débitos de veículos
@@ -51,7 +57,8 @@ O [DETRAN-DF](https://www.detran.df.gov.br/) é o portal oficial de serviços do
 
 O site/app do DETRAN-DF oferece serviços regionais como agendamento de vistorias, consulta de multas e processos de habilitação específicos para o Distrito Federal.
 
-## e-Título
+### e-Título
+
 O [e-Título](https://www.justicaeleitoral.jus.br/titulo-eleitoral/) é o aplicativo oficial da Justiça Eleitoral que permite acessar a versão digital do título de eleitor. O aplicativo disponibiliza:
 - Versão digital do título eleitoral
 - Consulta ao local de votação
@@ -61,7 +68,8 @@ O [e-Título](https://www.justicaeleitoral.jus.br/titulo-eleitoral/) é o aplica
 
 Oferece serviços eleitorais digitais, simplificando o acesso do cidadão às informações e documentos necessários para o exercício do voto.
 
-## Cadastro Único
+### Cadastro Único
+
 ​O aplicativo [Cadastro Único](https://www.gov.br/pt-br/servicos/consultar-dados-do-cadastro-unico-cadunico) é uma ferramenta oficial do Governo Federal que facilita o acesso de cidadãos às informações do Cadastro Único para Programas Sociais. O aplicativo disponibiliza:
 
 - Consulta de dados cadastrais
@@ -72,7 +80,8 @@ Oferece serviços eleitorais digitais, simplificando o acesso do cidadão às in
 
 O aplicativo foi desenvolvido pela Dataprev para o Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome, visando facilitar o acesso dos cidadãos às informações do Cadastro Único
 
-## Receita Federal
+### Receita Federal
+
 ​O aplicativo [Receita Federal](https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/download/app/rfb) é uma ferramenta oficial desenvolvida para facilitar o acesso dos cidadãos brasileiros a diversos serviços e informações fiscais diretamente pelo celular ou tablet. O aplicativo disponibiliza:
 
 - Consulta de CPF e CNPJ
@@ -87,6 +96,7 @@ O aplicativo foi desenvolvido pela Dataprev para o Ministério do Desenvolviment
 Além disso, o aplicativo incorporou todas as funcionalidades do antigo app "Meu Imposto de Renda", que será desativado em breve, consolidando os serviços em uma única plataforma para maior comodidade dos usuários.
 
 ## Conclusão da Avaliação Inicial
+
 A partir da análise dos aplicativos avaliados, o [e-GDF](https://www.economia.df.gov.br/e-gdf-e-economiadf) foi escolhido como objeto principal de estudo devido à sua relevância para os cidadãos do **Distrito Federal**, sua complexidade em integrar diversos serviços públicos digitais e a importância de sua implementação na transformação digital do governo. O aplicativo oferece uma interface que centraliza serviços essenciais, como saúde, transporte e educação, permitindo uma avaliação abrangente das técnicas de engenharia de requisitos aprendidas na disciplina.
 
 ## Referências Bibliográficas 
@@ -115,4 +125,5 @@ UNIVERSIDADE DE BRASÍLIA. FGA0313 – Requisitos de Software – Turma T03 (202
 | 1.1    |  Padronizando histórico de versões               |  [Lucas Mendonça ](https://github.com/lucasarruda9)  | 13/04/2025 | [Artur Mendonça](https://github.com/ArtyMend07)   | 13/04/2025      |
 | 1.2   | Correção da lista de apps, adicionando novos aplicativos analisados| [Ana Victória](https://github.com/navicg) | 30/04/2025 | [Karoline Luz](https://github.com/KarolineLuz)   | 01/05/2025      |
 | 1.3  | Corrigindo os links de direcionamento. | [Ana Victória](https://github.com/navicg) | 02/05/2025 | [Karoline Luz](https://github.com/KarolineLuz)   | 02/05/2025      |
-1.4 | Correção das fontes e do link da bibliografia. | [Ana Victória](https://github.com/navicg)| 12/05/2025 |[Karoline Luz](https://github.com/KarolineLuz)| 13/05/2025 |
+| 1.4 | Correção das fontes e do link da bibliografia. | [Ana Victória](https://github.com/navicg)| 12/05/2025 |[Karoline Luz](https://github.com/KarolineLuz)| 13/05/2025 |
+| 2.0 | Correção do artefato, padronizando as fontes das tabelas e adicionando uma metodologia mais detalhada. | [Ana Victória](https://github.com/navicg)| 05/07/2025 |[Karoline Luz](https://github.com/KarolineLuz)| 06/07/2025 |
