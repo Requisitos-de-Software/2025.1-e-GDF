@@ -126,7 +126,6 @@ A seguir, estão os links para os planejamentos das verificações dos artefatos
   <font>Fonte: <a href='https://github.com/JJOAOMARCOSS'>João Marcos</a>, 2025</font>
 </details>
 
-
 <details>
   <summary>Entrega 4: Modelagem Ágil (NFR Framework, Backlog, Histórias de Usuário)</summary>
   <table>
@@ -314,15 +313,16 @@ A seguir, estão os links para os planejamentos das verificações dos artefatos
 ## Acompanhamento Geral da nossa Verificação
 
 <div style="width: 80%; margin: auto; background: #eee; border-radius: 8px; overflow: hidden; height: 25px; box-shadow: inset 0 0 3px #ccc;">
-  <div style="width: 83.3%; height: 100%; background-color: #4caf50; float: left;"></div>
-  <div style="width: 8.3%; height: 100%; background-color: #f44336; float: left;"></div>
-  <div style="width: 8.3%; height: 100%; background-color: #ff9800; float: left;"></div>
+  <div style="width: 98.0%; height: 100%; background-color: #4caf50; float: left;" title="✅ Conforme: 244 (98.0%)"></div>
+  <div style="width: 2.0%; height: 100%; background-color: #f44336; float: left;" title="❌ Não Conforme: 5 (2.0%)"></div>
+  <div style="width: 0.0%; height: 100%; background-color: #ff9800; float: left;" title="⚠️ Incompleto: 0 (0.0%)"></div>
 </div>
 
 <p style="text-align: center; font-size: 14px; margin-top: 10px;">
-  ✅ Conforme: 50 &nbsp;&nbsp;|&nbsp;&nbsp; ❌ Não Conforme: 1 &nbsp;&nbsp;|&nbsp;&nbsp; ⚠️ Incompleto: 1
+  ✅ Conforme: 244 (98.0%) &nbsp;&nbsp;|&nbsp;&nbsp; ❌ Não Conforme: 5 (2.0%) &nbsp;&nbsp;|&nbsp;&nbsp; ⚠️ Incompleto: 0 (0.0%)<br>
+  <strong>Total de itens verificados: 249</strong>
 </p>
-<p style="text-align: center;"><sub>Fonte: João Marcos e Luiza da Silva Pugas (2025)</sub></p>
+<p style="text-align: center;"><sub>Fonte: Elaborado pelo autor (João Marcos, 2025)</sub></p>
 
 ---
 
@@ -342,16 +342,44 @@ Abaixo é possível encontrar os link para os planejamentos da verificação dos
 ## Acompanhamento Geral da Verificação do Grupo 9
 
 <div style="width: 80%; margin: auto; background: #eee; border-radius: 8px; overflow: hidden; height: 25px; box-shadow: inset 0 0 3px #ccc;">
-  <div style="width: 83.3%; height: 100%; background-color: #4caf50; float: left;"></div>
-  <div style="width: 8.3%; height: 100%; background-color: #f44336; float: left;"></div>
-  <div style="width: 8.3%; height: 100%; background-color: #ff9800; float: left;"></div>
+  <div style="width: 94.7%; height: 100%; background-color: #4caf50; float: left;" title="✅ Conforme: 252 (94.7%)"></div>
+  <div style="width: 5.3%; height: 100%; background-color: #f44336; float: left;" title="❌ Não Conforme: 14 (5.3%)"></div>
+  <div style="width: 0.0%; height: 100%; background-color: #ff9800; float: left;" title="⚠️ Incompleto: 0 (0.0%)"></div>
 </div>
 
 <p style="text-align: center; font-size: 14px; margin-top: 10px;">
-  ✅ Conforme: 50 &nbsp;&nbsp;|&nbsp;&nbsp; ❌ Não Conforme: 1 &nbsp;&nbsp;|&nbsp;&nbsp; ⚠️ Incompleto: 1
+  ✅ Conforme: 252 (94.7%) &nbsp;&nbsp;|&nbsp;&nbsp; ❌ Não Conforme: 14 (5.3%) &nbsp;&nbsp;|&nbsp;&nbsp; ⚠️ Incompleto: 0 (0.0%)<br>
+  <strong>Total de itens verificados: 266</strong>
 </p>
-<p style="text-align: center;"><sub>Fonte: João Marcos e Luiza da Silva Pugas (2025)</sub></p>
+<p style="text-align: center;"><sub>Fonte: Elaborado pelo autor (João Marcos, 2025)</sub></p>
 
+
+---
+
+## Verificação do Grupo 7 sobre o nosso grupo
+
+O [Grupo 7](https://github.com/Requisitos-de-Software/2025.1-e-GDF) foi responsável por realizar as inspeções do nosso grupo. Abaixo, encontram-se os links para cada inspeção correspondente às entregas:
+
+- [Entrega 1](https://requisitos-de-software.github.io/2025.1-FGTS/Inspecao/Entrega-1/Grupo-mais-1/)
+- [Entrega 2](https://requisitos-de-software.github.io/2025.1-FGTS/Inspecao/Entrega-2/Grupo-mais-1/)
+- [Entrega 3](https://requisitos-de-software.github.io/2025.1-FGTS/Inspecao/Entrega-3/Grupo-mais-1/)
+- [Entrega 4](https://requisitos-de-software.github.io/2025.1-FGTS/Inspecao/Entrega-4/Grupo-mais-1/)
+- [Entrega 5](https://requisitos-de-software.github.io/2025.1-FGTS/Inspecao/Entrega-5/Grupo-mais-1/)
+- [Entrega 6](https://requisitos-de-software.github.io/2025.1-FGTS/Inspecao/Entrega-6/Grupo-mais-1/#itens-gerais)
+
+## Acompanhamento Geral da Verificação do Grupo 7 sobre o nosso grupo
+
+<div style="width: 80%; margin: auto; background: #eee; border-radius: 8px; overflow: hidden; height: 25px; box-shadow: inset 0 0 3px #ccc;">
+  <div style="width: 91.5%; height: 100%; background-color: #4caf50; float: left;" title="✅ Conforme: 129 (91.5%)"></div>
+  <div style="width: 2.8%; height: 100%; background-color: #f44336; float: left;" title="❌ Não Conforme: 4 (2.8%)"></div>
+  <div style="width: 5.7%; height: 100%; background-color: #ff9800; float: left;" title="⚠️ Incompleto: 8 (5.7%)"></div>
+</div>
+
+<p style="text-align: center; font-size: 14px; margin-top: 10px;">
+  ✅ Conforme: 129 (91.5%) &nbsp;&nbsp;|&nbsp;&nbsp; ❌ Não Conforme: 4 (2.8%) &nbsp;&nbsp;|&nbsp;&nbsp; ⚠️ Incompleto: 8 (5.7%)<br>
+  <strong>Total de itens verificados: 141</strong>
+</p>
+<p style="text-align: center;"><sub>Fonte: Elaborado pelo autor(João Marcos, 2025)</sub></p>
 
 ---
 
@@ -376,3 +404,6 @@ O uso da técnica de inspeção permitiu não só detectar defeitos, mas também
 | Versão | Descrição                      | Autor(es)                                             | Data       | Revisor(es)                                        | Data de Revisão |
 | ------ | ------------------------------ | ----------------------------------------------------- | ---------- | -------------------------------------------------- | --------------- |
 | 1.0    | Criação da página | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 27/06/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 27/06/2025      |
+| 1.1    | Adicionando os dados do grupo -1 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 05/07/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 05/07/2025  |
+| 1.2    | Adicionando os dados do grupo 8 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 05/07/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 05/07/2025  |
+| 1.3    | Adicionando os dados do grupo +1 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 05/07/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 05/07/2025  |
