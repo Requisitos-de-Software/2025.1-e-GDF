@@ -177,17 +177,15 @@ O processo de priorização FTF foi conduzido a partir de sessões de brainstorm
 
 ---
 
----
-
 ## Reuniões realizadas
 
 ### Gravação da Técnica First-Things-First com os Clientes
 
 <p style="text-align: center">
-  <iframe width="560" height="315" src="https://youtube.com/embed/LinkdoVideo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://youtube.com/embed/sAJb2BqC6uc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
-<p style="text-align: center"><a href="https://youtu.be/Linkdovideo" target="_blank">Clique aqui para assistir no YouTube</a></p>
+<p style="text-align: center"><a href="https://youtu.be/sAJb2BqC6uc" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
 ---
 
@@ -300,3 +298,4 @@ Legenda da Tabela:
 | 1.3    | Adicionando a tabela | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 04/05/2025 | [Artur](https://github.com/ArtyMend07) | 04/05/2025      |
 | 2.0    | Correção e padronização das tabelas, fontes e ajustes gerais | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 11/05/2025 | [Ana Victória](https://github.com/navicg)          | 12/05/2025      |
 | 3.0    | Refazendo a tecnica presencialmente | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 03/07/2025 | [Ana Victória](https://github.com/navicg)          | 03/07/2025      |
+| 3.1    | Adicionando o video| [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 03/07/2025 | [Ana Victória](https://github.com/navicg)          | 05/07/2025      |
