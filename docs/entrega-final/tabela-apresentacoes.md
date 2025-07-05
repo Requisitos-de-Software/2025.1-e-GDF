@@ -714,10 +714,10 @@ Abaixo estão os vídeos organizados por categoria do projeto, com versão e des
 <p align="center"><a href="https://youtu.be/9PtmtIjqJJs" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LinkdoVideo" title="Priorização" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sAJb2BqC6uc" title="Priorização" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
-<p align="center"><a href="https://youtu.be/LinkdoVideo" target="_blank">Clique aqui para assistir no YouTube</a></p>
+<p align="center"><a href="https://youtu.be/sAJb2BqC6uc" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
 <p align="center"><strong>👥 Participantes:</strong></p>
 
@@ -1703,3 +1703,4 @@ Abaixo estão os vídeos organizados por categoria do projeto, com versão e des
 | 1.7    | Colocando os videos da Prototipação | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 02/07/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 02/07/2025      |
 | 1.8    | Colocando os videos da Inspeção | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 02/07/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 02/07/2025      |
 | 1.9    | Colocando os videos da Inspeção do grupo +1 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 02/07/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 02/07/2025      |
+| 2.0    | Colocando os videos da Priorização nova FTF | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 05/07/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 05/07/2025      |
