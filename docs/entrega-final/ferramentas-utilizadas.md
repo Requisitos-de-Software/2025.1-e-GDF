@@ -74,8 +74,6 @@ As ferramentas utilizadas desempenharam papel fundamental para o sucesso do proj
 
 > OBS PROJECT. OBS Studio. Disponível em: <https://obsproject.com/>. Acesso em: 05 jul. 2025.
 
-> THIS PERSON DOESN’T EXIST. Página geradora de rostos. Disponível em: <https://thispersondoesnotexist.com/>. Acesso em: 05 jul. 2025.
-
 > OPENAI. ChatGPT. Disponível em: <https://chat.openai.com/>. Acesso em: 05 jul. 2025.
 
 ## Histórico de Versões
