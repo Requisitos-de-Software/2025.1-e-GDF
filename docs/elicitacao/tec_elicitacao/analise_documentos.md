@@ -212,7 +212,7 @@ Legenda da Tabela:
 | AD09                | RNF01  | O sistema deve ser compatível com vários dispositivos como Android versão 5.0 ou superior e iOS.                           | Implementado     | PlayStore e AppStore      |
 | AD10                | RNF02  | O sistema deve estar em conformidade com a Lei Geral de Proteção de Dados (LGPD).                  | Implementado     | Política de provacidade      |
 | AD11                | RNF03  | O sistema deve garantir a criptografia em dados sensíveis.                                          | Não implementado | PlayStore      |
-| AD12                | RNF04  | O sistema deve ter uma interface intuitiva.                                                         | Não implementado | S      |
+| AD12                | RNF04  | O sistema deve ter uma interface intuitiva.                                                         | Não implementado | PlayStore      |
 
 
 
@@ -220,7 +220,7 @@ Fonte: Elaborado pelo autor (Lucas Mendonça Arruda, 2025).
 
 ## Limitações da análise
 
-o app é novo e lançou no dia 10 de maio de 2024 na playstore enquanto na appstore a primeira versão do app foi lançada em 28 de maio de 2024. Por esse motivo, há pouca documentação disponível publicamente e um número reduzido de avaliações dos usuários sobre o aplivativo. 
+o app é novo e lançou no dia 10 de maio de 2024 na playstore enquanto na appstore a primeira versão do app foi lançada em 28 de maio de 2024. Por esse motivo, há pouca documentação disponível publicamente e um número reduzido de avaliações dos usuários sobre o aplicativo. 
 
 ## Bibliografia
 
