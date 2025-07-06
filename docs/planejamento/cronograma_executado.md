@@ -108,6 +108,21 @@ A tabela 5 mostra as atividades programadas durante a fase de Pós-Rastreabilida
 
 <font size="3"><p style="text-align: center">Fonte: [Ana Victória](https://github.com/navicg).</p></font>
 
+## Ponto de controle 6
+
+A tabela 6 mostra as atividades realizadas durante a fase de Validação.
+
+| Atividade                                              | Desenvolvimento da atividade                        | Autores                    | Revisores                | Período de revisão da atividade                    |
+|--------------------------------------------------------|-----------------------------------------------------|----------------------------|--------------------------|---------------------------------------|
+| Atas                             | Início: 20/06/2025  <br>Fim: 20/06/2025              |   [João Marcos Moraes](https://github.com/JJOAOMARCOSS)              |    [Artur Mendonça](https://github.com/ArtyMend07)             | Início: 20/06/2025  <br>Fim: 20/06/2025  |
+| Prototipação             | Início: 19/06/2025  <br>Fim: 22/06/2025              |   [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos Moraes](https://github.com/JJOAOMARCOSS), [Karoline Luz](https://github.com/KarolineLuz), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva](https://github.com/Luizaxx)                         |  [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos Moraes](https://github.com/JJOAOMARCOSS), [Karoline Luz](https://github.com/KarolineLuz), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva](https://github.com/Luizaxx)                       | Início: 20/06/2025  <br>Fim: 24/06/2025 |
+| Comprovação Informal | Início: 09/06/2025  <br>Fim: 19/06/2025 | [Karoline Luz](https://github.com/KarolineLuz), [Luiza da Silva](https://github.com/Luizaxx) | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | Início: 19/06/2025  <br>Fim: 24/06/2025 |
+| Gravação da apresentação | Início: 22/06/2025  <br>Fim: 22/06/2025 | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos Moraes](https://github.com/JJOAOMARCOSS), [Karoline Luz](https://github.com/KarolineLuz), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva](https://github.com/Luizaxx) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos Moraes](https://github.com/JJOAOMARCOSS), [Karoline Luz](https://github.com/KarolineLuz), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva](https://github.com/Luizaxx) | Início: 22/06/2025  <br>Fim: 22/06/2025 |
+| Eventuais correções | Início: 23/06/2025  <br>Fim: 24/06/2025 | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos Moraes](https://github.com/JJOAOMARCOSS), [Karoline Luz](https://github.com/KarolineLuz), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva](https://github.com/Luizaxx) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos Moraes](https://github.com/JJOAOMARCOSS), [Karoline Luz](https://github.com/KarolineLuz), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva](https://github.com/Luizaxx) | Início: 23/06/2025  <br>Fim: 24/06/2025 |
+
+**Tabela 6** - Análise de Requisitos: Verificação e Validação
+
+<font size="3"><p style="text-align: center">Fonte: [Artur Mendonça](https://github.com/ArtyMend07).</p></font>
 
 ## Bibliografia
 
