@@ -28,7 +28,7 @@ A tabela 1 mostra as atividades realizadas durante a fase de planejamento do pro
 
 **Tabela 1** - Planejamento
 
-<font size="3"><p style="text-align: center">Fonte: [Lucas Mendonça](https://github.com/lucasarruda9).</p></font>
+<font size="3"><p style="text-align: center">Elaborado por: [Lucas Mendonça](https://github.com/lucasarruda9).</p></font>
 
 ## Ponto de controle 2
 
@@ -50,7 +50,7 @@ A tabela 2 mostra as atividades realizadas durante a fase de elicitação e prio
 
 **Tabela 2** - Elicitação e Priorização
 
-<font size="3"><p style="text-align: center">Fonte: [Artur Mendonça](https://github.com/ArtyMend07).</p></font>
+<font size="3"><p style="text-align: center">Elaborado por: [Artur Mendonça](https://github.com/ArtyMend07).</p></font>
 
 ## Ponto de controle 3
 
@@ -72,7 +72,7 @@ A tabela 3 mostra as atividades programadas durante a fase de modelagem de requi
 
 **Tabela 3** - Modelagem de requisitos I
 
-<font size="3"><p style="text-align: center">Fonte: [Gabriel Lopes](https://github.com/BrzGab).</p></font>
+<font size="3"><p style="text-align: center">Elaborado por: [Gabriel Lopes](https://github.com/BrzGab).</p></font>
 
 ## Ponto de controle 4
 
@@ -88,7 +88,7 @@ A tabela 4 mostra as atividades programadas durante a fase de modelagem de requi
 
 **Tabela 4** - Modelagem de requisitos II
 
-<font size="3"><p style="text-align: center">Fonte: [Karoline Luz](https://github.com/KarolineLuz).</p></font>
+<font size="3"><p style="text-align: center">Elaborado por: [Karoline Luz](https://github.com/KarolineLuz).</p></font>
 
 
 ## Ponto de controle 5
@@ -106,7 +106,7 @@ A tabela 5 mostra as atividades programadas durante a fase de Pós-Rastreabilida
  
 **Tabela 5** - Pós-Rastreabilidade - Gerência II
 
-<font size="3"><p style="text-align: center">Fonte: [Ana Victória](https://github.com/navicg).</p></font>
+<font size="3"><p style="text-align: center">Elaborado por: [Ana Victória](https://github.com/navicg).</p></font>
 
 ## Ponto de controle 6
 
@@ -122,7 +122,7 @@ A tabela 6 mostra as atividades realizadas durante a fase de Validação.
 
 **Tabela 6** - Análise de Requisitos: Verificação e Validação
 
-<font size="3"><p style="text-align: center">Fonte: [Artur Mendonça](https://github.com/ArtyMend07).</p></font>
+<font size="3"><p style="text-align: center">Elaborado por: [Artur Mendonça](https://github.com/ArtyMend07).</p></font>
 
 ## Bibliografia
 
