@@ -33,26 +33,23 @@ Para essa categoria os requisitos identificados estão representados na tabela 1
 
 <font><p style="text-align: center">**Tabela 1** - Requisitos de Usabilidade.</p></font>
 
-| Requisito | Texto original |
-|-----------|----------------|
-| U01 | O sistema deve ter uma interface intuitiva. |
-| U02 | O sistema deve possuir uma interface simples, limpa e com ícones ilustrativos. |
-| U03 | O aplicativo deve permitir acessibilidade para pessoas idosas ou com deficiência visual. |
-| U04 | O layout deve ser responsivo para diferentes tamanhos de tela. |
-| U05 | O sistema deve ter compatibilidade com leitores de tela. |
-| U06 | O app deve conter linguagem clara e acessível, adequada a diferentes níveis de escolaridade. |
-| U07 | O aplicativo deve ser mais autoexplicativo, com uma navegação intuitiva e menos dependência de redirecionamentos externos. |
-| U08 | O aplicativo deve considerar a usabilidade para usuários idosos, garantindo que o design e as funcionalidades sejam facilmente compreensíveis e acessíveis. |
-| U09 | O aplicativo deve fornecer suporte para acessibilidade, incluindo recursos para daltônicos e deficientes visuais. |
-| U10 | O aplicativo deve ter uma aparência profissional e confiável para transmitir segurança aos usuários. |
-| U11 | A interface deve ser simples, objetiva e utilizar linguagem acessível a usuários com diferentes níveis de escolaridade. |
-
-
+| Requisito | Descrição Ampliada e Específica |
+|-----------|---------------------------------|
+| U01 | O sistema deve apresentar uma interface intuitiva, que permita ao usuário executar tarefas básicas e avançadas com poucos cliques, preferencialmente em até 3 cliques para realizar ações principais, reduzindo a curva de aprendizado e minimizando dúvidas sem a necessidade de treinamento formal. |
+| U02 | A interface deve ser limpa, com elementos visuais organizados de forma clara e objetiva, utilizando ícones ilustrativos facilmente reconhecíveis para cada função, garantindo que o usuário identifique rapidamente os botões e opções sem sobrecarregar visualmente a tela. |
+| U03 | O aplicativo deve incorporar funcionalidades específicas de acessibilidade, tais como ajuste de tamanho da fonte (mínimo 16pt), alto contraste entre texto e fundo, e suporte para leitores de tela, visando atender usuários idosos e com deficiência visual, garantindo uso confortável e eficiente. |
+| U04 | O layout deve ser responsivo, adaptando automaticamente a diferentes dispositivos (smartphones, tablets, desktops) e resoluções de tela, mantendo a proporção dos elementos e a funcionalidade completa, assegurando tempo de carregamento máximo de 2 segundos em conexões móveis. |
+| U05 | O sistema deve garantir compatibilidade total com leitores de tela como NVDA e JAWS, incluindo descrições alternativas para imagens, navegação via teclado e uso adequado de ARIA labels, para permitir que usuários com deficiência visual possam acessar todas as funcionalidades. |
+| U06 | O aplicativo deve utilizar linguagem clara, objetiva e acessível, evitando termos técnicos desnecessários, de forma que usuários com escolaridade mínima de ensino fundamental possam compreender instruções, mensagens e funcionalidades sem dificuldades. |
+| U07 | A navegação do aplicativo deve ser autoexplicativa, com fluxos simples onde o usuário não precise voltar mais de uma tela para corrigir uma ação, evitando redirecionamentos externos, de modo que o uso seja fluido e natural, com tempo máximo de resposta de 1 segundo por ação. |
+| U08 | O design do aplicativo deve considerar as necessidades de usuários idosos, apresentando botões com tamanho mínimo de 44x44 pixels, espaços adequados entre elementos para evitar cliques acidentais, e instruções visuais claras, facilitando o uso sem dependência de auxílio externo. |
+| U09 | O sistema deve disponibilizar recursos de acessibilidade para daltonismo, como paletas de cores alternativas (pelo menos 3 opções) e símbolos adicionais para diferenciação, além de suporte para outros tipos de deficiência visual, garantindo acesso inclusivo a todas as funções do aplicativo. |
+| U10 | A interface deve apresentar um design profissional e coerente, utilizando cores, fontes e layouts padronizados que transmitam segurança e confiabilidade ao usuário, reforçando a percepção de que seus dados e interações estão protegidos. |
+| U11 | A interface deve manter um design simples e objetivo, com textos curtos e diretos, utilizando linguagem que facilite a compreensão de usuários com variados níveis de escolaridade, com no máximo 150 caracteres por mensagem ou instrução para evitar confusão. |
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Ana Victória](https://github.com/navicg) e [Artur Mendonça](https://github.com/ArtyMend07), 2025)</p></font>
 
 ---
-
 
 **Vídeo 2** - Validação com usuário por: [Ana Victória](https://github.com/navicg).
 
@@ -60,16 +57,15 @@ Para essa categoria os requisitos identificados estão representados na tabela 1
 
 <p style="text-align: center"><a href="https://youtu.be/5cCeb5eTN6M"  target="_blank">Clique aqui para assistir no YouTube</a></p>
 
-## Termo de consentimento de imagem 
+## Termo de consentimento de imagem
+
 Este documento confirma que o cidadão Emanuel Maurício Costa forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
 
 O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1xkcr0UaikGhD1WTW-okJllMGEb4XXXhL/view?usp=drive_link)
 
-
-| Entrevistador(es) |Cidadão|Data prevista| Data Realizada  |Horário Previsto|Horário Realizado|Local|Duração|
-| ---------------------------------------|------------ |------------------------ | ------ |-------|----------|-------|-------|
-|[Ana Victória](https://github.com/navicg)|**Emanuel M.C** |22/06/2025| 22/06/2025| 10:43  | 10:54|   Presencial |  04:52 min |
-
+| Entrevistador(es)                         | Cidadão         | Data prevista | Data Realizada | Horário Previsto | Horário Realizado | Local      | Duração   |
+| ----------------------------------------- | --------------- | ------------- | -------------- | ---------------- | ----------------- | ---------- | --------- |
+| [Ana Victória](https://github.com/navicg) | **Emanuel M.C** | 22/06/2025    | 22/06/2025     | 10:43            | 10:54             | Presencial | 04:52 min |
 
 <font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Ana Victória](https://github.com/navicg), 2025).</p></font>
 
@@ -83,16 +79,15 @@ Para essa categoria os requisitos identificados estão representados na tabela 2
 
 <font><p style="text-align: center">**Tabela 2** - Requisitos de Confiabilidade.</p></font>
 
-| Requisito | Texto original |
-|-----------|----------------|
-| R01 | O sistema deve estar em conformidade com a Lei Geral de Proteção de Dados (LGPD). |
-| R02 | O aplicativo deve garantir que as informações exibidas sejam atualizadas e reflitam fielmente a realidade, especialmente nas áreas de saúde e educação. |
-| R03 | O aplicativo deve apresentar estabilidade, evitando travamentos ou falhas de carregamento, especialmente em redes móveis. |
-| R04 | O aplicativo deve garantir proteção de dados pessoais, reforçando a confiança do usuário quanto à privacidade e segurança. |
-| R05 | O sistema deve proteger as informações pessoais com criptografia de dados e autenticação segura. |
+| Requisito | Descrição Ampliada e Específica |
+|-----------|---------------------------------|
+| R01 | O sistema deve estar em conformidade rigorosa com a Lei Geral de Proteção de Dados (LGPD), garantindo que todos os dados pessoais coletados sejam tratados conforme as diretrizes legais, com consentimento explícito do usuário, armazenamento seguro e possibilidade de exclusão ou anonimização dos dados mediante solicitação. |
+| R02 | O aplicativo deve assegurar que todas as informações exibidas estejam atualizadas em tempo real ou com sincronização automática a cada no máximo 5 minutos, refletindo fielmente a realidade, especialmente para dados críticos nas áreas de saúde e educação, evitando desinformação e promovendo confiança no uso. |
+| R03 | O aplicativo deve apresentar alta estabilidade operacional, prevenindo travamentos ou falhas de carregamento mesmo em condições adversas, como conexões móveis instáveis; deve suportar até 10.000 usuários simultâneos sem degradação perceptível da performance e garantir recuperação automática de erros em até 3 segundos. |
+| R04 | O aplicativo deve garantir a proteção dos dados pessoais dos usuários por meio de mecanismos robustos de segurança, como autenticação multifator, controle de acesso granular e monitoramento constante, reforçando a confiança do usuário quanto à privacidade e segurança das informações manuseadas. |
+| R05 | O sistema deve utilizar criptografia avançada para proteção dos dados pessoais, incluindo criptografia em trânsito (TLS 1.3) e em repouso (AES-256), além de autenticação segura via tokens JWT ou equivalente, garantindo que apenas usuários autorizados tenham acesso às informações sensíveis. |
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Gabriel Lopes](https://github.com/BrzGab) e [Karoline Luz](https://github.com/karol), 2025)</p></font>
-
 
 **Vídeo 1** - Validação com usuário por [Karoline Luz da Conceição](https://github.com/KarolineLuz)
 
@@ -100,15 +95,15 @@ Para essa categoria os requisitos identificados estão representados na tabela 2
 
 <p style="text-align: center"><a href="https://youtu.be/k--cQShnJVY" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
-## Termo de consentimento de imagem 
+## Termo de consentimento de imagem
+
 Este documento confirma que a cidadã Júnia Luz de Sousa forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
 
 O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1tAtNRMAKPoStT9ZyOU-DdT1I9mJgC5qK/view?usp=sharing)
 
-| Entrevistador(es) |Cidadão|Data prevista| Data Realizada  |Horário Previsto|Horário Realizado|Local|Duração|
-| ---------------------------------------|------------ |------------------------ | ------ |-------|----------|-------|-------|
-|[Karoline Luz](https://github.com/KarolineLuz)|**Júnia L.S** |19/06/2025| 19/06/2025| 17:30  | 17:45|   Presencial |  02:05 min |
-
+| Entrevistador(es)                              | Cidadão       | Data prevista | Data Realizada | Horário Previsto | Horário Realizado | Local      | Duração   |
+| ---------------------------------------------- | ------------- | ------------- | -------------- | ---------------- | ----------------- | ---------- | --------- |
+| [Karoline Luz](https://github.com/KarolineLuz) | **Júnia L.S** | 19/06/2025    | 19/06/2025     | 17:30            | 17:45             | Presencial | 02:05 min |
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Karoline Luz](https://github.com/karol), 2025)</p></font>
 
@@ -120,15 +115,13 @@ Para essa categoria os requisitos identificados estão representados na tabela 3
 
 <font><p style="text-align: center">**Tabela 3** - Requisitos de Desempenho.</p></font>
 
-| Requisito | Texto original |
-|-----------|----------------|
-| P01 | A navegação deve ser rápida e fluida entre telas, sem necessidade de redirecionamentos excessivos. |
-| P02 | O sistema deve carregar as informações de forma otimizada, reduzindo tempo de resposta. |
-| P03 | O aplicativo deve melhorar a performance do processo de login, permitindo uma experiência mais fluida. |
-| P04 | As funcionalidades principais devem responder em, no máximo, dois segundos para garantir boa experiência. |
-| P05 | As imagens capturadas pelo usuário devem ser otimizadas para upload rápido mesmo em conexões móveis. |
-
-
+| Requisito | Descrição Ampliada e Específica |
+|-----------|---------------------------------|
+| P01 | A navegação entre as telas do aplicativo deve ser rápida e fluida, com transições que não ultrapassem 300 milissegundos, evitando redirecionamentos excessivos que possam causar atraso perceptível ao usuário. O fluxo deve ser contínuo, sem bloqueios visuais ou pausas maiores que 0,5 segundo. |
+| P02 | O sistema deve carregar e apresentar as informações solicitadas pelo usuário em até 1,5 segundos, utilizando técnicas de cache local e otimização de consultas para minimizar o tempo de resposta, garantindo uma experiência ágil mesmo em conexões de internet móveis instáveis. |
+| P03 | O processo de login do aplicativo deve ser otimizado para permitir autenticação e acesso à conta do usuário em até 2 segundos, contemplando validação dos dados, comunicação segura com o servidor e feedback visual imediato para indicar progresso. |
+| P04 | Todas as funcionalidades principais, como busca, cadastro e atualização de dados, devem responder às solicitações do usuário em no máximo 2 segundos, assegurando uma interação fluida e evitando sensação de lentidão ou travamentos. |
+| P05 | As imagens capturadas e enviadas pelo usuário devem ser comprimidas e otimizadas automaticamente para garantir upload rápido, mesmo em redes móveis com largura de banda limitada, mantendo qualidade visual aceitável e reduzindo o tamanho do arquivo para menos de 500 KB quando possível. |
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([João Marcos](https://github.com/JJOAOMARCOSS) e [Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
 
@@ -140,12 +133,12 @@ Para essa categoria os requisitos identificados estão representados na tabela 4
 
 <font><p style="text-align: center">**Tabela 4** - Requisitos de Suportabilidade.</p></font>
 
-| Requisito | Texto original |
-|-----------|----------------|
-| S01 | O sistema deve ser compatível com vários dispositivos como Android e iOS. |
-| S02 | O sistema deve funcionar mesmo em dispositivos com baixa capacidade de hardware. |
-| S03 | O aplicativo deve ser compatível com as versões mais recentes dos sistemas Android e iOS. |
-| S04 | Deve funcionar em modo offline para consulta de registros ou informações previamente acessadas. |
+| Requisito | Descrição Ampliada e Específica |
+|-----------|---------------------------------|
+| S01 | O sistema deve ser totalmente compatível com os sistemas operacionais Android (a partir da versão 8.0) e iOS (a partir da versão 13), garantindo funcionamento adequado em smartphones e tablets, respeitando suas especificidades de interface e hardware. |
+| S02 | O aplicativo deve ser capaz de operar em dispositivos com recursos limitados, como processadores de até 1.5 GHz, 2 GB de RAM e armazenamento interno restrito, mantendo desempenho estável e evitando travamentos ou consumo excessivo de bateria. |
+| S03 | O sistema deve receber atualizações regulares para garantir compatibilidade com as versões mais recentes dos sistemas Android e iOS, incluindo adaptações para mudanças nas APIs, políticas de segurança e recursos nativos. |
+| S04 | O aplicativo deve disponibilizar modo offline que permita ao usuário acessar e consultar registros e informações previamente sincronizadas, com interface e funcionalidades básicas operando sem conexão de internet, sincronizando os dados automaticamente quando a conexão for restabelecida. |
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
 
@@ -179,19 +172,17 @@ iOS: Objective-C, Swift.
 
 > HENRIQUE, Mathes. Especificação Suplementar. Repositório do Grupo Bilheteria Digital da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: <<https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/especificacao-suplementar/>>. Acesso em: 15 maio 2025.
 
-
-
-
 ## Histórico de Versões
 
-| Versão | Descrição                                      | Autor(es)                                                                                         | Data       | Revisor(es)                                                                                                 | Data de Revisão |
-| ------ | ---------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------------------------------------------------------------------- | --------------- |
-| 1.0    | Adicionando a introdução e metodologia  | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Lucas Mendonça](https://github.com/lucasarruda9) | 15/05/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 17/05/2025      |
-| 1.1    | Adicionando o texto base do FURPS+  | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Lucas Mendonça](https://github.com/lucasarruda9) | 15/05/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 17/05/2025      |
-| 1.2    | Adição da tabela Desempenho      | [João Marcos Moraes](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9) | 15/05/2025 | [Karoline Luz](https://github.com/KarolineLuz), [Artur Mendonça](https://github.com/ArtyMend07)     | 17/05/2025      |
-| 1.3    | Adição da tabela Confiabilidade  | [Gabriel Lopes](https://github.com/BrzGab), [Karoline Luz](https://github.com/KarolineLuz)          | 16/05/2025 | [Ana Victória](https://github.com/navicg), [Luiza da Silva Pugas](https://github.com/Luizaxx)       | 17/05/2025      |
-| 1.4    | Adição da tabela Usabilidade     | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07)          | 16/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS), [Gabriel Lopes](https://github.com/BrzGab)    | 17/05/2025      |
-| 1.5    | Adição da tabela Suportabilidade | [Luiza da Silva Pugas](https://github.com/Luizaxx)                                                | 16/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9)                                                  | 17/05/2025      |
-| 1.6    | Arrumando nome das tabelas | [Lucas Mendonça](https://github.com/lucasarruda9)                                              | 21/06/2025 |             [Gabriel Lopes](https://github.com/BrzGab)                                      | 22/06/2025      |
-| 2.0    | Adidionando entrevista e termo de conscentimento| [Karoline Luz](https://github.com/KarolineLuz)                                          | 20/06/2025 | [Ana Victória](https://github.com/navicg)                                                 | 20/06/2025      |
-| 2.1   | Adidionando validação da Usabilidade |[Ana Victória](https://github.com/navicg)                                            | 22/06/2025 | [Karoline Luz](https://github.com/KarolineLuz)                                                | 22/06/2025      |
+| Versão | Descrição                                        | Autor(es)                                                                                                 | Data       | Revisor(es)                                                                                       | Data de Revisão |
+| ------ | ------------------------------------------------ | --------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------- | --------------- |
+| 1.0    | Adicionando a introdução e metodologia           | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Lucas Mendonça](https://github.com/lucasarruda9) | 15/05/2025 | [Karoline Luz](https://github.com/KarolineLuz)                                                    | 17/05/2025      |
+| 1.1    | Adicionando o texto base do FURPS+               | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Lucas Mendonça](https://github.com/lucasarruda9) | 15/05/2025 | [Karoline Luz](https://github.com/KarolineLuz)                                                    | 17/05/2025      |
+| 1.2    | Adição da tabela Desempenho                      | [João Marcos Moraes](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9)  | 15/05/2025 | [Karoline Luz](https://github.com/KarolineLuz), [Artur Mendonça](https://github.com/ArtyMend07)   | 17/05/2025      |
+| 1.3    | Adição da tabela Confiabilidade                  | [Gabriel Lopes](https://github.com/BrzGab), [Karoline Luz](https://github.com/KarolineLuz)                | 16/05/2025 | [Ana Victória](https://github.com/navicg), [Luiza da Silva Pugas](https://github.com/Luizaxx)     | 17/05/2025      |
+| 1.4    | Adição da tabela Usabilidade                     | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07)                | 16/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS), [Gabriel Lopes](https://github.com/BrzGab) | 17/05/2025      |
+| 1.5    | Adição da tabela Suportabilidade                 | [Luiza da Silva Pugas](https://github.com/Luizaxx)                                                        | 16/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9)                                                 | 17/05/2025      |
+| 1.6    | Arrumando nome das tabelas                       | [Lucas Mendonça](https://github.com/lucasarruda9)                                                         | 21/06/2025 | [Gabriel Lopes](https://github.com/BrzGab)                                                        | 22/06/2025      |
+| 2.0    | Adidionando entrevista e termo de conscentimento | [Karoline Luz](https://github.com/KarolineLuz)                                                            | 20/06/2025 | [Ana Victória](https://github.com/navicg)                                                         | 20/06/2025      |
+| 2.1    | Adidionando validação da Usabilidade             | [Ana Victória](https://github.com/navicg)                                                                 | 22/06/2025 | [Karoline Luz](https://github.com/KarolineLuz)                                                    | 22/06/2025      |
+| 2.1    | Deixado Tabelas mais Descritivas           |      [Karoline Luz](https://github.com/KarolineLuz) e  [Ana Victória](https://github.com/navicg)                                                                    | 05/07/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)         | 06/07/2025      |
