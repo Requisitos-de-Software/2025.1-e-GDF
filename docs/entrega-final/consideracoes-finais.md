@@ -39,3 +39,10 @@ Por outro lado, a parte de história de usuário foi bem mais tranquila, achei b
 Um dos pontos mais complicados pra mim foi o léxico, manter os termos padronizados e coerentes ao longo de todos os artefatos deu trabalho extra para mim.
 Mas achei bem fácil lidar com o backlog. As ferramentas e métodos que usamos deixaram claro o que precisava ser feito, e ajudaram muito na organização geral do projeto, principalmente com os temas e épicos organizados desde o início.
 
+---
+
+### [Lucas Mendonça](https://github.com/lucasarruda9)
+
+Contribuí com a análise de documentos e achei esse começo bem puxado. Tinha pouca documentação sobre o processo atual do eGDF, e até o aplicativo antigo com o mesmo nome gerava confusão. Além disso, o NFR Framework também foi um desafio, achei bastante abstrato no início, porém com o tempo começei a entender mais e mais.
+Em compensação, gostei bastante de trabalhar com cenários. A técnica é bem direta e ajuda a visualizar como o sistema seria usado na prática, o que facilitou bastante a escrita.
+
