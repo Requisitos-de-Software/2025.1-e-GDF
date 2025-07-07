@@ -69,10 +69,23 @@ Durante a execução do projeto, o grupo enfrentou uma série de dificuldades qu
 
 - **Alinhar as agendas** dos integrantes do grupo foi um desafio constante, tanto para a realização de reuniões, quanto para gravações e finalização das entregas;
 
+## Conclusão
+
+O desenvolvimento do projeto [eGDF](https://www.economia.df.gov.br/e-gdf-e-economiadf), ao longo da disciplina de Requisitos de Software, proporcionou uma experiência prática rica e desafiadora para todos os integrantes do grupo. Por meio das diversas etapas realizadas, desde o planejamento até a validação dos artefatos, foi possível aplicar, consolidar e aprofundar os conhecimentos teóricos adquiridos em sala de aula.
+
+Apesar das dificuldades enfrentadas, como a limitação de acesso a usuários reais e a gestão de tempo diante de múltiplas demandas acadêmicas, a equipe demonstrou resiliência, organização e compromisso com a qualidade das entregas. As facilidades encontradas, como a colaboração entre os membros, o uso de ferramentas já conhecidas e a clareza na divisão de tarefas, foram fundamentais para o sucesso do projeto.
+
+Como resultado, o grupo entregou um conjunto robusto de artefatos que refletem não apenas o domínio técnico sobre os conceitos de engenharia de requisitos, mas também a capacidade de trabalhar em equipe e lidar com os desafios do desenvolvimento de software em um contexto realista. O projeto cumpriu seus objetivos e contribuiu significativamente para a formação acadêmica e profissional dos participantes.
+
+## Bibliografia
+
+GOVERNO DO DISTRITO FEDERAL. *e-GDF e economiaDF*. Secretaria de Estado de Economia do Distrito Federal. Disponível em: <https://www.economia.df.gov.br/e-gdf-e-economiadf/>. Acesso em: 06 jul. 2025.
+
+
 ## Histórico de Versões 
 
 | Versão | Descrição                                           | Autor(es)                                                                 | Data       | Revisor(es)                                         | Data de revisão |
 |--------|----------------------------------------------------|---------------------------------------------------------------------------|------------|----------------------------------------------------|-----------------|
 | 1.0    | Documentação do artefato de resultados Alcançados. |  [Ana Victória](https://github.com/navicg) | 06/07/2025 | [Karoline Luz da Conceição](https://github.com/KarolineLuz) | 07/07/2025      |
-| 1.1    | Adicionando comentários sobre as dificuldades e facilidades dos membros. |  [Ana Victória](https://github.com/navicg), [Artur Mendonça Arruda](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS), [Karoline Luz da Conceição](https://github.com/KarolineLuz), [Lucas Mendonça Arruda](https://github.com/lucasarruda9) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 06/07/2025 | [Karoline Luz da Conceição](https://github.com/KarolineLuz) | 07/07/2025      |
-
+| 1.1   | Adição da Introdução, objetivos do projeto e conclusão. |  [Ana Victória](https://github.com/navicg) | 06/07/2025 | [Karoline Luz da Conceição](https://github.com/KarolineLuz) | 07/07/2025      |
+| 1.2    | Adicionando comentários sobre as dificuldades e facilidades dos membros. |  [Ana Victória](https://github.com/navicg), [Artur Mendonça Arruda](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS), [Karoline Luz da Conceição](https://github.com/KarolineLuz), [Lucas Mendonça Arruda](https://github.com/lucasarruda9) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 06/07/2025 | [Karoline Luz da Conceição](https://github.com/KarolineLuz) | 07/07/2025      |
