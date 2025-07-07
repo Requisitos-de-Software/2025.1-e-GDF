@@ -143,6 +143,25 @@ Para essa categoria os requisitos identificados estão representados na tabela 3
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([João Marcos](https://github.com/JJOAOMARCOSS) e [Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
 
+---
+
+**Vídeo 3** - Validação com usuário por: [Artur Mendonça](https://github.com/ArtyMend07).
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/gdWoS1ewi2k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/gdWoS1ewi2k" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+## Termo de consentimento de imagem
+Este documento confirma que o cidadão forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+| Entrevistador(es) |Cidadão|Data prevista| Data Realizada  |Horário Previsto|Horário Realizado|Local|Duração|
+| ---------------------------------------|------------ |------------------------ | ------ |-------|----------|-------|-------|
+|[Artur Mendonça](https://github.com/ArtyMend07)|**Felipe** |07/07/2025| 07/07/2025| 18:00  | 18:30|   Presencial |  5:00 |
+
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Artur Mendonça](https://github.com/ArtyMend07), 2025).</p></font>
+
+---
+
 ### Suportabilidade
 
 Envolve os requisitos relacionados ao suporte e manutenção do sistema. Isso inclui requisitos relacionados à facilidade de manutenção, capacidade de ser modificado e atualizado, documentação adequada, facilidade de teste e diagnóstico de problemas.
@@ -192,16 +211,16 @@ iOS: Objective-C, Swift.
 
 ## Histórico de Versões
 
-| Versão | Descrição                                        | Autor(es)                                                                                                 | Data       | Revisor(es)                                                                                       | Data de Revisão |
-| ------ | ------------------------------------------------ | --------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------- | --------------- |
-| 1.0    | Adicionando a introdução e metodologia           | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Lucas Mendonça](https://github.com/lucasarruda9) | 15/05/2025 | [Karoline Luz](https://github.com/KarolineLuz)                                                    | 17/05/2025      |
-| 1.1    | Adicionando o texto base do FURPS+               | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Lucas Mendonça](https://github.com/lucasarruda9) | 15/05/2025 | [Karoline Luz](https://github.com/KarolineLuz)                                                    | 17/05/2025      |
-| 1.2    | Adição da tabela Desempenho                      | [João Marcos Moraes](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9)  | 15/05/2025 | [Karoline Luz](https://github.com/KarolineLuz), [Artur Mendonça](https://github.com/ArtyMend07)   | 17/05/2025      |
-| 1.3    | Adição da tabela Confiabilidade                  | [Gabriel Lopes](https://github.com/BrzGab), [Karoline Luz](https://github.com/KarolineLuz)                | 16/05/2025 | [Ana Victória](https://github.com/navicg), [Luiza da Silva Pugas](https://github.com/Luizaxx)     | 17/05/2025      |
-| 1.4    | Adição da tabela Usabilidade                     | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07)                | 16/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS), [Gabriel Lopes](https://github.com/BrzGab) | 17/05/2025      |
-| 1.5    | Adição da tabela Suportabilidade                 | [Luiza da Silva Pugas](https://github.com/Luizaxx)                                                        | 16/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9)                                                 | 17/05/2025      |
-| 1.6    | Arrumando nome das tabelas                       | [Lucas Mendonça](https://github.com/lucasarruda9)                                                         | 21/06/2025 | [Gabriel Lopes](https://github.com/BrzGab)                                                        | 22/06/2025      |
-| 2.0    | Adidionando entrevista e termo de conscentimento | [Karoline Luz](https://github.com/KarolineLuz)                                                            | 20/06/2025 | [Ana Victória](https://github.com/navicg)                                                         | 20/06/2025      |
-| 2.1    | Adidionando validação da Usabilidade             | [Ana Victória](https://github.com/navicg)                                                                 | 22/06/2025 | [Karoline Luz](https://github.com/KarolineLuz)                                                    | 22/06/2025      |
-| 2.2    | Deixado Tabelas mais Descritivas   e mais organizadas        |      [Karoline Luz](https://github.com/KarolineLuz) e  [Ana Victória](https://github.com/navicg)                                                                    | 05/07/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)         | 06/07/2025      |
-| 2.3 | Adicionando o link da validação |  [Gabriel Lopes](https://github.com/BrzGab) |07/07/2025 |[João Marcos Moraes](https://github.com/JJOAOMARCOSS)  | 07/07/2025 |
+| Versão | Descrição                                      | Autor(es)                                                                                         | Data       | Revisor(es)                                                                                                 | Data de Revisão |
+| ------ | ---------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------------------------------------------------------------------- | --------------- |
+| 1.0    | Adicionando a introdução e metodologia  | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Lucas Mendonça](https://github.com/lucasarruda9) | 15/05/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 17/05/2025      |
+| 1.1    | Adicionando o texto base do FURPS+  | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) e [Lucas Mendonça](https://github.com/lucasarruda9) | 15/05/2025 | [Karoline Luz](https://github.com/KarolineLuz) | 17/05/2025      |
+| 1.2    | Adição da tabela Desempenho      | [João Marcos Moraes](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9) | 15/05/2025 | [Karoline Luz](https://github.com/KarolineLuz), [Artur Mendonça](https://github.com/ArtyMend07)     | 17/05/2025      |
+| 1.3    | Adição da tabela Confiabilidade  | [Gabriel Lopes](https://github.com/BrzGab), [Karoline Luz](https://github.com/KarolineLuz)          | 16/05/2025 | [Ana Victória](https://github.com/navicg), [Luiza da Silva Pugas](https://github.com/Luizaxx)       | 17/05/2025      |
+| 1.4    | Adição da tabela Usabilidade     | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07)          | 16/05/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS), [Gabriel Lopes](https://github.com/BrzGab)    | 17/05/2025      |
+| 1.5    | Adição da tabela Suportabilidade | [Luiza da Silva Pugas](https://github.com/Luizaxx)                                                | 16/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9)                                                  | 17/05/2025      |
+| 2.0    | Adidionando entrevista e termo de conscentimento| [Karoline Luz](https://github.com/KarolineLuz)                                          | 20/06/2025 | [Ana Victória](https://github.com/navicg)                                                 | 20/06/2025      |
+| 2.1   | Adidionando validação da Usabilidade |[Ana Victória](https://github.com/navicg)                                            | 22/06/2025 | [Karoline Luz](https://github.com/KarolineLuz)                                                | 22/06/2025      |
+| 2.2   | Adicionando validação presencial do Artur |[Artur Mendonça](https://github.com/ArtyMend07)                                            | 07/07/2025 | [Lucas Mendonça](https://github.com/lucasarruda9)                                                | 07/07/2025      |
+| 2.3    | Deixado Tabelas mais Descritivas   e mais organizadas        |      [Karoline Luz](https://github.com/KarolineLuz) e  [Ana Victória](https://github.com/navicg)                                                                    | 05/07/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)         | 06/07/2025  
+| 2.4 | Adicionando o link da validação |  [Gabriel Lopes](https://github.com/BrzGab) |07/07/2025 |[João Marcos Moraes](https://github.com/JJOAOMARCOSS)  | 07/07/2025 |

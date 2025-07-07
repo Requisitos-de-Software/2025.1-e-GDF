@@ -24,7 +24,7 @@ A fim de facilitar o gerenciamento e a execução do projeto, foram utilizadas c
 | <img src="https://imgs.search.brave.com/1FZenM9mkR1uZjB7ngAG_Pz-FcKx-C15EvJ3wcUdDLg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9mcmVl/bG9nb3BuZy5jb20v/aW1hZ2VzL2FsbF9p/bWcvMTY4MTAzODI0/MmNoYXRncHQtbG9n/by1wbmcucG5n" style="height:100px;width:100px"/>                   | Chat Gpt | Auxílio na criação de textos                            |
 
 
-<p align="center">Fonte: Autores.</p>
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
 
 ## Referências Bibliográficas
 
@@ -52,4 +52,5 @@ A fim de facilitar o gerenciamento e a execução do projeto, foram utilizadas c
 | 1.0    | Criação da documentação de ferramentas | [Luiza da Silva](https://github.com/Luizaxx)        | 12/04/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 12/04/2025      |
 | 1.1    |  Padronizando histórico de versões               |  [Lucas Mendonça ](https://github.com/lucasarruda9)  | 13/04/2025 | [Artur Mendonça](https://github.com/ArtyMend07)   | 13/04/2025      |
 | 1.2    |  Adicionando novas ferramentas               |  [Gabriel Lopes ](https://github.com/BrzGab)  | 14/05/2025 | [Luiza da Silva](https://github.com/Luizaxx)   | 14/05/2025      |
+| 2.0    |  Adicionando fonte e elaboração de tabelas              |  [Luiza da Silva](https://github.com/Luizaxx)  | 01/07/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)   | 07/07/2025      |
 

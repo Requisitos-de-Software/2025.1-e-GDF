@@ -781,8 +781,24 @@ A Tabela 4, apresentada a seguir, mostra a avaliação da propagação dos impac
 | [Artur Mendonça](https://github.com/ArtyMend07) | Elaborador dos NFR | 01/06/2025 | 19:30 |
 | Vitor Guilherme | Usuário | 01/06/2025 | 19:30 |
 
-## Termo de consentimento de imagem 
+## Termo de consentimento de imagem
 Este documento confirma que a(o) cidadão **Vitor Guilherme** forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+---
+
+**Vídeo 7** - Validação presencial com usuário por [Artur Mendonça](https://github.com/ArtyMend07)
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/-IU3Je7LbrY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/-IU3Je7LbrY" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+| **Nome** | **Função** | **Data** | **Hora** |
+|:---------:|:------------------------:|:--------:|:--------:|
+| [Artur Mendonça](https://github.com/ArtyMend07) | Elaborador dos NFR | 07/07/2025 | 18:10 - 18:14 |
+| Felipe | Usuário | 07/07/2025 | 18:10 - 18:14 |
+
+## Termo de consentimento de imagem
+Este documento confirma que o cidadão **Felipe** forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
 
 O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1qYeorZ4h1cOOnnTkN-RvqZnSo8YIGk71/view?usp=sharing)
 
@@ -1136,4 +1152,5 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | 2.0| Adicionando correções e aba de entrevista presencial| [Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz)| 16/06/2025 |  [João Marcos Moraes](https://github.com/JJOAOMARCOSS)     | 22/06/2025      |
 | 2.1| Adicionando vídeo de entrevista presencial| [Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz)| 18/06/2025 |  [João Marcos Moraes](https://github.com/JJOAOMARCOSS)     | 22/06/2025      |
 | 2.2| Adicionando vídeo de entrevista presencial| [Luiza da Silva Pugas](https://github.com/Luizaxx)| 21/06/2025 |  [João Marcos Moraes](https://github.com/JJOAOMARCOSS)     | 22/06/2025      |
-| 2.3 | Adicionando o link da validação |  [Gabriel Lopes](https://github.com/BrzGab) |07/07/2025 |[João Marcos Moraes](https://github.com/JJOAOMARCOSS)  | 07/07/2025 |
+| 2.3| Adicionando validação presencial do Artur com Felipe| [Artur Mendonça](https://github.com/ArtyMend07)| 07/07/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9)     | 07/07/2025      |
+| 2.4 | Adicionando o link da validação |  [Gabriel Lopes](https://github.com/BrzGab) |07/07/2025 |[João Marcos Moraes](https://github.com/JJOAOMARCOSS)  | 07/07/2025 |

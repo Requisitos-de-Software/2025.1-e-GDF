@@ -25,25 +25,6 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 - Luiza da Silva Pugas
 
 
-
-## Lista de Inspeção - Baseada no plano de ensino 
-
-
-<p align="center"> Tabela 1 - Lista de Inspeção Baseada no Plano de Ensino </p>
-
-| ID  | Item de Verificação | Autor | Revisores | Evidência | Conforme / Não Conforme / Incompleto |
-|-----|---------------------|--------|-----------|-----------|----------|
-| 1 | Referências e bibliografia estão incluídas nos artefatos? - Citação correta de fontes utilizadas para fundamentar o projeto e seus artefatos. | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/inspecao_grupo9/docs/assets/inspecao4_grupo%2B1/item2_tecnico.png"><br> | <input type="checkbox" checked> |
-| 2 | Tabelas e imagens possuem legenda e fonte, e são citadas no texto? - Elementos visuais devidamente legendados, com fontes citadas e contextualizadas no texto. | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/inspecao_grupo9/docs/assets/inspecao4_grupo%2B1/item3_tecnico.png"><br> | <input type="checkbox" checked> |
-| 3 | Existe introdução explicando os artefatos desenvolvidos? - Texto introdutório explicando a função e o conteúdo dos artefatos apresentados. | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/inspecao_grupo9/docs/assets/inspecao4_grupo%2B1/item4_tecnico.png"><br> | <input type="checkbox" checked> |
-| 4 | O cronograma executado possui responsáveis e datas? - Planejamento real com datas e responsáveis, refletindo o que foi efetivamente feito. | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/inspecao_grupo9/docs/assets/inspecao4_grupo%2B1/item5_tecnico.png"><br> | <input type="checkbox" checked> |
-| 5 | As atas de reunião contêm data, horário, participantes e objetivos? - Documentos com registro formal das reuniões, contendo data, hora, participantes e objetivos. | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/inspecao_grupo9/docs/assets/inspecao4_grupo%2B1/item6_tecnico.png"><br> | <input type="checkbox" checked> |
-| 6 | As gravações de reuniões foram salvas? - Arquivos de vídeo das reuniões, armazenados para consulta futura. | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/inspecao_grupo9/docs/assets/inspecao4_grupo%2B1/item7_tecnico.png"><br> | <input type="checkbox" checked> |
-| 7 | As apresentações no YouTube estão configuradas como "não listado"? - Garantia de que os vídeos estão acessíveis apenas para quem tiver o link, respeitando a privacidade. | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/inspecao_grupo9/docs/assets/inspecao4_grupo%2B1/item8_tecnico.png"><br> | <input type="checkbox" checked> |
-
-
-<font size="3"><p style="text-align: center"> Elaborado pelo(a) autor(a): [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
-
 ## Lista de Inspeção - Backward From 
 
 
@@ -64,8 +45,7 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 
 <font size="3"><p style="text-align: center"> Elaborado pelos(as) autores(as): ([Gabriel Lopes](https://github.com/BrzGab) e [Artur Mendonça](https://github.com/ArtyMend07), 2025).</p></font>
 
-
-
+---
 
 ## Lista de Inspeção - Fordward From 
 
@@ -88,6 +68,7 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 
 <font size="3"><p style="text-align: center"> Elaborado pelos(as) autores(as): ([Karoline Luz](https://github.com/KarolineLuz) e [Ana Victória](https://github.com/navicg), 2025)</p></font>
 
+---
 
 ## Lista de Inspeção - Matriz de Rastreabilidade
 
@@ -136,9 +117,11 @@ No geral, a entrega está bem estruturada e o grupo demonstrou um bom trabalho. 
 
 Parabéns pelo esforço e pela dedicação!
 
+---
+
 ## Referências 
 
-- Lista de verificação elaborada pelo grupo para avaliar todos os artefatos da Entrega 4 do projeto. Disponível em: [Lista de verificação](../verificacao/grupo/entrega06/entrega06grupo+1.md).
+> Lista de verificação elaborada pelo grupo para avaliar todos os artefatos da Entrega 4 do projeto. Disponível em: [Lista de verificação](../verificacao/grupo/entrega06/entrega06grupo+1.md).
 
 ## Histórico de Versões
 | Versão | Descrição                                                                                          | Autor(es)                                             | Data       | Revisor(es)                                        | Data de revisão |
@@ -150,3 +133,5 @@ Parabéns pelo esforço e pela dedicação!
 | 1.4    | Adicionando imagens  de Foward from entrega 5 do grupo+1(GDF-Saúde) | [Karoline Luz](https://github.com/KarolineLuz) e [Ana Victória](https://github.com/navicg) | 09/06/2025 |[Ana Victória](https://github.com/navicg) | 09/06/2025  |
 | 1.5    |  Adicionando as Evidência da tabela 3 de Forward from entrega 5 do grupo+1(GDF-Saúde) | [Karoline Luz](https://github.com/KarolineLuz) e [Ana Victória](https://github.com/navicg) | 09/06/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 09/06/2025  |
 | 1.6    | Adicionando o link do video e Observações sobre o Grupo +1 com base na avaliação do grupo | [João Marcos](https://github.com/JJOAOMARCOSS) | 09/06/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 09/06/2025  |
+| 1.7    | Arrumando as listas | [João Marcos](https://github.com/JJOAOMARCOSS) | 07/07/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 07/07/2025  |
+
