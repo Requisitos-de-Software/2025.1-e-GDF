@@ -14,7 +14,7 @@ O [Grupo 7](https://github.com/Requisitos-de-Software/2025.1-e-GDF) foi respons√
 - [Entrega 2](https://requisitos-de-software.github.io/2025.1-FGTS/Inspecao/Entrega-2/Grupo-mais-1/)
 - [Entrega 3](https://requisitos-de-software.github.io/2025.1-FGTS/Inspecao/Entrega-3/Grupo-mais-1/)
 - [Entrega 4](https://requisitos-de-software.github.io/2025.1-FGTS/Inspecao/Entrega-4/Grupo-mais-1/)
-- Entrega 5 (Ainda n√£o realizada)
+- [Entrega 5](https://requisitos-de-software.github.io/2025.1-FGTS/Inspecao/Entrega-5/Grupo-mais-1/)
 - [Entrega 6](https://requisitos-de-software.github.io/2025.1-FGTS/Inspecao/Entrega-6/Grupo-mais-1/#itens-gerais)
 
 ## Professor e Monitores 

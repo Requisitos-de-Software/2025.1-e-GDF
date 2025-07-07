@@ -66,19 +66,7 @@ nav:
       - Backward From: rastreabilidade/backward_from.md 
   - Validação:
       - Prototipação: validacao/prototipacao.md
-      - Comprovação Informal: validacao/comprovacao.md
-  - Entrega-final:
-    - Aplicativos Selecionados: entrega-final/aplicativo-selecionado.md
-    - Artefatos Criados: entrega-final/artefatos-criados.md
-    - Execução do Projeto: entrega-final/execucao-projeto.md
-    - Ferramentas Utilizadas: entrega-final/ferramentas-utilizadas.md
-    - Resultados Alcançados: entrega-final/resultados-alcancados.md
-    - Tabela de Apresentações: entrega-final/tabela-apresentacoes.md
-    - Técnicas utilizadas: entrega-final/tecnicas-utilizadas.md
-    - Planejamento dos Recursos e das entregas: entrega-final/panejamento-recursos.md
-    - Verificação: entrega-final/verificacao.md   
-    - Validação: entrega-final/validacao.md
-    - Considerações Finais: entrega-final/consideracoes-finais.md       
+      - Comprovação Informal: validacao/comprovacao.md      
       
 
   - Verificação:
@@ -113,6 +101,18 @@ nav:
           - Entrega 5: inspecao/inspecao_6_grupo+1.md
           - Entrega 6: inspecao/inspecao_5_grupo+1.md
 
+  - Entrega-final:
+    - Aplicativos Selecionados: entrega-final/aplicativo-selecionado.md
+    - Artefatos Criados: entrega-final/artefatos-criados.md
+    - Execução do Projeto: entrega-final/execucao-projeto.md
+    - Ferramentas Utilizadas: entrega-final/ferramentas-utilizadas.md
+    - Resultados Alcançados: entrega-final/resultados-alcancados.md
+    - Tabela de Apresentações: entrega-final/tabela-apresentacoes.md
+    - Técnicas utilizadas: entrega-final/tecnicas-utilizadas.md
+    - Planejamento dos Recursos e das entregas: entrega-final/panejamento-recursos.md
+    - Verificação: entrega-final/verificacao.md   
+    - Validação: entrega-final/validacao.md
+    - Considerações Finais: entrega-final/consideracoes-finais.md 
 
 theme:
   name: material
