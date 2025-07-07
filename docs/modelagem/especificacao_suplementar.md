@@ -129,6 +129,25 @@ Para essa categoria os requisitos identificados estão representados na tabela 3
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([João Marcos](https://github.com/JJOAOMARCOSS) e [Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
 
+---
+
+**Vídeo 3** - Validação com usuário por: [Artur Mendonça](https://github.com/ArtyMend07).
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/gdWoS1ewi2k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/gdWoS1ewi2k" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+## Termo de consentimento de imagem
+Este documento confirma que o cidadão forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+| Entrevistador(es) |Cidadão|Data prevista| Data Realizada  |Horário Previsto|Horário Realizado|Local|Duração|
+| ---------------------------------------|------------ |------------------------ | ------ |-------|----------|-------|-------|
+|[Artur Mendonça](https://github.com/ArtyMend07)|**Felipe** |07/07/2025| 07/07/2025| 18:00  | 18:30|   Presencial |  5:00 |
+
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Artur Mendonça](https://github.com/ArtyMend07), 2025).</p></font>
+
+---
+
 ### Suportabilidade
 
 Envolve os requisitos relacionados ao suporte e manutenção do sistema. Isso inclui requisitos relacionados à facilidade de manutenção, capacidade de ser modificado e atualizado, documentação adequada, facilidade de teste e diagnóstico de problemas.
@@ -191,3 +210,4 @@ iOS: Objective-C, Swift.
 | 1.5    | Adição da tabela Suportabilidade | [Luiza da Silva Pugas](https://github.com/Luizaxx)                                                | 16/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9)                                                  | 17/05/2025      |
 | 2.0    | Adidionando entrevista e termo de conscentimento| [Karoline Luz](https://github.com/KarolineLuz)                                          | 20/06/2025 | [Ana Victória](https://github.com/navicg)                                                 | 20/06/2025      |
 | 2.1   | Adidionando validação da Usabilidade |[Ana Victória](https://github.com/navicg)                                            | 22/06/2025 | [Karoline Luz](https://github.com/KarolineLuz)                                                | 22/06/2025      |
+| 2.2   | Adicionando validação presencial do Artur |[Artur Mendonça](https://github.com/ArtyMend07)                                            | 07/07/2025 | [Lucas Mendonça](https://github.com/lucasarruda9)                                                | 07/07/2025      |
