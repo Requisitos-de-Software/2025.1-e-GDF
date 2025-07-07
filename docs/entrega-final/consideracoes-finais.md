@@ -46,3 +46,27 @@ Mas achei bem fácil lidar com o backlog. As ferramentas e métodos que usamos d
 Contribuí com a análise de documentos e achei esse começo bem puxado. Tinha pouca documentação sobre o processo atual do eGDF, e até o aplicativo antigo com o mesmo nome gerava confusão. Além disso, o NFR Framework também foi um desafio, achei bastante abstrato no início, porém com o tempo começei a entender mais e mais.
 Em compensação, gostei bastante de trabalhar com cenários. A técnica é bem direta e ajuda a visualizar como o sistema seria usado na prática, o que facilitou bastante a escrita.
 
+---
+
+### [Luiza da Silva Pugas](https://github.com/Luizaxx)
+
+Participei principalmente dos brainstormings no início do projeto. Achei muito legal ver como tinha muitas ideias criativas. Mas tive um pouco de dificuldade com o First Things First, porque priorizar dessa forma exige muita análise crítica, principalmente com muitos usuários.
+Porém achei a especificação dos casos de uso a parte mais tranquila. É uma técnica bem estruturada, com regras claras, então foi fácil seguir o padrão e transformar as ideias em algo mais técnico.
+
+
+## Finalização 
+
+No geral, o trabalho foi desafiador e exigiu bastante do grupo em diferentes momentos. Desde o início, tivemos que lidar com prazos, aprendizados novos e a necessidade constante de alinhar nossas ideias e decisões. Apesar das dificuldades, conseguimos nos organizar bem como equipe, dividindo as tarefas de forma equilibrada e mantendo um compromisso coletivo com a qualidade do que estávamos entregando. As revisões frequentes dos artefatos, o cuidado com os detalhes e o apoio entre os integrantes foram de grande ajuda para que o resultado final fosse um projeto bem estruturado, completo e padronizado, refletindo o esforço e a dedicação de todos os integrantes.
+
+## Histórico de Versões
+
+| Versão | Descrição                                  | Autor(es)                                                                                       | Data       | Revisor(es)                                                                                      | Data de Revisão |
+|--------|--------------------------------------------|--------------------------------------------------------------------------------------------------|------------|---------------------------------------------------------------------------------------------------|-----------------|
+| 1.0    | Adicionando introdução                     | [Lucas Mendonça](https://github.com/lucasarruda9)                                               | 07/05/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx)                                               | 07/07/2025      |
+| 1.0    | Adicionando introdução                     | [Lucas Mendonça](https://github.com/lucasarruda9)                                               | 07/05/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx)                                               | 07/07/2025      |
+| 1.1    | Escrita da seção de considerações finais    | [Ana Victória](https://github.com/navicg)                                                       | 07/07/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)                                            | 07/07/2025      |
+| 1.2    | Escrita da seção de considerações finais    | [Artur Mendonça](https://github.com/ArtyMend07)                                                 | 07/07/2025 | [Gabriel Lopes](https://github.com/BrzGab)                                                       | 07/07/2025      |
+| 1.3    | Escrita da seção de considerações finais    | [Gabriel Lopes](https://github.com/BrzGab)                                                      | 07/07/2025 | [Karoline Luz](https://github.com/KarolineLuz)                                                   | 07/07/2025      |
+| 1.4    | Escrita da seção de considerações finais    | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)                                           | 07/07/2025 | [Lucas Mendonça](https://github.com/lucasarruda9)                                                | 07/07/2025      |
+| 1.5    | Escrita da seção de considerações finais    | [Karoline Luz](https://github.com/KarolineLuz)                                                  | 07/07/2025 | [Ana Victória](https://github.com/navicg)                                                        | 07/07/2025      |
+| 1.6    | Escrita da seção de considerações finais    | [Luiza da Silva Pugas](https://github.com/Luizaxx)                                              | 07/07/2025 | [Artur Mendonça](https://github.com/ArtyMend07)                                                  | 07/07/2025      |
