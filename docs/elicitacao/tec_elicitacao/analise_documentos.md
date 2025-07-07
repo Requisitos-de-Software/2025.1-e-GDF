@@ -211,8 +211,8 @@ Legenda da Tabela:
 |---------------------|--------|------------------------------------------------------------------------------------------------------|------------------|--------|
 | AD09                | RNF01  | O sistema deve ser compatível com vários dispositivos como Android versão 5.0 ou superior e iOS versão 13.4 ou superior.                           | Implementado     | PlayStore e AppStore      |
 | AD10                | RNF02  | O sistema deve estar em conformidade com a Lei Geral de Proteção de Dados(LGPD) no que diz respeito ao compartilhamento de dados pessoais.                  | Implementado     | Política de provacidade      |
-| AD11                | RNF03  | O sistema deve garantir a criptografia em dados sensíveis.                                          | Não implementado | PlayStore      |
-| AD12                | RNF04  | O sistema deve ter uma interface intuitiva.                                                         | Não implementado | PlayStore      |
+| AD11                | RNF03  | O sistema deve garantir a criptografia em dados sensíveis, transformando-os em um formato ilegível                                         | Não implementado | PlayStore      |
+
 
 
 

@@ -143,7 +143,7 @@ A tabela 6 mostra as atividades programadas durante a fase de pós-rastreabilida
 | Inspeção | Início: 26/06/2025  <br>Fim: 26/06/2025 | Ana Victória, Artur Mendonça, Gabriel Lopes, Jõao Marcos Moraes, Karoline Luz, Lucas Mendonça, Luiza da Silva |  Gabriel Lopes | Início: 26/06/2025  <br>Fim: 26/06/2025 
 | Eventuais correções                                | Início: 27/06/2025 <br>Fim: 29/06/2025            | Ana Victória, Artur Mendonça, Gabriel Lopes, Jõao Marcos Moraes, Karoline Luz, Lucas Mendonça, Luiza da Silva | Ana Victória, Artur Mendonça, Gabriel Lopes, Jõao Marcos Moraes, Karoline Luz, Lucas Mendonça, Luiza da Silva | Início: 29/06/2025 <br>Fim: 30/06/2025 |
 
-**Tabela 6** – Pós-rastreabilidade
+
 
 Fonte: Elaborado pelo autor (Lucas Mendonça Arruda, 2025).
 
@@ -163,4 +163,5 @@ As atividades planejadas neste cronograma foram baseadas nos seguintes documento
 | 1.0  |  Criação do Cronograma | [Artur Mendonça](https://github.com/ArtyMend07), [Lucas Mendonça](https://github.com/lucasarruda9) | 10/04/2025  | [Gabriel Lopes](https://github.com/BrzGab)                  | 11/04/2025      |
 | 1.1  |  Adição de fontes abaixo das tabelas | [Artur Mendonça](https://github.com/ArtyMend07) | 13/04/2025 | [Lucas Mendonça](https://github.com/lucasarruda9)                 | 13/04/2025      |
 | 1.2    |  Padronizando histórico de versões e nomes do cronograma              |  [Lucas Mendonça ](https://github.com/lucasarruda9)  | 13/04/2025 | [Artur Mendonça](https://github.com/ArtyMend07)   | 13/04/2025      |
+| 1.3    |  Padronizando histórico de versões e nomes do cronograma              |  [Lucas Mendonça ](https://github.com/lucasarruda9)  | 13/04/2025 | [Artur Mendonça](https://github.com/ArtyMend07)   | 13/04/2025      |
 
