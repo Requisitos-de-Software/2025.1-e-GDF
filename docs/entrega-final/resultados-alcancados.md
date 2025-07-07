@@ -17,7 +17,7 @@ Além disso, o projeto proporcionou a oportunidade de aplicar, na prática, os c
 
 ## Resultados Obtidos
 
-Ao final do projeto foi realizado 79 artefatos realizados, sendo eles:
+Ao final do projeto foi realizado 80 artefatos realizados, sendo eles:
 
 - 12 Atas de Reunião;
 - 8 de Planejamento;
@@ -32,7 +32,7 @@ Ao final do projeto foi realizado 79 artefatos realizados, sendo eles:
 - 3 de Pós rastreabilidade;
 - 11 na Entrega Final;
 - 13 de Verificação;
-- 12 de Inspeção;
+- 13 de Inspeção;
 
 Ao longo do desenvolvimento do projeto, foram aplicados os conhecimentos adquiridos nas etapas de planejamento, elicitação, modelagem, análise (verificação e validação) e rastreabilidade (pré e pós-rastreabilidade). Durante essas atividades, alguns conteúdos se mostraram mais complexos, enquanto outros exigiram interação direta com os usuários do aplicativo.
 
