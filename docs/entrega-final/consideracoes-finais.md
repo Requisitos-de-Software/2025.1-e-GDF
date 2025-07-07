@@ -32,3 +32,10 @@ Já a parte da rastreabilidade, principalmente o modelo *Backward-from*, foi mai
 Ajudei bastante no brainstorming nas fases iniciais, mas minha maior dificuldade foi com o NFR Framework. Tive que buscar ajuda com o professor pra entender melhor como identificar e classificar os requisitos não-funcionais.
 Por outro lado, a parte de história de usuário foi bem mais tranquila, achei bem direto com o que o nome sugere e por isso foi fácil assimilar.
 
+---
+
+### [Karoline Luz](https://github.com/KarolineLuz)
+
+Um dos pontos mais complicados pra mim foi o léxico, manter os termos padronizados e coerentes ao longo de todos os artefatos deu trabalho extra para mim.
+Mas achei bem fácil lidar com o backlog. As ferramentas e métodos que usamos deixaram claro o que precisava ser feito, e ajudaram muito na organização geral do projeto, principalmente com os temas e épicos organizados desde o início.
+
