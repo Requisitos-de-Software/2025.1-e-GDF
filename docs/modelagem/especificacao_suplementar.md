@@ -107,6 +107,24 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Karoline Luz](https://github.com/karol), 2025)</p></font>
 
+**Vídeo 2** - Validação da Especificação Suplementar com usuário por [Gabriel Lopes](https://github.com/BrzGab)
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/1nyI9p4RNew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=1nyI9p4RNew" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+| **Nome** | **Função** | **Data** | **Hora** |
+|:---------:|:------------------------:|:--------:|:--------:|
+| [Gabriel Lopes](https://github.com/BrzGab) | Elaborador dos NFR | 26/06/2025 | 13:30 |
+| João Vitor Alves Viana | Cidadão | 26/06/2025 | 13:30 |
+
+## Termo de consentimento de imagem 
+Este documento confirma que a(o) cidadão **João Vitor Alves Viana** forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/12b8VxisovXvTVVNVnkFhr8HfvocugJdL/view?usp=sharing)
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Gabriel Lopes](https://github.com/BrzGabs), 2025)</p></font>
+
 ### Desempenho
 
 Diz respeito às condições que os requisitos devem operar. A velocidade, limites superiores e inferiores, tempo de resposta, restrições de interface e de funções, etc.
@@ -186,3 +204,4 @@ iOS: Objective-C, Swift.
 | 2.0    | Adidionando entrevista e termo de conscentimento | [Karoline Luz](https://github.com/KarolineLuz)                                                            | 20/06/2025 | [Ana Victória](https://github.com/navicg)                                                         | 20/06/2025      |
 | 2.1    | Adidionando validação da Usabilidade             | [Ana Victória](https://github.com/navicg)                                                                 | 22/06/2025 | [Karoline Luz](https://github.com/KarolineLuz)                                                    | 22/06/2025      |
 | 2.2    | Deixado Tabelas mais Descritivas   e mais organizadas        |      [Karoline Luz](https://github.com/KarolineLuz) e  [Ana Victória](https://github.com/navicg)                                                                    | 05/07/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)         | 06/07/2025      |
+| 2.3 | Adicionando o link da validação |  [Gabriel Lopes](https://github.com/BrzGab) |07/07/2025 |[João Marcos Moraes](https://github.com/JJOAOMARCOSS)  | 07/07/2025 |
