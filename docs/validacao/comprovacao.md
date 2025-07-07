@@ -32,12 +32,14 @@ Essa ausência de resposta limita a confirmação formal da validação externa,
 <figure id="figura1">
     <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/criação-protótipos-de-interface/docs/assets/validacao/email1.png" alt="" width="500">
 </figure>
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ( [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
 
 <figure id="figura2">
     <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/criação-protótipos-de-interface/docs/assets/validacao/email2.png" alt="" width="500">
 </figure>
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Karoline Luz da Conceição](https://github.com/), 2025).</p></font>
+
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Karoline Luz](https://github.com/KarolineLuz), 2025).</p></font>
 
 </center>
 
@@ -53,3 +55,5 @@ Essa ausência de resposta limita a confirmação formal da validação externa,
 |--------|------------|------------------------------------------|----------------------|-------------|----------------|
 | 1.0    |  Adicionando introdução sobre a validação informal | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 19/06/2025|  [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 24/06/2025 |
 | 1.1    |  Adicionando parecer do e-GDF sobre o email enviado | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 19/06/2025| [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 24/06/2025 |
+| 2.0    |  Arrumando fonte de elaboração | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 01/07/2025| [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 07/07/2025 |
+
