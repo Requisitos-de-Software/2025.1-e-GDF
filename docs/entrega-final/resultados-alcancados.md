@@ -39,7 +39,7 @@ Ao longo do desenvolvimento do projeto, foram aplicados os conhecimentos adquiri
 
 ## Facilidades Encontradas
 
-Ao longo do desenvolvimento do projeto, o grupo identificou uma série de fatores que contribuíram positivamente para a realização das atividades propostas. Essas facilidades envolveram tanto aspectos relacionados à dinâmica interna do grupo quanto ao domínio prévio de ferramentas e conteúdos, favorecendo o andamento das entregas e a qualidade dos artefatos produzidos.  Abaixo, são destacadas as principais facilidades encontradas:
+Ao longo do desenvolvimento do projeto, o grupo identificou uma série de fatores que contribuíram positivamente para a realização das atividades propostas. Essas facilidades envolveram tanto aspectos relacionados à dinâmica interna do grupo quanto ao domínio prévio de ferramentas e conteúdos, favorecendo o andamento das entregas e a qualidade dos artefatos produzidos.  A seguir, destacam-se as principais facilidades apontadas pelos membros da equipe:
 
 - **Abertura do grupo para feedbacks**, permitindo melhorias contínuas nos artefatos a partir das revisões feitas pelos monitores e orientações do professor recebidas;
 
@@ -57,7 +57,7 @@ Ao longo do desenvolvimento do projeto, o grupo identificou uma série de fatore
 
 ## Dificuldades Enfrentadas
 
-Durante a execução do projeto, o grupo enfrentou uma série de dificuldades que afetaram diretamente o andamento e a qualidade de algumas etapas. Esses desafios estiveram relacionados tanto a fatores externos, como a disponibilidade de usuários e prazos apertados, quanto a questões internas de organização e conciliação de responsabilidades acadêmicas e pessoais.  Abaixo, são destacadas as principais dificuldades encontradas:
+Durante a execução do projeto, o grupo enfrentou uma série de dificuldades que afetaram diretamente o andamento e a qualidade de algumas etapas. Esses desafios estiveram relacionados tanto a fatores externos, como a disponibilidade de usuários e prazos apertados, quanto a questões internas de organização e conciliação de responsabilidades acadêmicas e pessoais. A seguir, destacam-se as principais facilidades apontadas pelos membros da equipe:
 
 - **Dificuldade de contato com a equipe técnica do aplicativo eGDF**, impossibilitando esclarecer pontos técnicos sobre o funcionamento da aplicação ou verificar diretamente as limitações e intenções por trás de determinadas funcionalidades;
 
@@ -74,3 +74,5 @@ Durante a execução do projeto, o grupo enfrentou uma série de dificuldades qu
 | Versão | Descrição                                           | Autor(es)                                                                 | Data       | Revisor(es)                                         | Data de revisão |
 |--------|----------------------------------------------------|---------------------------------------------------------------------------|------------|----------------------------------------------------|-----------------|
 | 1.0    | Documentação do artefato de resultados Alcançados. |  [Ana Victória](https://github.com/navicg) | 06/07/2025 | [Karoline Luz da Conceição](https://github.com/KarolineLuz) | 07/07/2025      |
+| 1.1    | Adicionando comentários sobre as dificuldades e facilidades dos membros. |  [Ana Victória](https://github.com/navicg), [Artur Mendonça Arruda](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS), [Karoline Luz da Conceição](https://github.com/KarolineLuz), [Lucas Mendonça Arruda](https://github.com/lucasarruda9) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | 06/07/2025 | [Karoline Luz da Conceição](https://github.com/KarolineLuz) | 07/07/2025      |
+
