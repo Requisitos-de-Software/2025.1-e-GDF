@@ -242,7 +242,7 @@ Os casos de uso UC04, UC05 e UC06 elaborados por Artur Mendonça foram validados
 
 | **Nome** | **Função** | **Data** | **Hora** |
 |:---------:|:------------------------:|:--------:|:--------:|
-| [Gabriel Lopes](https://github.com/BrzGab) | Elaborador dos casos de uso | 01/06/2025 | 19:30 |
+| [Gabriel Lopes](https://github.com/BrzGab) | Elaborador dos casos de uso | 26/06/2025 | 13:30 |
 | João Vitor Alves Viana | Cidadão | 26/06/2025 | 13:30 |
 
 ## Termo de consentimento de imagem 
@@ -511,5 +511,5 @@ Acessado em: 13 de Maio. de 2025.
 | 2.2   | Adidionando validação dos Casos de Uso 01, 02 e 03 |[Ana Victória](https://github.com/navicg)                                            | 22/06/2025 | [Karoline Luz](https://github.com/KarolineLuz)                                                | 22/06/2025      |
 | 2.3    | Adição da seção de validação dos casos de uso do Artur Mendonça | [Artur Mendonça](https://github.com/ArtyMend07)|22/06/2025| [Lucas Mendonça](https://github.com/lucasarruda9) | 22/06/2025 |
 | 2.4    | Adição da validação dos casos de uso 13 e 14 | [Lucas Mendonça](https://github.com/lucasarruda9) |22/06/2025| [Artur Mendonça](https://github.com/ArtyMend07) | 22/06/2025 |
-| 2.5    | Adicionando generalização no diagrama | [Gabriel Lopes](https://github.com/BrzGab)|17/05/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) | 07/07/2025 |
+| 2.5    | Adicionando generalização no diagrama | [Gabriel Lopes](https://github.com/BrzGab)|07/07/2025| [Luiza da Silva Pugas](https://github.com/Luizaxx) | 07/07/2025 |
 

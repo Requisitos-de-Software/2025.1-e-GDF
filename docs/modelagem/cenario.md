@@ -255,7 +255,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | -------------- | ----------------------------------------------------- | ---------- | ------------- | ----- |
 | Felipe Henrique | [Gabriel Lopes](https://github.com/BrzGab) | 26/06/2025 | 11:00 - 11:30 | FGA   |
 
-<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor([BrzGab](https://github.com/BrzGab), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor([Gabriel Lopes](https://github.com/BrzGab), 2025)</p></font>
 
 
 ---
@@ -546,3 +546,4 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | 2.2   | Adidionando validação dos cenários 01, 02 e 03 |[Ana Victória](https://github.com/navicg)                                            | 22/06/2025 | [Karoline Luz](https://github.com/KarolineLuz)                                                | 22/06/2025      |
 | 2.3    | Adicionando vídeo de validação dos cenários 4, 5 e 6. | [Artur Mendonça Arruda](https://github.com/ArtyMend07) |22/06/2025| [Lucas Mendonça](https://github.com/lucasarruda9) | 22/06/2025 |
 | 2.4    | Adição da validação dos cenários13 e 14 | [Lucas Mendonça](https://github.com/lucasarruda9) |22/06/2025| [Artur Mendonça](https://github.com/ArtyMend07) | 22/06/2025 |
+| 2.1 | Adicionando o link da validação |  [Gabriel Lopes](https://github.com/BrzGab) |07/07/2025 |[João Marcos Moraes](https://github.com/JJOAOMARCOSS)  | 07/07/2025 |

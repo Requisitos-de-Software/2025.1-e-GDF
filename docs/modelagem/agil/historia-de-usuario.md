@@ -982,7 +982,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 | **Nome** | **Função** | **Data** | **Hora** |
 |:---------:|:------------------------:|:--------:|:--------:|
-| [Gabriel Lopes de Amorim](https://github.com/BrzGab) | Elaborador das histórias | 30/05/2025 | 21:00 |
+| [Gabriel Lopes de Amorim](https://github.com/BrzGab) | Elaborador das histórias | 26/06/2025 | 14:00 |
 | Felipe Henrique Oliveira Sousa | Cidadão | 26/06/2025 | 14:00 |
 
 ## Termo de consentimento de imagem 
@@ -2191,3 +2191,4 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 | 1.57  | Removendo Subtarefas | [Karoline Luz](https://github.com/KarolineLuz) |01/06/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 03/06/2025 |
 | 1.58  | Adicionando link do vídeo 7 | [Lucas Mendonça](http://github.com/lucasarruda9) |01/06/2025 | [Gabriel Lopes](https://github.com/BrzGab) | 01/06/2025 |
 | 2.0 | Removendo Requisitos Não-Funcionais |  [Karoline Luz](https://github.com/KarolineLuz) |19/06/2025 |[João Marcos Moraes](https://github.com/JJOAOMARCOSS)  | 22/06/2025 |
+| 2.1 | Adicionando o link da validação |  [Gabriel Lopes](https://github.com/BrzGab) |07/07/2025 |[João Marcos Moraes](https://github.com/JJOAOMARCOSS)  | 07/07/2025 |

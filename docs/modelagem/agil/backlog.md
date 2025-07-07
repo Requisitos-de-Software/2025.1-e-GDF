@@ -294,7 +294,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 | **Autor** | **Usuário Participante** |
 | :-------- | :---------------------- |
-| [Gabriel Lopes](https://github.com/BrzGab) | Daniel Rodrigues Nascimento e João Vitor Alves Viana |
+| [Gabriel Lopes](https://github.com/BrzGab) | Daniel Rodrigues Nascimento |
+
+| **Autor** | **Usuário Participante** |
+| :-------- | :---------------------- |
+| [Gabriel Lopes](https://github.com/BrzGab) | João Vitor Alves Viana |
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
 
@@ -497,3 +501,4 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | 2.6 | Validação do Product Backlog RF04, RF05, RF06, RF11, RF21, RF33, RNF20 | [Artur Mendonça](https://github.com/ArtyMend07) | 01/06/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 01/06/2025 | | 01/06/2025 |
 | 3.0 |Adicionando Entrevista presencial | [Karoline Luz](https://github.com/KarolineLuz)  | 20/06/2025 | [Ana Victória](https://github.com/navicg)| 22/06/2025 | | 01/06/2025 |
 | 3.1 |Adicionando Entrevista presencial | [Luiza da Silva Pugas](https://github.com/Luizaxx)  | 21/06/2025 | [Ana Victória](https://github.com/navicg)| 22/06/2025 | | 01/06/2025 |
+| 3.2 | Adicionando o link da validação |  [Gabriel Lopes](https://github.com/BrzGab) |07/07/2025 |[João Marcos Moraes](https://github.com/JJOAOMARCOSS)  | 07/07/2025 |

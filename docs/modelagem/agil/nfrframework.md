@@ -1058,7 +1058,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 | **Nome** | **Função** | **Data** | **Hora** |
 |:---------:|:------------------------:|:--------:|:--------:|
-| [Gabriel Lopes](https://github.com/BrzGab) | Elaborador dos NFR | 01/06/2025 | 19:30 |
+| [Gabriel Lopes](https://github.com/BrzGab) | Elaborador dos NFR | 26/06/2025 | 13:30 |
 | João Vitor Alves Viana | Cidadão | 26/06/2025 | 13:30 |
 
 ## Termo de consentimento de imagem 
@@ -1136,3 +1136,4 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | 2.0| Adicionando correções e aba de entrevista presencial| [Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz)| 16/06/2025 |  [João Marcos Moraes](https://github.com/JJOAOMARCOSS)     | 22/06/2025      |
 | 2.1| Adicionando vídeo de entrevista presencial| [Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz)| 18/06/2025 |  [João Marcos Moraes](https://github.com/JJOAOMARCOSS)     | 22/06/2025      |
 | 2.2| Adicionando vídeo de entrevista presencial| [Luiza da Silva Pugas](https://github.com/Luizaxx)| 21/06/2025 |  [João Marcos Moraes](https://github.com/JJOAOMARCOSS)     | 22/06/2025      |
+| 2.3 | Adicionando o link da validação |  [Gabriel Lopes](https://github.com/BrzGab) |07/07/2025 |[João Marcos Moraes](https://github.com/JJOAOMARCOSS)  | 07/07/2025 |

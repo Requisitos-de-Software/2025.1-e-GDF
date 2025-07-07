@@ -115,7 +115,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 | **Nome** | **Função** | **Data** | **Hora** |
 |:---------:|:------------------------:|:--------:|:--------:|
-| [Gabriel Lopes](https://github.com/BrzGab) | Elaborador dos NFR | 01/06/2025 | 19:30 |
+| [Gabriel Lopes](https://github.com/BrzGab) | Elaborador dos NFR | 26/06/2025 | 13:30 |
 | João Vitor Alves Viana | Cidadão | 26/06/2025 | 13:30 |
 
 ## Termo de consentimento de imagem 
@@ -204,3 +204,4 @@ iOS: Objective-C, Swift.
 | 2.0    | Adidionando entrevista e termo de conscentimento | [Karoline Luz](https://github.com/KarolineLuz)                                                            | 20/06/2025 | [Ana Victória](https://github.com/navicg)                                                         | 20/06/2025      |
 | 2.1    | Adidionando validação da Usabilidade             | [Ana Victória](https://github.com/navicg)                                                                 | 22/06/2025 | [Karoline Luz](https://github.com/KarolineLuz)                                                    | 22/06/2025      |
 | 2.2    | Deixado Tabelas mais Descritivas   e mais organizadas        |      [Karoline Luz](https://github.com/KarolineLuz) e  [Ana Victória](https://github.com/navicg)                                                                    | 05/07/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)         | 06/07/2025      |
+| 2.3 | Adicionando o link da validação |  [Gabriel Lopes](https://github.com/BrzGab) |07/07/2025 |[João Marcos Moraes](https://github.com/JJOAOMARCOSS)  | 07/07/2025 |
