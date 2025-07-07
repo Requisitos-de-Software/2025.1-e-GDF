@@ -6,16 +6,16 @@ A técnica MoSCoW é uma abordagem de priorização usada para identificar a imp
 
  Segundo o **IIBA (2009)**, "as quatro letras maiúsculas no esquema de priorização MoSCoW representam quatro possíveis classificações de prioridade para os requisitos em um conjunto: **Must (Deve)**, **Should (Deveria)**, **Could (Poderia)** e **Won’t (Não será)**". No contexto do projeto do aplicativo **e-GDF**, essa técnica foi utilizada para definir quais funcionalidades e requisitos são essenciais, desejáveis, opcionais ou fora do escopo neste momento. Logo abaixo, será apresentada uma explicação mais detalhada sobre cada um desses níveis de prioridade, a fim de aprofundar o entendimento da técnica.
 
-### [Must Have](#must-have) - Essencial
+### **Must Have- Essencial**
 O requisito **deve ser atendido** para que a solução seja considerada um sucesso.
 
-### [Should Have](#should-have) - Importante, mas não Essencial
+### **Should Have- Importante, mas não Essencial**
 O requisito é **importante** e **deveria ser incluído** na solução, se possível, mas **não é essencial** para o sucesso imediato.
 
-### [Could Have](#could-have) - Bom ter, mas não essencial
+### **Could Have - Bom ter, mas não essencial**
 É um recurso **desejável**, mas que pode ser **adiado ou até eliminado**, sendo implementado apenas se houver tempo e recursos suficientes.
 
-### [Won’t Have](#wont-have) - Pode ser implementado no futuro
+### **Won’t Have - Pode ser implementado no futuro**
 Indica um requisito **não implementado no momento**, mas **possível no futuro**. Essa categoria pode gerar **ambiguidade**, pois pode ser interpretada como "não agora" ou "nunca". A técnica MoSCoW, apesar de clara, **não define critérios objetivos** para classificar os requisitos, o que pode levar a disputas por classificações mais prioritárias, como “Must”. Quando mal aplicada, pode **comprometer a efetividade da priorização**.
 
 ## Metodologia
@@ -37,13 +37,12 @@ Apesar de uma versão anterior da técnica já ter sido entregue, esta etapa rep
 |[Ana Victória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz) |**Luís Felipe**| 17/06/2025 |17/06/2025| 14:30 |14:35|Unb-FCTE |  03:18 min|
 
 
-<font size="3"><p style="text-align: center">Fonte: [Ana Victória](https://github.com/navicg), [Gabriel Lopes](https://github.com/BrzGab) e [Karoline Luz](https://github.com/KarolineLuz).</p></font>
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelos autores ([Ana Victória](https://github.com/navicg), [Gabriel Lopes](https://github.com/BrzGab) e [Karoline Luz](https://github.com/KarolineLuz), 2025).</p></font>
 
 
 ## Aplicação da técnica de Moscow
-
-### Priemeira Reunião 
-<p style="text-align: center"><iframe width="560" height="315" src="https://youtube/embed/t8xXrzlBbdM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+### Primeira Reunião 
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/rZacw2V8qPA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 <p style="text-align: center"><a href="https://www.youtube.com/watch?v=rZacw2V8qPA" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
@@ -51,7 +50,7 @@ Apesar de uma versão anterior da técnica já ter sido entregue, esta etapa rep
 
 ### Segunda Reunião 
 #### Gravação Parte 1
-<p style="text-align: center"><iframe width="560" height="315" src="https://youtube/embed/d1uOevkzENU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/d1uOevkzENU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 <p style="text-align: center"><a href="https://www.youtube.com/watch?v=d1uOevkzENU" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
@@ -61,12 +60,13 @@ Este documento confirma que o cidadão João Vitor forneceu seu consentimento fo
 
 O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1ByY5FYenlySd8Yn5wnW8HtmIhyFg-c35/view?usp=sharing)
 
-<font size="3"><p style="text-align: center">Fonte: [Ana Victória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz).</p></font>
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelos autores ([Ana Victória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz), 2025).</p></font>
+
 
 
 ### Terceira Reunião 
 #### Gravação Parte 2
-<p style="text-align: center"><iframe width="560" height="315" src="https://youtube/embed/geuU74GRs14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/geuU74GRs14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 <p style="text-align: center"><a href="https://www.youtube.com/watch?v=geuU74GRs14" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
@@ -76,7 +76,7 @@ Este documento confirma que o cidadão João Vitor forneceu seu consentimento fo
 
 O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1ByY5FYenlySd8Yn5wnW8HtmIhyFg-c35/view?usp=sharing)
 
-<font size="3"><p style="text-align: center">Fonte: [Ana Victória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz).</p></font>
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelos autores ([Ana Victória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz), 2025).</p></font>
 
 
 ## Requisitos Priorizados
@@ -146,7 +146,7 @@ A **legenda** para cada sigla é a seguinte:
  | RF44   | Integrar um assistente virtual ou chatbot com respostas automáticas para dúvidas frequentes.                                                                             | <a href="../../tec_elicitacao/introspeccao/#anchor_INT">INT13</a>                                                                                                                  | Sim           |CH
  | RF45   | Fornecer um mapa com localização de unidades de serviço público e ocorrências próximas.                                                                                  | <a href="../../tec_elicitacao/introspeccao/#anchor_INT">INT14</a>                                                                                                                  | Sim           |MH
 
-<font size="3"><p style="text-align: center">Fonte: [Ana Victória](https://github.com/navicg), [Gabriel Lopes](https://github.com/BrzGab) e [Karoline Luz](https://github.com/KarolineLuz).</p></font>
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelos autores ([Ana Victória](https://github.com/navicg), [Gabriel Lopes](https://github.com/BrzGab) e [Karoline Luz](https://github.com/KarolineLuz), 2025).</p></font>
 
 ### Tabela 3: Requisitos Não funcionais
 
@@ -193,8 +193,7 @@ A **legenda** para cada sigla é a seguinte:
  | RNF25  | As imagens capturadas pelo usuário devem ser otimizadas para upload rápido mesmo em conexões móveis.                                                                    | <a href="../../tec_elicitacao/integracao/#anchor_INTT">INT21</a>                                                                                                                   | Sim           | MH               |
 
 
-<font size="3"><p style="text-align: center">Fonte: [Ana Victória](https://github.com/navicg), [Gabriel Lopes](https://github.com/BrzGab) e [Karoline Luz](https://github.com/KarolineLuz).</p></font>
-
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelos autores ([Ana Victória](https://github.com/navicg), [Gabriel Lopes](https://github.com/BrzGab) e [Karoline Luz](https://github.com/KarolineLuz), 2025).</p></font>
 
 ## Referências Bibliográficas
 
@@ -224,4 +223,5 @@ A **legenda** para cada sigla é a seguinte:
 | 2.1   | Adicionado Termo de conscentimento| [Ana Vitória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz)| 16/06/2025|[João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS)| 22/06/2025 |
 | 2.1   | Adicionado Termo de conscentimento| [Ana Vitória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz)| 16/06/2025|[João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS)| 22/06/2025 |
 | 2.2   | Adicionado vídeo de entrevista| [Ana Vitória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz)| 18/06/2025|[João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS)| 22/06/2025 |
+| 2.3  | Arrumandando links dos vídeos e realizando pequenas correções para garantir maior legibilidade do artefato. | [Ana Vitória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz)| 05/07/2025|[João Marcos Moraes de Andrade](https://github.com/JJOAOMARCOSS)| 07/07/2025 |
 

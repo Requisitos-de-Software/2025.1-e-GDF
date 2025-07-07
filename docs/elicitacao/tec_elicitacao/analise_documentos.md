@@ -20,34 +20,34 @@ As versões atuais do aplicativo **eGDF** nas lojas **Play Store** e **App Store
 - **Versão na App Store:** 3.1.2
 
 <p align="center">
-  <img src="/assets/elicitacao/Analise_de_documentos/AD1.PNG" width="600">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD1.PNG" width="600">
 </p>
 <p align="center"><i>Figura 1: Versão do eGDF na PlayStore</i></p>
 
 <p align="center">
-  <img src="/assets/elicitacao/Analise_de_documentos/AD2.PNG" width="600">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD2.PNG" width="600">
 </p>
 <p align="center"><i>Figura 2: Versão do eGDF na AppStore com novidades da nova versão</i></p>
 
 Na versão 3.1.2 da App Store, foram feitas correções visuais, ajustando para uma interface mais intuitiva, adição de notícias, sendo possível acompanhar comunicados oficiais pelo aplicativo, além de permitir a inscrições em creche, permitindo que responsáveis façam a inscrição de crianças em creches de maneira simples e rápida. Já a versão 3.1.3 da Play store não mostra as alterações dessa nova versão, exibindo apenas a descrição geral do aplicativo. A faixa etária indicada para o uso do aplicativo é de 12 anos para cima, o que limita mais os possíveis usuários do aplicativo. Além disso, a PlayStore informa que os dados não são criptografados, levantando preocupações sobre a segurança das informações inseridas no aplicativo. Analisando as telas de captura do aplicativo na PlayStore, o aplicativo eGDF oferece duas opções de uso, o usuário tem a opção de fazer login com a conta Gov.br ou utilizar o aplicativo sem login. Além disso, o usuário pode buscar o tipo de serviço público que ele deseja, como receitas e tributos, saúde, educação, mobilidade, habilitação, assistência social, dentre outros. O aplicativo também possui um mapa.
 
 <p align="center">
-  <img src="/assets/elicitacao/Analise_de_documentos/AD23.PNG" width="150">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD23.PNG" width="150">
 </p>
 <p align="center"><i>Figura 3: Tela de login</i></p>
 
 <p align="center">
-  <img src="/assets/elicitacao/Analise_de_documentos/AD24.PNG" width="150">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD24.PNG" width="150">
 </p>
 <p align="center"><i>Figura 4: Tela de serviços</i></p>
 
 <p align="center">
-  <img src="/assets/elicitacao/Analise_de_documentos/AD25.PNG" width="150">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD25.PNG" width="150">
 </p>
 <p align="center"><i>Figura 5: Tela do mapa</i></p>
 
 <p align="center">
-  <img src="/assets/elicitacao/Analise_de_documentos/AD26.PNG" width="150">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD26.PNG" width="150">
 </p>
 <p align="center"><i>Figura 6: Tela do ChatBot</i></p>
 
@@ -63,7 +63,7 @@ Foram identificadas as seguintes funcionalidades:
 - **Exclusão de conta:** Possibilidade de exclusão total do perfil e dados pelo app.
 
 <p align="center">
-  <img src="/assets/elicitacao/Analise_de_documentos/AD3.PNG" width="600">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD3.PNG" width="600">
 </p>
 <p align="center"><i>Figura 7: Funcionalidades do aplicativo</i></p>
 
@@ -75,28 +75,28 @@ As avaliações dos usuários estão acima da média com uma nota de 3.6 estrela
 - **Acessibilidade precária:** Dificuldade para usuários com baixa visão devido a ícones e textos pequenos.
 
 <p align="center">
-  <img src="/assets/elicitacao/Analise_de_documentos/AD9.PNG" width="600">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD9.PNG" width="600">
 </p>
 <p align="center"><i>Figura 8: Média das avaliações na PlayStore</i></p>
 
 <p align="center">
-  <img src="/assets/elicitacao/Analise_de_documentos/AD22.PNG" width="600">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD22.PNG" width="600">
 </p>
 <p align="center"><i>Figura 9: Média das avaliações na Appstore</i></p>
 
 <p align="center">
-  <img src="/assets/elicitacao/Analise_de_documentos/AD5.PNG" width="600">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD5.PNG" width="600">
 </p>
 <p align="center"><i>Figura 10: Avaliações dos usuários 1</i></p>
 
 
 <p align="center">
-  <img src="/assets/elicitacao/Analise_de_documentos/AD7.PNG" width="600">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD7.PNG" width="600">
 </p>
 <p align="center"><i>Figura 11: Avaliações dos usuários 2</i></p>
 
 <p align="center">
-  <img src="/assets/elicitacao/Analise_de_documentos/AD8.PNG" width="600">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD8.PNG" width="600">
 </p>
 <p align="center"><i>Figura 12: Avaliações dos usuários 3</i></p>
 
@@ -105,27 +105,27 @@ As avaliações dos usuários estão acima da média com uma nota de 3.6 estrela
 Os dados pessoais do usuário são protegidos em conformidade com a Lei Geral de Proteção de Dados (LGPD), sendo coletado afim de identificação do usuário. A plataforma também coleta dados necessários para a execução dos serviços solicitados, como a solicitação de serviços públicos e acompanhamento de solicitações. Esses dados podem ser anonimados para a criação de relatórios estatísticos. Os usuários têm o direito de acessar, alterar ou excluir suas informações pessoais diretamente no perfil, e seus dados não são compartilhados com terceiros, exceto por exigência legal ou judicial. 
 
 <p align="center">
-  <img src="/assets/elicitacao/Analise_de_documentos/AD17.PNG" width="600">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD17.PNG" width="600">
 </p>
 <p align="center"><i>Figura 13: Política de privacidade</i></p>
 
 <p align="center">
-  <img src="/assets/elicitacao/Analise_de_documentos/AD18.PNG" width="600">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD18.PNG" width="600">
 </p>
 <p align="center"><i>Figura 14: Finalidade e uso dos dados</i></p>
 
 <p align="center">
-  <img src="/assets/elicitacao/Analise_de_documentos/AD19.PNG" width="600">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD19.PNG" width="600">
 </p>
 <p align="center"><i>Figura 15: Proteção dos dados</i></p>
 
 <p align="center">
-  <img src="/assets/elicitacao/Analise_de_documentos/AD20.PNG" width="600">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD20.PNG" width="600">
 </p>
 <p align="center"><i>Figura 16: Destino dos dados</i></p>
 
 <p align="center">
-  <img src="/assets/elicitacao/Analise_de_documentos/AD21.PNG" width="600">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD21.PNG" width="600">
 </p>
 <p align="center"><i>Figura 17: Compartilhamento dos dados</i></p>
 
@@ -143,37 +143,37 @@ Através do site do eGDF foi identificado e aprofundado sobre a funcionalidade d
 Essa opção permite com que o usuário controle sobre seus dados no aplicativo, respeitando a Lei Geral de Proteção de Dados explicitada na política de privacidade.
 
 <p align="center">
-  <img src="/assets/elicitacao/Analise_de_documentos/AD10.PNG" width="600">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD10.PNG" width="600">
 </p>
 <p align="center"><i>Figura 18: Exclusão de conta - 1</i></p>
 
 <p align="center">
-  <img src="/assets/elicitacao/Analise_de_documentos/AD11.PNG" width="600">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD11.PNG" width="600">
 </p>
 <p align="center"><i>Figura 19: Exclusão de conta - 2</i></p>
 
 <p align="center">
-  <img src="/assets/elicitacao/Analise_de_documentos/AD12.PNG" width="600">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD12.PNG" width="600">
 </p>
 <p align="center"><i>Figura 20: Exclusão de conta - 3</i></p>
 
 <p align="center">
-  <img src="/assets/elicitacao/Analise_de_documentos/AD13.PNG" width="600">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD13.PNG" width="600">
 </p>
 <p align="center"><i>Figura 21: Exclusão de conta - 4</i></p>
 
 <p align="center">
-  <img src="/assets/elicitacao/Analise_de_documentos/AD14.PNG" width="600">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD14.PNG" width="600">
 </p>
 <p align="center"><i>Figura 22: Exclusão de conta - 5</i></p>
 
 <p align="center">
-  <img src="/assets/elicitacao/Analise_de_documentos/AD15.PNG" width="600">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD15.PNG" width="600">
 </p>
 <p align="center"><i>Figura 23: Exclusão de conta - 6</i></p>
 
 <p align="center">
-  <img src="/assets/elicitacao/Analise_de_documentos/AD16.PNG" width="600">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/main/docs/assets/elicitacao/Analise_de_documentos/AD16.PNG" width="600">
 </p>
 <p align="center"><i>Figura 24: Exclusão de conta - 7</i></p>
 
@@ -189,16 +189,17 @@ Legenda da Tabela:
 - RFx: Requisito Funcional nºx  
 - **ID**: Link para a técnica de elicitação 
 
-| <a id="anchor_AD" style="color:black;">ID</a> | Tipo  | Descrição                                                                                                         | Implementação    |
-|------------------|-------|-------------------------------------------------------------------------------------------------------------------|------------------|
-| AD01              | RF01  | O sistema deve permitir que o usuário realize login.                                                             | Implementado     |
-| AD02             | RF02  | O sistema deve permitir que o usuário solicite serviços públicos como coleta de lixo, reparo de vias e diversos. | Implementado     |
-| AD03             | RF03  | O sistema deve permitir o usuário utilizar um mapa para localizar onde foi solicitado o serviço.                 | Implementado     |
-| AD04             | RF04  | O sistema deve permitir que o usuário visualize e acompanhe o status das suas solicitações.                     | Implementado     |
-| AD05             | RF05  | O sistema deve oferecer um assistente virtual para ajudar o usuário em dúvidas.                                  | Implementado     |
-| AD06             | RF06  | O sistema deve permitir que o usuário confirme a resolução de problemas relatados.                               | Implementado     |
-| AD07             | RF07  | O sistema deve permitir que o usuário exclua seus dados e conta do aplicativo.                                   | Implementado     |
-| AD08             | RF08  | O sistema deve permitir aumentar ícones e o tamanho da fonte conforme a necessidade do usuário por meio de um botão. | Não implementado |
+| <a id="anchor_AD" style="color:black;">ID</a> | Tipo  | Descrição                                                                                                         | Implementação    | Origem             |
+|------------------|-------|-------------------------------------------------------------------------------------------------------------------|------------------|--------------------|
+| AD01             | RF01  | O sistema deve permitir que o usuário realize login.                                                             | Implementado     | Telas disponibilizadas na PlayStore e AppStore |
+| AD02             | RF02  | O sistema deve permitir que o usuário solicite serviços públicos como coleta de lixo, reparo de vias e diversos. | Implementado     | Descrição do app na PlayStore e AppStore |
+| AD03             | RF03  | O sistema deve permitir o usuário utilizar um mapa para localizar onde foi solicitado o serviço.                 | Implementado     | Descrição e telas disponibilizada PlayStore e AppStore |
+| AD04             | RF04  | O sistema deve permitir que o usuário visualize e acompanhe o status das suas solicitações.                     | Implementado     | Descrição na PlayStore |
+| AD05             | RF05  | O sistema deve oferecer um assistente virtual para ajudar o usuário em dúvidas.                                  | Implementado     | Descrição e telas disponibilizadas na PlayStore e Appstore |
+| AD06             | RF06  | O sistema deve permitir que o usuário confirme a resolução de problemas relatados.                               | Implementado     | PlayStore e AppStore |
+| AD07             | RF07  | O sistema deve permitir que o usuário exclua seus dados e conta do aplicativo.                                   | Implementado     | Documento de exclusão de conta eGDF |
+| AD08             | RF08  | O sistema deve permitir aumentar ícones e o tamanho da fonte conforme a necessidade do usuário por meio de um botão. | Não implementado | Avaliações da PlayStore      |
+
 
 ### Tabela 2: Requisitos Não-funcionais
 
@@ -206,19 +207,20 @@ Legenda da Tabela:
 - RNFx: Requisito Não-Funcional nºx  
 - **ID**: Link para a técnica de elicitação
 
-| <a id="anchor_AD" style="color:black;">ID</a> | Tipo   | Descrição                                                                                          | Implementação    |
-|---------------------|--------|------------------------------------------------------------------------------------------------------|------------------|
-| AD09                 | RNF01  | O sistema deve ser compatível com vários dispositivos como Android e iOS.                           | Implementado     |
-| AD10               | RNF02  | O sistema deve estar em conformidade com a Lei Geral de Proteção de Dados (LGPD).                  | Implementado     |
-| AD11               | RNF03  | O sistema deve garantir a criptografia em dados sensíveis.                                          | Não implementado |
-| AD12               | RNF04  | O sistema deve ter uma interface intuitiva.                                                         | Não implementado |
+| <a id="anchor_AD" style="color:black;">ID</a> | Tipo   | Descrição                                                                                          | Implementação    | Origem |
+|---------------------|--------|------------------------------------------------------------------------------------------------------|------------------|--------|
+| AD09                | RNF01  | O sistema deve ser compatível com vários dispositivos como Android versão 5.0 ou superior e iOS versão 13.4 ou superior.                           | Implementado     | PlayStore e AppStore      |
+| AD10                | RNF02  | O sistema deve estar em conformidade com a Lei Geral de Proteção de Dados(LGPD) no que diz respeito ao compartilhamento de dados pessoais.                  | Implementado     | Política de provacidade      |
+| AD11                | RNF03  | O sistema deve garantir a criptografia em dados sensíveis, transformando-os em um formato ilegível                                         | Não implementado | PlayStore      |
+
+
 
 
 Fonte: Elaborado pelo autor (Lucas Mendonça Arruda, 2025).
 
 ## Limitações da análise
 
-o app é novo e lançou no dia 10 de maio de 2024 na playstore enquanto na appstore a primeira versão do app foi lançada em 28 de maio de 2024. Por esse motivo, há pouca documentação disponível publicamente e um número reduzido de avaliações dos usuários sobre o aplivativo. 
+o app é novo e lançou no dia 10 de maio de 2024 na playstore enquanto na appstore a primeira versão do app foi lançada em 28 de maio de 2024. Por esse motivo, há pouca documentação disponível publicamente e um número reduzido de avaliações dos usuários sobre o aplicativo. 
 
 ## Bibliografia
 
@@ -242,6 +244,8 @@ GOVERNO DO DISTRITO FEDERAL. Política de privacidade do eGDF. Brasília: GDF, 2
 | 1.1    | Adição das imagens, requisitos e novos documentos                                      | [Lucas Mendonça](https://github.com/lucasarruda9) | 01/05/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 01/05/2025       |
 | 1.2    | correção ortográfica, centralizando imagens e informação sobre criptografia de dados                                      | [Lucas Mendonça](https://github.com/lucasarruda9) | 04/05/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 04/05/2025       |
 | 1.3    | Arrumando rastreabilidade dos requisitos e imagens                                    | [Lucas Mendonça](https://github.com/lucasarruda9) | 07/05/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 08/05/2025       |
+| 2.0    | Ajustando imagens e adicionando origem dos requisitos elicitados                                 | [Lucas Mendonça](https://github.com/lucasarruda9) | 22/06/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 22/06/2025       |
+
 
 
 ---

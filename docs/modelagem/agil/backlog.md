@@ -273,6 +273,12 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GdncDHMK1DQ" title="Validação Backlog - Gabriel Lopes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+### Validação 3 - Gabriel Lopes - Presencial
+
+
+**Vídeo 3** - Validação com usuário por Gabriel Lopes
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3pI5FZhF2XM" title="Validação Backlog - Gabriel Lopes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Tabela 6** - Informações da validação 3
 
@@ -290,10 +296,16 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | :-------- | :---------------------- |
 | [Gabriel Lopes](https://github.com/BrzGab) | Daniel Rodrigues Nascimento |
 
+| **Autor** | **Usuário Participante** |
+| :-------- | :---------------------- |
+| [Gabriel Lopes](https://github.com/BrzGab) | João Vitor Alves Viana |
+
 <font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
 
 ## Termo de consentimento de imagem 
 Este documento confirma que o cidadão **Daniel Rodrigues Nascimento** forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+Este documento confirma que o cidadão **João Vitor Alves Viana** forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
 
 O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1EB1p_smwvLfqsPcUb_7nWpKIXuzLOx02/view?usp=sharing)
 
@@ -489,3 +501,4 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | 2.6 | Validação do Product Backlog RF04, RF05, RF06, RF11, RF21, RF33, RNF20 | [Artur Mendonça](https://github.com/ArtyMend07) | 01/06/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 01/06/2025 | | 01/06/2025 |
 | 3.0 |Adicionando Entrevista presencial | [Karoline Luz](https://github.com/KarolineLuz)  | 20/06/2025 | [Ana Victória](https://github.com/navicg)| 22/06/2025 | | 01/06/2025 |
 | 3.1 |Adicionando Entrevista presencial | [Luiza da Silva Pugas](https://github.com/Luizaxx)  | 21/06/2025 | [Ana Victória](https://github.com/navicg)| 22/06/2025 | | 01/06/2025 |
+| 3.2 | Adicionando o link da validação |  [Gabriel Lopes](https://github.com/BrzGab) |07/07/2025 |[João Marcos Moraes](https://github.com/JJOAOMARCOSS)  | 07/07/2025 |

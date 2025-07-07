@@ -10,9 +10,8 @@ Este documento apresenta uma lista de verificação para avaliar os artefatos pr
 - Assegurar que todos os itens exigidos estejam completos e corretos.
 
 ---
-### Lista de Verificação - Baseada no plano de ensino
 
-<p align="center">Tabela 1 – Lista de Verificação – Apresentação 3</p>
+<p style="text-align: center">Tabela 1 – Lista de Verificação – Apresentação 3</p>
 
 | ID  | Item de Verificação                                                                                                                                          | Autor                                                                                       | Referência                                                                                                                                                                               |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -35,13 +34,13 @@ Este documento apresenta uma lista de verificação para avaliar os artefatos pr
 | 17  | O documento especifica qual plataforma o aplicativo pode ser executado?                                                                                      | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs-cria%C3%A7%C3%A3o-lista-de-verifica%C3%A7%C3%A3o---modelagem/docs/assets/lista-3/listadoprof11-18.png" alt="Referência do item" width="100px"><br><a href="https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/61/FGA0303-T03v2.pdf">Plano de Ensino</a></div> |
 | 18  | Todos os requisitos podem ser testados (RF e RNF)? Identificar quais requisitos não são testáveis/verificáveis.                                              | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs-cria%C3%A7%C3%A3o-lista-de-verifica%C3%A7%C3%A3o---modelagem/docs/assets/lista-3/listadoprof11-18.png" alt="Referência do item" width="100px"><br><a href="https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/61/FGA0303-T03v2.pdf">Plano de Ensino</a></div> |
 
-<font size="3"><p align="center">Elaborado pelo autor: ([João Marcos](https://github.com/JJOAOMARCOSS), 2025).</p></font>
+<font size="3"><p style="text-align: center">Elaborado pelos autores: ([João Marcos](https://github.com/JJOAOMARCOSS), 2025).</p></font>
 
 ---
 
 ### Lista de Verificação - Itens Técnicos e Documentais
 
-<p align="center">Tabela 2 – Lista de Verificação de itens Técnicos e Documentais</p>
+<p style="text-align: center">Tabela 2 – Lista de Verificação de itens Técnicos e Documentais</p>
 
 | ID  | Item de Verificação                                                                                                                                                       | Autor                                                                                       | Referência                                                                                                                                                                                                                                                                                                                                                                      |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -54,13 +53,13 @@ Este documento apresenta uma lista de verificação para avaliar os artefatos pr
 | 7   | As gravações de reuniões foram salvas? - Arquivos de vídeo das reuniões, armazenados para consulta futura.                                                                | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/corre%C3%A7%C3%B5es-da-apresenta%C3%A7%C3%A3o-2/docs/assets/lista-2/Lista_Parte2_PlanoDeEnsino.png" alt="Referência do item" width="100px"><br><a href="https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/61/FGA0303-T03v2.pdf">Plano de Ensino</a></div> |
 | 8   | As apresentações no YouTube estão configuradas como "não listado"? - Garantia de que os vídeos estão acessíveis apenas para quem tiver o link, respeitando a privacidade. | [André Barros de Sales](https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1314342) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/corre%C3%A7%C3%B5es-da-apresenta%C3%A7%C3%A3o-2/docs/assets/lista-2/Lista_Parte2_PlanoDeEnsino.png" alt="Referência do item" width="100px"><br><a href="https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/61/FGA0303-T03v2.pdf">Plano de Ensino</a></div> |
 
-<font size="3"><p align="center">Elaborado pelo autor: ([João Marcos](https://github.com/JJOAOMARCOSS), 2025).</p></font>
+<font size="3"><p style="text-align: center">Elaborado pelos autores: ([João Marcos](https://github.com/JJOAOMARCOSS), 2025).</p></font>
 
 ---
 
 ### Lista de Verificação – Cenários 
 
-<p align="center">Tabela 3 – Lista de Verificação – Cenários<a id="anchor_1" href="#FRM1"> [1]</a> </p>
+<p style="text-align: center">Tabela 3 – Lista de Verificação – Cenários<a id="anchor_1" href="#FRM1"> [1]</a> </p>
 
 | ID  | Item de Verificação                                                                                         | Autor                                                                                      | Referência                                                                                                                                                                                                                                                                                         |
 | --- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -79,7 +78,7 @@ Este documento apresenta uma lista de verificação para avaliar os artefatos pr
 
 ### Lista de Verificação – Léxicos 
 
-<p align="center"> Tabela 4 - Lista de Verificação – Léxicos <a id="anchor_6" href="#FRM1"> [6]</a> </p>
+<p style="text-align: center"> Tabela 4 - Lista de Verificação – Léxicos <a id="anchor_6" href="#FRM1"> [6]</a> </p>
 
 | ID  | Item de Verificação                                                                    | Autor                                                                                           | Referência                                                                                                                                                                                                     |
 | --- | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -104,7 +103,7 @@ Este documento apresenta uma lista de verificação para avaliar os artefatos pr
 
 ### Lista de Verificação – Diagrama de casos de uso 
 
-<p align="center"> Tabela 5 - Lista de Verificação – Diagrama de casos de uso  </p>
+<p style="text-align: center"> Tabela 5 - Lista de Verificação – Diagrama de casos de uso  </p>
 
 | ID  | Item de Verificação                                                     | Autor                                                                                           | Referência                                                                                                                                                  |
 | --- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -123,7 +122,7 @@ Este documento apresenta uma lista de verificação para avaliar os artefatos pr
 
 ### Lista de Verificação – Especificação suplementar 
 
-<p align="center"> Tabela 6 - Lista de Verificação – Especificação suplementar </p>
+<p style="text-align: center"> Tabela 6 - Lista de Verificação – Especificação suplementar </p>
 
 | ID  | Item de Verificação                                                                                               | Autor                                             | Referência                                                                                                                                  |
 | --- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -138,7 +137,7 @@ Este documento apresenta uma lista de verificação para avaliar os artefatos pr
 | 9   | Há requisitos legais, ambientais e de licenciamento devidamente listados?                                         | [Lucas Mendonça](https://github.com/lucasarruda9) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs-cria%C3%A7%C3%A3o-lista-de-verifica%C3%A7%C3%A3o---modelagem/docs/assets/lista-3/F1.PNG" alt="SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 13. Brasília: UnB-Gama, 2017. 35 slides, color." width="100px"><br><a href="https://aprender3.unb.br/pluginfile.php/3096118/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf">Acessar PDF</a></div> |
 | 10  | A linguagem utilizada é clara, padronizada e evita ambiguidades?                                                  | [Lucas Mendonça](https://github.com/lucasarruda9) | <div><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs-cria%C3%A7%C3%A3o-lista-de-verifica%C3%A7%C3%A3o---modelagem/docs/assets/lista-3/F7.PNG" alt="SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 13. Brasília: UnB-Gama, 2017. 35 slides, color." width="100px"><br><a href="https://aprender3.unb.br/pluginfile.php/3096118/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf">Acessar PDF</a></div> |
 
-<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Lucas Mendonça](https://github.com/lucasarruda9) , 2025).</p></font>
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelos autores ([Lucas Mendonça](https://github.com/lucasarruda9) , 2025).</p></font>
 
 ---
 

@@ -34,7 +34,7 @@ Para aplicar a técnica ROI, seguimos os seguintes passos:
 ## Links das gravações
 [Link para a gravação da reunião](https://youtu.be/eH5Uf2jb0g8)
 
-[Link para a gravação da validação presencial - Ryan](https://youtu.be/t0iZhyftfzo)
+[Link para a gravação da validação presencial](https://youtu.be/qV9kIen-EDQ)
 
 ## Priorização dos Requisitos
 
@@ -90,7 +90,7 @@ Para aplicar a técnica ROI, seguimos os seguintes passos:
 | RF44 | <a href="../../tec_elicitacao/introspeccao/#anchor_INT">INT13</a> | Integrar assistente virtual com respostas automáticas | 4 | 4 | 1 | Baixa |
 | RF45 | <a href="../../tec_elicitacao/introspeccao/#anchor_INT">INT14</a> | Fornecer mapa com localização de serviços públicos | 4 | 3 | 1.33 | Média |
 
-<p style="text-align: center"><b>Fonte:</b> Artur, 2025</p>
+<font size="3"><p style="text-align: center">Elaborado por: [Artur Mendonça](https://github.com/ArtyMend07).</p></font>
 
 ### Requisitos Não Funcionais
 
@@ -124,7 +124,7 @@ Para aplicar a técnica ROI, seguimos os seguintes passos:
 | RNF24 | <a href="../../tec_elicitacao/integracao/#anchor_INTT">INT20</a> | Funcionamento offline para consultas | 4 | 4 | 1 | Baixa |
 | RNF25 | <a href="../../tec_elicitacao/integracao/#anchor_INTT">INT21</a> | Otimização de imagens para upload | 3 | 2 | 1.5 | Média |
 
-<p style="text-align: center"><b>Fonte:</b> Artur, 2025</p>
+<font size="3"><p style="text-align: center">Elaborado por: [Artur Mendonça](https://github.com/ArtyMend07).</p></font>
 
 ## Resultados
 
@@ -176,7 +176,7 @@ Com base na priorização realizada, podemos observar que:
 </tr>
 </table>
 
-<p style="text-align: center"><b>Fonte:</b> Artur, 2025</p>
+<font size="3"><p style="text-align: center">Elaborado por: [Artur Mendonça](https://github.com/ArtyMend07).</p></font>
 
 ## Bibliografia
 
@@ -194,3 +194,5 @@ Com base na priorização realizada, podemos observar que:
 | 1.1    | Correção de nome | [Artur Mendonça](https://github.com/ArtyMend07)        | 04/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 04/05/2025      |
 | 2.0    | Adição de hyperlinks de rastreabilidade nas tabelas de requisitos | [Artur Mendonça](https://github.com/ArtyMend07)        | 15/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 16/05/2025      |
 | 2.1    | Adição do link da validação presencial | [Artur Mendonça](https://github.com/ArtyMend07)        | 22/06/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 22/06/2025      |
+| 2.2    | Padronizando fontes das tabelas e adicionando hyperlink do autor | [Artur Mendonça](https://github.com/ArtyMend07)        | 04/07/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 07/07/2025      |
+| 2.2    | Corrige link da reunião presencial | [Artur Mendonça](https://github.com/ArtyMend07)        | 07/07/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 07/07/2025      |

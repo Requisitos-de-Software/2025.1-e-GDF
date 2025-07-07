@@ -238,6 +238,26 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Gabriel Lopes](https://github.com/BrzGab), 2025)</p></font>
 
+**Vídeo 4** - Validação dos cenários 07, 08 e 09.
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/aEmanl6qw6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/aEmanl6qw6c" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor([Gabriel Lopes](https://github.com/BrzGab), 2025)</p></font>
+
+## Termo de consentimento de imagem 
+Este documento confirma que o cidadão Felipe Henrique forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1VSD-RrORJCSeMZCZUYLakKQfTG51WQSu/view?usp=sharing)
+
+| Participante   | Entrevistador                                             | Data       | Horário       | Local |
+| -------------- | ----------------------------------------------------- | ---------- | ------------- | ----- |
+| Felipe Henrique | [Gabriel Lopes](https://github.com/BrzGab) | 26/06/2025 | 11:00 - 11:30 | FGA   |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor([Gabriel Lopes](https://github.com/BrzGab), 2025)</p></font>
+
+
 ---
 
 ### Cenário 10: Alterar idioma do aplicativo
@@ -330,6 +350,18 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF]()
 | **Exceção**    | - Falha na conexão com a internet. <br> - Base de dados indisponível para consulta. |
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
+
+## Validação dos Cenários - Lucas Mendonça
+
+Os Cenário 13 e cenário 14 foram elaborados por Lucas Mendonça foram validados através de entrevista com usuário do sistema eGDF.
+
+### Gravação da validação - Gabriel.G.F:
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/nTrafXdh1k0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/nTrafXdh1k0" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Lucas Mendonça](https://github.com/lucasarruda9), 2025).</p></font>
 
 ---
 
@@ -513,3 +545,5 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | 2.1    | Adicionando  Entrevista presencial | [Luiza da Silva Pugas](https://github.com/Luizaxx) |21/06/2025|  [Ana Victória](https://github.com/navicg)|22/06/2025| 18/05/2025 |
 | 2.2   | Adidionando validação dos cenários 01, 02 e 03 |[Ana Victória](https://github.com/navicg)                                            | 22/06/2025 | [Karoline Luz](https://github.com/KarolineLuz)                                                | 22/06/2025      |
 | 2.3    | Adicionando vídeo de validação dos cenários 4, 5 e 6. | [Artur Mendonça Arruda](https://github.com/ArtyMend07) |22/06/2025| [Lucas Mendonça](https://github.com/lucasarruda9) | 22/06/2025 |
+| 2.4    | Adição da validação dos cenários13 e 14 | [Lucas Mendonça](https://github.com/lucasarruda9) |22/06/2025| [Artur Mendonça](https://github.com/ArtyMend07) | 22/06/2025 |
+| 2.1 | Adicionando o link da validação |  [Gabriel Lopes](https://github.com/BrzGab) |07/07/2025 |[João Marcos Moraes](https://github.com/JJOAOMARCOSS)  | 07/07/2025 |

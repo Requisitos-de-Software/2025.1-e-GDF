@@ -329,7 +329,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](../../
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/N9fbh0srbYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
-<p style="text-align: center"><a href="https://youtu.be/xOqd3H6dOds" target="_blank">Clique aqui para assistir no YouTube</a></p>
+<p style="text-align: center"><a href="https://youtu.be/N9fbh0srbYM" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
 ## Termo de consentimento de imagem 
 Este documento confirma que a cidadã Nívea Cecília forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
@@ -919,7 +919,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Gabriel Lopes](https://github.com/BrzGab), 2025)</p></font>
 
-## NFR05: Confiabilidade
+# NFR05: Confiabilidade
 
 Este SIG (Softgoal Interdependency Graph) foi elaborado a partir de requisitos não funcionais relacionados à confiabilidade do sistema. Esses requisitos garantem que o sistema seja robusto, estável e funcione corretamente em diferentes situações e dispositivos.
 
@@ -940,7 +940,7 @@ Requisitos utilizados para desenvolver o SIG da Figura 5:
 <p align="center"><i>Figura 5: SIG: Confiabilidade</i></p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/nfr/docs/assets/modelagem/nfr/confiabilidade.png" width="800">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/gb_imagenss/docs/assets/modelagem/nfr/confiabilidade2.png" width="800">
 </p>
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Gabriel Lopes](https://github.com/BrzGab), 2025)</p></font>
@@ -958,12 +958,12 @@ O diagrama de Confiabilidade foi estruturado utilizando decomposição **AND**, 
 6. **Funcionamento Offline** (RNF23)
 
 #### Operacionalizações:
-- **Para Compatibilidade de Plataforma**: "Testes em 95% dos dispositivos Android/iOS" [MAKE (++)]
-- **Para Compatibilidade de Versões**: "Suporte às 3 versões mais recentes" [MAKE (++)]
-- **Para Responsividade**: "Validação em múltiplos tamanhos de tela" [MAKE (++)] e "100% legibilidade garantida" [MAKE (++)]
-- **Para Aparência Profissional**: "85% aprovação em testes de percepção" [MAKE (++)]
-- **Para Dados Atualizados**: "Sincronização automática a cada 24h" [MAKE (++)]
-- **Para Funcionamento Offline**: "Cache local de dados" [MAKE (++)]
+- **Para Compatibilidade de Plataforma**: "Testes nos 20 dispositivos Android mais populares e em iPhones últimos 3 anos" [MAKE (++)]
+- **Para Compatibilidade de Versões**: "Suporte Android 12-14 e iOS 16-18" [MAKE (++)]
+- **Para Responsividade**: "Validação em resoluções 360x640dp a 1024x1366dp" [MAKE (++)] e "Contraste 4.5:1 e fonte mínima 14sp" [MAKE (++)]
+- **Para Aparência Profissional**: "Média 4.0/5.0 em teste com 50 usuários" [MAKE (++)]
+- **Para Dados Atualizados**: "Sincronização tempo real (críticos), 1h (secundários), 24h (históricos)" [MAKE (++)]
+- **Para Funcionamento Offline**: "Cache local com 30 dias de retenção" [MAKE (++)]
 
 #### Contribuições entre softgoals:
 - **Compatibilidade de Versões** → **Compatibilidade de Plataforma**: MAKE (++)
@@ -977,22 +977,22 @@ A Tabela 5, apresentada a seguir, mostra a avaliação da propagação dos impac
 
 <p align="center"><b>Tabela 5</b> — Tabela de Impactos - Confiabilidade</p>
 
-| **NFR**                          | **Impacto** | **Avaliador**                                    |
-|----------------------------------|-------------|--------------------------------------------------|
-| Confiabilidade                   | ✓           | [Gabriel Lopes](https://github.com/BrzGab)       |
-| Compatibilidade de Plataforma    | ✓           | [Gabriel Lopes](https://github.com/BrzGab)       |
-| Compatibilidade de Versões       | ✓           | [Gabriel Lopes](https://github.com/BrzGab)       |
-| Responsividade                   | ✓           | [Gabriel Lopes](https://github.com/BrzGab)       |
-| Aparência Profissional           | 𝒲+          | [Gabriel Lopes](https://github.com/BrzGab)       |
-| Dados Atualizados                | 𝒲+          | [Gabriel Lopes](https://github.com/BrzGab)       |
-| Funcionamento Offline            | ✓           | [Gabriel Lopes](https://github.com/BrzGab)       |
-| Testes em 95% dos dispositivos   | ✓           | [Gabriel Lopes](https://github.com/BrzGab)       |
-| Suporte 3 versões recentes       | ✓           | [Gabriel Lopes](https://github.com/BrzGab)       |
-| Validação múltiplos tamanhos     | ✓           | [Gabriel Lopes](https://github.com/BrzGab)       |
-| 100% legibilidade garantida      | ✓           | [Gabriel Lopes](https://github.com/BrzGab)       |
-| 85% aprovação em testes          | 𝒲+          | [Gabriel Lopes](https://github.com/BrzGab)       |
-| Sincronização a cada 24h         | 𝒲+          | [Gabriel Lopes](https://github.com/BrzGab)       |
-| Cache local de dados             | ✓           | [Gabriel Lopes](https://github.com/BrzGab)       |
+| **NFR**                                                      | **Impacto** | **Avaliador**                                    |
+|--------------------------------------------------------------|-------------|--------------------------------------------------|
+| Confiabilidade                                              | ✓           | [Gabriel Lopes](https://github.com/BrzGab)       |
+| Compatibilidade de Plataforma                               | ✓           | [Gabriel Lopes](https://github.com/BrzGab)       |
+| Compatibilidade de Versões                                  | ✓           | [Gabriel Lopes](https://github.com/BrzGab)       |
+| Responsividade                                              | ✓           | [Gabriel Lopes](https://github.com/BrzGab)       |
+| Aparência Profissional                                      | 𝒲+          | [Gabriel Lopes](https://github.com/BrzGab)       |
+| Dados Atualizados                                           | 𝒲+          | [Gabriel Lopes](https://github.com/BrzGab)       |
+| Funcionamento Offline                                       | ✓           | [Gabriel Lopes](https://github.com/BrzGab)       |
+| Testes nos 20 dispositivos Android mais populares e em iPhones últimos 3 anos | ✓           | [Gabriel Lopes](https://github.com/BrzGab)       |
+| Suporte Android 12-14 e iOS 16-18                          | ✓           | [Gabriel Lopes](https://github.com/BrzGab)       |
+| Validação em resoluções 360x640dp a 1024x1366dp            | ✓           | [Gabriel Lopes](https://github.com/BrzGab)       |
+| Contraste 4.5:1 e fonte mínima 14sp                        | ✓           | [Gabriel Lopes](https://github.com/BrzGab)       |
+| Média 4.0/5.0 em teste com 50 usuários                     | 𝒲+          | [Gabriel Lopes](https://github.com/BrzGab)       |
+| Sincronização tempo real (críticos), 1h (secundários), 24h (históricos) | 𝒲+          | [Gabriel Lopes](https://github.com/BrzGab)       |
+| Cache local com 30 dias de retenção                        | ✓           | [Gabriel Lopes](https://github.com/BrzGab)       |
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Gabriel Lopes](https://github.com/BrzGab), 2025)</p></font>
 
@@ -1002,7 +1002,33 @@ A análise da propagação mostra que:
 - Os requisitos de **compatibilidade** e **responsividade** foram plenamente satisfeitos (✓)
 - **Aparência Profissional** e **Dados Atualizados** foram fracamente satisfeitos (𝒲+), indicando necessidade de melhorias
 - Os requisitos de **funcionamento offline** e **compatibilidade de versões** foram plenamente satisfeitos (✓)
-- As operacionalizações relacionadas a testes e validações técnicas obtiveram satisfação plena
+- As operacionalizações específicas para dispositivos Android populares e iPhones dos últimos 3 anos obtiveram satisfação plena
+- As validações técnicas de resolução (360x640dp a 1024x1366dp) e acessibilidade (contraste 4.5:1 e fonte mínima 14sp) foram plenamente satisfeitas
+
+### Detalhamento das Operacionalizações
+
+#### Compatibilidade de Plataforma:
+- **Testes nos 20 dispositivos Android mais populares**: Cobertura dos principais fabricantes (Samsung, Xiaomi, Motorola, etc.) e modelos mais utilizados no mercado brasileiro
+- **Testes em iPhones últimos 3 anos**: Garantia de funcionamento em iPhone 12, 13, 14, 15 e suas variantes (Mini, Pro, Pro Max)
+
+#### Compatibilidade de Versões:
+- **Suporte Android 12-14**: Cobertura das versões Android mais utilizadas atualmente
+- **Suporte iOS 16-18**: Compatibilidade com as versões iOS mais recentes e amplamente adotadas
+
+#### Responsividade:
+- **Validação em resoluções 360x640dp a 1024x1366dp**: Cobertura desde smartphones compactos até tablets grandes
+- **Contraste 4.5:1 e fonte mínima 14sp**: Conformidade com diretrizes de acessibilidade WCAG 2.1
+
+#### Aparência Profissional:
+- **Média 4.0/5.0 em teste com 50 usuários**: Validação quantitativa da percepção de qualidade e confiabilidade
+
+#### Dados Atualizados:
+- **Sincronização tempo real (críticos)**: Para dados essenciais como status de serviços
+- **Sincronização 1h (secundários)**: Para informações importantes mas não críticas
+- **Sincronização 24h (históricos)**: Para dados de arquivo e relatórios
+
+#### Funcionamento Offline:
+- **Cache local com 30 dias de retenção**: Armazenamento local suficiente para uso prolongado sem conexão
 
 ### Priorização MoSCoW
 
@@ -1019,7 +1045,7 @@ Aplicando a técnica MoSCoW aos requisitos de confiabilidade:
 
 Todos os requisitos de confiabilidade foram classificados como **Must have**, refletindo sua importância crítica para o sucesso do sistema.
 
-### Validação com Usuário
+### Validação com Usuário - Online
 
 **Vídeo 7** - Validação e Priorização de NFR de Confiabilidade com usuário por [Gabriel Lopes](https://github.com/BrzGab)
 
@@ -1036,6 +1062,25 @@ Todos os requisitos de confiabilidade foram classificados como **Must have**, re
 Este documento confirma que a(o) cidadão **Daniel Rodrigues Nascimento** forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
 
 O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1EB1p_smwvLfqsPcUb_7nWpKIXuzLOx02/view)
+
+
+### Validação com Usuário - Presencial
+
+**Vídeo 7** - Validação e Priorização de NFR de Confiabilidade com usuário por [Gabriel Lopes](https://github.com/BrzGab)
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/JrJiVtCTk8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=JrJiVtCTk8Y" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+| **Nome** | **Função** | **Data** | **Hora** |
+|:---------:|:------------------------:|:--------:|:--------:|
+| [Gabriel Lopes](https://github.com/BrzGab) | Elaborador dos NFR | 26/06/2025 | 13:30 |
+| João Vitor Alves Viana | Cidadão | 26/06/2025 | 13:30 |
+
+## Termo de consentimento de imagem 
+Este documento confirma que a(o) cidadão **João Vitor Alves Viana** forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/12b8VxisovXvTVVNVnkFhr8HfvocugJdL/view?usp=sharing)
 
 
 ---
@@ -1108,3 +1153,4 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | 2.1| Adicionando vídeo de entrevista presencial| [Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz)| 18/06/2025 |  [João Marcos Moraes](https://github.com/JJOAOMARCOSS)     | 22/06/2025      |
 | 2.2| Adicionando vídeo de entrevista presencial| [Luiza da Silva Pugas](https://github.com/Luizaxx)| 21/06/2025 |  [João Marcos Moraes](https://github.com/JJOAOMARCOSS)     | 22/06/2025      |
 | 2.3| Adicionando validação presencial do Artur com Felipe| [Artur Mendonça](https://github.com/ArtyMend07)| 07/07/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9)     | 07/07/2025      |
+| 2.4 | Adicionando o link da validação |  [Gabriel Lopes](https://github.com/BrzGab) |07/07/2025 |[João Marcos Moraes](https://github.com/JJOAOMARCOSS)  | 07/07/2025 |
