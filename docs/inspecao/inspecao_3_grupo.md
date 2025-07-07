@@ -24,9 +24,9 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 - Lucas Mendonça Arruda
 - Luiza da Silva Pugas
 
-## Lista de Inspeção - Baseada no plano de ensino 
+## Lista de Inspeção - Modelagem de Requisitos 
 
-<p align="center"> Tabela 1 - Lista de Inspeção Baseada no Plano de Ensino </p>
+<p align="center"> Tabela 1 - Lista de Inspeção </p>
 
 | ID  | Item de Verificação                                                            | Autor                                                                                       | Revisores                                                                                                                                                                                                                                                                                 | Conforme / Não Conforme / Não se Aplica |
 | --- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
