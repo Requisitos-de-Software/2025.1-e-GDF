@@ -45,8 +45,7 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 
 <font size="3"><p style="text-align: center"> Elaborado pelos(as) autores(as): ([Gabriel Lopes](https://github.com/BrzGab) e [Artur Mendonça](https://github.com/ArtyMend07), 2025).</p></font>
 
-
-
+---
 
 ## Lista de Inspeção - Fordward From 
 
@@ -69,6 +68,7 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 
 <font size="3"><p style="text-align: center"> Elaborado pelos(as) autores(as): ([Karoline Luz](https://github.com/KarolineLuz) e [Ana Victória](https://github.com/navicg), 2025)</p></font>
 
+---
 
 ## Lista de Inspeção - Matriz de Rastreabilidade
 
@@ -117,9 +117,11 @@ No geral, a entrega está bem estruturada e o grupo demonstrou um bom trabalho. 
 
 Parabéns pelo esforço e pela dedicação!
 
+---
+
 ## Referências 
 
-- Lista de verificação elaborada pelo grupo para avaliar todos os artefatos da Entrega 4 do projeto. Disponível em: [Lista de verificação](../verificacao/grupo/entrega06/entrega06grupo+1.md).
+> Lista de verificação elaborada pelo grupo para avaliar todos os artefatos da Entrega 4 do projeto. Disponível em: [Lista de verificação](../verificacao/grupo/entrega06/entrega06grupo+1.md).
 
 ## Histórico de Versões
 | Versão | Descrição                                                                                          | Autor(es)                                             | Data       | Revisor(es)                                        | Data de revisão |
