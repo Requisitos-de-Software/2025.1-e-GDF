@@ -273,6 +273,12 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GdncDHMK1DQ" title="Validação Backlog - Gabriel Lopes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+### Validação 3 - Gabriel Lopes - Presencial
+
+
+**Vídeo 3** - Validação com usuário por Gabriel Lopes
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3pI5FZhF2XM" title="Validação Backlog - Gabriel Lopes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **Tabela 6** - Informações da validação 3
 
