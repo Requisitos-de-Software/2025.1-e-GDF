@@ -25,3 +25,10 @@ Mas em compensação, achei muito fácil trabalhar com as histórias de usuário
 Minha principal contribuição foi com a introspecção, o que funcionou bem na parte de levantamento de requisitos. Como eu já conhecia o contexto graças ao interesse pessoal e às outras técnicas de elicitação, consegui imaginar situações e pensar como um usuário. Isso facilitou bastante a elicitação.
 Já a parte da rastreabilidade, principalmente o modelo *Backward-from*, foi mais complicada. Demorou um pouco até entender como conectar tudo de forma coerente, desde os requisitos até os artefatos finais.
 
+---
+
+### [João Marcos Moraes](https://github.com/JJOAOMARCOSS)
+
+Ajudei bastante no brainstorming nas fases iniciais, mas minha maior dificuldade foi com o NFR Framework. Tive que buscar ajuda com o professor pra entender melhor como identificar e classificar os requisitos não-funcionais.
+Por outro lado, a parte de história de usuário foi bem mais tranquila, achei bem direto com o que o nome sugere e por isso foi fácil assimilar.
+
