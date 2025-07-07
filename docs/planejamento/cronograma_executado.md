@@ -6,6 +6,8 @@ Esse cronograma tem como objetivo mostrar as atividades que foram desenvolvidas 
 
 ## Ponto de controle 1
 
+**Tabela 1** - Planejamento
+
 A tabela 1 mostra as atividades realizadas durante a fase de planejamento do projeto.
 
 | Atividade               | Desenvolvimento da atividade    | Autores                      | Revisores        |  Período de revisão da atividade |
@@ -26,11 +28,17 @@ A tabela 1 mostra as atividades realizadas durante a fase de planejamento do pro
 | Inspeção | Início: 14/04/2025  <br>Fim: 14/04/2025 | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos Moraes](https://github.com/JJOAOMARCOSS), [Karoline Luz](https://github.com/KarolineLuz), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva](https://github.com/Luizaxx) |  [Artur Mendonça](https://github.com/ArtyMend07) | Início: 14/04/2025  <br>Fim: 14/04/2025 |
 | Eventuais correções | Início: 17/04/2025  <br>Fim: 18/04/2025 | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos Moraes](https://github.com/JJOAOMARCOSS), [Karoline Luz](https://github.com/KarolineLuz), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva](https://github.com/Luizaxx) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos Moraes](https://github.com/JJOAOMARCOSS), [Karoline Luz](https://github.com/KarolineLuz), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva](https://github.com/Luizaxx) | Início: 18/04/2025  <br>Fim: 18/04/2025 |
 
-**Tabela 1** - Planejamento
 
 <font size="3"><p style="text-align: center">Elaborado por: [Lucas Mendonça](https://github.com/lucasarruda9).</p></font>
+=======
+
+<br>
+Fonte: Elaborado pelos autor(es)([Lucas Mendonça](https://github.com/lucasarruda9), 2025.)
+
 
 ## Ponto de controle 2
+
+**Tabela 2** - Elicitação e Priorização
 
 A tabela 2 mostra as atividades realizadas durante a fase de elicitação e priorização do projeto.
 
@@ -48,11 +56,14 @@ A tabela 2 mostra as atividades realizadas durante a fase de elicitação e prio
 | Priorização: ROI | Início: 04/05/2025 <br>Fim: 04/05/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | [Lucas Mendonça](https://github.com/lucasarruda9) | Início: 04/05/2025 <br>Fim: 04/05/2025 |
 | Eventuais correções | Início: 04/05/2025 <br>Fim: 05/05/2025 | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos Moraes](https://github.com/JJOAOMARCOSS), [Karoline Luz](https://github.com/KarolineLuz), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva](https://github.com/Luizaxx) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos Moraes](https://github.com/JJOAOMARCOSS), [Karoline Luz](https://github.com/KarolineLuz), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva](https://github.com/Luizaxx) | Início: 05/05/2025 <br>Fim: 05/05/2025 |
 
-**Tabela 2** - Elicitação e Priorização
 
-<font size="3"><p style="text-align: center">Elaborado por: [Artur Mendonça](https://github.com/ArtyMend07).</p></font>
+<br>
+Fonte: Elaborado pelos autor(es)([Artur Mendonça](https://github.com/ArtyMend07), 2025.)
+
 
 ## Ponto de controle 3
+
+**Tabela 3** - Modelagem de requisitos I
 
 A tabela 3 mostra as atividades programadas durante a fase de modelagem de requisitos I.
 
@@ -70,11 +81,12 @@ A tabela 3 mostra as atividades programadas durante a fase de modelagem de requi
 | Eventuais correções | Início: 20/05/2025  <br>Fim: 22/05/2025 | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos Moraes](https://github.com/JJOAOMARCOSS), [Karoline Luz](https://github.com/KarolineLuz), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva](https://github.com/Luizaxx) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos Moraes](https://github.com/JJOAOMARCOSS), [Karoline Luz](https://github.com/KarolineLuz), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva](https://github.com/Luizaxx) | Início: 20/05/2025  <br>Fim: 23/05/2025 |
 
 
-**Tabela 3** - Modelagem de requisitos I
+Fonte: Elaborado pelos autor(es)([Gabriel Lopes](https://github.com/BrzGab), 2025.)
 
-<font size="3"><p style="text-align: center">Elaborado por: [Gabriel Lopes](https://github.com/BrzGab).</p></font>
 
 ## Ponto de controle 4
+
+**Tabela 4** - Modelagem de requisitos I  
 
 A tabela 4 mostra as atividades programadas durante a fase de modelagem de requisitos II.
 
@@ -86,12 +98,14 @@ A tabela 4 mostra as atividades programadas durante a fase de modelagem de requi
 | Gravação da apresentação | Início: 30/05/2025  <br>Fim: 01/06/2025 | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos Moraes](https://github.com/JJOAOMARCOSS), [Karoline Luz](https://github.com/KarolineLuz), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva](https://github.com/Luizaxx) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos Moraes](https://github.com/JJOAOMARCOSS), [Karoline Luz](https://github.com/KarolineLuz), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva](https://github.com/Luizaxx) | Início: 30/05/2025  <br>Fim: 01/06/2025 |
 | Eventuais correções | Início: 30/05/2025  <br>Fim: 03/06/2025 | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos Moraes](https://github.com/JJOAOMARCOSS), [Karoline Luz](https://github.com/KarolineLuz), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva](https://github.com/Luizaxx) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos Moraes](https://github.com/JJOAOMARCOSS), [Karoline Luz](https://github.com/KarolineLuz), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva](https://github.com/Luizaxx) | Início: 30/05/2025  <br>Fim: 03/06/2025 |
 
-**Tabela 4** - Modelagem de requisitos II
+**Tabela 4** - Modelagem de requisitos I  
+Fonte: Elaborado pelos autor(es)([Karoline Luz](https://github.com/KarolineLuz), 2025.)
 
-<font size="3"><p style="text-align: center">Elaborado por: [Karoline Luz](https://github.com/KarolineLuz).</p></font>
 
 
 ## Ponto de controle 5
+
+**Tabela 5** - Pós-Rastreabilidade - Gerência II
 
 A tabela 5 mostra as atividades programadas durante a fase de Pós-Rastreabilidade - Gerência II.
 
@@ -104,6 +118,7 @@ A tabela 5 mostra as atividades programadas durante a fase de Pós-Rastreabilida
 | Artefato de Apresentação-Entrega 5               | Início: 08/06/2025  <br>Fim: 08/06/2025         |  [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos Moraes](https://github.com/JJOAOMARCOSS), [Karoline Luz](https://github.com/KarolineLuz), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva](https://github.com/Luizaxx)                         |   [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos Moraes](https://github.com/JJOAOMARCOSS), [Karoline Luz](https://github.com/KarolineLuz), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva](https://github.com/Luizaxx)                       | Início: 08/06/2025  <br>Fim: 08/06/2025 |
 | Inspeção              | Início: 06/06/2025  <br>Fim: 07/06/2025              |  [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos Moraes](https://github.com/JJOAOMARCOSS), [Karoline Luz](https://github.com/KarolineLuz), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva](https://github.com/Luizaxx)                         |   [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos Moraes](https://github.com/JJOAOMARCOSS), [Karoline Luz](https://github.com/KarolineLuz), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva](https://github.com/Luizaxx)                       | Início: 08/06/2025  <br>Fim: 08/06/2025 |
  
+
 **Tabela 5** - Pós-Rastreabilidade - Gerência II
 
 <font size="3"><p style="text-align: center">Elaborado por: [Ana Victória](https://github.com/navicg).</p></font>
@@ -140,5 +155,6 @@ As atividades planejadas neste cronograma foram baseadas nos seguintes documento
 | 1.1    | Adição do Ponto de Controle 2 e Padronização das Tabelas                                      | [Artur Mendonça](https://github.com/ArtyMend07)      | 11/05/2025 |        [Gabriel Lopes](https://github.com/BrzGab)        | 11/05/2025                |
 | 1.3    | Documentação do Ponto de Controle 3                                    |   [Gabriel Lopes](https://github.com/BrzGab)    | 18/05/2025 |   [Artur Mendonça](https://github.com/ArtyMend07)     | 18/05/2025                |
 | 1.4    | Documentação do Ponto de Controle 4                                    |   [Karoline Luz](https://github.com/KarolineLuz)  | 01/06/2025 |  [Ana Victória](https://github.com/navicg)   | 01/06/2025                |
-| 1.5    | Documentação do Ponto de Controle 5                                    |   [Ana Victória](https://github.com/navicg)  | 08/06/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx)  | 08/06/2025                |
-| 1.6    | Documentação do Ponto de Controle 6 e padronização das fontes das tabelas | [Artur Mendonça](https://github.com/ArtyMend07) | 06/07/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 07/07/2025 |
+| 1.5    | Documentação do Ponto de Controle 5                                    |   [Ana Victória](https://github.com/navicg)  | 08/06/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx)  | 08/06/2025                |r
+| 1.6    | Documentação do Ponto de Controle 6 e padronização das fontes das tabelas | [Artur Mendonça](https://github.com/ArtyMend07) e [Lucas Mendonça](https://github.com/lucasarruda9)| 06/07/2025 | [Luiza da Silva Pugas](https://github.com/Luizaxx) | 07/07/2025 |
+

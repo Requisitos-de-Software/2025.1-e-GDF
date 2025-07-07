@@ -974,6 +974,22 @@ Este documento confirma que o cidadão **Daniel Rodrigues Nascimento** forneceu 
 
 O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1EB1p_smwvLfqsPcUb_7nWpKIXuzLOx02/view?usp=sharing)
 
+**Vídeo 4** - Validação e Priorização com usuário por [Gabriel Lopes](https://github.com/BrzGab) - Presencial
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/evtj6H5S3AQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=evtj6H5S3AQ" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+| **Nome** | **Função** | **Data** | **Hora** |
+|:---------:|:------------------------:|:--------:|:--------:|
+| [Gabriel Lopes de Amorim](https://github.com/BrzGab) | Elaborador das histórias | 26/06/2025 | 14:00 |
+| Felipe Henrique Oliveira Sousa | Cidadão | 26/06/2025 | 14:00 |
+
+## Termo de consentimento de imagem 
+Este documento confirma que o cidadão **Felipe Henrique Oliveira Sousa** forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1VSD-RrORJCSeMZCZUYLakKQfTG51WQSu/view?usp=sharing)
+
 ## US19 - Centralização das Informações de Agendamento {#us19}
 
 ??? abstract "Tabela 24 - História de Usuário - Acessar informações de agendamento e reagendamento de forma centralizada, promovendo praticidade e transparência ao cidadão"
@@ -2175,3 +2191,4 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 | 1.57  | Removendo Subtarefas | [Karoline Luz](https://github.com/KarolineLuz) |01/06/2025 | [Artur Mendonça](https://github.com/ArtyMend07) | 03/06/2025 |
 | 1.58  | Adicionando link do vídeo 7 | [Lucas Mendonça](http://github.com/lucasarruda9) |01/06/2025 | [Gabriel Lopes](https://github.com/BrzGab) | 01/06/2025 |
 | 2.0 | Removendo Requisitos Não-Funcionais |  [Karoline Luz](https://github.com/KarolineLuz) |19/06/2025 |[João Marcos Moraes](https://github.com/JJOAOMARCOSS)  | 22/06/2025 |
+| 2.1 | Adicionando o link da validação |  [Gabriel Lopes](https://github.com/BrzGab) |07/07/2025 |[João Marcos Moraes](https://github.com/JJOAOMARCOSS)  | 07/07/2025 |
