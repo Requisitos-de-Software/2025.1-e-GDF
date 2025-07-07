@@ -9,7 +9,7 @@ Este documento apresenta uma lista de verificação para avaliar os artefatos pr
 - Facilitar o processo de revisão pelos integrantes do grupo;
 - Assegurar que todos os itens exigidos estejam completos e corretos.
 
-### Lista de Verificação - Baseada no plano de ensino
+### Lista de Verificação
 
 <p align="center">Tabela 1 – Lista de Verificação 1</p>
 
