@@ -11,3 +11,10 @@ Este documento apresenta as considerações finais do projeto desenvolvido pelo 
 A maior dificuldade foi trabalhar com o NFR Framework, entender como aplicar corretamente os critérios e relacionar os diferentes tipos de softgoals que existem. Também tive dificuldade em formular perguntas abertas e não tendenciosas nas entrevistas, exigiu bastante cuidado.
 Por outro lado, achei bem tranquilo montar os cenários, porque já estava com as ideias frescas da interação com os usuários. Foi interessante imaginar situações reais a partir do que eles relataram.
 
+---
+
+### [Artur Mendonça](https://github.com/ArtyMend07)
+
+Fiquei bastante envolvido nas entrevistas, tanto conduzindo quanto organizando as respostas depois. Tive um pouco de dificuldade na hora de construir o protótipo. aprender a usar o figma e fazer protótipos foi bastante desafiador no início.
+Mas em compensação, achei muito fácil trabalhar com as histórias de usuário. A estrutura já é bem conhecida e direta, o que ajudou a transformar as necessidades dos usuários em algo mais técnico e utilizável no projeto.
+
