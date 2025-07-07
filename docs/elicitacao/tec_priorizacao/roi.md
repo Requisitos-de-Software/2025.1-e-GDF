@@ -34,7 +34,7 @@ Para aplicar a técnica ROI, seguimos os seguintes passos:
 ## Links das gravações
 [Link para a gravação da reunião](https://youtu.be/eH5Uf2jb0g8)
 
-[Link para a gravação da validação presencial - Ryan](https://youtu.be/t0iZhyftfzo)
+[Link para a gravação da validação presencial](https://youtu.be/qV9kIen-EDQ)
 
 ## Priorização dos Requisitos
 
@@ -195,3 +195,4 @@ Com base na priorização realizada, podemos observar que:
 | 2.0    | Adição de hyperlinks de rastreabilidade nas tabelas de requisitos | [Artur Mendonça](https://github.com/ArtyMend07)        | 15/05/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 16/05/2025      |
 | 2.1    | Adição do link da validação presencial | [Artur Mendonça](https://github.com/ArtyMend07)        | 22/06/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 22/06/2025      |
 | 2.2    | Padronizando fontes das tabelas e adicionando hyperlink do autor | [Artur Mendonça](https://github.com/ArtyMend07)        | 04/07/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 07/07/2025      |
+| 2.2    | Corrige link da reunião presencial | [Artur Mendonça](https://github.com/ArtyMend07)        | 07/07/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 07/07/2025      |
