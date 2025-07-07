@@ -238,6 +238,26 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelo(a) autor(a) ([Gabriel Lopes](https://github.com/BrzGab), 2025)</p></font>
 
+**Vídeo 4** - Validação dos cenários 07, 08 e 09.
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/aEmanl6qw6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/aEmanl6qw6c" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor([Gabriel Lopes](https://github.com/BrzGab), 2025)</p></font>
+
+## Termo de consentimento de imagem 
+Este documento confirma que o cidadão Felipe Henrique forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1VSD-RrORJCSeMZCZUYLakKQfTG51WQSu/view?usp=sharing)
+
+| Participante   | Entrevistador                                             | Data       | Horário       | Local |
+| -------------- | ----------------------------------------------------- | ---------- | ------------- | ----- |
+| Felipe Henrique | [Gabriel Lopes](https://github.com/BrzGab) | 26/06/2025 | 11:00 - 11:30 | FGA   |
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor([BrzGab](https://github.com/BrzGab), 2025)</p></font>
+
+
 ---
 
 ### Cenário 10: Alterar idioma do aplicativo

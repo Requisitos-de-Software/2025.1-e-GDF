@@ -294,12 +294,14 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 | **Autor** | **Usuário Participante** |
 | :-------- | :---------------------- |
-| [Gabriel Lopes](https://github.com/BrzGab) | Daniel Rodrigues Nascimento |
+| [Gabriel Lopes](https://github.com/BrzGab) | Daniel Rodrigues Nascimento e João Vitor Alves Viana |
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado por ([Gabriel Lopes](https://github.com/BrzGab), 2025).</p></font>
 
 ## Termo de consentimento de imagem 
 Este documento confirma que o cidadão **Daniel Rodrigues Nascimento** forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+Este documento confirma que o cidadão **João Vitor Alves Viana** forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
 
 O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1EB1p_smwvLfqsPcUb_7nWpKIXuzLOx02/view?usp=sharing)
 
