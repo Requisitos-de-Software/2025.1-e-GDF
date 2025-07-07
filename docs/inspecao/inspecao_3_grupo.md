@@ -28,31 +28,30 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 
 <p align="center"> Tabela 1 - Lista de Inspeção Baseada no Plano de Ensino </p>
 
-| ID  | Item                                                                           | Autor                                                                                       | Revisores                                                                                                                                                                                                                                                                                 |  Conforme / Não Conforme / Incompleto                          |
+| ID  | Item de Verificação                                                            | Autor                                                                                       | Revisores                                                                                                                                                                                                                                                                                 | Conforme / Não Conforme / Não se Aplica |
 | --- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
-| 1   | As especificações dos cenários para o projeto.                                 | [Ana Victória](https://github.com/navicg)                                                  | [Ana Victória](https://github.com/navicg) [Artur Mendonça](https://github.com/ArtyMend07) [Gabriel Lopes](https://github.com/BrzGab) [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9) [Luiza da Silva Pugas](https://github.com/Luizaxx) | <input type="checkbox" checked> |
-| 2   | Os cenários possuem os elementos básicos de um cenário.                        | [Artur Mendonça](https://github.com/ArtyMend07)                                             | [Ana Victória](https://github.com/navicg) [Artur Mendonça](https://github.com/ArtyMend07) [Gabriel Lopes](https://github.com/BrzGab) [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9) [Luiza da Silva Pugas](https://github.com/Luizaxx) | <input type="checkbox" checked> |
-| 3   | As especificações dos Léxicos.                                                 | [Gabriel Lopes](https://github.com/BrzGab)                                                  | [Ana Victória](https://github.com/navicg) [Artur Mendonça](https://github.com/ArtyMend07) [Gabriel Lopes](https://github.com/BrzGab) [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9) [Luiza da Silva Pugas](https://github.com/Luizaxx) | <input type="checkbox" checked> |
-| 4   | A definição do usuário nos Léxicos.                                            | [João Marcos](https://github.com/JJOAOMARCOSS)                                              | [Ana Victória](https://github.com/navicg) [Artur Mendonça](https://github.com/ArtyMend07) [Gabriel Lopes](https://github.com/BrzGab) [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9) [Luiza da Silva Pugas](https://github.com/Luizaxx) | <input type="checkbox" checked> |
-| 5   | Os léxicos possuem ligações entre si (hiper links)?                            | [Lucas Mendonça](https://github.com/lucasarruda9)                                           | [Ana Victória](https://github.com/navicg) [Artur Mendonça](https://github.com/ArtyMend07) [Gabriel Lopes](https://github.com/BrzGab) [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9) [Luiza da Silva Pugas](https://github.com/Luizaxx) | <input type="checkbox" checked> |
-| 6   | Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)?         | [Luiza da Silva Pugas](https://github.com/Luizaxx)                                          | [Ana Victória](https://github.com/navicg) [Artur Mendonça](https://github.com/ArtyMend07) [Gabriel Lopes](https://github.com/BrzGab) [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9) [Luiza da Silva Pugas](https://github.com/Luizaxx) | <input type="checkbox" checked> |
-| 7   | A especificação do caso de uso.                                                | [Karoline Luz](https://github.com/KarolineLuz)                                              | [Ana Victória](https://github.com/navicg) [Artur Mendonça](https://github.com/ArtyMend07) [Gabriel Lopes](https://github.com/BrzGab) [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9) [Luiza da Silva Pugas](https://github.com/Luizaxx) | <input type="checkbox" checked> |
-| 8   | Os atores principais e atores secundários no diagrama de caso de uso?          | [Gabriel Lopes](https://github.com/BrzGab)                                                  | [Ana Victória](https://github.com/navicg) [Artur Mendonça](https://github.com/ArtyMend07) [Gabriel Lopes](https://github.com/BrzGab) [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9) [Luiza da Silva Pugas](https://github.com/Luizaxx) | <input type="checkbox" checked> |
-| 9   | O ator principal está do lado esquerdo do sistema no diagrama de caso de uso?  | [Ana Victória](https://github.com/navicg)                                                   | [Ana Victória](https://github.com/navicg) [Artur Mendonça](https://github.com/ArtyMend07) [Gabriel Lopes](https://github.com/BrzGab) [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9) [Luiza da Silva Pugas](https://github.com/Luizaxx) | <input type="checkbox" checked> |
-| 10  | Os atores estão fora da caixa de limite do sistema no diagrama de caso de uso? | [João Marcos](https://github.com/JJOAOMARCOSS)                                              | [Ana Victória](https://github.com/navicg) [Artur Mendonça](https://github.com/ArtyMend07) [Gabriel Lopes](https://github.com/BrzGab) [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9) [Luiza da Silva Pugas](https://github.com/Luizaxx) | <input type="checkbox" checked> |
+| 1   | As especificações dos cenários para o projeto.                                 | [Ana Victória](https://github.com/navicg)                                                  | [Ana Victória](https://github.com/navicg) [Artur Mendonça](https://github.com/ArtyMend07) [Gabriel Lopes](https://github.com/BrzGab) [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9) [Luiza da Silva Pugas](https://github.com/Luizaxx) | <input type="checkbox" checked> Conforme |
+| 2   | Os cenários possuem os elementos básicos de um cenário.                        | [Artur Mendonça](https://github.com/ArtyMend07)                                             | [Ana Victória](https://github.com/navicg) [Artur Mendonça](https://github.com/ArtyMend07) [Gabriel Lopes](https://github.com/BrzGab) [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9) [Luiza da Silva Pugas](https://github.com/Luizaxx) | <input type="checkbox" checked> Conforme |
+| 3   | As especificações dos Léxicos.                                                 | [Gabriel Lopes](https://github.com/BrzGab)                                                  | [Ana Victória](https://github.com/navicg) [Artur Mendonça](https://github.com/ArtyMend07) [Gabriel Lopes](https://github.com/BrzGab) [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9) [Luiza da Silva Pugas](https://github.com/Luizaxx) | <input type="checkbox" checked> Conforme |
+| 4   | A definição do usuário nos Léxicos.                                            | [João Marcos](https://github.com/JJOAOMARCOSS)                                              | [Ana Victória](https://github.com/navicg) [Artur Mendonça](https://github.com/ArtyMend07) [Gabriel Lopes](https://github.com/BrzGab) [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9) [Luiza da Silva Pugas](https://github.com/Luizaxx) | <input type="checkbox" checked> Conforme |
+| 5   | Os léxicos possuem ligações entre si (hiper links)?                            | [Lucas Mendonça](https://github.com/lucasarruda9)                                           | [Ana Victória](https://github.com/navicg) [Artur Mendonça](https://github.com/ArtyMend07) [Gabriel Lopes](https://github.com/BrzGab) [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9) [Luiza da Silva Pugas](https://github.com/Luizaxx) | <input type="checkbox" checked> Conforme |
+| 6   | Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)?         | [Luiza da Silva Pugas](https://github.com/Luizaxx)                                          | [Ana Victória](https://github.com/navicg) [Artur Mendonça](https://github.com/ArtyMend07) [Gabriel Lopes](https://github.com/BrzGab) [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9) [Luiza da Silva Pugas](https://github.com/Luizaxx) | <input type="checkbox" checked> Conforme |
+| 7   | A especificação do caso de uso.                                                | [Karoline Luz](https://github.com/KarolineLuz)                                              | [Ana Victória](https://github.com/navicg) [Artur Mendonça](https://github.com/ArtyMend07) [Gabriel Lopes](https://github.com/BrzGab) [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9) [Luiza da Silva Pugas](https://github.com/Luizaxx) | <input type="checkbox" checked> Conforme |
+| 8   | Os atores principais e atores secundários no diagrama de caso de uso?          | [Gabriel Lopes](https://github.com/BrzGab)                                                  | [Ana Victória](https://github.com/navicg) [Artur Mendonça](https://github.com/ArtyMend07) [Gabriel Lopes](https://github.com/BrzGab) [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9) [Luiza da Silva Pugas](https://github.com/Luizaxx) | <input type="checkbox" checked> Conforme |
+| 9   | O ator principal está do lado esquerdo do sistema no diagrama de caso de uso?  | [Ana Victória](https://github.com/navicg)                                                   | [Ana Victória](https://github.com/navicg) [Artur Mendonça](https://github.com/ArtyMend07) [Gabriel Lopes](https://github.com/BrzGab) [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9) [Luiza da Silva Pugas](https://github.com/Luizaxx) | <input type="checkbox" checked> Conforme |
+| 10  | Os atores estão fora da caixa de limite do sistema no diagrama de caso de uso? | [João Marcos](https://github.com/JJOAOMARCOSS)                                              | [Ana Victória](https://github.com/navicg) [Artur Mendonça](https://github.com/ArtyMend07) [Gabriel Lopes](https://github.com/BrzGab) [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9) [Luiza da Silva Pugas](https://github.com/Luizaxx) | <input type="checkbox" checked> Conforme |
 
 
 <font size="3"><p style="text-align: center">Elaborado por: [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz).</p></font>
 
 ## Gráfico de Conformidade – Cenários, Léxicos e Casos de Uso
 
-<div 
+<div
   style="width: 200px; height: 200px; margin: 0 auto; border-radius: 50%; background: conic-gradient(
     #4caf50 100%,    /* Conforme */
     #f44336 0%,      /* Não Conforme */
-    #ff9800 0%,      /* Incompleto */
     #9e9e9e 0%       /* Não se Aplica */
-  );" 
+  );"
   title="✅ 10 itens Conformes"
 ></div>
 
@@ -64,10 +63,6 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
   <div style="display: flex; align-items: center; gap: 5px;">
     <div style="width: 15px; height: 15px; background: #f44336; border-radius: 3px;"></div>
     <span>Não Conforme (0)</span>
-  </div>
-  <div style="display: flex; align-items: center; gap: 5px;">
-    <div style="width: 15px; height: 15px; background: #ff9800; border-radius: 3px;"></div>
-    <span>Incompleto (0)</span>
   </div>
   <div style="display: flex; align-items: center; gap: 5px;">
     <div style="width: 15px; height: 15px; background: #9e9e9e; border-radius: 3px;"></div>
@@ -83,7 +78,7 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 
 <p align="center">Tabela 2 – Lista de Inspeção de Itens Técnicos e Documentais </p>
 
-| ID  | Item de Verificação | Autor | Revisores | Evidência | Conforme / Não Conforme / Incompleto |
+| ID  | Item de Verificação | Autor | Revisores | Evidência | Conforme / Não Conforme / Não se Aplica |
 |-----|---------------------|--------|-----------|-----------|----------|
 | 1 | Referências e bibliografia estão incluídas nos artefatos? - Citação correta de fontes utilizadas para fundamentar o projeto e seus artefatos. | [Ana Victória](https://github.com/navicg) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) |  | <input type="checkbox" checked> Conforme |
 | 2 | Tabelas e imagens possuem legenda e fonte, e são citadas no texto? - Elementos visuais devidamente legendados, com fontes citadas e contextualizadas no texto. | [Artur Mendonça](https://github.com/ArtyMend07) | [Ana Victória](https://github.com/navicg), [Artur Mendonça](https://github.com/ArtyMend07), [Gabriel Lopes](https://github.com/BrzGab), [João Marcos](https://github.com/JJOAOMARCOSS), [Lucas Mendonça](https://github.com/lucasarruda9), [Luiza da Silva Pugas](https://github.com/Luizaxx) e [Karoline Luz](https://github.com/KarolineLuz) |  | <input type="checkbox" checked> Conforme |
@@ -102,9 +97,8 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
   style="width: 200px; height: 200px; margin: 0 auto; border-radius: 50%; background: conic-gradient(
     #4caf50 100%,    /* Conforme */
     #f44336 0%,      /* Não Conforme */
-    #ff9800 0%,      /* Incompleto */
     #9e9e9e 0%       /* Não se Aplica */
-  );" 
+  );"
   title="✅ 7 itens Conformes"
 ></div>
 
@@ -116,10 +110,6 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
   <div style="display: flex; align-items: center; gap: 5px;">
     <div style="width: 15px; height: 15px; background: #f44336; border-radius: 3px;"></div>
     <span>Não Conforme (0)</span>
-  </div>
-  <div style="display: flex; align-items: center; gap: 5px;">
-    <div style="width: 15px; height: 15px; background: #ff9800; border-radius: 3px;"></div>
-    <span>Incompleto (0)</span>
   </div>
   <div style="display: flex; align-items: center; gap: 5px;">
     <div style="width: 15px; height: 15px; background: #9e9e9e; border-radius: 3px;"></div>
@@ -134,7 +124,7 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 
 <p align="center"> Tabela 3 - Lista de Inspeção – Cenários  </p>
 
-| ID  | Descrição da Inspeção                                                                                     | Autores                                                                                    | Revisores                                                                                                                                                                                                                                                                                | Conforme/Não Conforme/Incompleto                    |
+| ID  | Item de Verificação                                                                                     | Autores                                                                                    | Revisores                                                                                                                                                                                                                                                                                | Conforme / Não Conforme / Não se Aplica |
 | --- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
 | 1   | O cenário possui um objetivo claramente descrito, indicando o que se espera alcançar?                     | [João Marcos](https://github.com/JJOAOMARCOSS) e [Ana Victória](https://github.com/navicg) | [Ana Victória](https://github.com/navicg) [Artur Mendonça](https://github.com/ArtyMend07) [Gabriel Lopes](https://github.com/BrzGab) [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9) [Luiza da Silva Pugas](https://github.com/Luizaxx) | <input type="checkbox" checked> Conforme |
 | 2   | Está identificado o ator principal (pessoa ou estrutura que realiza ações no cenário)?                    | [João Marcos](https://github.com/JJOAOMARCOSS) e [Ana Victória](https://github.com/navicg) | [Ana Victória](https://github.com/navicg) [Artur Mendonça](https://github.com/ArtyMend07) [Gabriel Lopes](https://github.com/BrzGab) [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9) [Luiza da Silva Pugas](https://github.com/Luizaxx) | <input type="checkbox" checked> Conforme |
@@ -155,9 +145,8 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
   style="width: 200px; height: 200px; margin: 0 auto; border-radius: 50%; background: conic-gradient(
     #4caf50 100%,    /* Conforme */
     #f44336 0%,      /* Não Conforme */
-    #ff9800 0%,      /* Incompleto */
     #9e9e9e 0%       /* Não se Aplica */
-  );" 
+  );"
   title="✅ 10 itens Conformes"
 ></div>
 
@@ -171,10 +160,6 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
     <span>Não Conforme (0)</span>
   </div>
   <div style="display: flex; align-items: center; gap: 5px;">
-    <div style="width: 15px; height: 15px; background: #ff9800; border-radius: 3px;"></div>
-    <span>Incompleto (0)</span>
-  </div>
-  <div style="display: flex; align-items: center; gap: 5px;">
     <div style="width: 15px; height: 15px; background: #9e9e9e; border-radius: 3px;"></div>
     <span>Não se Aplica (0)</span>
   </div>
@@ -186,7 +171,7 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 
 <p align="center"> Tabela 4 - Lista de Inspeção – Léxicos  </p>
 
-| ID  | Descrição da Inspeção                                                                  | Autores                                                                                          | Revisores                                                                                                                                                                                                                                                                                | Conforme/Não Conforme                    |
+| ID  | Item de Verificação                                                                  | Autores                                                                                          | Revisores                                                                                                                                                                                                                                                                                | Conforme / Não Conforme / Não se Aplica |
 | --- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
 | 1   | O símbolo léxico possui um nome claro e específico?                                    | [Karoline Luz](https://github.com/KarolineLuz) e [Artur Mendonça](https://github.com/ArtyMend07) | [Ana Victória](https://github.com/navicg) [Artur Mendonça](https://github.com/ArtyMend07) [Gabriel Lopes](https://github.com/BrzGab) [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9) [Luiza da Silva Pugas](https://github.com/Luizaxx) | <input type="checkbox" checked> Conforme |
 | 2   | O nome do símbolo léxico aparece nos cenários do sistema?                              | [Karoline Luz](https://github.com/KarolineLuz) e [Artur Mendonça](https://github.com/ArtyMend07) | [Ana Victória](https://github.com/navicg) [Artur Mendonça](https://github.com/ArtyMend07) [Gabriel Lopes](https://github.com/BrzGab) [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9) [Luiza da Silva Pugas](https://github.com/Luizaxx) | <input type="checkbox" checked> Conforme |
@@ -212,9 +197,8 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
   style="width: 200px; height: 200px; margin: 0 auto; border-radius: 50%; background: conic-gradient(
     #4caf50 100%,    /* Conforme */
     #f44336 0%,      /* Não Conforme */
-    #ff9800 0%,      /* Incompleto */
     #9e9e9e 0%       /* Não se Aplica */
-  );" 
+  );"
   title="✅ 15 itens Conformes"
 ></div>
 
@@ -228,10 +212,6 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
     <span>Não Conforme (0)</span>
   </div>
   <div style="display: flex; align-items: center; gap: 5px;">
-    <div style="width: 15px; height: 15px; background: #ff9800; border-radius: 3px;"></div>
-    <span>Incompleto (0)</span>
-  </div>
-  <div style="display: flex; align-items: center; gap: 5px;">
     <div style="width: 15px; height: 15px; background: #9e9e9e; border-radius: 3px;"></div>
     <span>Não se Aplica (0)</span>
   </div>
@@ -243,7 +223,7 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 
 <p align="center"> Tabela 5 - Lista de Inspeção – Diagrama de casos de uso  </p>
 
-| ID  | Descrição da Inspeção                                                                            | Autores                                                                                         | Revisores                                                                                                                                                                                                                                                                                | Conforme/Não Conforme/ Incompleto                   |
+| ID  | Item de Verificação                                                                            | Autores                                                                                         | Revisores                                                                                                                                                                                                                                                                                | Conforme / Não Conforme / Não se Aplica |
 | --- | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
 | 1   | O sistema é representado por um retângulo?                                                       | [Gabriel Lopes](https://github.com/BrzGab) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | [Ana Victória](https://github.com/navicg) [Artur Mendonça](https://github.com/ArtyMend07) [Gabriel Lopes](https://github.com/BrzGab) [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9) [Luiza da Silva Pugas](https://github.com/Luizaxx) | <input type="checkbox" checked> Conforme |
 | 2   | O título do sistema está escrito na parte superior do retângulo?                                 | [Gabriel Lopes](https://github.com/BrzGab) e [Luiza da Silva Pugas](https://github.com/Luizaxx) | [Ana Victória](https://github.com/navicg) [Artur Mendonça](https://github.com/ArtyMend07) [Gabriel Lopes](https://github.com/BrzGab) [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9) [Luiza da Silva Pugas](https://github.com/Luizaxx) | <input type="checkbox" checked> Conforme |
@@ -278,9 +258,8 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
   style="width: 200px; height: 200px; margin: 0 auto; border-radius: 50%; background: conic-gradient(
     #4caf50 100%,    /* Conforme */
     #f44336 0%,      /* Não Conforme */
-    #ff9800 0%,      /* Incompleto */
     #9e9e9e 0%       /* Não se Aplica */
-  );" 
+  );"
   title="✅ 23 itens Conformes"
 ></div>
 
@@ -294,10 +273,6 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
     <span>Não Conforme (0)</span>
   </div>
   <div style="display: flex; align-items: center; gap: 5px;">
-    <div style="width: 15px; height: 15px; background: #ff9800; border-radius: 3px;"></div>
-    <span>Incompleto (0)</span>
-  </div>
-  <div style="display: flex; align-items: center; gap: 5px;">
     <div style="width: 15px; height: 15px; background: #9e9e9e; border-radius: 3px;"></div>
     <span>Não se Aplica (0)</span>
   </div>
@@ -309,7 +284,7 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 
 <p align="center"> Tabela 6 - Lista de Inspeção – Especificação suplementar </p>
 
-| ID  | Descrição da Inspeção                                                                                             | Autores                                           | Revisores                                                                                                                                                                                                                                                                                | Conforme/Não Conforme /Incompleto                  |
+| ID  | Item de Verificação                                                                                             | Autores                                           | Revisores                                                                                                                                                                                                                                                                                | Conforme / Não Conforme / Não se Aplica |
 | --- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
 | 1   | A especificação segue o modelo FURPS+ (Funcionalidade, Usabilidade, Confiabilidade, Desempenho, Suportabilidade)? | [Lucas Mendonça](https://github.com/lucasarruda9) | [Ana Victória](https://github.com/navicg) [Artur Mendonça](https://github.com/ArtyMend07) [Gabriel Lopes](https://github.com/BrzGab) [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9) [Luiza da Silva Pugas](https://github.com/Luizaxx) | <input type="checkbox" checked> Conforme |
 | 2   | Os requisitos de usabilidade foram descritos (ex: tempo de aprendizado, estética, padrões de acessibilidade)?     | [Lucas Mendonça](https://github.com/lucasarruda9) | [Ana Victória](https://github.com/navicg) [Artur Mendonça](https://github.com/ArtyMend07) [Gabriel Lopes](https://github.com/BrzGab) [João Marcos](https://github.com/JJOAOMARCOSS) [Lucas Mendonça](https://github.com/lucasarruda9) [Luiza da Silva Pugas](https://github.com/Luizaxx) | <input type="checkbox" checked> Conforme |
@@ -330,24 +305,19 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
   style="width: 200px; height: 200px; margin: 0 auto; border-radius: 50%; background: conic-gradient(
     #4caf50 100%,    /* Conforme */
     #f44336 0%,      /* Não Conforme */
-    #ff9800 0%,      /* Incompleto */
     #9e9e9e 0%       /* Não se Aplica */
-  );" 
-  title="✅ 10 itens Conformes"
+  );"
+  title="✅ 7 itens Conformes"
 ></div>
 
 <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px; font-family: sans-serif;">
   <div style="display: flex; align-items: center; gap: 5px;">
     <div style="width: 15px; height: 15px; background: #4caf50; border-radius: 3px;"></div>
-    <span>Conforme (10)</span>
+    <span>Conforme (7)</span>
   </div>
   <div style="display: flex; align-items: center; gap: 5px;">
     <div style="width: 15px; height: 15px; background: #f44336; border-radius: 3px;"></div>
     <span>Não Conforme (0)</span>
-  </div>
-  <div style="display: flex; align-items: center; gap: 5px;">
-    <div style="width: 15px; height: 15px; background: #ff9800; border-radius: 3px;"></div>
-    <span>Incompleto (0)</span>
   </div>
   <div style="display: flex; align-items: center; gap: 5px;">
     <div style="width: 15px; height: 15px; background: #9e9e9e; border-radius: 3px;"></div>
@@ -382,3 +352,4 @@ Este documento tem como finalidade verificar se os artefatos produzidos na Etapa
 | 2.0 | Adicionando gráficos de conformidade lista de inspeção baseada no plano de ensino | [Luiza da Silva Pugas](https://github.com/Luizaxx)  | 26/06/2025 |  [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 07/07/2025 |
 | 2.1 | Adicionando gráficos de conformidade itens técnicos e documentais | [Luiza da Silva Pugas](https://github.com/Luizaxx)  | 26/06/2025 |  [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 07/07/2025 |
 | 2.2 | Adicionando gráficos de conformidade da entrega 3: Casos de uso, especificação suplementar, cenários e léxicos| [Luiza da Silva Pugas](https://github.com/Luizaxx)  | 26/06/2025 |  [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 07/07/2025 |
+| 2.3 | Padronização das tabelas, remoção de "Incompleto" e manutenção de "Não se Aplica" | [Artur Mendonça](https://github.com/ArtyMend07) | 07/01/2025 | [Lucas Mendonça ](https://github.com/lucasarruda9) | 07/07/2025 |
