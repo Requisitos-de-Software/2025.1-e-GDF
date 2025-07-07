@@ -18,3 +18,10 @@ Por outro lado, achei bem tranquilo montar os cenários, porque já estava com a
 Fiquei bastante envolvido nas entrevistas, tanto conduzindo quanto organizando as respostas depois. Tive um pouco de dificuldade na hora de construir o protótipo. aprender a usar o figma e fazer protótipos foi bastante desafiador no início.
 Mas em compensação, achei muito fácil trabalhar com as histórias de usuário. A estrutura já é bem conhecida e direta, o que ajudou a transformar as necessidades dos usuários em algo mais técnico e utilizável no projeto.
 
+---
+
+### [Gabriel Lopes](https://github.com/BrzGab)
+
+Minha principal contribuição foi com a introspecção, o que funcionou bem na parte de levantamento de requisitos. Como eu já conhecia o contexto graças ao interesse pessoal e às outras técnicas de elicitação, consegui imaginar situações e pensar como um usuário. Isso facilitou bastante a elicitação.
+Já a parte da rastreabilidade, principalmente o modelo *Backward-from*, foi mais complicada. Demorou um pouco até entender como conectar tudo de forma coerente, desde os requisitos até os artefatos finais.
+
