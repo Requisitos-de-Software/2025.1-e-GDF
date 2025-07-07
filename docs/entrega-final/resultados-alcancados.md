@@ -17,8 +17,9 @@ Além disso, o projeto proporcionou a oportunidade de aplicar, na prática, os c
 
 ## Resultados Obtidos
 
-Ao final do projeto foi realizado 80 artefatos realizados, sendo eles:
+Ao final do projeto foi realizado 87 artefatos realizados, sendo eles:
 
+- 7 de Apresentações das Entregas;
 - 12 Atas de Reunião;
 - 8 de Planejamento;
 - 4 Técnicas de Elicitação;
