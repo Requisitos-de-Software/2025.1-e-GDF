@@ -36,7 +36,6 @@ Uma maneira de organizar e visualizar o uso dessas ferramentas nos projetos é c
 | Google Drive       | Compartilhamento de arquivos e hospedagem de vídeos das reuniões.      | Todas             |
 | Draw.io            | Produção do Rich Picture e do Diagrama de Casos de Uso.                |Etapa 1, 3 e 4|
 | OBS Studio         | Gravação de apresentações e vídeos explicativos do projeto.            | Etapa 6           |
-| ChatGPT            | Auxílio na criação de textos.                                          | Todas             |
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor([Karoline Luz](https://github.com/KarolineLuz), 2025)</p></font>
 
