@@ -1,0 +1,4717 @@
+
+<!doctype html>
+<html lang="pt" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../lexico/">
+      
+      
+        <link rel="next" href="../especificacao_suplementar/">
+      
+      
+      <link rel="icon" href="../../assets/egdf_logo.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.15">
+    
+    
+      
+        <title>Casos de Uso - e-GDF</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.342714a4.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+   <link href="../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+    html.glightbox-open { overflow: initial; height: 100%; }
+    .gslide-title { margin-top: 0px; user-select: text; }
+    .gslide-desc { color: #666; user-select: text; }
+    .gslide-image img { background: white; }
+    .gscrollbar-fixer { padding-right: 15px; }
+    .gdesc-inner { font-size: 0.75rem; }
+    body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+    body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+    body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}</style> <script src="../../assets/javascripts/glightbox.min.js"></script></head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="claro" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#casos-de-uso" class="md-skip">
+          Pular para conteúdo
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Cabeçalho">
+    <a href="../.." title="e-GDF" class="md-header__button md-logo" aria-label="e-GDF" data-md-component="logo">
+      
+  <img src="../../assets/egdf_logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            e-GDF
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Casos de Uso
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="claro" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Escuro"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Escuro" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2A10 10 0 0 0 2 12a10 10 0 0 0 10 10 10 10 0 0 0 10-10A10 10 0 0 0 12 2m0 2a8 8 0 0 1 8 8 8 8 0 0 1-8 8z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Claro"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Claro" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2A10 10 0 0 0 2 12a10 10 0 0 0 10 10 10 10 0 0 0 10-10A10 10 0 0 0 12 2m0 2a8 8 0 0 1 8 8 8 8 0 0 1-8 8z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/Requisitos-de-Software/2025.1-e-GDF" title="Ir para repositório" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    2025.1-e-GDF
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navegação" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="e-GDF" class="md-nav__button md-logo" aria-label="e-GDF" data-md-component="logo">
+      
+  <img src="../../assets/egdf_logo.png" alt="logo">
+
+    </a>
+    e-GDF
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Requisitos-de-Software/2025.1-e-GDF" title="Ir para repositório" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    2025.1-e-GDF
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Apresentação
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Apresentação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacao/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Apresentação 1
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacao2/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Apresentação 2
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacao3/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Apresentação 3
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacao4/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Apresentação 4
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacao6/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Apresentação 6
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacao5/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Apresentação 5
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacao_final/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Apresentação Final
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Atas
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Atas
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata01/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Ata 1
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata02/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Ata 2
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata03/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Ata 3
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata04/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Ata 4
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata_inspecao1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Ata da inspeção da entrega 1
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata05/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Ata 5
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata06/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Ata 6
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata07/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Ata 7
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata08/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Ata 8
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata9/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Ata 9
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata10/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Ata 10
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata11/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Ata 11
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Pré-Rastreabilidade
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Pré-Rastreabilidade
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../pre-rastreabilidade/rich_picture/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Rich Picture
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Planejamento
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Planejamento
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/aplicativos_selecionados/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Aplicativos Selecionados
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/app_selecionado/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Aplicativo Escolhido
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/ferramentas/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Ferramentas
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/heatmap/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Heat Map
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/cronograma/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Cronograma
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/cronograma_executado/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Cronograma Executado
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/metodologia/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Metodologia
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/termos_de_uso/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Termo de Uso
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Elicitação
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Elicitação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_1" id="__nav_6_1_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Técnicas
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_1">
+            <span class="md-nav__icon md-icon"></span>
+            Técnicas
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/tec_elicitacao/analise_documentos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Analise de Documentos
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/tec_elicitacao/brainstorming/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Brainstorming
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/tec_elicitacao/entrevista/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrevista
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/tec_elicitacao/introspeccao/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Introspecção
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_2" id="__nav_6_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Priorização
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_2">
+            <span class="md-nav__icon md-icon"></span>
+            Priorização
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/tec_priorizacao/first_things_first/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    First Things First
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/tec_priorizacao/moscow/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Moscow
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/tec_priorizacao/roi/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    ROI
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/tec_priorizacao/100/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    100
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/req_elicitados/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Requisitos Elicitados
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/perfil_de_usuario/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Perfil de Usuário
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Modelagem
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            Modelagem
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../cenario/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Cenários
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../lexico/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Léxicos
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    Casos de Uso
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    Casos de Uso
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#o-que-sao-casos-de-uso" class="md-nav__link">
+    <span class="md-ellipsis">
+      O que são Casos de Uso
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#definicao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Definição
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#objetivo" class="md-nav__link">
+    <span class="md-ellipsis">
+      Objetivo
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#caracteristicas" class="md-nav__link">
+    <span class="md-ellipsis">
+      Características
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#notacao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Notação
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tipos-de-relacionamento" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tipos de Relacionamento
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../especificacao_suplementar/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Especificação Suplementar
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_5" id="__nav_7_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Ágil
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_5">
+            <span class="md-nav__icon md-icon"></span>
+            Ágil
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../agil/nfrframework/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    NFR Framework
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../agil/backlog/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Backlog
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../agil/historia-de-usuario/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Histórias de Usuário
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Rastreabilidade
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8">
+            <span class="md-nav__icon md-icon"></span>
+            Rastreabilidade
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rastreabilidade/matriz_rastreabilidade/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Matriz de Rastreabilidade
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rastreabilidade/forward_from/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Forward From
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rastreabilidade/backward_from/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Backward From
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9" >
+        
+          
+          <label class="md-nav__link" for="__nav_9" id="__nav_9_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Validação
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9">
+            <span class="md-nav__icon md-icon"></span>
+            Validação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../validacao/prototipacao/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Prototipação
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../validacao/comprovacao/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Comprovação Informal
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10" >
+        
+          
+          <label class="md-nav__link" for="__nav_10" id="__nav_10_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Verificação
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_10_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10">
+            <span class="md-nav__icon md-icon"></span>
+            Verificação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo/avaliacao-1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Avaliação -1
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_10_2" id="__nav_10_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Grupo
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_10_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10_2">
+            <span class="md-nav__icon md-icon"></span>
+            Grupo
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo/entrega01/entrega01grupo/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 1
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo/entrega02/entrega02grupo/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 2
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo/entrega03/entrega03grupo/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 3
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo/entrega04/entrega04grupo/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 4
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo/entrega05/entrega05grupo/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 5
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo/entrega06/entrega06grupo/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 6
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_10_3" id="__nav_10_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Grupo +1
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_10_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10_3">
+            <span class="md-nav__icon md-icon"></span>
+            Grupo +1
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo/entrega01/entrega01grupo%2B1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 1
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo/entrega02/entrega02grupo%2B1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 2
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo/entrega03/entrega03grupo%2B1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 3
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo/entrega04/entrega04grupo%2B1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 4
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo/entrega05/entrega05grupo%2B1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 5
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo/entrega06/entrega06grupo%2B1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 6
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_11" >
+        
+          
+          <label class="md-nav__link" for="__nav_11" id="__nav_11_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Inspeção
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_11_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_11">
+            <span class="md-nav__icon md-icon"></span>
+            Inspeção
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../inspecao/Verifica%C3%A7%C3%A3o-geral/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Planejamento Geral
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_11_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_11_2" id="__nav_11_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Grupo
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_11_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_11_2">
+            <span class="md-nav__icon md-icon"></span>
+            Grupo
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../inspecao/inspecao_1_grupo/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 1
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../inspecao/inspecao_2_grupo/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 2
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../inspecao/inspecao_3_grupo/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 3
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../inspecao/inspecao_4_grupo/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 4
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../inspecao/inspecao_6_grupo/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 5
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../inspecao/inspecao_5_grupo/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 6
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_11_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_11_3" id="__nav_11_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Grupo +1
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_11_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_11_3">
+            <span class="md-nav__icon md-icon"></span>
+            Grupo +1
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../inspecao/inspecao_1_grupo%2B1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 1
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../inspecao/inspecao_2_grupo%2B1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 2
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../inspecao/inspecao_3_grupo%2B1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 3
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../inspecao/inspecao_4_grupo%2B1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 4
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../inspecao/inspecao_6_grupo%2B1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 5
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../inspecao/inspecao_5_grupo%2B1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Entrega 6
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_12" >
+        
+          
+          <label class="md-nav__link" for="__nav_12" id="__nav_12_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Entrega-final
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_12_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_12">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega-final
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../entrega-final/aplicativo-selecionado/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Aplicativos Selecionados
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../entrega-final/artefatos-criados/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Artefatos Criados
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../entrega-final/execucao-projeto/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Execução do Projeto
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../entrega-final/ferramentas-utilizadas/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Ferramentas Utilizadas
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../entrega-final/resultados-alcancados/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Resultados Alcançados
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../entrega-final/tabela-apresentacoes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Tabela de Apresentações
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../entrega-final/tecnicas-utilizadas/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Técnicas utilizadas
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../entrega-final/panejamento-recursos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Planejamento dos Recursos e das entregas
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../entrega-final/verificacao/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Verificação
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../entrega-final/validacao/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Validação
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../entrega-final/consideracoes-finais/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Considerações Finais
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#o-que-sao-casos-de-uso" class="md-nav__link">
+    <span class="md-ellipsis">
+      O que são Casos de Uso
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#definicao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Definição
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#objetivo" class="md-nav__link">
+    <span class="md-ellipsis">
+      Objetivo
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#caracteristicas" class="md-nav__link">
+    <span class="md-ellipsis">
+      Características
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#notacao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Notação
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tipos-de-relacionamento" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tipos de Relacionamento
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+  
+
+
+<h1 id="casos-de-uso">Casos de Uso</h1>
+<h2 id="o-que-sao-casos-de-uso">O que são Casos de Uso</h2>
+<p>Casos de uso são uma técnica de modelagem usada para descrever os <strong>requisitos funcionais</strong> de um sistema, focando nas <strong>interações entre usuários (atores) e o sistema</strong> para atingir determinados objetivos.</p>
+<h2 id="definicao">Definição</h2>
+<p>Um <strong>caso de uso</strong> representa uma sequência de interações entre um ator e o sistema que resulta em um <strong>resultado observável e de valor</strong> para o ator.</p>
+<h2 id="objetivo">Objetivo</h2>
+<p>O principal objetivo dos casos de uso é <strong>documentar como o sistema deve se comportar</strong> em resposta às ações dos usuários, servindo como ponte entre analistas, desenvolvedores e clientes.</p>
+<h2 id="caracteristicas">Características</h2>
+<ul>
+<li>São representados por <strong>diagramas de casos de uso</strong>, utilizando a notação UML (Unified Modeling Language).</li>
+<li>Os <strong>atores</strong> podem ser pessoas, sistemas externos ou dispositivos que interagem com o sistema.</li>
+<li>Cada caso de uso descreve um <strong>fluxo de eventos</strong>, podendo incluir:</li>
+<li><strong>Fluxo principal</strong> </li>
+<li><strong>Fluxos alternativos</strong></li>
+<li><strong>Fluxos de exceção</strong></li>
+</ul>
+<h2 id="notacao">Notação</h2>
+<ul>
+<li>Usar <strong>verbos no infinitivo</strong> para nomear os casos de uso, pois eles representam <strong>ações</strong>.</li>
+<li>Casos de uso são representados por <strong>elipses</strong>, e os atores por <strong>figuras humanas</strong> (para pessoas).</li>
+</ul>
+<h2 id="tipos-de-relacionamento">Tipos de Relacionamento</h2>
+<ul>
+<li><code>include</code>: Indica que um caso de uso <strong>sempre inclui</strong> outro.</li>
+<li><code>extend</code>: Indica que um caso de uso <strong>pode opcionalmente estender</strong> outro.</li>
+<li><code>generalization</code>: Herança entre casos de uso ou entre atores.</li>
+</ul>
+<h1 id="componentes-e-simbolos-de-um-diagrama-de-casos-de-uso">Componentes e Símbolos de um Diagrama de Casos de Uso</h1>
+<table>
+<thead>
+<tr>
+<th><strong>Componente</strong></th>
+<th><strong>Descrição</strong></th>
+<th><strong>Representação</strong></th>
+<th><strong>Observações</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Ator</strong></td>
+<td>Representa um usuário ou sistema externo que interage com o sistema.</td>
+<td><p> boneco de palito </p>   <a class="glightbox" href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/ajuste-simples_imagens/docs/assets/modelagem/casos_de_uso/ator.png" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/ajuste-simples_imagens/docs/assets/modelagem/casos_de_uso/ator.png" style="height:100px;width:100px"/></a></td>
+<td>Pode ser uma pessoa, sistema, dispositivo, etc.</td>
+</tr>
+<tr>
+<td><strong>Sistema</strong></td>
+<td>Define o escopo do sistema e contém os casos de uso.</td>
+<td><p> Retângulo </p> <a class="glightbox" href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/ajuste-simples_imagens/docs/assets/modelagem/casos_de_uso/retangulo.png" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/ajuste-simples_imagens/docs/assets/modelagem/casos_de_uso/retangulo.png" style="height:100px;width:100px"/></a></td>
+<td>Casos de uso fora do retângulo estão fora do escopo.</td>
+</tr>
+<tr>
+<td><strong>Caso de Uso</strong></td>
+<td>Representa uma funcionalidade ou ação do sistema.</td>
+<td><p> Elipse </p>   <a class="glightbox" href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/ajuste-simples_imagens/docs/assets/modelagem/casos_de_uso/caso-De-uso.png" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/ajuste-simples_imagens/docs/assets/modelagem/casos_de_uso/caso-De-uso.png" style="height:100px;width:100px"/></a></td>
+<td>Ex: <code>Realizar login</code></td>
+</tr>
+<tr>
+<td><strong>Comunicação</strong></td>
+<td>Relação entre ator e caso de uso.</td>
+<td><p> Linha sólida </p>   <a class="glightbox" href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/ajuste-simples_imagens/docs/assets/modelagem/casos_de_uso/linha-solida.png" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/ajuste-simples_imagens/docs/assets/modelagem/casos_de_uso/linha-solida.png" style="height:100px;width:100px"/></a></td>
+<td>Indica que o ator executa ou interage com a funcionalidade.</td>
+</tr>
+<tr>
+<td><strong>Inclusão</strong> (<code>&lt;&lt;include&gt;&gt;</code>)</td>
+<td>Um caso de uso inclui outro obrigatoriamente.</td>
+<td><p> Linha tracejada com seta e nome <code>&lt;&lt;include&gt;&gt;</code>. </p>   <a class="glightbox" href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/ajuste-simples_imagens/docs/assets/modelagem/casos_de_uso/linha-tracejada.png" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/ajuste-simples_imagens/docs/assets/modelagem/casos_de_uso/linha-tracejada.png" style="height:100px;width:100px"/></a></td>
+<td>O caso incluído <strong>sempre</strong> será executado.</td>
+</tr>
+<tr>
+<td><strong>Extensão</strong> (<code>&lt;&lt;extend&gt;&gt;</code>)</td>
+<td>Um caso de uso pode adicionar comportamento opcional a outro.</td>
+<td><p> Linha tracejada com seta apontada para o caso base e nome <code>&lt;&lt;extend&gt;&gt;</code>. </p>   <a class="glightbox" href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/ajuste-simples_imagens/docs/assets/modelagem/casos_de_uso/extensao.png" data-type="image" data-width="100%" data-height="auto" data-desc-position="bottom"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/ajuste-simples_imagens/docs/assets/modelagem/casos_de_uso/extensao.png" style="height:100px;width:100px"/></a></td>
+<td>O caso estendido <strong>pode ou não</strong> ser executado.</td>
+</tr>
+</tbody>
+</table>
+<p><font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor (<a href="https://github.com/BrzGab">Gabriel Lopes</a> e <a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a>, 2025).</p></font></p>
+<h2 id="metodologia">Metodologia</h2>
+<p>Para o levantamento e modelagem dos requisitos do sistema, foi adotada uma abordagem baseada na <strong>Engenharia de Requisitos</strong>, com foco na identificação e documentação dos <strong>requisitos funcionais</strong> por meio de <strong>Casos de Uso</strong>.</p>
+<p>A modelagem seguiu os princípios da UML (Unified Modeling Language), utilizando o <strong>Diagrama de Casos de Uso</strong> como ferramenta principal para representar as interações entre os usuários (atores) e o sistema.
+A ferramenta utilizada para a criação do diagrama foi o <strong><a href="https://www.drawio.com/">Drawio</a></strong></p>
+<h2 id="diagrama-de-casos-de-uso">Diagrama de Casos de Uso</h2>
+<p><a href="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/gb_imagenss/docs/assets/modelagem/casos_de_uso/Diagrama%20de%20Casos%20de%20Uso.drawio%5BATUALIZADO%5D.png"><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/gb_imagenss/docs/assets/modelagem/casos_de_uso/Diagrama%20de%20Casos%20de%20Uso.drawio%5BATUALIZADO%5D.png" alt="diagrama-casos-de-uso-2" border="0"></a></p>
+<p><font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor (<a href="https://github.com/BrzGab">Gabriel Lopes</a> e <a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a>, 2025).</p></font></p>
+<p><font size="3"><p style="text-align: center"> Disponível de forma online em PDF:  <a href="https://viewer.diagrams.net/?tags=%7B%7D&amp;lightbox=1&amp;highlight=0000ff&amp;edit=_blank&amp;layers=1&amp;nav=1&amp;title=Diagrama%20de%20Casos%20de%20Uso.drawio&amp;dark=auto#R%3Cmxfile%3E%3Cdiagram%20name%3D%22P%C3%A1gina-1%22%20id%3D%2234NzMq-ass0gtIXJ2DlH%22%3E7V1Zd5tIFv41PmfmQTpUsT8qsrNMlnbidJZ%2BmYMlbJGRQAHkOPn1U8UmuJQkhKhSYdMPaQnJuMzdv7tdqNPV46vQWS%2FeB3N3eYGV%2BeOFenmBsWbbJvkfvfI7vaIaipFeuQ%2B9eXoNbS%2FceH%2Fc7KKSXd14czeqfDEOgmXsrasXZ4Hvu7O4cs0Jw%2BBX9Wt3wbL6W9fOvVu7cDNzlvWrX715vEivWtjcXn%2FteveL%2FDcjw04%2FWTn5l7O%2FJFo48%2BBX6ZJ6daFOwyCI01erx6m7pE8vfy7pz73c8WlxsND14yY%2FcI3ieBp%2Bu1x%2F%2Frl58%2Fq18fgYvRvh9C4PznKT%2FcEX2FiS%2B72Yew%2Fk5T19mV%2B6C8hvIn9ITiTj54Ye%2FoW6fQl%2F5DaEV8gB0%2FvULjN%2B43CI4RDDIYZDDIfo%2ByGYd%2BzR%2BYdDDIcYDjEcYjjEcIjhEMMhhkMMhxgOMRxiOMRwiGd5iMMBfQJ6x79zJD0MNv7cpWC0Qj7%2BtfBi92btzOinv0JnTa4t4tWSvEPFT5fB7QzvfnDD2H0sXcrA7ldusHLj8Df5SvbpCCsZ8p7lHkaqlV34tUXy7TzRsCih%2BJqdf9PJ0gf3xe23CDt5kYHsRwDu5k7APadq8cRyWtIPRimxJ%2BQLyFo%2Fpk8d0Hoyc6PIIWRR3vixG97RZ4uVG2%2B1Xnp33syZOztpD0hF%2Fg5vHbliyIQ0SKY6lQpSlqnEjUY5S%2FAg0jTwo80yTsg0JU8tdJKEGaXU5N71586KXAwi8jYhnhs%2BeBdT9WJi0mtSUk%2BvUE9jyBhWRVJPRRyp582deUIPNWhKjmjhrOnLzWo5mcVBSL5Dny8RyOU759ZdXgeRF3uBT75yG8RxsCp9YbL07ukHcQBIF2zipee70yLrqXRET1OtSiOy9TpBEUsckc2NoruzlLf5Y7%2FxothdOVRuRq8uX5aIc7uTMuSZxNXH6mTPe%2BZSDcogxMqbz5e7RKtq4ShTZPlsrHVDnbqqNBtKm8GNNjo%2FaftCyDFPNWXozl1%2F5jmelFpQ0wFdiuddposmVAsa%2FOhC%2Fu%2Bs6FNc1t95%2Fmy58cLiYvUH9nuggIIlGkExLBTlkmrQF87sf%2FeJ8E2DJVWwl37gU8oTezqhNSDkSrB2%2FfTKS48%2ByURE5060SOQV1aR3J1dEwSacZSe8%2Bsf%2F%2FTP49p%2FNzY%2FFS%2B3rj9XfwcuRmn6PmPh7N24gOe68UoGyk8mUMUKqDfisrppzzgvdpRN7D9UyFhabZb%2FwOvAStsgZHldZWjMBp6bPIfupctkJuJGOqjdSdXCj9EHVbkQI5%2FwufW1NvxCxf1X%2BneDuLnIrd0lkp3iW7cVJV%2FmJ09Z0vQoexklc9fQcC8tuYLpsllsBGa8zFalrImiauPYfgjgJwVJXnv77Qncbm7JeExqzgm4Wnbm5KDpHFwXQmTyOZUCeuvenROqnGitYVpXSNhpjvU5rnUFraAO6ozVXt0cB5P7kzsi5SdD%2BDIiNrHE10kc2A6gRHBnqHOG0mmiHkMzpB5fBbJODNk%2BR8BiQXTs%2FIJCbigrZYfy39f2zaKD0sKq%2Bvvvoxd%2ByT%2Bjr7%2FT6WAX%2FZR9ePpZ%2B6vJ36c21G3rk76O4QXrNJ3%2Frt%2FKb9MZ6%2FnZ7q%2BTd70NEK4cee6GvcuwRv39z9VPbzL9%2FXc8W3o%2BP%2F7y21FH2vYOhR4nEOoPCejexxkgFuAaxDy2jjRFSYSiOmsUbXUUKBgt%2B7Jo39f3MuIPxWBy9hw%2BTd5CpT2BOvc6ce2MtSbgTujmG1pI3bcCaOtSPvDmTFe8MWpOpNdnIjikVY25RxjzUwlhtqTYtYOQLEFkUb7JitIE3m1t0Qy7WREBpIltvy5rQoiPRrMkKKU9gzZY8xImlu2XNvel0WXizQB4LbxNyVGPerLEmBCt586Y98OZJJh3bcvEmBmkXZKpdmXQE%2FVbOvJmLwsCbLXlTw3LxJszkIWyolQept%2BVUqEWxYE7tOGR%2FdpxqNE1li7LwCtSiSmvvUwFq1BStRlmZ54E5mcz5YF5foo%2FX7sfpWyV8q5t%2FLVYT2bBOGLQjE2q75rxZg00Fh0Zmx4jSU%2BZNpuI0ZUOUYGhkwUxta8WJRQPx5hC3n5gkkixur8GdygmaEzCnJtqqWwNznqQ5Lck1Zz37fYTmBLfSYGkUb%2BYcUKXTmNOWLHKvMafWPr8OzbohOFjPwYKBOdv6nJKZdRis15si2gfrtmA83uKFJI0VRasyqGqi87Bo12UhjZWqZBa%2Fxrdqa4tv22N7%2B5%2BR9%2B5sK6gFczEeVOxJrIoUuUqYRliFDkDr0OkAr9qwBIU3rw7w6Km8asnFqyqG%2FsAJkZS2j1nVGoDQHbPG3z99v1Ov3iydHwtrvvmy%2Bv1hOsp5c2DWlqUkkrkAMCNqW50kRBFooTL52X82mw469cTMvWQqtVZVYuhWW5WKMOwD0vlhp0z2zMlQ5kbyoG%2Byt0EYL4L7wHeWV9urgCW333kX0EaahMd%2BuHH8O5vY4GzioMrTOTdui%2B%2B%2Flz5hs99OVjvIGCdSXAfFP9hsW%2BJ2%2BE7dUZvtnzB0EZ8Or8kmJnSqdOk%2B2W4%2B2I1ddGSWNJLFq3OTXYnHj8775lVcERYgiiHs%2FcCKwsoWsNBxVjZ%2FXfqp4%2FVam%2BEYJzWoZfwsdjaGCTuC2ipXYJYb96qdbTbGPprykNxP7myzdsNkBtCN6y%2BknGCHTBO4RCPMUKdIZ%2BjTLub%2FsF1QBlFOcOGfdBfiPr9DEhceqhwzLw4%2BVuVYOYye34hfVQ47b38eM%2F9UxlJ1KYj8utbMhjLWtPniLFa%2BcHVzK9%2B27xerOrgROEsvrDyrJqSrwbXr0I0IkyVm%2FpIIVJSHZB%2BcB%2Fe%2BXTwm0gPQUc0DYM1GYdkHbg4AzyG2O2YcKZ4%2F96I1iXHplcsHugtSRmLB1lQGqQyhpOKIcXwhnhOdPEZFi3hRKy%2BKtuPHUiF7d8rEqnNSjjFBTjDhBtCiG3fmGPChVBRj24UPk%2F6kgUxu4cReLdtZf%2F5ZXB3VrFqvWo9TU1eHRMIGVjSsaxa2TNtGVU2rWWNN1XWEFcUwdMsCSYhe%2BEGII9zxLCKYU7OBY6Ua%2FGi6vV9ftM0B7pPjw%2FCB1AgmgP9rIzWayruqA8Vh9TG0QSKGz0gOlu1l4sMju%2BRqADZgj6XSlsFtA04%2FVJoZrc54kzXhcuBNtufVB940YW96LenTuExIgeXuekOPqivmxBwxhiw5T6NUus7oPnTmyVqcf90kgeqLCY1dybGVq%2FmmlrKn1z%2BHjh%2BtAxJc%2FvtJ5vBtwEjFzMxyCp%2FBx50M2mazA8dwmDiXcZoHBGuSCIXJv1OHsEgQelImCHVIKRY4aIoELpgVfp0Jrj8LA9%2F7k8K5mdjOe7HOSgOOcdEWXKYUa3o9P0qxErkDxCRikUuuzrobcHeWWE%2BzqlXvVtvWD7hP0VK1Rt6GXMEeZgV7A34jDL9RxjSmKkcfxoHwo9MablbYsNdEyinUCES4dts5LRqYhIGUXtag4Y6HvTyZMJllxPbGcpKEyZDBtbZN4TBMQqYmOEgeEJz9GrZvrGnAIVmtK4OQqlar8bANx73yZk6OZT0Utgmde%2BrzKDPilJDQPYooqkOukzdfvDDeJNuP0xD%2BS%2FBHxpBwhBAo32Ls9kQsoIVbTJjDB1yi92Dpzbw4q7iuhOs51BKsHH9erD%2BSlGwa6FsyWJiL0Eie517q6zAolr%2F3hT6wj7CYg3k%2BCmF%2BFHoWWEtPepAah4By1yfDJL5itRxyXMuWNpyaJFcIqA6FOectzBEivLlMHl7WJHUBTm2pjdI2viWeTfVOqJdldTmWLKDPm25t9RfuzEtyiC38pF6niU1GayK3vdtsUg%2FlVic6JrmwSAKIWFCZ2bDEoDEgQqKAyq0Iu4oFRNQBSN5vT%2FvGnEaNOdumSraVWudC61SO664nBYDweRPTShovL70K6eOXs15jhMAIBevszVwqxw7nCji3SWrbyKvJnFyks4xkpFAd57FYSBxr1gw%2FEonqZb12oog6mM72tXwUgtVpNqvmSWh1Wn6AAYcTjMOd4B1YTb2DpiMczxOWH9yD3HjOBqzyNsAwyF5E5RrHnMWAqcmCqalN53WoUgPitTWSbWW3pgVUu5fCi%2FkJ7zTw77z7TVaRT0MH79ZbenMnxdK8aCOnO1rfJq6wpggITedrPKFPZ%2FmQZYUzgm07ZcozICAJ5aMcdFORcn4%2FlWMp8WS9zKZ27KacS2tqPrurNY0xPrlySpxmA2WKzk83FsY3xBcyxxe5juxuafaZcvbQs4BZlsZzmaGzA5ck9MNF4QhoDvGFLPFFLpOHhbdpq%2FZZhPegyDXf7wD7tuGmiH4IL0eke0LolHg%2F74OklPEqmm1CKeHTekRROC5niyh0jhHFdRjch84qDfwoleAQwMmGKj36FiXD9CWkma7Ulljgs3ulupBo4nNaCCOvPNXiPPX8lBniha7clLFt2lVXRVOtQ85Kt4UMeuNQoukWn7N4IxhpVTkxYDt22%2FJfvZehhD6EEucNJcYKGMynG9begKJ1Y%2FdeaT0o1o3nQUmRxKjtfmudxLAarumSTKw51mpMgxXhtNhbLvLGqXUYPDhJe6J8jpFm15xW5ngaoa5RzvVcRj4F4crJhsIHs01erU0eIvVg36xopU0k8bjqGvJ9%2FrlPxpny%2BU%2FSk7WBJ6sKnj2dq8ayxXswry%2FRx2v34%2FStEr7Vzb8Wq4ncy7SwgYEfm2%2BoOXqUCfRjG24qlMvg5Y9j8GOfCCS%2BTyQPOqu5kMkpu6o11vXSgm04S0hXW66ZxWb1b0CW2UeE3GC1pEKP5Dk2k7BMF3t4r1wbv2EzCVZbh2eqVbV7WMNim0kMVpJgYM6tzu0bc5omZM7Wk6WxDuYSWYZg5uSYDKnULr6Ze8FKyiRVPbHInJAiNn7kmAm5JMI7iytESXOJDvUgV660sIx8VOLZJrjNJIbOfCP%2FzjCYTmS2nwldzWucaQfq0wNhBIwZ6jZJYTRdH2RInaTARnWkNLLNlrlHBEGb2uiAfgR6HLMUA2jTQKLHNglnKlJtC5XrplvFDbnbH2F4q7SeFa9XNQQJKXAP5Tp327gU0rlhRLv2s0UZ5O2dRw9E23GuQ%2FeOsCV1qyb%2BzHMkHb6gwbXHyD6782tyTHF9cufunecnE217QSLNtsZmExIZRW5ZDJEwPyJN6FThTKgYk79WdHuQ9GFLPdlPdLFep5vQ%2BajmmSYsDoHL2QMXs2nCKtf1cjo4MHCh3YjtHBwLSmcviybzsG2IW55IsnmvTB4WXiyz8Oa7hbci1za7DIOTogalX8I7zNFsbqzYCTyjIb8LSuCBYXbb3MLxCTwFLhYRPEfTHOZo7texfWPOWulDrbyuMXNCmElVFMHMyTFBRmJM95bGKso7d3UbEp6JMlBnsiT%2BiZw4wQipwJ9FCiPaFAvkcEyTVUoAXobuz80WyMnBghL55COYjiD0hplzVTShqA7HLMgXooDvsszzdej8SRYSXVNYwO8PiTAz9yxSqCyOgPbzgHCErqoxmza1mVLnlWBXG1bb5pXgvGes9rKrzeKYpBhwl0b5Yg1XJNjQtb0y3DGc2nTiZm5S5ZRrpMOAtW05tFoLfaEJ7Idcc8yQlIe%2Ff3Kde5rHynoi5XN%2BGPkrjTUWR%2Bhofosj2n1DVGsY%2BFne8dKZB9vZmpKTqlY2zlhwihWhhOJY%2FT14qQfhsrFtF4Y0%2B0nTOGRZu0XJckVaNpDx%2BzdXP7XN%2FPvX9Wzh%2Ffj4z2tLHeUtDnIaSGyAnIUG%2BygaG0h1rFimiUhYaZCbIADvaioam7ZFPtNNBRngoP2wnWeasjT4xIVPbOUaIm9o5%2BQT75Xkgz5xbsYlFXlacWWammHoiDjIWn7aQlJ1bWyoJjYNcipL0UBfa2N9ADWAgfq49tHiiMRXQN4PQZzgh7Uh2tlScyd27%2BnWKxk9tBo6rzJ2OIoF5y2eW668pUuBeECXdNI5oaYnbzNYDehirSMTuuvK4rnrqlRpySiHTaOfuuBJWnKJTRiyqoyIVWwgZA9w%2FRkDIWHT7a2mML8lNcyvIgD5GG030sO2sG31Qa%2B8G3uA%2BTsKacaKAaTRsA8W7mwDGxOA%2FdbxtdNdAxxNMwCW3BkAiNubbTN7qmJV72TpfUQxbMxP5MG8SupdFfudigmJUtZCjBAYDYWZUxKEDsm3eeZqcrIkK5o%2BbB7o%2F%2BUji2YaYwxtNqtGRWiaxuaYptk%2FU7QkYPKmazRUo5mtMAIVbApt6bOHnM1zCFVsRmJmryGU029RFQjUtJ6VBcbnY6uXEyzsIfvyDDrBcqE8LL1S51hq8IDdthcB9nGSKKSX0stz4teGGNg4K71%2BSJD4V8HD%2BDaU0TsaQXWsIsZ%2BX8EgLs89aWXipKksOuTAX7gzL3duXzozOfNamlabTqEiRlyIsUhyIYUj6P7FoRuWKZmmoTtP0lxeJLVEaQagEGYJFBJLoWGNwbOINZqmRWyp0yIwKawqMEJovtMH3qmX3gpS8Hnkdwg2ioyIblVE3xQ5TMZumvsoTLGcgl33NVuPy6vdyW7WES2bYHPE1Cczis76i2xanj%2BvFptczTcz4ugGfuJQyedHkcikVsRlnt2R4gi1D46UNI5U0czfQOOqMmtcVYfBiN7WlQJj21UMW9d6onE5pl22oyx2Vs%2FO02mlaT%2B%2BfEoX9japGiN4FTtEESkckfZqFxoxmBflGZhX0SxYOnKiDBAHMlglzpbYlCZShp3CksUpBhYZqBTWsIHdbDqtSY5IpQDxju9DA4Kq9nLwJVI4gvKf3HUQxllZfHC7JNqX2so0d%2FLeWUsJxtfjE5uhgkVD8Ty7F3z3MZ3%2FFCRpEof%2B84nKmZx1P9BhtVj99EKbgFAerPIgD3kCy2BW6i9JBUlO0tTyWJrCqm8UTJ0hS3LG4J6204IAnzDFIcen2yLzQn828F8smf0X2Fmith8%2BqcGIEGK2%2FfBfED6PcA%2BhybZbHtRsmXmoIiY0aZocRXKPyIAdJKrWNjuKrWoHiWr0shKTPHyOTu%2FMjaJ0NcqGBilu7vj%2BHaUjUFHoSen%2BjhCAfrViu%2B3ZCruK5RGcphfEWafCJM7mnMpIGM0GdMGsuERoZw9CHEHxazf6ufFSGXo5%2BSglSSzYya5pzHYroWAqOlOF%2BRCOiM015kqxgWMida4R5y524U7ACTuNYw7QbELu1E%2FHZEiHdNbOrphVgVS1g9hAaXZtNfIw7OMjj66RBtQ4U5IbZzmlvhaOGNAiNg5HVKA%2FzHwUWM%2Bknuu6criisQhLmslztHDW9OVmtZzMYiqnhVy%2Fo2J8HURe7AUV%2BYaCHwfABQs28dLzXeKB%2B%2B4sPiQbzf0yC1dntjFDGMQKYRBMsnXolrFSLNB5fY6Leo5xZJqCp2JW9ejQ38Bt61JtWHBuYrGbegp1PLDnLjvaO%2FYsvN%2FCxLZec1aUvxX8iUTzJyvJdgJ%2FdtpGzOLQ7vFp5vYytenC2OZRoBjuHKlA5yGztQcIGF3X8qlPwrgTC%2FLdXr25eR4um8KqSxTssmGuVfvQI%2F9rFoRt9tz3jM7QkLAmt4qm87Dg9UBK87B1yR%2BZJNZld0H60a45LNfTGraMdWdcWMDAwJ5Hld3kqlwS9tRrdcKt%2B2uUWquOKZo%2FORaPVszktvVw%2BUSNY9UJUnVWNlGwcVQHYOBAK0ID7dN0tqwgYKBWm2eAeKn5mshae1%2FDPZGdaR%2B1Y2DgCfFnY%2BBKMv7UIK6qmy3509IwYM%2BGGeHu2FMUMpDEkOyZVE%2FUWiIL7pFgruYWbS9ZoMGgj46YMlTIjCzqSK3ZuJbqyKwNFG5YFN%2BdOuJaWgLV0SRcOX9c%2F7ghz%2F1SQhiuB2Pglvl2jooGgnhEhxqIbyHBZL1O5sA8EqXgNx9H0C%2ByApHHrCZAVq0tT7IOBQQnjsoutJ8shgUmaBXU1rDAfWiWaMOiDTDB%2FgnPDbhTrvIBtT7htyV36tDtsRrOMuiOO4Vk8tibyJV%2F3STzfF5M6GfTiwzHBHv66HU3no3%2F%2FTTtaa1TYhvkl7iZNSCoGJfQvUXVhrzf%2Fs2%2Fh3VWLliS6CwNVBVvpzkcrbMAsElOKDitorH6eAbuZO%2Bs7wd3gqQ0NpSWFrWIMgvu5Idr%2Fvzvr6%2BTcO38x33x9%2BLb1%2BjbaysaDaB78w2jzLo9XS7WNGABctt8tA2we03npjaZjIkHxty73rJvjKlBTdfWoNsanHzIjTHj92%2Bufmqb%2Bfev69nC%2B%2FHxn9eWytSYR0Yg2s45aMX4pnfBvecnEclqvUxGic53A6%2Fp5bn3AC%2BdfKL8Rsmqjf2Ng8Vlxjl4HO06SJd3ppGa%2Bxi7fnRoW7roM6bbS0CEmB54Vl5nsve40drxTwxsi%2Fun99r%2FOHbEpzSevCqa8tclhZa16pd03KGe%2FduiWfSvNFC94Df3YoSNImY9NDi8SLWfEqMytUZ9RMmNm%2F4ewArKXRAmS1A9%2FyEdMEJZKMqAhUfvlvb1KivC7M598r2U%2FYkd3Ek5P4gpyVJOucTKYfp0QAfTBEABIYzJoAM7rQtnS3dGh1ZIQaVF%2BaCPoYw1bJb8jJEyVtTc8ei4lWQfr0li%2BIFDui1EO75GCdyJYw0I87l2MI8DtZ8c%2FsKJXCfRBOmS5HfZsEdgXbi5CLuOLoGLsOtoMrkIu8746vomUfZzL1oHfnK6ywd3d6XP4BO08Qk0aI0QaxgWZsz3QajwHjo3RvUajsQpSFnCjajSDRPujZxbb%2BnFSQwwTUzA0pt56bAr8tRXXrTla5mcAKiyyX%2FndwFadWEc6QKUzH9h7Okz0Tibfrny4vUlTS0tP7hRreqPd8jPyokfqYh3hYiv3DDx%2Fakol9KN1GpNKXSU2Ph5pTyHpbDr1veJ2vo%2BwwHTwL8jarzAAJyE3oOp52vqmRlqnrb%2Bwby%2BRB%2Bv3Y%2FTt0r4Vjf%2FWqwme2DDLlRIoj6SWfxJxKCGXiILlMmmwWodBg%2BOH7tilciAKbLOeDK1L1NrQEKGaEMCRc9tQNgnL%2BNIY7Sf84P4mBLOylh1vgX7EvgC8sxQtWFlEDJErnRgkoQ1GPqgq%2F%2B0koj7WPVwDlGyeALGAbqB20UUNlg%2Fgmr7EboLKZgU4FrH%2BBxm%2B5bWhth6VbYMEx0Sp7aTgbmK4D6%2FUc7hn9g2gMpXbOhBNxXJESiiR4ahw3vJNgCUSbF6iilB9eaZ35bhelmOj%2B5oXrqJ0wmBvfSjrPhYJlSvltpDhsqw9NxQPeZTb1VkeWxiT0VmRWMonNJ6%2B%2FhKElsMZ3QTHgB1OEcMJQS2GPZetbbF5G0YUOO4%2FToRiMX7YO7Sb%2Fwf%3C%2Fdiagram%3E%3C%2Fmxfile%3E">Clique aqui</a> </p></font></p>
+<h2 id="especializacao-de-caso-de-uso">Especialização de caso de uso</h2>
+<h1 id="casos-de-uso-sistema-e-gdf">Casos de Uso – Sistema e-GDF</h1>
+<table>
+<thead>
+<tr>
+<th>UC01</th>
+<th>Realizar Login Simplificado</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário realiza login de forma simples e rápida no aplicativo</td>
+</tr>
+<tr>
+<td>Ator</td>
+<td>Cidadão</td>
+</tr>
+<tr>
+<td>Pré-condições</td>
+<td>Possuir cadastro no sistema</td>
+</tr>
+<tr>
+<td>Ação</td>
+<td>O usuário efetua login no aplicativo</td>
+</tr>
+<tr>
+<td>Fluxo principal</td>
+<td><ul><li> O usuário acessa o aplicativo </br> <li> O sistema apresenta a tela de login </br> <li> O usuário insere suas credenciais </br> <li> O usuário seleciona "Entrar" </br> <li> O sistema valida as credenciais </br> <li> O sistema redireciona para a página inicial </br> </ul></td>
+</tr>
+<tr>
+<td>Fluxo alternativo</td>
+<td><ul><li> O usuário acessa o aplicativo </br> <li> O sistema apresenta a tela de login </br> <li> O usuário seleciona "Entrar com gov.br" </br> <li> O sistema redireciona para a plataforma gov.br </br> <li> O usuário realiza autenticação </br> <li> O sistema redireciona para a página inicial </br> </ul></td>
+</tr>
+<tr>
+<td>Fluxo de exceção</td>
+<td><ul><li> O usuário acessa o aplicativo </br> <li> O sistema apresenta a tela de login </br> <li> O usuário insere credenciais inválidas </br> <li> O sistema exibe mensagem de erro </br> <li> O sistema solicita que o usuário insira novamente as credenciais </br> </ul></td>
+</tr>
+<tr>
+<td>Pós-condições</td>
+<td>Usuário autenticado no sistema</td>
+</tr>
+<tr>
+<td>Data de Criação</td>
+<td>18/05/2025</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/">BR01, AD01</a></td>
+</tr>
+</tbody>
+</table>
+<p><font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor (<a href="https://github.com/navicg">Ana Victória</a> , 2025).</p></font></p>
+<table>
+<thead>
+<tr>
+<th>UC02</th>
+<th>Acessar Funcionalidades com Pouca Familiaridade Tecnológica</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário consegue acessar funcionalidades mesmo com pouca familiaridade com tecnologia</td>
+</tr>
+<tr>
+<td>Ator</td>
+<td>Cidadão</td>
+</tr>
+<tr>
+<td>Pré-condições</td>
+<td>Ter o aplicativo instalado</td>
+</tr>
+<tr>
+<td>Ação</td>
+<td>O usuário navega pelo aplicativo de forma simplificada</td>
+</tr>
+<tr>
+<td>Fluxo principal</td>
+<td><ul><li> O usuário acessa o aplicativo </br> <li> O sistema apresenta uma interface simplificada com ícones intuitivos </br> <li> O usuário seleciona a funcionalidade desejada através de ícones grandes e descritivos </br> <li> O sistema exibe instruções simples em cada etapa </br> <li> O usuário completa a ação desejada seguindo as orientações visuais </br> </ul></td>
+</tr>
+<tr>
+<td>Fluxo alternativo</td>
+<td><ul><li> O usuário acessa o aplicativo </br> <li> O sistema oferece um assistente de navegação </br> <li> O usuário seleciona a opção de ajuda </br> <li> O sistema apresenta um tutorial guiado para a funcionalidade desejada </br> <li> O usuário segue o passo a passo com dicas destacadas </br> </ul></td>
+</tr>
+<tr>
+<td>Fluxo de exceção</td>
+<td><ul><li> O usuário acessa o aplicativo </br> <li> O usuário não consegue encontrar a funcionalidade desejada </br> <li> O sistema detecta múltiplas tentativas sem sucesso </br> <li> O sistema oferece automaticamente um guia de navegação </br> <li> O usuário é direcionado para a funcionalidade através de orientação visual </br> </ul></td>
+</tr>
+<tr>
+<td>Pós-condições</td>
+<td>Usuário utiliza as funcionalidades do aplicativo com sucesso, independente do nível de familiaridade tecnológica</td>
+</tr>
+<tr>
+<td>Data de Criação</td>
+<td>18/05/2025</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/">BR02</a></td>
+</tr>
+</tbody>
+</table>
+<p><font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor (<a href="https://github.com/navicg">Ana Victória</a> , 2025).</p></font></p>
+<table>
+<thead>
+<tr>
+<th>UC03</th>
+<th>Receber Notificações Personalizadas por Localização</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário recebe notificações personalizadas com base em sua localização</td>
+</tr>
+<tr>
+<td>Ator</td>
+<td>Cidadão</td>
+</tr>
+<tr>
+<td>Pré-condições</td>
+<td>Ter o aplicativo instalado e com permissão de localização ativada</td>
+</tr>
+<tr>
+<td>Ação</td>
+<td>O sistema envia notificações relevantes baseadas na localização do usuário</td>
+</tr>
+<tr>
+<td>Fluxo principal</td>
+<td><ul><li> O usuário configura as preferências de notificação no aplicativo </br> <li> O sistema solicita permissão para acessar a localização </br> <li> O usuário autoriza o acesso à localização </br> <li> O sistema monitora a localização do usuário </br> <li> O sistema envia notificações relevantes para a região em que o usuário se encontra </br> </ul></td>
+</tr>
+<tr>
+<td>Fluxo alternativo</td>
+<td><ul><li> O usuário configura manualmente suas regiões de interesse </br> <li> O sistema registra as regiões selecionadas </br> <li> O usuário seleciona categorias de notificações de interesse </br> <li> O sistema envia notificações de acordo com as regiões e categorias selecionadas </br> </ul></td>
+</tr>
+<tr>
+<td>Fluxo de exceção</td>
+<td><ul><li> O usuário nega permissão de localização </br> <li> O sistema exibe mensagem informando sobre a limitação da funcionalidade </br> <li> O sistema oferece configuração manual de região de interesse </br> <li> O usuário configura manualmente a região </br> <li> O sistema envia notificações baseadas na configuração manual </br> </ul></td>
+</tr>
+<tr>
+<td>Pós-condições</td>
+<td>Usuário recebe notificações relevantes para sua localização atual ou configurada</td>
+</tr>
+<tr>
+<td>Data de Criação</td>
+<td>18/05/2025</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/">BR03</a></td>
+</tr>
+</tbody>
+</table>
+<p><font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor (<a href="https://github.com/navicg">Ana Victória</a> , 2025).</p></font></p>
+<p><strong>Vídeo 2</strong> - Validação com usuário por: <a href="https://github.com/navicg">Ana Victória</a>.</p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/MoVBjUtkhXk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/MoVBjUtkhXk" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<h2 id="termo-de-consentimento-de-imagem">Termo de consentimento de imagem</h2>
+<p>Este documento confirma que o cidadão Emanuel Maurício Costa forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.</p>
+<p>O termo foi assinado e encontra-se disponível no seguinte arquivo: <a href="https://drive.google.com/file/d/1uiddHrqx33PqVEC0dZ-1_xKPa5bnoyiS/view?usp=sharing">PDF</a></p>
+<table>
+<thead>
+<tr>
+<th>Entrevistador(es)</th>
+<th>Cidadão</th>
+<th>Data prevista</th>
+<th>Data Realizada</th>
+<th>Horário Previsto</th>
+<th>Horário Realizado</th>
+<th>Local</th>
+<th>Duração</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/navicg">Ana Victória</a></td>
+<td><strong>Emanuel M.C</strong></td>
+<td>22/06/2025</td>
+<td>22/06/2025</td>
+<td>10:25</td>
+<td>10:38</td>
+<td>Presencial</td>
+<td>06:11 min</td>
+</tr>
+</tbody>
+</table>
+<p><font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor (<a href="https://github.com/navicg">Ana Victória</a>, 2025).</p></font></p>
+<hr />
+<table>
+<thead>
+<tr>
+<th>UC04</th>
+<th>Consultar Agendamentos e Serviços Centralizados</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário consulta agendamentos e serviços em um único local centralizado</td>
+</tr>
+<tr>
+<td>Ator</td>
+<td>Cidadão</td>
+</tr>
+<tr>
+<td>Pré-condições</td>
+<td>Estar autenticado no sistema</td>
+</tr>
+<tr>
+<td>Ação</td>
+<td>O usuário acessa a área de agendamentos e serviços do aplicativo</td>
+</tr>
+<tr>
+<td>Fluxo principal</td>
+<td><ul><li> O usuário acessa o aplicativo e faz login </br> <li> O sistema apresenta o menu principal </br> <li> O usuário seleciona a opção "Meus Agendamentos e Serviços" </br> <li> O sistema exibe todos os agendamentos e serviços do usuário em uma interface unificada </br> <li> O usuário visualiza detalhes de cada item listado </br> </ul></td>
+</tr>
+<tr>
+<td>Fluxo alternativo</td>
+<td><ul><li> O usuário acessa o aplicativo e faz login </br> <li> O sistema apresenta diretamente na tela inicial um resumo dos próximos agendamentos </br> <li> O usuário seleciona a opção "Ver todos" </br> <li> O sistema exibe a lista completa de agendamentos e serviços </br> <li> O usuário filtra por categoria ou data </br> </ul></td>
+</tr>
+<tr>
+<td>Fluxo de exceção</td>
+<td><ul><li> O usuário acessa o aplicativo e faz login </br> <li> O sistema tenta carregar os agendamentos mas encontra um erro </br> <li> O sistema exibe mensagem informando sobre a falha temporária </br> <li> O sistema oferece a opção de atualizar os dados </br> <li> O usuário seleciona atualizar e os dados são carregados </br> </ul></td>
+</tr>
+<tr>
+<td>Pós-condições</td>
+<td>Usuário visualiza todos seus agendamentos e serviços em um único local</td>
+</tr>
+<tr>
+<td>Data de Criação</td>
+<td>18/05/2025</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/">BR04</a></td>
+</tr>
+</tbody>
+</table>
+<p><font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor (<a href="https://github.com/ArtyMend07">Artur Mendonça</a>, 2025).</p></font></p>
+<table>
+<thead>
+<tr>
+<th>UC05</th>
+<th>Acessar Assistente Virtual com Acessibilidade por Voz</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário acessa um assistente virtual com acessibilidade por voz</td>
+</tr>
+<tr>
+<td>Ator</td>
+<td>Cidadão</td>
+</tr>
+<tr>
+<td>Pré-condições</td>
+<td>Ter o aplicativo instalado</td>
+</tr>
+<tr>
+<td>Ação</td>
+<td>O usuário interage com o assistente virtual através de comandos de voz</td>
+</tr>
+<tr>
+<td>Fluxo principal</td>
+<td><ul><li> O usuário acessa o aplicativo </br> <li> O usuário seleciona o ícone do assistente virtual </br> <li> O sistema ativa o assistente virtual </br> <li> O usuário fornece comandos por voz </br> <li> O sistema processa os comandos e executa as ações solicitadas </br> <li> O sistema fornece respostas por voz </br> </ul></td>
+</tr>
+<tr>
+<td>Fluxo alternativo</td>
+<td><ul><li> O usuário acessa o aplicativo </br> <li> O usuário ativa o assistente através de comando de voz pré-configurado </br> <li> O sistema reconhece o comando e ativa o assistente </br> <li> O usuário realiza perguntas ou solicita serviços </br> <li> O sistema executa as solicitações e fornece respostas audíveis </br> </ul></td>
+</tr>
+<tr>
+<td>Fluxo de exceção</td>
+<td><ul><li> O usuário acessa o aplicativo </br> <li> O usuário ativa o assistente virtual </br> <li> O sistema não compreende o comando de voz </br> <li> O sistema solicita que o usuário repita o comando </br> <li> O usuário fornece o comando novamente ou opta por digitar a solicitação </br> </ul></td>
+</tr>
+<tr>
+<td>Pós-condições</td>
+<td>Usuário obtém informações ou realiza ações através do assistente virtual por voz</td>
+</tr>
+<tr>
+<td>Data de Criação</td>
+<td>18/05/2025</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/">BR05, AD05, INT13</a></td>
+</tr>
+</tbody>
+</table>
+<p><font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor (<a href="https://github.com/ArtyMend07">Artur Mendonça</a>, 2025).</p></font></p>
+<table>
+<thead>
+<tr>
+<th>UC06</th>
+<th>Acessar Tutoriais Passo a Passo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário acessa tutoriais passo a passo sobre como usar o app</td>
+</tr>
+<tr>
+<td>Ator</td>
+<td>Cidadão</td>
+</tr>
+<tr>
+<td>Pré-condições</td>
+<td>Ter o aplicativo instalado</td>
+</tr>
+<tr>
+<td>Ação</td>
+<td>O usuário visualiza tutoriais detalhados sobre as funcionalidades do aplicativo</td>
+</tr>
+<tr>
+<td>Fluxo principal</td>
+<td><ul><li> O usuário acessa o aplicativo </br> <li> O usuário seleciona a opção "Ajuda" ou "Tutoriais" </br> <li> O sistema apresenta uma lista de tutoriais disponíveis </br> <li> O usuário seleciona o tutorial desejado </br> <li> O sistema exibe o tutorial passo a passo com imagens e descrições </br> <li> O usuário navega pelas etapas do tutorial </br> </ul></td>
+</tr>
+<tr>
+<td>Fluxo alternativo</td>
+<td><ul><li> O usuário acessa uma funcionalidade específica </br> <li> O usuário seleciona o ícone de ajuda na funcionalidade </br> <li> O sistema exibe o tutorial específico para aquela funcionalidade </br> <li> O usuário segue as instruções apresentadas </br> </ul></td>
+</tr>
+<tr>
+<td>Fluxo de exceção</td>
+<td><ul><li> O usuário acessa o aplicativo </br> <li> O usuário busca por um tutorial que não existe </br> <li> O sistema informa que o tutorial não está disponível </br> <li> O sistema sugere tutoriais relacionados ou oferece contato com suporte </br> </ul></td>
+</tr>
+<tr>
+<td>Pós-condições</td>
+<td>Usuário compreende como utilizar as funcionalidades do aplicativo</td>
+</tr>
+<tr>
+<td>Data de Criação</td>
+<td>18/05/2025</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/">BR06</a></td>
+</tr>
+</tbody>
+</table>
+<p><font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor (<a href="https://github.com/ArtyMend07">Artur Mendonça</a>, 2025).</p></font></p>
+<h2 id="validacao-dos-casos-de-uso-artur-mendonca">Validação dos Casos de Uso - Artur Mendonça</h2>
+<p>Os casos de uso UC04, UC05 e UC06 elaborados por Artur Mendonça foram validados através de entrevista com usuário do sistema eGDF.</p>
+<h3 id="gravacao-da-validacao-isaura">Gravação da validação - Isaura:</h3>
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/NxpuBvQZubI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/NxpuBvQZubI" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<p><font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor (<a href="https://github.com/ArtyMend07">Artur Mendonça</a>, 2025).</p></font></p>
+<table>
+<thead>
+<tr>
+<th>UC07</th>
+<th>Ajustar Tamanho de Fonte e Contraste</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário altera o tamanho da fonte e o contraste de cores do aplicativo</td>
+</tr>
+<tr>
+<td>Ator</td>
+<td>Cidadão, Usuário com Necessidades de Acessibilidade</td>
+</tr>
+<tr>
+<td>Pré-condições</td>
+<td>Ter o aplicativo instalado</td>
+</tr>
+<tr>
+<td>Ação</td>
+<td>O usuário personaliza configurações visuais do aplicativo</td>
+</tr>
+<tr>
+<td>Fluxo principal</td>
+<td><ul><li> O usuário acessa o aplicativo </br> <li> O usuário seleciona "Configurações" </br> <li> O usuário seleciona "Acessibilidade" </br> <li> O usuário ajusta o tamanho da fonte usando controle deslizante </br> <li> O usuário ajusta o contraste de cores </br> <li> O sistema aplica as configurações imediatamente </br> <li> O usuário confirma as alterações </br> </ul></td>
+</tr>
+<tr>
+<td>Fluxo alternativo</td>
+<td><ul><li> O usuário acessa o aplicativo </br> <li> O usuário utiliza gestos de acessibilidade (ex: pinça para aumentar fonte) </br> <li> O sistema detecta o gesto </br> <li> O sistema ajusta o tamanho da fonte temporariamente </br> <li> O sistema oferece opção para salvar a configuração </br> </ul></td>
+</tr>
+<tr>
+<td>Fluxo de exceção</td>
+<td><ul><li> O usuário acessa o aplicativo </br> <li> O usuário seleciona "Configurações" </br> <li> O usuário faz ajustes extremos que prejudicam a visualização </br> <li> O sistema detecta configuração problemática </br> <li> O sistema oferece opção para restaurar configurações padrão </br> </ul></td>
+</tr>
+<tr>
+<td>Pós-condições</td>
+<td>Aplicativo exibido com o tamanho de fonte e contraste personalizados</td>
+</tr>
+<tr>
+<td>Data de Criação</td>
+<td>14/05/2025</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/">BR07, EN08, AD08</a></td>
+</tr>
+</tbody>
+</table>
+<p><font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor (<a href="https://github.com/BrzGab">Gabriel Lopes</a>, 2025).</p></font></p>
+<table>
+<thead>
+<tr>
+<th>UC08</th>
+<th>Ativar Modo Escuro</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário ativa o modo escuro no aplicativo</td>
+</tr>
+<tr>
+<td>Ator</td>
+<td>Cidadão</td>
+</tr>
+<tr>
+<td>Pré-condições</td>
+<td>Ter o aplicativo instalado</td>
+</tr>
+<tr>
+<td>Ação</td>
+<td>O usuário altera o tema visual do aplicativo para o modo escuro</td>
+</tr>
+<tr>
+<td>Fluxo principal</td>
+<td><ul><li> O usuário acessa o aplicativo </br> <li> O usuário navega até "Configurações" </br> <li> O usuário seleciona a opção "Aparência" ou "Tema" </br> <li> O sistema apresenta as opções de temas disponíveis </br> <li> O usuário seleciona "Modo Escuro" </br> <li> O sistema aplica imediatamente o tema escuro </br> </ul></td>
+</tr>
+<tr>
+<td>Fluxo alternativo</td>
+<td><ul><li> O usuário acessa o aplicativo </br> <li> O usuário aciona o botão de alternância rápida de tema na barra superior </br> <li> O sistema alterna para o modo escuro </br> </ul></td>
+</tr>
+<tr>
+<td>Fluxo de exceção</td>
+<td><ul><li> O usuário acessa o aplicativo </br> <li> O sistema está configurado para seguir o tema do sistema operacional </br> <li> O usuário tenta alterar manualmente </br> <li> O sistema informa que está configurado para seguir o tema do sistema </br> <li> O sistema oferece opção para desativar a sincronização com o sistema </br> <li> O usuário desativa e seleciona o modo escuro manualmente </br> </ul></td>
+</tr>
+<tr>
+<td>Pós-condições</td>
+<td>Aplicativo exibido com o tema de modo escuro</td>
+</tr>
+<tr>
+<td>Data de Criação</td>
+<td>18/05/2025</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/">BR08</a></td>
+</tr>
+</tbody>
+</table>
+<p><font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor (<a href="https://github.com/BrzGab">Gabriel Lopes</a>, 2025).</p></font></p>
+<table>
+<thead>
+<tr>
+<th>UC09</th>
+<th>Gerar Relatórios e Comprovantes de Agendamentos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário gera relatórios e visualiza comprovantes de agendamentos</td>
+</tr>
+<tr>
+<td>Ator</td>
+<td>Cidadão</td>
+</tr>
+<tr>
+<td>Pré-condições</td>
+<td>Estar autenticado no sistema e possuir agendamentos registrados</td>
+</tr>
+<tr>
+<td>Ação</td>
+<td>O usuário gera e visualiza documentos relacionados aos seus agendamentos</td>
+</tr>
+<tr>
+<td>Fluxo principal</td>
+<td><ul><li> O usuário acessa o aplicativo e faz login </br> <li> O usuário navega até "Meus Agendamentos" </br> <li> O usuário seleciona um agendamento específico </br> <li> O usuário seleciona a opção "Gerar Comprovante" </br> <li> O sistema processa e exibe o comprovante </br> <li> O usuário visualiza e tem opções para salvar ou compartilhar </br> </ul></td>
+</tr>
+<tr>
+<td>Fluxo alternativo</td>
+<td><ul><li> O usuário acessa o aplicativo e faz login </br> <li> O usuário navega até "Relatórios" </br> <li> O usuário seleciona o tipo de relatório desejado </br> <li> O usuário configura os filtros (período, tipo de serviço) </br> <li> O sistema gera o relatório conforme os parâmetros </br> <li> O usuário visualiza o relatório com opções para exportar </br> </ul></td>
+</tr>
+<tr>
+<td>Fluxo de exceção</td>
+<td><ul><li> O usuário tenta gerar um relatório </br> <li> O sistema identifica que não há dados para o período selecionado </br> <li> O sistema exibe mensagem informando a ausência de dados </br> <li> O sistema sugere outros filtros com dados disponíveis </br> </ul></td>
+</tr>
+<tr>
+<td>Pós-condições</td>
+<td>Usuário obtém o documento (comprovante ou relatório) desejado</td>
+</tr>
+<tr>
+<td>Data de Criação</td>
+<td>18/05/2025</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/">BR11</a></td>
+</tr>
+</tbody>
+</table>
+<p><font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor (<a href="https://github.com/BrzGab">Gabriel Lopes</a>, 2025).</p></font>&gt;</p>
+<h3 id="validacao-com-usuario-presencial">Validação com Usuário - Presencial</h3>
+<p><strong>Vídeo 7</strong> - Validação dos casos de uso com usuário por <a href="https://github.com/BrzGab">Gabriel Lopes</a></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/Uhc9kiiB8rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=Uhc9kiiB8rA" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<table>
+<thead>
+<tr>
+<th style="text-align: center;"><strong>Nome</strong></th>
+<th style="text-align: center;"><strong>Função</strong></th>
+<th style="text-align: center;"><strong>Data</strong></th>
+<th style="text-align: center;"><strong>Hora</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><a href="https://github.com/BrzGab">Gabriel Lopes</a></td>
+<td style="text-align: center;">Elaborador dos casos de uso</td>
+<td style="text-align: center;">26/06/2025</td>
+<td style="text-align: center;">13:30</td>
+</tr>
+<tr>
+<td style="text-align: center;">João Vitor Alves Viana</td>
+<td style="text-align: center;">Cidadão</td>
+<td style="text-align: center;">26/06/2025</td>
+<td style="text-align: center;">13:30</td>
+</tr>
+</tbody>
+</table>
+<h2 id="termo-de-consentimento-de-imagem_1">Termo de consentimento de imagem</h2>
+<p>Este documento confirma que a(o) cidadão <strong>João Vitor Alves Viana</strong> forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.</p>
+<p>O termo foi assinado e encontra-se disponível no seguinte arquivo: <a href="https://drive.google.com/file/d/12b8VxisovXvTVVNVnkFhr8HfvocugJdL/view?usp=sharing">PDF</a></p>
+<table>
+<thead>
+<tr>
+<th>UC10</th>
+<th>Alterar Idioma do Aplicativo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário altera o idioma do aplicativo</td>
+</tr>
+<tr>
+<td>Ator</td>
+<td>Cidadão</td>
+</tr>
+<tr>
+<td>Pré-condições</td>
+<td>Ter o aplicativo instalado</td>
+</tr>
+<tr>
+<td>Ação</td>
+<td>O usuário modifica o idioma da interface do aplicativo</td>
+</tr>
+<tr>
+<td>Fluxo principal</td>
+<td><ul><li> O usuário acessa o aplicativo </br> <li> O usuário navega até "Configurações" </br> <li> O usuário seleciona a opção "Idioma" </br> <li> O sistema apresenta os idiomas disponíveis </br> <li> O usuário seleciona o idioma desejado </br> <li> O sistema aplica o novo idioma imediatamente </br> </ul></td>
+</tr>
+<tr>
+<td>Fluxo alternativo</td>
+<td><ul><li> O usuário inicia o aplicativo pela primeira vez </br> <li> O sistema detecta o idioma do dispositivo </br> <li> O sistema pergunta se deve usar o idioma do dispositivo </br> <li> O usuário pode confirmar ou selecionar outro idioma </br> <li> O sistema aplica o idioma selecionado </br> </ul></td>
+</tr>
+<tr>
+<td>Fluxo de exceção</td>
+<td><ul><li> O usuário seleciona um idioma </br> <li> O sistema encontra um erro ao carregar o pacote de idiomas </br> <li> O sistema mantém o idioma atual </br> <li> O sistema notifica o erro e sugere tentar novamente </br> </ul></td>
+</tr>
+<tr>
+<td>Pós-condições</td>
+<td>Aplicativo exibido no idioma selecionado pelo usuário</td>
+</tr>
+<tr>
+<td>Data de Criação</td>
+<td>18/05/2025</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/">BR13</a></td>
+</tr>
+</tbody>
+</table>
+<p><font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor (<a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes de Andrade</a>, 2025).</p></font></p>
+<table>
+<thead>
+<tr>
+<th>UC11</th>
+<th>Personalizar Preferências e Perfil para Recomendações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário personaliza suas preferências e perfil para receber recomendações de serviços</td>
+</tr>
+<tr>
+<td>Ator</td>
+<td>Cidadão</td>
+</tr>
+<tr>
+<td>Pré-condições</td>
+<td>Estar autenticado no sistema</td>
+</tr>
+<tr>
+<td>Ação</td>
+<td>O usuário configura suas preferências para receber recomendações personalizadas</td>
+</tr>
+<tr>
+<td>Fluxo principal</td>
+<td><ul><li> O usuário acessa o aplicativo e faz login </br> <li> O usuário navega até "Meu Perfil" ou "Preferências" </br> <li> O usuário seleciona categorias de interesse (saúde, educação, etc.) </br> <li> O usuário configura dados demográficos relevantes </br> <li> O usuário define regiões de interesse </br> <li> O sistema salva as preferências </br> <li> O sistema passa a exibir recomendações personalizadas </br> </ul></td>
+</tr>
+<tr>
+<td>Fluxo alternativo</td>
+<td><ul><li> O usuário acessa o aplicativo pela primeira vez após login </br> <li> O sistema sugere configuração de preferências </br> <li> O usuário responde a um breve questionário </br> <li> O sistema cria um perfil inicial baseado nas respostas </br> <li> O sistema exibe recomendações baseadas no perfil inicial </br> </ul></td>
+</tr>
+<tr>
+<td>Fluxo de exceção</td>
+<td><ul><li> O usuário tenta salvar preferências incompletas </br> <li> O sistema identifica dados essenciais faltantes </br> <li> O sistema destaca campos obrigatórios não preenchidos </br> <li> O usuário completa as informações necessárias </br> <li> O sistema salva as preferências </br> </ul></td>
+</tr>
+<tr>
+<td>Pós-condições</td>
+<td>Perfil do usuário configurado para receber recomendações personalizadas</td>
+</tr>
+<tr>
+<td>Data de Criação</td>
+<td>18/05/2025</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/">BR14</a></td>
+</tr>
+</tbody>
+</table>
+<p><font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor (<a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes de Andrade</a>, 2025).</p></font></p>
+<table>
+<thead>
+<tr>
+<th>UC12</th>
+<th>Receber Mensagens Curtas sobre Vencimentos e Lembretes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário recebe mensagens curtas sobre vencimentos e lembretes importantes</td>
+</tr>
+<tr>
+<td>Ator</td>
+<td>Cidadão</td>
+</tr>
+<tr>
+<td>Pré-condições</td>
+<td>Estar autenticado no sistema e ter notificações ativadas</td>
+</tr>
+<tr>
+<td>Ação</td>
+<td>O sistema envia mensagens curtas sobre prazos e vencimentos relevantes</td>
+</tr>
+<tr>
+<td>Fluxo principal</td>
+<td><ul><li> O usuário configura notificações no aplicativo </br> <li> O sistema monitora prazos e vencimentos associados ao usuário </br> <li> O sistema identifica um prazo se aproximando </br> <li> O sistema envia notificação com informação concisa </br> <li> O usuário recebe e visualiza a mensagem </br> </ul></td>
+</tr>
+<tr>
+<td>Fluxo alternativo</td>
+<td><ul><li> O usuário acessa o aplicativo </br> <li> O usuário navega até "Central de Mensagens" </br> <li> O sistema exibe todas as mensagens e lembretes enviados </br> <li> O usuário seleciona uma mensagem para ver detalhes </br> <li> O usuário configura a frequência de lembretes </br> </ul></td>
+</tr>
+<tr>
+<td>Fluxo de exceção</td>
+<td><ul><li> O sistema tenta enviar uma notificação </br> <li> O sistema detecta que o usuário desativou as notificações </br> <li> O sistema armazena a mensagem na Central de Mensagens </br> <li> O sistema exibe um contador de mensagens não lidas na próxima vez que o usuário acessar o aplicativo </br> </ul></td>
+</tr>
+<tr>
+<td>Pós-condições</td>
+<td>Usuário informado sobre prazos e vencimentos importantes</td>
+</tr>
+<tr>
+<td>Data de Criação</td>
+<td>18/05/2025</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/">BR15</a></td>
+</tr>
+</tbody>
+</table>
+<p><font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor (<a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes de Andrade</a>, 2025).</p></font></p>
+<hr />
+<p><strong>Vídeo 4</strong> - Validação dos Casos de Uso 10, 11 e 12 com usuário por <a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes</a></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/1e08GOCXsCU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/1e08GOCXsCU" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<table>
+<thead>
+<tr>
+<th>Participante</th>
+<th>Entrevistador</th>
+<th>Data</th>
+<th>Horário</th>
+<th>Local</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Thalison Felipe</td>
+<td><a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes</a></td>
+<td>21/06/2025</td>
+<td>15:10 - 15:25</td>
+<td>Presencial</td>
+</tr>
+</tbody>
+</table>
+<h2 id="termo-de-consentimento-de-imagem_2">Termo de consentimento de imagem</h2>
+<p>Este documento confirma que a cidadão Thalison Felipe forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.</p>
+<p>O termo foi assinado e encontra-se disponível no seguinte arquivo: <a href="https://github.com/Requisitos-de-Software/2025.1-e-GDF/blob/docs/corre%C3%A7%C3%A3o-de-erros/docs/assets/termo-img/Assinatura%20com%20todos%20os%20participantes%20.pdf">PDF</a></p>
+<p><font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores (<a href="https://github.com/JJOAOMARCOSS">João Marcos</a>, 2025)</p></font></p>
+<hr />
+<table>
+<thead>
+<tr>
+<th>UC13</th>
+<th>Implementar Funcionalidades Educacionais Adicionais</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O aplicativo implementa funcionalidades adicionais na área educacional, como acompanhamento de pendências para professores e alunos</td>
+</tr>
+<tr>
+<td>Ator</td>
+<td>Cidadão (Professor/Aluno)</td>
+</tr>
+<tr>
+<td>Pré-condições</td>
+<td>Estar autenticado no sistema com perfil vinculado à rede educacional</td>
+</tr>
+<tr>
+<td>Ação</td>
+<td>O usuário acessa funcionalidades específicas da área educacional</td>
+</tr>
+<tr>
+<td>Fluxo principal</td>
+<td><ul><li> O usuário acessa o aplicativo e faz login </br> <li> O sistema identifica o perfil educacional (professor/aluno) </br> <li> O sistema exibe o módulo educacional personalizado </br> <li> O usuário seleciona "Acompanhamento de Pendências" </br> <li> O sistema exibe lista de pendências organizadas por categoria e prazo </br> <li> O usuário visualiza detalhes de cada pendência </br> </ul></td>
+</tr>
+<tr>
+<td>Fluxo alternativo</td>
+<td><ul><li> O usuário acessa o aplicativo e faz login </br> <li> O sistema exibe o módulo educacional </br> <li> O usuário seleciona "Calendário Acadêmico" </br> <li> O sistema exibe o calendário com eventos, prazos e compromissos </br> <li> O usuário pode filtrar por tipo de evento </br> <li> O usuário adiciona eventos ao calendário pessoal </br> </ul></td>
+</tr>
+<tr>
+<td>Fluxo de exceção</td>
+<td><ul><li> O usuário tenta acessar o módulo educacional </br> <li> O sistema não encontra vínculo educacional ativo </br> <li> O sistema exibe mensagem informando sobre a necessidade de vínculo ativo </br> <li> O sistema oferece informações sobre como regularizar o vínculo </br> </ul></td>
+</tr>
+<tr>
+<td>Pós-condições</td>
+<td>Usuário acessa e gerencia informações específicas da área educacional</td>
+</tr>
+<tr>
+<td>Data de Criação</td>
+<td>18/05/2025</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/">EN06</a></td>
+</tr>
+</tbody>
+</table>
+<p><font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor (<a href="https://github.com/lucasarruda9">Lucas Mendonça</a>, 2025).</p></font></p>
+<table>
+<thead>
+<tr>
+<th>UC14</th>
+<th>Receber Notificações por Categorias</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário recebe notificações por categorias como saúde, educação, transporte</td>
+</tr>
+<tr>
+<td>Ator</td>
+<td>Cidadão</td>
+</tr>
+<tr>
+<td>Pré-condições</td>
+<td>Estar autenticado no sistema e ter notificações ativadas</td>
+</tr>
+<tr>
+<td>Ação</td>
+<td>O usuário configura e recebe notificações segmentadas por categorias</td>
+</tr>
+<tr>
+<td>Fluxo principal</td>
+<td><ul><li> O usuário acessa o aplicativo e faz login </br> <li> O usuário navega até "Configurações de Notificações" </br> <li> O sistema exibe as categorias disponíveis </br> <li> O usuário seleciona as categorias de interesse </br> <li> O sistema salva as preferências </br> <li> O sistema envia apenas notificações das categorias selecionadas </br> </ul></td>
+</tr>
+<tr>
+<td>Fluxo alternativo</td>
+<td><ul><li> O usuário recebe uma notificação </br> <li> O usuário acessa a Central de Notificações </br> <li> O sistema exibe notificações organizadas por categorias </br> <li> O usuário filtra para visualizar apenas uma categoria específica </br> </ul></td>
+</tr>
+<tr>
+<td>Fluxo de exceção</td>
+<td><ul><li> O usuário desativa todas as categorias de notificação </br> <li> O sistema detecta que nenhuma categoria está ativa </br> <li> O sistema exibe alerta sobre a possível perda de informações importantes </br> <li> O sistema sugere manter pelo menos uma categoria ativa </br> <li> O usuário decide manter ou não categorias ativas </br> </ul></td>
+</tr>
+<tr>
+<td>Pós-condições</td>
+<td>Usuário recebe apenas notificações das categorias de seu interesse</td>
+</tr>
+<tr>
+<td>Data de Criação</td>
+<td>18/05/2025</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/">BR19</a></td>
+</tr>
+</tbody>
+</table>
+<p><font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor (<a href="https://github.com/lucasarruda9">Lucas Mendonça</a>, 2025).</p></font></p>
+<h2 id="validacao-dos-casos-de-uso-lucas-mendonca">Validação dos Casos de Uso - Lucas Mendonça</h2>
+<p>Os casos de uso UC13 UC14 elaborados por Lucas Mendonça foram validados através de entrevista com usuário do sistema eGDF.</p>
+<h3 id="gravacao-da-validacao-tiago-m">Gravação da validação - Tiago M:</h3>
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/pt2Nl6jnv6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/pt2Nl6jnv6I" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<p><font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor (<a href="https://github.com/lucasarruda9">Lucas Mendonça</a>, 2025).</p></font></p>
+<hr />
+<table>
+<thead>
+<tr>
+<th>UC15</th>
+<th>Acessar Informações de Agendamento Centralizadas</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário acessa informações de agendamento e reagendamento de forma centralizada</td>
+</tr>
+<tr>
+<td>Ator</td>
+<td>Cidadão</td>
+</tr>
+<tr>
+<td>Pré-condições</td>
+<td>Estar autenticado no sistema</td>
+</tr>
+<tr>
+<td>Ação</td>
+<td>O usuário visualiza e gerencia todos seus agendamentos em um único local</td>
+</tr>
+<tr>
+<td>Fluxo principal</td>
+<td><ul><li> O usuário acessa o aplicativo e faz login </br> <li> O usuário seleciona a opção "Meus Agendamentos" </br> <li> O sistema exibe todos os agendamentos ativos em ordem cronológica </br> <li> O usuário seleciona um agendamento específico </br> <li> O sistema exibe detalhes completos do agendamento </br> <li> O usuário visualiza opções para gerenciar o agendamento </br> </ul></td>
+</tr>
+<tr>
+<td>Fluxo alternativo</td>
+<td><ul><li> O usuário acessa o aplicativo e faz login </br> <li> O usuário seleciona a opção "Reagendar" em um agendamento </br> <li> O sistema exibe horários disponíveis </br> <li> O usuário seleciona novo horário </br> <li> O sistema confirma a alteração </br> <li> O sistema atualiza o agendamento com as novas informações </br> </ul></td>
+</tr>
+<tr>
+<td>Fluxo de exceção</td>
+<td><ul><li> O usuário tenta reagendar um agendamento </br> <li> O sistema verifica que o prazo para reagendamento expirou </br> <li> O sistema exibe mensagem informando sobre a impossibilidade </br> <li> O sistema oferece opções para novo agendamento </br> </ul></td>
+</tr>
+<tr>
+<td>Pós-condições</td>
+<td>Usuário visualiza ou gerencia seus agendamentos de forma centralizada</td>
+</tr>
+<tr>
+<td>Data de Criação</td>
+<td>18/05/2025</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/">BR17</a></td>
+</tr>
+</tbody>
+</table>
+<p><font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor (<a href="https://github.com/KarolineLuz">Karoline Luz</a>, 2025).</p></font></p>
+<table>
+<thead>
+<tr>
+<th>UC16</th>
+<th>Reportar Problemas da Cidade via Mapa Interativo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O aplicativo permite que usuários reportem problemas da cidade através de um mapa interativo</td>
+</tr>
+<tr>
+<td>Ator</td>
+<td>Cidadão</td>
+</tr>
+<tr>
+<td>Pré-condições</td>
+<td>Estar autenticado no sistema</td>
+</tr>
+<tr>
+<td>Ação</td>
+<td>O usuário reporta problemas urbanos usando um mapa interativo</td>
+</tr>
+<tr>
+<td>Fluxo principal</td>
+<td><ul><li> O usuário acessa o aplicativo e faz login </br> <li> O usuário seleciona "Reportar Problema" </br> <li> O sistema exibe um mapa interativo da cidade </br> <li> O usuário navega pelo mapa até localizar o ponto do problema </br> <li> O usuário marca o local exato no mapa </br> <li> O usuário seleciona a categoria do problema </br> <li> O usuário adiciona descrição e fotos </br> <li> O usuário confirma o envio </br> <li> O sistema registra a ocorrência </br> </ul></td>
+</tr>
+<tr>
+<td>Fluxo alternativo</td>
+<td><ul><li> O usuário acessa o aplicativo e faz login </br> <li> O usuário permite que o aplicativo use sua localização atual </br> <li> O sistema exibe o mapa centralizado na localização do usuário </br> <li> O usuário ajusta a marcação, se necessário </br> <li> O usuário preenche os detalhes do problema </br> <li> O sistema registra a ocorrência com a localização GPS </br> </ul></td>
+</tr>
+<tr>
+<td>Fluxo de exceção</td>
+<td><ul><li> O usuário tenta reportar um problema </br> <li> O usuário não consegue marcar a localização precisa </br> <li> O sistema oferece a opção de buscar por endereço </br> <li> O usuário digita o endereço da ocorrência </br> <li> O sistema localiza e marca o endereço no mapa </br> <li> O usuário completa o registro da ocorrência </br> </ul></td>
+</tr>
+<tr>
+<td>Pós-condições</td>
+<td>Problema urbano registrado no sistema com localização precisa</td>
+</tr>
+<tr>
+<td>Data de Criação</td>
+<td>18/05/2025</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/">EN09</a></td>
+</tr>
+</tbody>
+</table>
+<p><font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor (<a href="https://github.com/KarolineLuz">Karoline Luz</a>, 2025).</p></font></p>
+<hr />
+<p><strong>Vídeo 5</strong> - Validação dos Casos de Uso 15 e 16 com usuário por <a href="https://github.com/KarolineLuz">Karoline Luz da Conceição</a></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/5zFdG7kKD6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/5zFdG7kKD6s" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<h2 id="termo-de-consentimento-de-imagem_3">Termo de consentimento de imagem</h2>
+<p>Este documento confirma que a cidadã Júnia Luz de Sousa forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.</p>
+<p>O termo foi assinado e encontra-se disponível no seguinte arquivo: <a href="https://drive.google.com/file/d/1tAtNRMAKPoStT9ZyOU-DdT1I9mJgC5qK/view?usp=sharing">PDF</a></p>
+<table>
+<thead>
+<tr>
+<th>Participante</th>
+<th>Entrevistador</th>
+<th>Data</th>
+<th>Horário</th>
+<th>Local</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Júnia L.S</strong></td>
+<td><a href="https://github.com/KarolineLuz">Karoline Luz</a></td>
+<td>19/06/2025</td>
+<td>16:50 - 16:55</td>
+<td>Presencial</td>
+</tr>
+</tbody>
+</table>
+<p><font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor (<a href="https://github.com/KarolineLuz">Karoline Luz</a>, 2025).</p></font></p>
+<hr />
+<table>
+<thead>
+<tr>
+<th>UC17</th>
+<th>Autenticação Segura via Plataforma gov.br</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O aplicativo permite autenticação segura através da plataforma gov.br, com opções como reconhecimento facial</td>
+</tr>
+<tr>
+<td>Ator</td>
+<td>Cidadão</td>
+</tr>
+<tr>
+<td>Pré-condições</td>
+<td>Ter o aplicativo instalado e conta na plataforma gov.br</td>
+</tr>
+<tr>
+<td>Ação</td>
+<td>O usuário realiza login através da integração com a plataforma gov.br</td>
+</tr>
+<tr>
+<td>Fluxo principal</td>
+<td><ul><li> O usuário acessa o aplicativo </br> <li> O sistema apresenta a tela de login </br> <li> O usuário seleciona "Entrar com gov.br" </br> <li> O sistema redireciona para a autenticação da plataforma gov.br </br> <li> O usuário insere suas credenciais gov.br </br> <li> O usuário seleciona reconhecimento facial como segundo fator </br> <li> O sistema solicita o reconhecimento facial </br> <li> O usuário realiza o reconhecimento </br> <li> O sistema valida a autenticação e retorna ao aplicativo </br> <li> O usuário é autenticado no aplicativo </br> </ul></td>
+</tr>
+<tr>
+<td>Fluxo alternativo</td>
+<td><ul><li> O usuário acessa o aplicativo </br> <li> O sistema apresenta a tela de login </br> <li> O usuário seleciona "Entrar com gov.br" </br> <li> O sistema redireciona para a autenticação da plataforma gov.br </br> <li> O usuário insere suas credenciais gov.br </br> <li> O usuário seleciona outro método de segundo fator (código via SMS, token) </br> <li> O sistema processa a verificação do segundo fator </br> <li> O usuário completa a verificação </br> <li> O sistema valida a autenticação e retorna ao aplicativo </br> <li> O usuário é autenticado no aplicativo </br> </ul></td>
+</tr>
+<tr>
+<td>Fluxo de exceção</td>
+<td><ul><li> O usuário tenta realizar login com gov.br </br> <li> O sistema redireciona para a autenticação </br> <li> O usuário insere credenciais incorretas </br> <li> O sistema gov.br exibe mensagem de erro </br> <li> O usuário tem opção de recuperar acesso ou tentar novamente </br> </ul></td>
+</tr>
+<tr>
+<td>Pós-condições</td>
+<td>Usuário autenticado no aplicativo com credenciais seguras da plataforma gov.br</td>
+</tr>
+<tr>
+<td>Data de Criação</td>
+<td>18/05/2025</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/">EN04</a></td>
+</tr>
+</tbody>
+</table>
+<p><font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ( <a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a>, 2025).</p></font></p>
+<table>
+<thead>
+<tr>
+<th>UC18</th>
+<th>Compartilhar ou Salvar Informações Importantes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O usuário compartilha ou salva informações importantes como protocolos ou comprovantes</td>
+</tr>
+<tr>
+<td>Ator</td>
+<td>Cidadão</td>
+</tr>
+<tr>
+<td>Pré-condições</td>
+<td>Estar autenticado no sistema e ter informações para compartilhar/salvar</td>
+</tr>
+<tr>
+<td>Ação</td>
+<td>O usuário exporta ou compartilha informações do aplicativo</td>
+</tr>
+<tr>
+<td>Fluxo principal</td>
+<td><ul><li> O usuário acessa o aplicativo e faz login </br> <li> O usuário navega até o documento/informação desejado </br> <li> O usuário seleciona a opção "Compartilhar" </br> <li> O sistema exibe as opções de compartilhamento </br> <li> O usuário seleciona o método de compartilhamento </br> <li> O sistema exporta a informação no formato adequado </br> </ul></td>
+</tr>
+<tr>
+<td>Fluxo alternativo</td>
+<td><ul><li> O usuário acessa o aplicativo e faz login </br> <li> O usuário navega até o documento/informação desejado </br> <li> O usuário seleciona a opção "Salvar" ou "Download" </br> <li> O sistema salva o documento no dispositivo </br> <li> O sistema confirma o salvamento bem-sucedido </br> </ul></td>
+</tr>
+<tr>
+<td>Fluxo de exceção</td>
+<td><ul><li> O usuário tenta salvar um documento </br> <li> O sistema identifica falta de permissão de armazenamento </br> <li> O sistema solicita permissão para acesso ao armazenamento </br> <li> O usuário concede a permissão </br> <li> O sistema conclui o salvamento </br> </ul></td>
+</tr>
+<tr>
+<td>Pós-condições</td>
+<td>Informação compartilhada ou salva conforme solicitado pelo usuário</td>
+</tr>
+<tr>
+<td>Data de Criação</td>
+<td>18/05/2025</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/">BR20</a></td>
+</tr>
+</tbody>
+</table>
+<p><font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ( <a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a>, 2025).</p></font></p>
+<table>
+<thead>
+<tr>
+<th>UC19</th>
+<th>Acessar Seção de Suporte ao Usuário</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Descrição</td>
+<td>O aplicativo oferece uma seção de suporte ao usuário com instruções de uso</td>
+</tr>
+<tr>
+<td>Ator</td>
+<td>Cidadão</td>
+</tr>
+<tr>
+<td>Pré-condições</td>
+<td>Ter o aplicativo instalado</td>
+</tr>
+<tr>
+<td>Ação</td>
+<td>O usuário acessa informações de suporte e instruções de uso</td>
+</tr>
+<tr>
+<td>Fluxo principal</td>
+<td><ul><li> O usuário acessa o aplicativo </br> <li> O usuário navega até "Suporte" ou "Ajuda" </br> <li> O sistema exibe categorias de suporte disponíveis </br> <li> O usuário seleciona a categoria desejada </br> <li> O sistema apresenta instruções detalhadas ou FAQs </br> <li> O usuário lê as informações de suporte </br> </ul></td>
+</tr>
+<tr>
+<td>Fluxo alternativo</td>
+<td><ul><li> O usuário está em uma funcionalidade específica </br> <li> O usuário seleciona o ícone de ajuda contextual </br> <li> O sistema exibe instruções específicas para aquela funcionalidade </br> <li> O usuário visualiza as instruções sem sair da tela atual </br> </ul></td>
+</tr>
+<tr>
+<td>Fluxo de exceção</td>
+<td><ul><li> O usuário busca por um tópico de suporte específico </br> <li> O sistema não encontra informações sobre o tópico </br> <li> O sistema exibe opções de contato direto com suporte </br> <li> O usuário seleciona o canal de suporte preferido </br> <li> O sistema conecta o usuário ao suporte escolhido </br> </ul></td>
+</tr>
+<tr>
+<td>Pós-condições</td>
+<td>Usuário obtém as informações de suporte necessárias</td>
+</tr>
+<tr>
+<td>Data de Criação</td>
+<td>18/05/2025</td>
+</tr>
+<tr>
+<td>Rastreabilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-e-GDF/elicitacao/req_elicitados/">EN09</a></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Vídeo X</strong> - Validação dos casos de usos 17, 18 e 19.</p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/2RsMT-1wq4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/2RsMT-1wq4M" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+<p><font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor(<a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a>, 2025)</p></font></p>
+<h2 id="termo-de-consentimento-de-imagem_4">Termo de consentimento de imagem</h2>
+<p>Este documento confirma que o cidadão Gabriel Souza forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.</p>
+<p>O termo foi assinado e encontra-se disponível no seguinte arquivo: <a href="https://drive.google.com/file/d/1Vx3nkS_CSteiuCCOe2M4GVtsV7QjfV8V/view?usp=share_link">PDF</a></p>
+<table>
+<thead>
+<tr>
+<th>Entrevistador(es)</th>
+<th>Cidadão</th>
+<th>Data prevista</th>
+<th>Data Realizada</th>
+<th>Horário Previsto</th>
+<th>Horário Realizado</th>
+<th>Local</th>
+<th>Duração</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a></td>
+<td><strong>Gabriel Souza</strong></td>
+<td>19/06/2025</td>
+<td>21/06/2025</td>
+<td>15:30</td>
+<td>15:50</td>
+<td>Presencial</td>
+<td>1:18 min</td>
+</tr>
+</tbody>
+</table>
+<p><font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor(<a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a>, 2025)</p></font></p>
+<hr />
+<h2 id="referencias-bibliograficas">Referências Bibliograficas</h2>
+<p>[1] DevMedia. <em>O que é UML e Diagramas de Caso de Uso: Introdução Prática à UML</em>. 2012.<br />
+Disponível em: <a href="https://www.devmedia.com.br/o-que-e-uml-e-diagramas-de-caso-de-uso-introducao-pratica-a-uml/23408">https://www.devmedia.com.br/o-que-e-uml-e-diagramas-de-caso-de-uso-introducao-pratica-a-uml/23408</a>.<br />
+Acessado em: 13 de Maio. de 2025.</p>
+<p>[2] SERRANO M., SERRANO M. <em>Requisitos - Aula 13</em>.<br />
+Disponível na plataforma Aprender3: <a href="https://aprender3.unb.br/pluginfile.php/3096118/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf">https://aprender3.unb.br/pluginfile.php/3096118/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf</a>.<br />
+Acessado em: 13 de Maio. de 2025.</p>
+<h2 id="historico-de-versoes">Histórico de Versões</h2>
+<table>
+<thead>
+<tr>
+<th>Versão</th>
+<th>Descrição</th>
+<th>Autor(es)</th>
+<th>Data</th>
+<th>Revisor(es)</th>
+<th>Data de revisão</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1.0</td>
+<td>Documentação do Diagrama de Casos de Uso</td>
+<td><a href="https://github.com/BrzGab">Gabriel Lopes</a> e <a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a></td>
+<td>16/05/2025</td>
+<td><a href="https://github.com/navicg">Ana Victória</a> e <a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes</a></td>
+<td>17/05/2025</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>Adicionando tabelas de casos de uso e Bibliografia</td>
+<td><a href="https://github.com/navicg">Ana Victória</a> e <a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes</a></td>
+<td>16/05/2025</td>
+<td><a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a> e <a href="https://github.com/ArtyMend07">Artur Mendonça Arruda</a></td>
+<td>15/05/2025</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>Edição de imagem do diagrama e correção de liks</td>
+<td><a href="https://github.com/navicg">Ana Victória</a></td>
+<td>16/05/2025</td>
+<td><a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a> e <a href="https://github.com/ArtyMend07">Artur Mendonça Arruda</a></td>
+<td>17/05/2025</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>Adição de casos de usos não implementados no documento</td>
+<td><a href="https://github.com/ArtyMend07">Artur Mendonça Arruda</a></td>
+<td>16/05/2025</td>
+<td><a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a> e <a href="https://github.com/ArtyMend07">Artur Mendonça Arruda</a></td>
+<td>17/05/2025</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>Elaboração e adição de casos de usos não implementados</td>
+<td><a href="https://github.com/BrzGab">Gabriel Lopes</a></td>
+<td>16/05/2025</td>
+<td><a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a> e <a href="https://github.com/ArtyMend07">Artur Mendonça Arruda</a></td>
+<td>17/05/2025</td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>Criação e adição de tabela dos casos de uso 10, 11 e 12 no artefato.</td>
+<td><a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes de Andrade</a></td>
+<td>16/05/2025</td>
+<td><a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a> e <a href="https://github.com/ArtyMend07">Artur Mendonça Arruda</a></td>
+<td>17/05/2025</td>
+</tr>
+<tr>
+<td>1.6</td>
+<td>Adição do casos de uso 13, 14 no artefato.</td>
+<td><a href="https://github.com/lucasarruda9">Lucas Mendonça</a></td>
+<td>17/05/2025</td>
+<td><a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a> e <a href="https://github.com/ArtyMend07">Artur Mendonça Arruda</a></td>
+<td>17/05/2025</td>
+</tr>
+<tr>
+<td>1.7</td>
+<td>Adição do casos de uso 15(solicitação de serviço público) no documento.</td>
+<td><a href="https://github.com/lucasarruda9">Lucas Mendonça</a></td>
+<td>17/05/2025</td>
+<td><a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a> e <a href="https://github.com/ArtyMend07">Artur Mendonça Arruda</a></td>
+<td>17/05/2025</td>
+</tr>
+<tr>
+<td>1.8</td>
+<td>Implementando os casos de uso 16, 17 e 18 no artefato.</td>
+<td><a href="https://github.com/KarolineLuz">Karoline Luz da Conceição</a></td>
+<td>17/05/2025</td>
+<td><a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a> e <a href="https://github.com/ArtyMend07">Artur Mendonça Arruda</a></td>
+<td>17/05/2025</td>
+</tr>
+<tr>
+<td>1.9</td>
+<td>Adicionando os casos de uso 19.</td>
+<td><a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a></td>
+<td>17/05/2025</td>
+<td><a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a> e <a href="https://github.com/ArtyMend07">Artur Mendonça Arruda</a></td>
+<td>17/05/2025</td>
+</tr>
+<tr>
+<td>2.0</td>
+<td>Ajustes nos casos de uso</td>
+<td><a href="https://github.com/BrzGab">Gabriel Lopes</a></td>
+<td>17/05/2025</td>
+<td><a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a> e <a href="https://github.com/ArtyMend07">Artur Mendonça Arruda</a></td>
+<td>18/05/2025</td>
+</tr>
+<tr>
+<td>1.10</td>
+<td>Ajustes nos casos de uso</td>
+<td><a href="https://github.com/BrzGab">Gabriel Lopes</a></td>
+<td>17/05/2025</td>
+<td><a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a> e <a href="https://github.com/ArtyMend07">Artur Mendonça Arruda</a></td>
+<td>18/05/2025</td>
+</tr>
+<tr>
+<td>2.0</td>
+<td>Adicionando Entrevista presencial</td>
+<td><a href="https://github.com/KarolineLuz">Karoline Luz</a></td>
+<td>20/06/2025</td>
+<td><a href="https://github.com/navicg">Ana Victória</a></td>
+<td>22/06/2025</td>
+</tr>
+<tr>
+<td>2.1</td>
+<td>Adicionando Entrevista presencial</td>
+<td><a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a></td>
+<td>21/06/2025</td>
+<td><a href="https://github.com/navicg">Ana Victória</a></td>
+<td>22/06/2025</td>
+</tr>
+<tr>
+<td>2.2</td>
+<td>Adidionando validação dos Casos de Uso 01, 02 e 03</td>
+<td><a href="https://github.com/navicg">Ana Victória</a></td>
+<td>22/06/2025</td>
+<td><a href="https://github.com/KarolineLuz">Karoline Luz</a></td>
+<td>22/06/2025</td>
+</tr>
+<tr>
+<td>2.3</td>
+<td>Adição da seção de validação dos casos de uso do Artur Mendonça</td>
+<td><a href="https://github.com/ArtyMend07">Artur Mendonça</a></td>
+<td>22/06/2025</td>
+<td><a href="https://github.com/lucasarruda9">Lucas Mendonça</a></td>
+<td>22/06/2025</td>
+</tr>
+<tr>
+<td>2.4</td>
+<td>Adição da validação dos casos de uso 13 e 14</td>
+<td><a href="https://github.com/lucasarruda9">Lucas Mendonça</a></td>
+<td>22/06/2025</td>
+<td><a href="https://github.com/ArtyMend07">Artur Mendonça</a></td>
+<td>22/06/2025</td>
+</tr>
+<tr>
+<td>2.5</td>
+<td>Adicionando generalização no diagrama</td>
+<td><a href="https://github.com/BrzGab">Gabriel Lopes</a></td>
+<td>07/07/2025</td>
+<td><a href="https://github.com/Luizaxx">Luiza da Silva Pugas</a></td>
+<td>07/07/2025</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      <script id="__config" type="application/json">{"base": "../..", "features": [], "search": "../../assets/javascripts/workers/search.d50fe291.min.js", "tags": null, "translations": {"clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "search.result.more.one": "mais 1 nesta p\u00e1gina", "search.result.more.other": "# mais nesta p\u00e1gina", "search.result.none": "Nenhum documento encontrado", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.placeholder": "Digite para iniciar a busca", "search.result.term.missing": "Ausente", "select.version": "Selecione a vers\u00e3o"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.56ea9cef.min.js"></script>
+      
+    
+  <script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(() => { lightbox.reload() });
+</script></body>
+</html>
