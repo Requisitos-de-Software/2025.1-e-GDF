@@ -156,3 +156,4 @@ O Rich Picture individual do aluno [Lucas Mendonça ](https://github.com/lucasar
 | 2.4 | Adicionando rich picture  individual do e-Título| [Karoline Luz](https://github.com/KarolineLuz) | 22/06/2025 | [Ana Victória](https://github.com/navicg) | 22/05/2025 |
 | 2.5    | Adicionando rich picture individual do Carteira de Trabalho | [Artur Mendonça Arruda](https://github.com/ArtyMend07) |22/06/2025| [Lucas Mendonça](https://github.com/lucasarruda9) | 22/06/2025 |
 | 2.6    | Adicionando validação do rich picture de forma presencial com Ryan | [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 08/07/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 08/07/2025 |
+| 2.6    | Adicionando validação do rich picture de forma presencial do detran df | [Lucas Mendonça](https://github.com/lucasarruda9) | 08/07/2025 | [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 08/07/2025 |
