@@ -71,14 +71,24 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 | Participante   | Entrevistadores                                                                                              | Data       | Horário       | Local       |
 | -------------- | ---------------------------------------------------------------------------------------------------------- | ---------- | ------------- | ----------- |
-| Ryan | [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 22/06/2025 | 15:00 - 15:15 | Presencial |
-
-## Termo de consentimento de imagem
-Este documento confirma que o cidadão Ryan forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
-
-O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](link_para_o_termo_do_felipe)
+| Ryan | [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 07/07/2025 | 15:00 - 15:05 | Presencial |
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor ([Artur Mendonça Arruda](https://github.com/ArtyMend07), 2025)</p></font>
+
+---
+
+**Vídeo 5** - Validação do Rich Picture com usuário por [Lucas Mendonça ](https://github.com/lucasarruda9)
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/LR2EGsbLi8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/LR2EGsbLi8E" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+| Participante   | Entrevistadores                                                                                              | Data       | Horário       | Local       |
+| -------------- | ---------------------------------------------------------------------------------------------------------- | ---------- | ------------- | ----------- |
+| R.Salles | [Lucas Mendonça ](https://github.com/lucasarruda9) | 07/07/2025 | 10:00 - 10:05 | Presencial |
+
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor ([Lucas Mendonça ](https://github.com/lucasarruda9), 2025)</p></font>
 
 ---
 
@@ -110,9 +120,17 @@ O Rich Picture individual da aluno [João Marcos Moraes](https://github.com/JJOA
 
 ## Rich Picture - Carteira de Trabalho Digital - Artur Mendonça
 
-O Rich Picture individual da aluno [Artur Mendonça Arruda](https://github.com/ArtyMend07) encontra-se nesse PDF: [PDF](https://drive.google.com/file/d/1WmGtBSODk08c5QlRSKyDy5rsTWAxfpix/view?usp=sharing)
+O Rich Picture individual do aluno [Artur Mendonça Arruda](https://github.com/ArtyMend07) encontra-se nesse PDF: [PDF](https://drive.google.com/file/d/1WmGtBSODk08c5QlRSKyDy5rsTWAxfpix/view?usp=sharing)
 
-<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor ([João Marcos Moraes](https://github.com/JJOAOMARCOSS), 2025)</p></font>
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor ([Artur Mendonça Arruda](https://github.com/ArtyMend07), 2025)</p></font>
+
+---
+
+## Rich Picture - Detran DF - Lucas Mendonça
+
+O Rich Picture individual do aluno [Lucas Mendonça ](https://github.com/lucasarruda9) encontra-se nesse PDF: [PDF](https://drive.google.com/file/d/1WmGtBSODk08c5QlRSKyDy5rsTWAxfpix/view?usp=sharing)
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor ([Lucas Mendonça ](https://github.com/lucasarruda9), 2025)</p></font>
 
 ---
 
