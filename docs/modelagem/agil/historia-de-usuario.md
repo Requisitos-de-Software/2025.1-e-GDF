@@ -696,11 +696,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     #### Critérios de Aceitação
 
-    - <input type="checkbox"> O sistema deve oferecer pelo menos 3 opções de tamanho de fonte (pequena, média, grande).
-    - <input type="checkbox"> Deve haver opções de alto contraste para melhor visibilidade.
-    - <input type="checkbox"> As alterações devem ser aplicadas imediatamente em toda a interface.
-    - <input type="checkbox"> As preferências do usuário devem ser salvas para sessões futuras.
-    - <input type="checkbox"> Deve haver um botão de "Restaurar padrão" para voltar às configurações originais.
+    - <input type="checkbox" checked> O sistema deve oferecer pelo menos 3 opções de tamanho de fonte (pequena, média, grande).
+    - <input type="checkbox" checked> Deve haver opções de alto contraste para melhor visibilidade.
+    - <input type="checkbox" checked> As alterações devem ser aplicadas imediatamente em toda a interface.
+    - <input type="checkbox" checked> As preferências do usuário devem ser salvas para sessões futuras.
+    - <input type="checkbox" checked> Deve haver um botão de "Restaurar padrão" para voltar às configurações originais.
 
     ---
 
@@ -716,7 +716,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     
     #### Priorização (Técnica MoSCoW)    
-    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox" checked> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
@@ -743,11 +743,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     #### Critérios de Aceitação
 
-    - <input type="checkbox"> O sistema deve ter um botão ou switch claramente identificável para ativar/desativar o modo escuro.
-    - <input type="checkbox"> A mudança entre modo claro e escuro deve ser instantânea e suave.
-    - <input type="checkbox"> Todos os elementos da interface devem se adaptar corretamente ao tema escuro.
-    - <input type="checkbox"> A escolha do usuário deve ser salva e aplicada automaticamente em acessos futuros.
-    - <input type="checkbox"> O contraste no modo escuro deve atender aos padrões de acessibilidade.
+    - <input type="checkbox" checked> O sistema deve ter um botão ou switch claramente identificável para ativar/desativar o modo escuro.
+    - <input type="checkbox" checked> A mudança entre modo claro e escuro deve ser instantânea e suave.
+    - <input type="checkbox" checked> Todos os elementos da interface devem se adaptar corretamente ao tema escuro.
+    - <input type="checkbox" checked> A escolha do usuário deve ser salva e aplicada automaticamente em acessos futuros.
+    - <input type="checkbox" checked> O contraste no modo escuro deve atender aos padrões de acessibilidade.
 
     ---
 
@@ -764,7 +764,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
        
     #### Priorização (Técnica MoSCoW)    
     - <input type="checkbox"> Must Have (MH)
-    - <input type="checkbox"> Should Have (SH)
+    - <input type="checkbox" checked> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
     ----
@@ -791,11 +791,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     #### Critérios de Aceitação
 
-    - <input type="checkbox"> O sistema deve permitir a geração de relatórios em formato PDF ou digital.
-    - <input type="checkbox"> Os comprovantes devem conter todas as informações relevantes do agendamento.
-    - <input type="checkbox"> O usuário deve poder filtrar relatórios por período ou tipo de serviço.
-    - <input type="checkbox"> Os comprovantes devem ter um código de verificação ou QR Code para autenticação.
-    - <input type="checkbox"> Deve ser possível compartilhar ou salvar os documentos gerados.
+    - <input type="checkbox" checked> O sistema deve permitir a geração de relatórios em formato PDF ou digital.
+    - <input type="checkbox" checked> Os comprovantes devem conter todas as informações relevantes do agendamento.
+    - <input type="checkbox" checked> O usuário deve poder filtrar relatórios por período ou tipo de serviço.
+    - <input type="checkbox" checked> Os comprovantes devem ter um código de verificação ou QR Code para autenticação.
+    - <input type="checkbox" checked> Deve ser possível compartilhar ou salvar os documentos gerados.
 
     ---
 
@@ -811,7 +811,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     
     #### Priorização (Técnica MoSCoW)    
-    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox" checked> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
@@ -838,11 +838,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     #### Critérios de Aceitação
 
-    - <input type="checkbox"> O mapa deve mostrar a localização atual dos ônibus das linhas selecionadas.
-    - <input type="checkbox"> A previsão de chegada deve ser atualizada em tempo real (máximo 30 segundos).
-    - <input type="checkbox"> O usuário deve poder visualizar a rota completa da linha no mapa.
-    - <input type="checkbox"> Deve ser possível buscar linhas por número ou destino.
-    - <input type="checkbox"> O sistema deve indicar claramente quando não há dados disponíveis para uma linha.
+    - <input type="checkbox" checked> O mapa deve mostrar a localização atual dos ônibus das linhas selecionadas.
+    - <input type="checkbox" checked> A previsão de chegada deve ser atualizada em tempo real (máximo 30 segundos).
+    - <input type="checkbox" checked> O usuário deve poder visualizar a rota completa da linha no mapa.
+    - <input type="checkbox" checked> Deve ser possível buscar linhas por número ou destino.
+    - <input type="checkbox" checked> O sistema deve indicar claramente quando não há dados disponíveis para uma linha.
 
     ---
 
@@ -858,7 +858,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     
     #### Priorização (Técnica MoSCoW)    
-    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox" checked> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
@@ -885,11 +885,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     #### Critérios de Aceitação
 
-    - <input type="checkbox"> O sistema deve listar claramente todos os serviços de impostos disponíveis.
-    - <input type="checkbox"> Cada serviço deve ter instruções passo a passo para utilização.
-    - <input type="checkbox"> Deve ser possível gerar e visualizar boletos diretamente no app.
-    - <input type="checkbox"> O sistema deve mostrar datas de vencimento e valores atualizados.
-    - <input type="checkbox"> As instruções devem usar linguagem simples e incluir exemplos visuais quando necessário.
+    - <input type="checkbox" checked> O sistema deve listar claramente todos os serviços de impostos disponíveis.
+    - <input type="checkbox" checked> Cada serviço deve ter instruções passo a passo para utilização.
+    - <input type="checkbox" checked> Deve ser possível gerar e visualizar boletos diretamente no app.
+    - <input type="checkbox" checked> O sistema deve mostrar datas de vencimento e valores atualizados.
+    - <input type="checkbox" checked> As instruções devem usar linguagem simples e incluir exemplos visuais quando necessário.
 
     ---
 
@@ -905,7 +905,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     
     #### Priorização (Técnica MoSCoW)    
-    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox" checked> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
@@ -930,11 +930,11 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     #### Critérios de Aceitação
 
-    - <input type="checkbox"> O sistema deve apresentar uma lista organizada de categorias de ocorrências.
-    - <input type="checkbox"> As categorias devem ser claras e com descrições quando necessário.
-    - <input type="checkbox"> Deve haver subcategorias para refinamento da classificação.
-    - <input type="checkbox"> O usuário deve poder selecionar apenas uma categoria principal por ocorrência.
-    - <input type="checkbox"> A interface deve sugerir a categoria mais adequada baseada em palavras-chave.
+    - <input type="checkbox" checked> O sistema deve apresentar uma lista organizada de categorias de ocorrências.
+    - <input type="checkbox" checked> As categorias devem ser claras e com descrições quando necessário.
+    - <input type="checkbox" checked> Deve haver subcategorias para refinamento da classificação.
+    - <input type="checkbox" checked> O usuário deve poder selecionar apenas uma categoria principal por ocorrência.
+    - <input type="checkbox" checked> A interface deve sugerir a categoria mais adequada baseada em palavras-chave.
 
     ---
 
@@ -950,7 +950,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](docs/a
 
     
     #### Priorização (Técnica MoSCoW)    
-    - <input type="checkbox"> Must Have (MH)
+    - <input type="checkbox" checked> Must Have (MH)
     - <input type="checkbox"> Should Have (SH)
     - <input type="checkbox"> Could Have (CH)
     - <input type="checkbox"> Won't Have (WH)
@@ -974,7 +974,7 @@ Este documento confirma que o cidadão **Daniel Rodrigues Nascimento** forneceu 
 
 O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1EB1p_smwvLfqsPcUb_7nWpKIXuzLOx02/view?usp=sharing)
 
-**Vídeo 4** - Validação e Priorização com usuário por [Gabriel Lopes](https://github.com/BrzGab) - Presencial
+**Vídeo 4.1** - Validação e Priorização com usuário por [Gabriel Lopes](https://github.com/BrzGab) - Presencial
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/evtj6H5S3AQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
