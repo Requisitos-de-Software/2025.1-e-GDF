@@ -291,7 +291,7 @@ Requisitos utilizados para desenvolver o SIG da Figura 4:
 <p align="center"><i>Figura 4: SIG: Segurança </i></p>
 
 <p align="center">
-  <img src="https://i.ibb.co/Hf9MwG4L/image.png" width="600">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/adiciona-links-finais/docs/assets/nfr/seguranca1.png" width="600">
 </p>
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([João Marcos](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
@@ -455,7 +455,7 @@ Requisitos utilizados para desenvolver o SIG da Figura 5:
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/nfr/docs/assets/nfr/Usabilidade.drawio.png"600">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/adiciona-links-finais/docs/assets/nfr/usabilidade1.png"600">
 </p>
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
@@ -486,11 +486,23 @@ A Tabela 2, apresentada a seguir, mostra a avaliação da propagação dos impac
 
 <p style="text-align: center"><a href="https://youtube.com/wxBJ2hGhygs" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
+
 | **Nome** | **Função** | **Data** | **Hora** |
 |:---------:|:------------------------:|:--------:|:--------:|
 | [Lucas Mendonça](https://github.com/lucasarruda9) | Elaborador dos NFR | 01/06/2025 | 18:30 |
 | Gabriel Lima | Usuário | 01/06/2025 | 18:30 |
 
+
+**Vídeo 4** - Validação e Priorização de NFR com usuário por [Lucas Mendonça](https://github.com/lucasarruda9)
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/OzRF7mV9GSw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/OzRF7mV9GSw" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+| **Nome** | **Função** | **Data** | **Hora** |
+|:---------:|:------------------------:|:--------:|:--------:|
+| [Lucas Mendonça](https://github.com/lucasarruda9) | Elaborador dos NFR | 07/07/2025 | 19:30 |
+| Anônimato | Usuário | 07/07/2025 | 19:30 |
 ------
 
 <p align="center"><b>Tabela 9</b> — Cartão de Especificação 9</p>
@@ -599,7 +611,7 @@ A Tabela 3 apresenta a análise dos impactos dos requisitos de acessibilidade.
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz), 2025)</p></font>
 
-**Vídeo 4** - Validação e Priorização de NFR com usuário por [Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz)
+**Vídeo 5** - Validação e Priorização de NFR com usuário por [Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz)
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/Izlb7lYmxLk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
@@ -613,7 +625,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 ---
 
-**Vídeo 5** - Validação e Priorização de NFR com usuário por [Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz)
+**Vídeo 6** - Validação e Priorização de NFR com usuário por [Ana Victória Guedes da Costa](https://github.com/navicg) e [Karoline Luz da Conceição](https://github.com/KarolineLuz)
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/84UQW38g9vI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
@@ -770,7 +782,7 @@ A Tabela 4, apresentada a seguir, mostra a avaliação da propagação dos impac
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Artur Mendonça](https://github.com/ArtyMend07), 2025)</p></font>
 
-**Vídeo 6** - Validação e Priorização de NFR com usuário por [Artur Mendonça](https://github.com/ArtyMend07)
+**Vídeo 7** - Validação e Priorização de NFR com usuário por [Artur Mendonça](https://github.com/ArtyMend07)
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/ry4nA8fRX_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
@@ -786,7 +798,7 @@ Este documento confirma que a(o) cidadão **Vitor Guilherme** forneceu seu conse
 
 ---
 
-**Vídeo 7** - Validação presencial com usuário por [Artur Mendonça](https://github.com/ArtyMend07)
+**Vídeo 8** - Validação presencial com usuário por [Artur Mendonça](https://github.com/ArtyMend07)
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/-IU3Je7LbrY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
@@ -1047,7 +1059,7 @@ Todos os requisitos de confiabilidade foram classificados como **Must have**, re
 
 ### Validação com Usuário - Online
 
-**Vídeo 7** - Validação e Priorização de NFR de Confiabilidade com usuário por [Gabriel Lopes](https://github.com/BrzGab)
+**Vídeo 9** - Validação e Priorização de NFR de Confiabilidade com usuário por [Gabriel Lopes](https://github.com/BrzGab)
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/2zSk5e3hW_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
@@ -1066,7 +1078,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 ### Validação com Usuário - Presencial
 
-**Vídeo 7** - Validação e Priorização de NFR de Confiabilidade com usuário por [Gabriel Lopes](https://github.com/BrzGab)
+**Vídeo 10** - Validação e Priorização de NFR de Confiabilidade com usuário por [Gabriel Lopes](https://github.com/BrzGab)
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/JrJiVtCTk8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
@@ -1154,3 +1166,4 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | 2.2| Adicionando vídeo de entrevista presencial| [Luiza da Silva Pugas](https://github.com/Luizaxx)| 21/06/2025 |  [João Marcos Moraes](https://github.com/JJOAOMARCOSS)     | 22/06/2025      |
 | 2.3| Adicionando validação presencial do Artur com Felipe| [Artur Mendonça](https://github.com/ArtyMend07)| 07/07/2025 |  [Lucas Mendonça](https://github.com/lucasarruda9)     | 07/07/2025      |
 | 2.4 | Adicionando o link da validação |  [Gabriel Lopes](https://github.com/BrzGab) |07/07/2025 |[João Marcos Moraes](https://github.com/JJOAOMARCOSS)  | 07/07/2025 |
+| 2.5    | Adicionando validação do nfrframework presencial | [Lucas Mendonça](https://github.com/lucasarruda9) | 07/07/2025 | [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 07/07/2025 |

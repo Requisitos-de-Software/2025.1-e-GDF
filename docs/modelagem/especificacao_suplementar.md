@@ -141,22 +141,23 @@ Para essa categoria os requisitos identificados estão representados na tabela 3
 | P04 | Todas as funcionalidades principais, como busca, cadastro e atualização de dados, devem responder às solicitações do usuário em no máximo 2 segundos, assegurando uma interação fluida e evitando sensação de lentidão ou travamentos. |
 | P05 | As imagens capturadas e enviadas pelo usuário devem ser comprimidas e otimizadas automaticamente para garantir upload rápido, mesmo em redes móveis com largura de banda limitada, mantendo qualidade visual aceitável e reduzindo o tamanho do arquivo para menos de 500 KB quando possível. |
 
+**Vídeo 3** - Validação com usuário por: [Lucas Mendonça](https://github.com/lucasarruda9)).
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/GG-4PfW6b9E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/GG-4PfW6b9E" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([João Marcos](https://github.com/JJOAOMARCOSS) e [Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
+
 
 ---
 
-**Vídeo 3** - Validação com usuário por: [Artur Mendonça](https://github.com/ArtyMend07).
+**Vídeo 4** - Validação com usuário por: [Artur Mendonça](https://github.com/ArtyMend07).
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/gdWoS1ewi2k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 <p style="text-align: center"><a href="https://youtu.be/gdWoS1ewi2k" target="_blank">Clique aqui para assistir no YouTube</a></p>
-
-## Termo de consentimento de imagem
-Este documento confirma que o cidadão forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
-
-| Entrevistador(es) |Cidadão|Data prevista| Data Realizada  |Horário Previsto|Horário Realizado|Local|Duração|
-| ---------------------------------------|------------ |------------------------ | ------ |-------|----------|-------|-------|
-|[Artur Mendonça](https://github.com/ArtyMend07)|**Felipe** |07/07/2025| 07/07/2025| 18:00  | 18:30|   Presencial |  5:00 |
 
 <font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ([Artur Mendonça](https://github.com/ArtyMend07), 2025).</p></font>
 
@@ -224,3 +225,4 @@ iOS: Objective-C, Swift.
 | 2.2   | Adicionando validação presencial do Artur |[Artur Mendonça](https://github.com/ArtyMend07)                                            | 07/07/2025 | [Lucas Mendonça](https://github.com/lucasarruda9)                                                | 07/07/2025      |
 | 2.3    | Deixado Tabelas mais Descritivas   e mais organizadas        |      [Karoline Luz](https://github.com/KarolineLuz) e  [Ana Victória](https://github.com/navicg)                                                                    | 05/07/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)         | 06/07/2025  
 | 2.4 | Adicionando o link da validação |  [Gabriel Lopes](https://github.com/BrzGab) |07/07/2025 |[João Marcos Moraes](https://github.com/JJOAOMARCOSS)  | 07/07/2025 |
+| 2.5    | Adicionando validação de forma presencial | [Lucas Mendonça](https://github.com/lucasarruda9) | 07/07/2025 | [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 07/07/2025 |
