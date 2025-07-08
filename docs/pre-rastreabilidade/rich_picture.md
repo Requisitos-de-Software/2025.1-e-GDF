@@ -59,7 +59,26 @@ Este documento confirma que a cidadão Luís Felipe forneceu seu consentimento f
 
 O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https://drive.google.com/file/d/1TyTfMwTIQMwrzdpBPoB2GmO0YpAXuXW6/view?usp=sharing)
 
-<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Ana Victória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz), 2025)</p></font> 
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Ana Victória](https://github.com/navicg) e [Karoline Luz](https://github.com/KarolineLuz), 2025)</p></font>
+
+---
+
+**Vídeo 4** - Validação do Rich Picture com usuário por [Artur Mendonça Arruda](https://github.com/ArtyMend07)
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/pYZJ7obYRL4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<p style="text-align: center"><a href="https://youtu.be/pYZJ7obYRL4" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+| Participante   | Entrevistadores                                                                                              | Data       | Horário       | Local       |
+| -------------- | ---------------------------------------------------------------------------------------------------------- | ---------- | ------------- | ----------- |
+| Ryan | [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 22/06/2025 | 15:00 - 15:15 | Presencial |
+
+## Termo de consentimento de imagem
+Este documento confirma que o cidadão Ryan forneceu seu consentimento formal para o uso de sua imagem, conforme os termos estabelecidos.
+
+O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](link_para_o_termo_do_felipe)
+
+<font size="3"><p style="text-align: center"> Fonte: Elaborado pelo autor ([Artur Mendonça Arruda](https://github.com/ArtyMend07), 2025)</p></font>
 
 ---
 
@@ -118,3 +137,4 @@ O Rich Picture individual da aluno [Artur Mendonça Arruda](https://github.com/A
 | 2.3 | Adicionando rich picture  individual do Cadastro Único | [Ana Victória](https://github.com/navicg) | 22/06/2025 | [João Marcos Moraes](https://github.com/JJOAOMARCOSS) | 22/06/2025 |
 | 2.4 | Adicionando rich picture  individual do e-Título| [Karoline Luz](https://github.com/KarolineLuz) | 22/06/2025 | [Ana Victória](https://github.com/navicg) | 22/05/2025 |
 | 2.5    | Adicionando rich picture individual do Carteira de Trabalho | [Artur Mendonça Arruda](https://github.com/ArtyMend07) |22/06/2025| [Lucas Mendonça](https://github.com/lucasarruda9) | 22/06/2025 |
+| 2.6    | Adicionando validação do rich picture de forma presencial com Ryan | [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 08/07/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 08/07/2025 |
