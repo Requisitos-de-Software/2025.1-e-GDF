@@ -12,6 +12,7 @@ Para realizarmos a escolha do aplicativo seguimos os seguintes critérios:
 - Disponibilidade de informações.
 
 
+<font size="3"><p style="text-align: left">**Tabela 1** - Aplicativos Avaliados para Definição do Objeto de Estudo</p></font>
 ## Comparativo dos Aplicativos Avaliados para Escolha do Projeto
 
 | Aplicativo       | Finalidade Principal                                           | Abrangência         | Escolhido |
@@ -21,8 +22,6 @@ Para realizarmos a escolha do aplicativo seguimos os seguintes critérios:
 | e-Título         | Serviços eleitorais e título digital                           | Nacional             | ❌         |
 | Cadastro Único   | Consulta de benefícios sociais do Governo Federal              | Nacional             | ❌         |
 | Receita Federal  | Consulta fiscal, IR, CPF/CNPJ e demais serviços da Receita     | Nacional             | ❌         |
-
-<font size="3"><p style="text-align: left">**Tabela 1** - Aplicativos Avaliados para Definição do Objeto de Estudo</p></font>
 
 <font size="3"><p style="text-align: center">Fonte: Elaborado pelo autor ( [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025).</p></font>
 
@@ -57,4 +56,5 @@ Com base na experiência adquirida ao longo do processo, reforçamos a importân
 | 1.0    | 25/06/2025 | Criação do documento                                                   | [Luiza da Silva](https://github.com/Luizaxx)           | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)       | 07/07/2025      |
 | 1.2    | 25/06/2025 | Adição de tabela dos aplicativos possíveis a serem escolhidos          | [Luiza da Silva](https://github.com/Luizaxx)           | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)       | 07/07/2025      |
 | 1.3    | 25/06/2025 | Elaboração dos motivos de escolha, termos de uso e conclusão           | [Luiza da Silva](https://github.com/Luizaxx)           | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)       | 07/07/2025      |
+| 1.4    | 07/07/2025 | Arrumando título da tabela | [Luiza da Silva](https://github.com/Luizaxx)           | [João Marcos Moraes](https://github.com/JJOAOMARCOSS)       | 07/07/2025      |
 

@@ -85,7 +85,7 @@ Para uma melhor navegabilidade, utilizou-se do "details" do html, separando os c
   <tbody>
     <tr>
       <td>Atas</td>
-      <td><a href="https://github.com/navicg">Ana Victória</a>, <a href="https://github.com/ArtyMend07">Artur Mendonça</a>, <a href="https://github.com/BrzGab">Gabriel Lopes</a></td>
+      <td><a href="https://github.com/navicg">Ana Victória</a>, <a href="https://github.com/ArtyMend07">Artur Mendonça</a>, <a href="https://github.com/BrzGab">Gabriel Lopes</a>, <a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes</a> e <a href="https://github.com/Luizaxx">Luiza da Silva</a> </td> 
       <td>04/04</td>
       <td>11/04</td>
       <td><a href="https://github.com/KarolineLuz">Karoline Luz</a>, <a href="https://github.com/lucasarruda9">Lucas Mendonça</a></td>
@@ -120,7 +120,7 @@ Para uma melhor navegabilidade, utilizou-se do "details" do html, separando os c
     </tr>
     <tr>
       <td>Rich Picture</td>
-      <td><a href="https://github.com/BrzGab">Gabriel Lopes</a>, <a href="https://github.com/lucasarruda9">Lucas Mendonça</a></td>
+      <td><a href="https://github.com/BrzGab">Gabriel Lopes</a>, <a href="https://github.com/lucasarruda9">Lucas Mendonça</a> <a href="https://github.com/JJOAOMARCOSS">João Marcos Moraes</a> e <a href="https://github.com/Luizaxx">Luiza da Silva</a> </td>
       <td>11/04</td>
       <td>13/04</td>
       <td><a href="https://github.com/navicg">Ana Victória</a></td>
@@ -598,13 +598,13 @@ Durante o desenvolvimento do projeto, observou-se uma distribuição equilibrada
 
 - **Gabriel Lopes**: Trabalhou na lista de aplicativos, Rich Picture, cronograma, introspecção, priorização Moscow, e liderou a documentação da terceira etapa de modelagem.
 
-- **João Marcos Moraes**: Responsável pelo heatmap, página inicial Git Pages, atas, brainstorming, e priorização First Things First.
+- **João Marcos Moraes**: Responsável pelo heatmap, página inicial Git Pages, atas, brainstorming, cenários, histórias de usuário, casos de uso, léxicos, especificação suplementar, NFR Framework e priorização First Things First, além de participar de forma secundária validando os artefatos de cada estapa.
 
 - **Karoline Luz**: Trabalhou nas atas, lista de aplicativos, README, perfis de usuários, priorização Moscow, e documentou a quarta etapa de modelagem ágil.
 
 - **Lucas Mendonça**: Focou no Rich Picture, cronograma, termos de uso, análise de documentos, e priorização dos 100 dólares. Responsável pela documentação da primeira etapa.
 
-- **Luiza da Silva**: Trabalhou no heatmap, ferramentas, página inicial Git Pages, brainstorming, e priorização First Things First.
+- **Luiza da Silva**: Trabalhou no heatmap, atas, ferramentas, página inicial Git Pages, brainstorming, cenários, histórias de usuário, casos de uso, léxicos, especificação suplementar, NFR Framework e priorização First Things First, além de participar de forma secundária validando os artefatos de cada estapa.
 
 ### Cronograma Geral
 
