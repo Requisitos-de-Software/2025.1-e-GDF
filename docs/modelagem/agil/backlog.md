@@ -395,11 +395,18 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 ### Validação 6 - Lucas Mendonça
 
-**Vídeo 7** - Validação com usuário por Lucas Mendonça
+**Vídeo 7** - Validação com usuário por Lucas Mendonça via internet
 
 <iframe width="560" height="315" src="https://youtube.com/embed/R7kMTJI2olg?si=4KrjLObnLS1_vVUL" title="Validação Backlog - Lucas Mendonça" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <p style="text-align: center"><a href="https://youtube.com/R7kMTJI2olg?si=4KrjLObnLS1_vVUL" target="_blank">Clique aqui para assistir no YouTube</a></p>
+
+
+**Vídeo 8** - Validação com usuário por Lucas Mendonça via presencial
+
+<iframe width="560" height="315" src="https://youtube.com/embed/8pRs-VWVlyE" title="Validação Backlog - Lucas Mendonça" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p style="text-align: center"><a href="https://youtu.be/8pRs-VWVlyE" target="_blank">Clique aqui para assistir no YouTube</a></p>
 
 **Tabela 9** - Informações da validação 6
 
@@ -413,15 +420,24 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 | [Comunicação](#tema-4-comunicação) | [Comunicações Personalizadas](#épico-7-comunicações-personalizadas) (EP07) | Receber notificações por categorias ([US48](./historia-de-usuario.md)) | RF17 | CH | em progresso | [BR19](../../elicitacao/tec_elicitacao/brainstorming.md#anchor_BS) | [Lucas Mendonça](https://github.com/lucasarruda9) |
 | [Documentos](#tema-5-documentos) | [Gestão de Documentos](#épico-8-gestão-documentos) (EP08) | Consultar informações offline ([US49](./historia-de-usuario.md)) | RNF23 | SH | em progresso | [INT20](../../elicitacao/tec_elicitacao/introspeccao.md#anchor_INTT) | [Lucas Mendonça](https://github.com/lucasarruda9) |
 
+**Video 7 Informação**
 | **Autor** | **Usuário Participante** |
 | :-------- | :---------------------- |
 | [Lucas Mendonça](https://github.com/lucasarruda9) | Vitor Lustosa |
 
 <p style="text-align: center"><font size="3">Fonte: Elaborado por (<a href="https://github.com/lucasarruda9">Lucas Mendonça</a>, 2025).</font></p>
 
+**Video 8 Informação**
+| **Autor** | **Usuário Participante** |
+| :-------- | :---------------------- |
+| [Lucas Mendonça](https://github.com/lucasarruda9) | R.Salles |
+
+<p style="text-align: center"><font size="3">Fonte: Elaborado por (<a href="https://github.com/lucasarruda9">Lucas Mendonça</a>, 2025).</font></p>
+
+
 ### Validação 7 - Luiza Silva
 
-**Vídeo 8** - Validação com usuário por Luiza Silva
+**Vídeo 9** - Validação com usuário por Luiza Silva
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7lg5Khu2J6s" title="Validação Backlog - Luiza Silva" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -455,7 +471,7 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](https:
 
 ### Validação 8 - Artur Mendonça
 
-**Vídeo 9** - Validação com usuário por [Artur Mendonça Arruda](https://github.com/ArtyMend07)
+**Vídeo 10** - Validação com usuário por [Artur Mendonça Arruda](https://github.com/ArtyMend07)
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://youtube.com/embed/h8TGQeqrq44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
@@ -524,4 +540,5 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](link_p
 | 3.0 |Adicionando Entrevista presencial | [Karoline Luz](https://github.com/KarolineLuz)  | 20/06/2025 | [Ana Victória](https://github.com/navicg)| 22/06/2025 | | 01/06/2025 |
 | 3.1 |Adicionando Entrevista presencial | [Luiza da Silva Pugas](https://github.com/Luizaxx)  | 21/06/2025 | [Ana Victória](https://github.com/navicg)| 22/06/2025 | | 01/06/2025 |
 | 3.2 | Adicionando o link da validação |  [Gabriel Lopes](https://github.com/BrzGab) |07/07/2025 |[João Marcos Moraes](https://github.com/JJOAOMARCOSS)  | 07/07/2025 |
-| 3.3 | Adicionando validação do backlog com usuário Ryan | [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 08/07/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 08/07/2025 |
+| 3.3 | Adicionando validação do backlog com usuário Ryan | [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 07/07/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 07/07/2025 |
+| 3.4    | Adicionando validação do rich picture de forma presencial do detran df | [Lucas Mendonça](https://github.com/lucasarruda9) | 07/07/2025 | [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 07/07/2025 |
