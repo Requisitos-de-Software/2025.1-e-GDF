@@ -291,7 +291,7 @@ Requisitos utilizados para desenvolver o SIG da Figura 4:
 <p align="center"><i>Figura 4: SIG: Segurança </i></p>
 
 <p align="center">
-  <img src="https://i.ibb.co/Hf9MwG4L/image.png" width="600">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/adiciona-links-finais/docs/assets/nfr/seguranca1.png" width="600">
 </p>
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([João Marcos](https://github.com/JJOAOMARCOSS) e [Luiza da Silva Pugas](https://github.com/Luizaxx), 2025)</p></font>
@@ -455,7 +455,7 @@ Requisitos utilizados para desenvolver o SIG da Figura 5:
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/nfr/docs/assets/nfr/Usabilidade.drawio.png"600">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2025.1-e-GDF/refs/heads/docs/adiciona-links-finais/docs/assets/nfr/usabilidade1.png"600">
 </p>
 
 <font size="3"><p style="text-align: center"> Fonte: Elaborado pelos autores ([Lucas Mendonça](https://github.com/lucasarruda9), 2025)</p></font>
