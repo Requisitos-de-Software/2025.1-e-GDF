@@ -541,4 +541,4 @@ O termo foi assinado e encontra-se disponível no seguinte arquivo: [PDF](link_p
 | 3.1 |Adicionando Entrevista presencial | [Luiza da Silva Pugas](https://github.com/Luizaxx)  | 21/06/2025 | [Ana Victória](https://github.com/navicg)| 22/06/2025 | | 01/06/2025 |
 | 3.2 | Adicionando o link da validação |  [Gabriel Lopes](https://github.com/BrzGab) |07/07/2025 |[João Marcos Moraes](https://github.com/JJOAOMARCOSS)  | 07/07/2025 |
 | 3.3 | Adicionando validação do backlog com usuário Ryan | [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 07/07/2025 | [Lucas Mendonça](https://github.com/lucasarruda9) | 07/07/2025 |
-| 3.4    | Adicionando validação do rich picture de forma presencial do detran df | [Lucas Mendonça](https://github.com/lucasarruda9) | 07/07/2025 | [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 07/07/2025 |
+| 3.4    | Adicionando validação do backlog | [Lucas Mendonça](https://github.com/lucasarruda9) | 07/07/2025 | [Artur Mendonça Arruda](https://github.com/ArtyMend07) | 07/07/2025 |
